@@ -1,0 +1,222 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "ee.schimke.glimmercmp",
+    "module": "glimmer",
+    "version": "1.0.0-alpha19-cmp01",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "9.7.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "metadataApiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.jvm.environment": "non-jvm",
+        "org.gradle.usage": "kotlin-metadata",
+        "org.jetbrains.kotlin.platform.type": "common"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.compose.runtime",
+          "module": "runtime",
+          "version": {
+            "requires": "1.12.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.compose.ui",
+          "module": "ui",
+          "version": {
+            "requires": "1.12.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.compose.foundation",
+          "module": "foundation",
+          "version": {
+            "requires": "1.12.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.compose.animation",
+          "module": "animation",
+          "version": {
+            "requires": "1.12.0"
+          }
+        },
+        {
+          "group": "androidx.annotation",
+          "module": "annotation",
+          "version": {
+            "requires": "1.10.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "2.4.20"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "glimmer-metadata-1.0.0-alpha19-cmp01.jar",
+          "url": "glimmer-1.0.0-alpha19-cmp01.jar",
+          "size": 72524,
+          "sha512": "3975749de419254e2a083bc00d7650aa3324ec883261190781acdd44338685ee6d4d77945a2617b387e7b2c5600758de7462251ada41221d7042b91df0c4d3ba",
+          "sha256": "72dfef36ef5a4c7ad5f303aa93fbf777a191ae74d21287ce33051883e4f321e4",
+          "sha1": "c06595c2ed193571b3ba2a542e4425531756cba1",
+          "md5": "ab591f8d3fa02c239e0f6b16e4e84e2b"
+        }
+      ]
+    },
+    {
+      "name": "metadataSourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.jvm.environment": "non-jvm",
+        "org.gradle.usage": "kotlin-runtime",
+        "org.jetbrains.kotlin.platform.type": "common"
+      },
+      "files": [
+        {
+          "name": "glimmer-kotlin-1.0.0-alpha19-cmp01-sources.jar",
+          "url": "glimmer-1.0.0-alpha19-cmp01-sources.jar",
+          "size": 185067,
+          "sha512": "33f5539d58b7077ea2b45368e705a2ce69a8922368dec33c34bb541b64185ba6299c77738bb40e94feac8250576e2ed0d572fdc021a3a48e47a63cc451c0f619",
+          "sha256": "3040a5d1b29b19502b7e852583c0d2ee2690e62930594e7beb05924f939cdb07",
+          "sha1": "8b9ce14cd43c906ad8f0d663e3d47cddf04a0e9c",
+          "md5": "fd3302ebcfcf79c850fce4ae967a5ecb"
+        }
+      ]
+    },
+    {
+      "name": "jvmApiElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "available-at": {
+        "url": "../../glimmer-jvm/1.0.0-alpha19-cmp01/glimmer-jvm-1.0.0-alpha19-cmp01.module",
+        "group": "ee.schimke.glimmercmp",
+        "module": "glimmer-jvm",
+        "version": "1.0.0-alpha19-cmp01"
+      }
+    },
+    {
+      "name": "jvmRuntimeElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "available-at": {
+        "url": "../../glimmer-jvm/1.0.0-alpha19-cmp01/glimmer-jvm-1.0.0-alpha19-cmp01.module",
+        "group": "ee.schimke.glimmercmp",
+        "module": "glimmer-jvm",
+        "version": "1.0.0-alpha19-cmp01"
+      }
+    },
+    {
+      "name": "jvmSourcesElements-published",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "available-at": {
+        "url": "../../glimmer-jvm/1.0.0-alpha19-cmp01/glimmer-jvm-1.0.0-alpha19-cmp01.module",
+        "group": "ee.schimke.glimmercmp",
+        "module": "glimmer-jvm",
+        "version": "1.0.0-alpha19-cmp01"
+      }
+    },
+    {
+      "name": "wasmJsApiElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.jvm.environment": "non-jvm",
+        "org.gradle.usage": "kotlin-api",
+        "org.jetbrains.kotlin.platform.type": "wasm",
+        "org.jetbrains.kotlin.wasm.target": "js"
+      },
+      "available-at": {
+        "url": "../../glimmer-wasm-js/1.0.0-alpha19-cmp01/glimmer-wasm-js-1.0.0-alpha19-cmp01.module",
+        "group": "ee.schimke.glimmercmp",
+        "module": "glimmer-wasm-js",
+        "version": "1.0.0-alpha19-cmp01"
+      }
+    },
+    {
+      "name": "wasmJsRuntimeElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.jvm.environment": "non-jvm",
+        "org.gradle.usage": "kotlin-runtime",
+        "org.jetbrains.kotlin.platform.type": "wasm",
+        "org.jetbrains.kotlin.wasm.target": "js"
+      },
+      "available-at": {
+        "url": "../../glimmer-wasm-js/1.0.0-alpha19-cmp01/glimmer-wasm-js-1.0.0-alpha19-cmp01.module",
+        "group": "ee.schimke.glimmercmp",
+        "module": "glimmer-wasm-js",
+        "version": "1.0.0-alpha19-cmp01"
+      }
+    },
+    {
+      "name": "wasmJsSourcesElements-published",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.jvm.environment": "non-jvm",
+        "org.gradle.usage": "kotlin-runtime",
+        "org.jetbrains.kotlin.platform.type": "wasm",
+        "org.jetbrains.kotlin.wasm.target": "js"
+      },
+      "available-at": {
+        "url": "../../glimmer-wasm-js/1.0.0-alpha19-cmp01/glimmer-wasm-js-1.0.0-alpha19-cmp01.module",
+        "group": "ee.schimke.glimmercmp",
+        "module": "glimmer-wasm-js",
+        "version": "1.0.0-alpha19-cmp01"
+      }
+    },
+    {
+      "name": "wasmJsResourcesElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "non-jvm",
+        "org.gradle.libraryelements": "kotlin-multiplatformresourcesjs",
+        "org.gradle.usage": "kotlin-multiplatformresourcesjs",
+        "org.jetbrains.kotlin.platform.type": "wasm",
+        "org.jetbrains.kotlin.wasm.target": "js"
+      },
+      "available-at": {
+        "url": "../../glimmer-wasm-js/1.0.0-alpha19-cmp01/glimmer-wasm-js-1.0.0-alpha19-cmp01.module",
+        "group": "ee.schimke.glimmercmp",
+        "module": "glimmer-wasm-js",
+        "version": "1.0.0-alpha19-cmp01"
+      }
+    }
+  ]
+}
