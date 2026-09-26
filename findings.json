@@ -317,7 +317,7 @@
         ]
       }
     ],
-    "glimmer-catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/ButtonGroups.kt#ButtonGroupSticker": [
+    "catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/ButtonGroups.kt#ButtonGroupSticker": [
       {
         "source": "figma",
         "status": "warn",
@@ -1039,7 +1039,7 @@
         ]
       }
     ],
-    "glimmer-catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/Buttons.kt#ButtonSticker": [
+    "catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/Buttons.kt#ButtonSticker": [
       {
         "source": "figma",
         "status": "warn",
@@ -2013,7 +2013,7 @@
         ]
       }
     ],
-    "glimmer-catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/Buttons.kt#ToggleButtonSticker": [
+    "catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/Buttons.kt#ToggleButtonSticker": [
       {
         "source": "figma",
         "status": "warn",
@@ -2839,7 +2839,7 @@
         ]
       }
     ],
-    "glimmer-catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/Cards.kt#CardSticker": [
+    "catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/Cards.kt#CardSticker": [
       {
         "source": "figma",
         "status": "warn",
@@ -3263,7 +3263,7 @@
         ]
       }
     ],
-    "glimmer-catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/Cards.kt#TitleChipSticker": [
+    "catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/Cards.kt#TitleChipSticker": [
       {
         "source": "figma",
         "status": "warn",
@@ -3657,7 +3657,7 @@
         ]
       }
     ],
-    "glimmer-catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/IconButtons.kt#IconButtonSticker": [
+    "catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/IconButtons.kt#IconButtonSticker": [
       {
         "source": "figma",
         "status": "warn",
@@ -4173,7 +4173,7 @@
         ]
       }
     ],
-    "glimmer-catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/IconButtons.kt#IconToggleButtonSticker": [
+    "catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/IconButtons.kt#IconToggleButtonSticker": [
       {
         "source": "figma",
         "status": "warn",
@@ -4877,7 +4877,7 @@
         ]
       }
     ],
-    "glimmer-catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/LazyLists.kt#GlimmerLazyColumnSticker": [
+    "catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/LazyLists.kt#GlimmerLazyColumnSticker": [
       {
         "source": "figma",
         "status": "warn",
@@ -5682,7 +5682,7 @@
         ]
       }
     ],
-    "glimmer-catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/LazyLists.kt#GlimmerLazyColumnTwoLineSticker": [
+    "catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/LazyLists.kt#GlimmerLazyColumnTwoLineSticker": [
       {
         "source": "figma",
         "status": "warn",
@@ -6279,7 +6279,7 @@
         ]
       }
     ],
-    "glimmer-catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/Lists.kt#ListItemSticker": [
+    "catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/Lists.kt#ListItemSticker": [
       {
         "source": "figma",
         "status": "warn",
@@ -6736,7 +6736,7 @@
         ]
       }
     ],
-    "glimmer-catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/Stacks.kt#VerticalStackSticker": [
+    "catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/Stacks.kt#VerticalStackSticker": [
       {
         "source": "figma",
         "status": "warn",
@@ -7114,7 +7114,7 @@
         ]
       }
     ],
-    "glimmer-catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/VoiceInput.kt#VoiceInputIndicatorSticker": [
+    "catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/VoiceInput.kt#VoiceInputIndicatorSticker": [
       {
         "source": "figma",
         "status": "warn",
