@@ -1819,7 +1819,7 @@
           "type": "COMPONENT",
           "ref": "figma:HKfLClZDLRyMhf4IQQLna8/416:2700",
           "link": "manifest",
-          "code": "glimmer-catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/Cards.kt#CardSticker",
+          "code": "catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/Cards.kt#CardSticker",
           "previewId": "card__ideal__default",
           "confidence": "high"
         }
@@ -1880,7 +1880,7 @@
           "type": "COMPONENT",
           "ref": "figma:HKfLClZDLRyMhf4IQQLna8/40:660",
           "link": "manifest",
-          "code": "glimmer-catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/Buttons.kt#ButtonSticker",
+          "code": "catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/Buttons.kt#ButtonSticker",
           "previewId": "button__ideal__default",
           "confidence": "high"
         },
@@ -1891,7 +1891,7 @@
           "type": "COMPONENT",
           "ref": "figma:HKfLClZDLRyMhf4IQQLna8/40000113:3576",
           "link": "manifest",
-          "code": "glimmer-catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/Buttons.kt#ButtonSticker",
+          "code": "catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/Buttons.kt#ButtonSticker",
           "previewId": "button__ideal__default__size-large",
           "confidence": "high"
         },
@@ -1902,7 +1902,7 @@
           "type": "COMPONENT",
           "ref": "figma:HKfLClZDLRyMhf4IQQLna8/40000113:3587",
           "link": "manifest",
-          "code": "glimmer-catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/Buttons.kt#ButtonSticker",
+          "code": "catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/Buttons.kt#ButtonSticker",
           "confidence": "high",
           "cell": true
         },
@@ -1913,7 +1913,7 @@
           "type": "COMPONENT",
           "ref": "figma:HKfLClZDLRyMhf4IQQLna8/40000113:3597",
           "link": "manifest",
-          "code": "glimmer-catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/Buttons.kt#ButtonSticker",
+          "code": "catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/Buttons.kt#ButtonSticker",
           "confidence": "high",
           "cell": true
         },
@@ -1924,7 +1924,7 @@
           "type": "COMPONENT",
           "ref": "figma:HKfLClZDLRyMhf4IQQLna8/40000113:3330",
           "link": "manifest",
-          "code": "glimmer-catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/Buttons.kt#ButtonSticker",
+          "code": "catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/Buttons.kt#ButtonSticker",
           "previewId": "button__ideal__focused",
           "confidence": "high",
           "cell": true
@@ -1936,7 +1936,7 @@
           "type": "COMPONENT",
           "ref": "figma:HKfLClZDLRyMhf4IQQLna8/40000113:3339",
           "link": "manifest",
-          "code": "glimmer-catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/Buttons.kt#ButtonSticker",
+          "code": "catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/Buttons.kt#ButtonSticker",
           "previewId": "button__ideal__pressed",
           "confidence": "high",
           "cell": true
@@ -1948,7 +1948,7 @@
           "type": "COMPONENT",
           "ref": "figma:HKfLClZDLRyMhf4IQQLna8/40000113:3523",
           "link": "manifest",
-          "code": "glimmer-catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/Buttons.kt#ButtonSticker",
+          "code": "catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/Buttons.kt#ButtonSticker",
           "previewId": "button__ideal__disabled",
           "confidence": "high",
           "cell": true
@@ -1968,7 +1968,7 @@
           "type": "COMPONENT",
           "ref": "figma:HKfLClZDLRyMhf4IQQLna8/40000113:3534",
           "link": "manifest",
-          "code": "glimmer-catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/Buttons.kt#ButtonSticker",
+          "code": "catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/Buttons.kt#ButtonSticker",
           "confidence": "high",
           "cell": true
         },
@@ -1995,7 +1995,7 @@
           "type": "COMPONENT",
           "ref": "figma:HKfLClZDLRyMhf4IQQLna8/40000113:4062",
           "link": "manifest",
-          "code": "glimmer-catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/Buttons.kt#ToggleButtonSticker",
+          "code": "catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/Buttons.kt#ToggleButtonSticker",
           "previewId": "togglebutton__ideal__pressed",
           "confidence": "high",
           "cell": true
@@ -2007,7 +2007,7 @@
           "type": "COMPONENT",
           "ref": "figma:HKfLClZDLRyMhf4IQQLna8/40000113:3973",
           "link": "manifest",
-          "code": "glimmer-catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/Buttons.kt#ToggleButtonSticker",
+          "code": "catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/Buttons.kt#ToggleButtonSticker",
           "previewId": "togglebutton__ideal__default__size-large",
           "confidence": "high"
         },
@@ -2018,7 +2018,7 @@
           "type": "COMPONENT",
           "ref": "figma:HKfLClZDLRyMhf4IQQLna8/40000113:3979",
           "link": "manifest",
-          "code": "glimmer-catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/Buttons.kt#ToggleButtonSticker",
+          "code": "catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/Buttons.kt#ToggleButtonSticker",
           "confidence": "high",
           "cell": true
         },
@@ -2029,7 +2029,7 @@
           "type": "COMPONENT",
           "ref": "figma:HKfLClZDLRyMhf4IQQLna8/40000113:3985",
           "link": "manifest",
-          "code": "glimmer-catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/Buttons.kt#ToggleButtonSticker",
+          "code": "catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/Buttons.kt#ToggleButtonSticker",
           "confidence": "high",
           "cell": true
         },
@@ -2040,7 +2040,7 @@
           "type": "COMPONENT",
           "ref": "figma:HKfLClZDLRyMhf4IQQLna8/40000113:3991",
           "link": "manifest",
-          "code": "glimmer-catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/Buttons.kt#ToggleButtonSticker",
+          "code": "catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/Buttons.kt#ToggleButtonSticker",
           "previewId": "togglebutton__ideal__default",
           "confidence": "high"
         },
@@ -2051,7 +2051,7 @@
           "type": "COMPONENT",
           "ref": "figma:HKfLClZDLRyMhf4IQQLna8/40000113:3997",
           "link": "manifest",
-          "code": "glimmer-catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/Buttons.kt#ToggleButtonSticker",
+          "code": "catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/Buttons.kt#ToggleButtonSticker",
           "previewId": "togglebutton__ideal__focused",
           "confidence": "high",
           "cell": true
@@ -2063,7 +2063,7 @@
           "type": "COMPONENT",
           "ref": "figma:HKfLClZDLRyMhf4IQQLna8/40000113:4003",
           "link": "manifest",
-          "code": "glimmer-catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/Buttons.kt#ToggleButtonSticker",
+          "code": "catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/Buttons.kt#ToggleButtonSticker",
           "previewId": "togglebutton__ideal__disabled",
           "confidence": "high",
           "cell": true
@@ -2083,7 +2083,7 @@
           "type": "COMPONENT",
           "ref": "figma:HKfLClZDLRyMhf4IQQLna8/40000113:4138",
           "link": "manifest",
-          "code": "glimmer-catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/Buttons.kt#ToggleButtonSticker",
+          "code": "catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/Buttons.kt#ToggleButtonSticker",
           "previewId": "togglebutton__ideal__checked",
           "confidence": "high"
         },
@@ -2094,7 +2094,7 @@
           "type": "COMPONENT",
           "ref": "figma:HKfLClZDLRyMhf4IQQLna8/40000113:4092",
           "link": "manifest",
-          "code": "glimmer-catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/Buttons.kt#ToggleButtonSticker",
+          "code": "catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/Buttons.kt#ToggleButtonSticker",
           "previewId": "togglebutton__ideal__cell-state-focused-size-default-toggle-true-40000113-4092",
           "confidence": "high",
           "cell": true
@@ -2106,7 +2106,7 @@
           "type": "COMPONENT",
           "ref": "figma:HKfLClZDLRyMhf4IQQLna8/40000113:4102",
           "link": "manifest",
-          "code": "glimmer-catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/Buttons.kt#ToggleButtonSticker",
+          "code": "catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/Buttons.kt#ToggleButtonSticker",
           "previewId": "togglebutton__ideal__cell-state-pressed-size-default-toggle-true-40000113-4102",
           "confidence": "high",
           "cell": true
@@ -2118,7 +2118,7 @@
           "type": "COMPONENT",
           "ref": "figma:HKfLClZDLRyMhf4IQQLna8/40000113:4015",
           "link": "manifest",
-          "code": "glimmer-catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/Buttons.kt#ToggleButtonSticker",
+          "code": "catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/Buttons.kt#ToggleButtonSticker",
           "confidence": "high",
           "cell": true
         },
@@ -2137,7 +2137,7 @@
           "type": "COMPONENT",
           "ref": "figma:HKfLClZDLRyMhf4IQQLna8/40000113:4082",
           "link": "manifest",
-          "code": "glimmer-catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/Buttons.kt#ToggleButtonSticker",
+          "code": "catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/Buttons.kt#ToggleButtonSticker",
           "previewId": "togglebutton__ideal__cell-state-enabled-size-large-toggle-true-40000113-4082",
           "confidence": "high",
           "cell": true
@@ -2149,7 +2149,7 @@
           "type": "COMPONENT",
           "ref": "figma:HKfLClZDLRyMhf4IQQLna8/40000113:4112",
           "link": "manifest",
-          "code": "glimmer-catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/Buttons.kt#ToggleButtonSticker",
+          "code": "catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/Buttons.kt#ToggleButtonSticker",
           "previewId": "togglebutton__ideal__cell-state-focused-size-large-toggle-true-40000113-4112",
           "confidence": "high",
           "cell": true
@@ -2161,7 +2161,7 @@
           "type": "COMPONENT",
           "ref": "figma:HKfLClZDLRyMhf4IQQLna8/40000113:4122",
           "link": "manifest",
-          "code": "glimmer-catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/Buttons.kt#ToggleButtonSticker",
+          "code": "catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/Buttons.kt#ToggleButtonSticker",
           "previewId": "togglebutton__ideal__cell-state-pressed-size-large-toggle-true-40000113-4122",
           "confidence": "high",
           "cell": true
@@ -2181,7 +2181,7 @@
           "type": "COMPONENT",
           "ref": "figma:HKfLClZDLRyMhf4IQQLna8/5315:4651",
           "link": "manifest",
-          "code": "glimmer-catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/IconButtons.kt#IconButtonSticker",
+          "code": "catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/IconButtons.kt#IconButtonSticker",
           "previewId": "iconbutton__ideal__default",
           "confidence": "high"
         },
@@ -2192,7 +2192,7 @@
           "type": "COMPONENT",
           "ref": "figma:HKfLClZDLRyMhf4IQQLna8/5315:4654",
           "link": "manifest",
-          "code": "glimmer-catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/IconButtons.kt#IconButtonSticker",
+          "code": "catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/IconButtons.kt#IconButtonSticker",
           "previewId": "iconbutton__ideal__focused",
           "confidence": "high",
           "cell": true
@@ -2204,7 +2204,7 @@
           "type": "COMPONENT",
           "ref": "figma:HKfLClZDLRyMhf4IQQLna8/5315:4657",
           "link": "manifest",
-          "code": "glimmer-catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/IconButtons.kt#IconButtonSticker",
+          "code": "catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/IconButtons.kt#IconButtonSticker",
           "previewId": "iconbutton__ideal__pressed",
           "confidence": "high",
           "cell": true
@@ -2216,7 +2216,7 @@
           "type": "COMPONENT",
           "ref": "figma:HKfLClZDLRyMhf4IQQLna8/5315:4660",
           "link": "manifest",
-          "code": "glimmer-catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/IconButtons.kt#IconButtonSticker",
+          "code": "catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/IconButtons.kt#IconButtonSticker",
           "previewId": "iconbutton__ideal__disabled",
           "confidence": "high",
           "cell": true
@@ -2244,7 +2244,7 @@
           "type": "COMPONENT",
           "ref": "figma:HKfLClZDLRyMhf4IQQLna8/40000113:4150",
           "link": "manifest",
-          "code": "glimmer-catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/IconButtons.kt#IconToggleButtonSticker",
+          "code": "catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/IconButtons.kt#IconToggleButtonSticker",
           "previewId": "icontogglebutton__ideal__default",
           "confidence": "high"
         },
@@ -2255,7 +2255,7 @@
           "type": "COMPONENT",
           "ref": "figma:HKfLClZDLRyMhf4IQQLna8/40000113:4152",
           "link": "manifest",
-          "code": "glimmer-catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/IconButtons.kt#IconToggleButtonSticker",
+          "code": "catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/IconButtons.kt#IconToggleButtonSticker",
           "previewId": "icontogglebutton__ideal__focused",
           "confidence": "high",
           "cell": true
@@ -2267,7 +2267,7 @@
           "type": "COMPONENT",
           "ref": "figma:HKfLClZDLRyMhf4IQQLna8/40000113:4155",
           "link": "manifest",
-          "code": "glimmer-catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/IconButtons.kt#IconToggleButtonSticker",
+          "code": "catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/IconButtons.kt#IconToggleButtonSticker",
           "previewId": "icontogglebutton__ideal__pressed",
           "confidence": "high",
           "cell": true
@@ -2279,7 +2279,7 @@
           "type": "COMPONENT",
           "ref": "figma:HKfLClZDLRyMhf4IQQLna8/40000113:4158",
           "link": "manifest",
-          "code": "glimmer-catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/IconButtons.kt#IconToggleButtonSticker",
+          "code": "catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/IconButtons.kt#IconToggleButtonSticker",
           "previewId": "icontogglebutton__ideal__disabled",
           "confidence": "high",
           "cell": true
@@ -2299,7 +2299,7 @@
           "type": "COMPONENT",
           "ref": "figma:HKfLClZDLRyMhf4IQQLna8/40000113:4181",
           "link": "manifest",
-          "code": "glimmer-catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/IconButtons.kt#IconToggleButtonSticker",
+          "code": "catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/IconButtons.kt#IconToggleButtonSticker",
           "previewId": "icontogglebutton__ideal__checked",
           "confidence": "high"
         },
@@ -2310,7 +2310,7 @@
           "type": "COMPONENT",
           "ref": "figma:HKfLClZDLRyMhf4IQQLna8/40000113:4188",
           "link": "manifest",
-          "code": "glimmer-catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/IconButtons.kt#IconToggleButtonSticker",
+          "code": "catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/IconButtons.kt#IconToggleButtonSticker",
           "previewId": "icontogglebutton__ideal__cell-toggle-true-state-focused-40000113-4188",
           "confidence": "high",
           "cell": true
@@ -2322,7 +2322,7 @@
           "type": "COMPONENT",
           "ref": "figma:HKfLClZDLRyMhf4IQQLna8/40000113:4195",
           "link": "manifest",
-          "code": "glimmer-catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/IconButtons.kt#IconToggleButtonSticker",
+          "code": "catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/IconButtons.kt#IconToggleButtonSticker",
           "previewId": "icontogglebutton__ideal__cell-toggle-true-state-pressed-40000113-4195",
           "confidence": "high",
           "cell": true
@@ -2411,7 +2411,7 @@
           "type": "COMPONENT",
           "ref": "figma:HKfLClZDLRyMhf4IQQLna8/4116:5212",
           "link": "manifest",
-          "code": "glimmer-catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/LazyLists.kt#GlimmerLazyColumnSticker",
+          "code": "catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/LazyLists.kt#GlimmerLazyColumnSticker",
           "previewId": "glimmerlazycolumn__ideal__default",
           "confidence": "high"
         },
@@ -2446,7 +2446,7 @@
           "type": "COMPONENT",
           "ref": "figma:HKfLClZDLRyMhf4IQQLna8/40000115:1891",
           "link": "manifest",
-          "code": "glimmer-catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/LazyLists.kt#GlimmerLazyColumnSticker",
+          "code": "catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/LazyLists.kt#GlimmerLazyColumnSticker",
           "previewId": "glimmerlazycolumn__ideal__default__title-true",
           "confidence": "high"
         },
@@ -2473,7 +2473,7 @@
           "type": "COMPONENT",
           "ref": "figma:HKfLClZDLRyMhf4IQQLna8/4116:5251",
           "link": "manifest",
-          "code": "glimmer-catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/LazyLists.kt#GlimmerLazyColumnTwoLineSticker",
+          "code": "catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/LazyLists.kt#GlimmerLazyColumnTwoLineSticker",
           "previewId": "glimmerlazycolumn-twoline__ideal__default",
           "confidence": "high"
         },
@@ -2619,7 +2619,7 @@
           "type": "COMPONENT",
           "ref": "figma:HKfLClZDLRyMhf4IQQLna8/384:4191",
           "link": "manifest",
-          "code": "glimmer-catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/Lists.kt#ListItemSticker",
+          "code": "catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/Lists.kt#ListItemSticker",
           "previewId": "listitem__ideal__default__content-supporting-label",
           "confidence": "high"
         },
@@ -2630,7 +2630,7 @@
           "type": "COMPONENT",
           "ref": "figma:HKfLClZDLRyMhf4IQQLna8/384:4189",
           "link": "manifest",
-          "code": "glimmer-catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/Lists.kt#ListItemSticker",
+          "code": "catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/Lists.kt#ListItemSticker",
           "confidence": "high",
           "cell": true
         },
@@ -2649,7 +2649,7 @@
           "type": "COMPONENT",
           "ref": "figma:HKfLClZDLRyMhf4IQQLna8/384:4195",
           "link": "manifest",
-          "code": "glimmer-catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/Lists.kt#ListItemSticker",
+          "code": "catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/Lists.kt#ListItemSticker",
           "previewId": "listitem__ideal__default",
           "confidence": "high"
         },
@@ -2660,7 +2660,7 @@
           "type": "COMPONENT",
           "ref": "figma:HKfLClZDLRyMhf4IQQLna8/384:4186",
           "link": "manifest",
-          "code": "glimmer-catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/Lists.kt#ListItemSticker",
+          "code": "catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/Lists.kt#ListItemSticker",
           "previewId": "listitem__ideal__pressed",
           "confidence": "high",
           "cell": true
@@ -2781,7 +2781,7 @@
           "type": "COMPONENT",
           "ref": "figma:HKfLClZDLRyMhf4IQQLna8/40000042:4078",
           "link": "manifest",
-          "code": "glimmer-catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/Stacks.kt#VerticalStackSticker",
+          "code": "catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/Stacks.kt#VerticalStackSticker",
           "previewId": "verticalstack__ideal__default",
           "confidence": "high"
         },
@@ -2841,7 +2841,7 @@
           "type": "COMPONENT",
           "ref": "figma:HKfLClZDLRyMhf4IQQLna8/40000116:6497",
           "link": "manifest",
-          "code": "glimmer-catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/ButtonGroups.kt#ButtonGroupSticker",
+          "code": "catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/ButtonGroups.kt#ButtonGroupSticker",
           "previewId": "buttongroup__ideal__default",
           "confidence": "high"
         },
@@ -3585,7 +3585,7 @@
           "type": "COMPONENT",
           "ref": "figma:HKfLClZDLRyMhf4IQQLna8/40000116:9338",
           "link": "manifest",
-          "code": "glimmer-catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/VoiceInput.kt#VoiceInputIndicatorSticker",
+          "code": "catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/VoiceInput.kt#VoiceInputIndicatorSticker",
           "previewId": "voiceinputindicator__ideal__default__container-contained",
           "confidence": "high"
         },
@@ -3596,7 +3596,7 @@
           "type": "COMPONENT",
           "ref": "figma:HKfLClZDLRyMhf4IQQLna8/40000116:9342",
           "link": "manifest",
-          "code": "glimmer-catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/VoiceInput.kt#VoiceInputIndicatorSticker",
+          "code": "catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/VoiceInput.kt#VoiceInputIndicatorSticker",
           "previewId": "voiceinputindicator__ideal__cell-volume-quiet-contained-yes-40000116-9342",
           "confidence": "high",
           "cell": true
@@ -3608,7 +3608,7 @@
           "type": "COMPONENT",
           "ref": "figma:HKfLClZDLRyMhf4IQQLna8/40000116:9346",
           "link": "manifest",
-          "code": "glimmer-catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/VoiceInput.kt#VoiceInputIndicatorSticker",
+          "code": "catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/VoiceInput.kt#VoiceInputIndicatorSticker",
           "previewId": "voiceinputindicator__ideal__default",
           "confidence": "high"
         },
@@ -3619,7 +3619,7 @@
           "type": "COMPONENT",
           "ref": "figma:HKfLClZDLRyMhf4IQQLna8/40000116:9350",
           "link": "manifest",
-          "code": "glimmer-catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/VoiceInput.kt#VoiceInputIndicatorSticker",
+          "code": "catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/VoiceInput.kt#VoiceInputIndicatorSticker",
           "previewId": "voiceinputindicator__ideal__default__volume-quiet",
           "confidence": "high"
         }
@@ -3913,7 +3913,7 @@
           "type": "COMPONENT",
           "ref": "figma:HKfLClZDLRyMhf4IQQLna8/5315:4722",
           "link": "manifest",
-          "code": "glimmer-catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/Cards.kt#TitleChipSticker",
+          "code": "catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/Cards.kt#TitleChipSticker",
           "previewId": "titlechip__ideal__default",
           "confidence": "high"
         }

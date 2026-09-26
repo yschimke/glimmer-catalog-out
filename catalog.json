@@ -149,9 +149,9 @@
       "reference": "figma:HKfLClZDLRyMhf4IQQLna8/40000116:6497",
       "wireframe": "wireframes/buttongroup.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/ButtonGroups.kt",
-      "sourceModule": ":glimmer-catalog",
-      "bodyLine": 30,
-      "sourceDirectory": "glimmer-catalog",
+      "sourceModule": ":catalog",
+      "bodyLine": 32,
+      "sourceDirectory": "catalog",
       "sourceFunction": "ButtonGroupSticker",
       "parameters": [
         {
@@ -708,9 +708,9 @@
       "reference": "figma:HKfLClZDLRyMhf4IQQLna8/40:660",
       "wireframe": "wireframes/button.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/Buttons.kt",
-      "sourceModule": ":glimmer-catalog",
-      "bodyLine": 48,
-      "sourceDirectory": "glimmer-catalog",
+      "sourceModule": ":catalog",
+      "bodyLine": 50,
+      "sourceDirectory": "catalog",
       "sourceFunction": "ButtonSticker"
     },
     {
@@ -1724,9 +1724,9 @@
       "reference": "figma:HKfLClZDLRyMhf4IQQLna8/40000113:3991",
       "wireframe": "wireframes/togglebutton.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/Buttons.kt",
-      "sourceModule": ":glimmer-catalog",
-      "bodyLine": 121,
-      "sourceDirectory": "glimmer-catalog",
+      "sourceModule": ":catalog",
+      "bodyLine": 124,
+      "sourceDirectory": "catalog",
       "sourceFunction": "ToggleButtonSticker"
     },
     {
@@ -1893,9 +1893,9 @@
       "reference": "figma:HKfLClZDLRyMhf4IQQLna8/416:2700",
       "wireframe": "wireframes/card.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/Cards.kt",
-      "sourceModule": ":glimmer-catalog",
-      "bodyLine": 49,
-      "sourceDirectory": "glimmer-catalog",
+      "sourceModule": ":catalog",
+      "bodyLine": 51,
+      "sourceDirectory": "catalog",
       "sourceFunction": "CardSticker"
     },
     {
@@ -1989,9 +1989,9 @@
       "reference": "figma:HKfLClZDLRyMhf4IQQLna8/5315:4722",
       "wireframe": "wireframes/titlechip.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/Cards.kt",
-      "sourceModule": ":glimmer-catalog",
-      "bodyLine": 128,
-      "sourceDirectory": "glimmer-catalog",
+      "sourceModule": ":catalog",
+      "bodyLine": 131,
+      "sourceDirectory": "catalog",
       "sourceFunction": "TitleChipSticker",
       "parameters": [
         {
@@ -2209,9 +2209,9 @@
       "reference": "figma:HKfLClZDLRyMhf4IQQLna8/5315:4651",
       "wireframe": "wireframes/iconbutton.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/IconButtons.kt",
-      "sourceModule": ":glimmer-catalog",
-      "bodyLine": 32,
-      "sourceDirectory": "glimmer-catalog",
+      "sourceModule": ":catalog",
+      "bodyLine": 34,
+      "sourceDirectory": "catalog",
       "sourceFunction": "IconButtonSticker"
     },
     {
@@ -2704,9 +2704,9 @@
       "reference": "figma:HKfLClZDLRyMhf4IQQLna8/40000113:4150",
       "wireframe": "wireframes/icontogglebutton.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/IconButtons.kt",
-      "sourceModule": ":glimmer-catalog",
-      "bodyLine": 53,
-      "sourceDirectory": "glimmer-catalog",
+      "sourceModule": ":catalog",
+      "bodyLine": 56,
+      "sourceDirectory": "catalog",
       "sourceFunction": "IconToggleButtonSticker"
     },
     {
@@ -2805,9 +2805,9 @@
       "reference": "figma:HKfLClZDLRyMhf4IQQLna8/4116:5212",
       "wireframe": "wireframes/glimmerlazycolumn.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/LazyLists.kt",
-      "sourceModule": ":glimmer-catalog",
-      "bodyLine": 51,
-      "sourceDirectory": "glimmer-catalog",
+      "sourceModule": ":catalog",
+      "bodyLine": 53,
+      "sourceDirectory": "catalog",
       "sourceFunction": "GlimmerLazyColumnSticker",
       "parameters": [
         {
@@ -2900,9 +2900,9 @@
       "reference": "figma:HKfLClZDLRyMhf4IQQLna8/4116:5251",
       "wireframe": "wireframes/glimmerlazycolumn-twoline.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/LazyLists.kt",
-      "sourceModule": ":glimmer-catalog",
-      "bodyLine": 82,
-      "sourceDirectory": "glimmer-catalog",
+      "sourceModule": ":catalog",
+      "bodyLine": 85,
+      "sourceDirectory": "catalog",
       "sourceFunction": "GlimmerLazyColumnTwoLineSticker"
     },
     {
@@ -3113,9 +3113,9 @@
       "reference": "figma:HKfLClZDLRyMhf4IQQLna8/384:4195",
       "wireframe": "wireframes/listitem.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/Lists.kt",
-      "sourceModule": ":glimmer-catalog",
-      "bodyLine": 50,
-      "sourceDirectory": "glimmer-catalog",
+      "sourceModule": ":catalog",
+      "bodyLine": 52,
+      "sourceDirectory": "catalog",
       "sourceFunction": "ListItemSticker"
     },
     {
@@ -3171,9 +3171,9 @@
       "reference": "figma:HKfLClZDLRyMhf4IQQLna8/40000042:4078",
       "wireframe": "wireframes/verticalstack.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/Stacks.kt",
-      "sourceModule": ":glimmer-catalog",
-      "bodyLine": 30,
-      "sourceDirectory": "glimmer-catalog",
+      "sourceModule": ":catalog",
+      "bodyLine": 32,
+      "sourceDirectory": "catalog",
       "sourceFunction": "VerticalStackSticker",
       "parameters": [
         {
@@ -3354,17 +3354,17 @@
       "reference": "figma:HKfLClZDLRyMhf4IQQLna8/40000116:9346",
       "wireframe": "wireframes/voiceinputindicator.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/VoiceInput.kt",
-      "sourceModule": ":glimmer-catalog",
-      "bodyLine": 77,
-      "sourceDirectory": "glimmer-catalog",
+      "sourceModule": ":catalog",
+      "bodyLine": 79,
+      "sourceDirectory": "catalog",
       "sourceFunction": "VoiceInputIndicatorSticker"
     }
   ],
   "library": [
     "androidx.xr.glimmer:glimmer"
   ],
-  "renderer": "compose-preview 2.22.0",
-  "generatedAt": "2026-09-24T20:46:20.910Z",
+  "renderer": "compose-preview 2.27.0",
+  "generatedAt": "2026-09-26T16:27:16.100Z",
   "display": {
     "surface": "dark",
     "hero": "CardActionSticker"
@@ -3377,14 +3377,15 @@
     {
       "path": "bundle/",
       "file": "bundle.png",
-      "module": ":glimmer-catalog",
+      "module": ":catalog",
       "previewIdPrefix": ""
     }
   ],
   "componentsFile": "components.json",
+  "uiBuilderFile": "ui-builder.json",
   "source": {
-    "repo": "yschimke/m3-catalog",
+    "repo": "yschimke/glimmer-catalog",
     "ref": "main",
-    "module": ":glimmer-catalog"
+    "module": ":catalog"
   }
 }

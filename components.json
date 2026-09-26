@@ -1,10 +1,3616 @@
 {
     "schemaVersion": 2,
-    "module": "glimmer-catalog",
+    "module": "catalog",
     "variant": "debug",
     "components": [
         {
-            "canonicalId": "glimmer-catalog/ee.schimke.m3catalog.glimmer.GlimmerCatalogKt.Sticker",
+            "canonicalId": "catalog/androidx.xr.glimmer.ButtonGroupKt.ButtonGroup",
+            "componentIds": [
+                "ButtonGroup"
+            ],
+            "symbol": {
+                "jvmOwner": "androidx.xr.glimmer.ButtonGroupKt",
+                "callable": "androidx.xr.glimmer.ButtonGroup",
+                "name": "ButtonGroup",
+                "origin": "LIBRARY",
+                "jvmName": "ButtonGroup",
+                "descriptor": "(Landroidx/compose/ui/Modifier;Landroidx/xr/glimmer/ButtonGroupState;Landroidx/compose/foundation/layout/Arrangement$Horizontal;Landroidx/compose/ui/Alignment$Vertical;Landroidx/compose/foundation/layout/PaddingValues;Lkotlin/jvm/functions/Function2;Landroidx/compose/runtime/Composer;II)V",
+                "sourceFile": null,
+                "docs": "unavailable",
+                "receiver": null
+            },
+            "parameters": [
+                {
+                    "name": "modifier",
+                    "type": "Modifier",
+                    "typeFqn": "androidx.compose.ui.Modifier",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "state",
+                    "type": "ButtonGroupState",
+                    "typeFqn": "androidx.xr.glimmer.ButtonGroupState",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "horizontalArrangement",
+                    "type": "Horizontal",
+                    "typeFqn": "androidx.compose.foundation.layout.Arrangement.Horizontal",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "verticalAlignment",
+                    "type": "Vertical",
+                    "typeFqn": "androidx.compose.ui.Alignment.Vertical",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "contentPadding",
+                    "type": "PaddingValues",
+                    "typeFqn": "androidx.compose.foundation.layout.PaddingValues",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "content",
+                    "type": "() -> Unit",
+                    "typeFqn": "kotlin.Function0",
+                    "hasDefault": false,
+                    "composableSlot": true,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
+                }
+            ],
+            "slots": [
+                {
+                    "name": "content",
+                    "required": true,
+                    "receiverScope": null
+                }
+            ],
+            "bindings": [
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker",
+                    "componentId": "ButtonGroup",
+                    "group": "Button group"
+                }
+            ],
+            "code": {
+                "call": "ButtonGroup(content = {})",
+                "imports": [
+                    "androidx.xr.glimmer.ButtonGroup"
+                ],
+                "refusedReason": null,
+                "requiredOptIns": [],
+                "androidxOptIns": []
+            },
+            "signatureKnown": true,
+            "callableFromAnotherFile": true,
+            "hasTypeParameters": false,
+            "hasContextReceivers": false,
+            "overloadsCollided": false,
+            "builder": {
+                "id": null,
+                "component": "ButtonGroup",
+                "declaredForCatalogId": "ButtonGroup",
+                "group": null,
+                "displayName": null,
+                "canvas": null,
+                "stateCallbacks": [],
+                "starter": [],
+                "slots": [],
+                "traits": [],
+                "variantProperty": null,
+                "variants": [],
+                "nativeOnly": true,
+                "exclude": null,
+                "declaredBy": [
+                    "ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker"
+                ],
+                "conflicting": [],
+                "ambiguousWith": [],
+                "malformed": []
+            },
+            "requiredOptIns": [],
+            "androidxOptIns": []
+        },
+        {
+            "canonicalId": "catalog/androidx.xr.glimmer.ButtonKt.Button",
+            "componentIds": [
+                "Button",
+                "ButtonGroup",
+                "Card"
+            ],
+            "symbol": {
+                "jvmOwner": "androidx.xr.glimmer.ButtonKt",
+                "callable": "androidx.xr.glimmer.Button",
+                "name": "Button",
+                "origin": "LIBRARY",
+                "jvmName": "Button-w2VA9lk",
+                "descriptor": "(Lkotlin/jvm/functions/Function0;Landroidx/compose/ui/Modifier;ZILkotlin/jvm/functions/Function2;Lkotlin/jvm/functions/Function2;Landroidx/compose/ui/graphics/Shape;JJLandroidx/compose/foundation/layout/PaddingValues;Landroidx/compose/foundation/interaction/MutableInteractionSource;Lkotlin/jvm/functions/Function3;Landroidx/compose/runtime/Composer;III)V",
+                "sourceFile": null,
+                "docs": "unavailable",
+                "receiver": null
+            },
+            "parameters": [
+                {
+                    "name": "onClick",
+                    "type": "() -> Unit",
+                    "typeFqn": "kotlin.Function0",
+                    "hasDefault": false,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
+                },
+                {
+                    "name": "modifier",
+                    "type": "Modifier",
+                    "typeFqn": "androidx.compose.ui.Modifier",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "enabled",
+                    "type": "Boolean",
+                    "typeFqn": "kotlin.Boolean",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "buttonSize",
+                    "type": "ButtonSize",
+                    "typeFqn": "androidx.xr.glimmer.ButtonSize",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "leadingIcon",
+                    "type": "(() -> Unit)?",
+                    "typeFqn": "kotlin.Function0",
+                    "hasDefault": true,
+                    "composableSlot": true,
+                    "composableSlotReceiver": null,
+                    "nullable": true,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
+                },
+                {
+                    "name": "trailingIcon",
+                    "type": "(() -> Unit)?",
+                    "typeFqn": "kotlin.Function0",
+                    "hasDefault": true,
+                    "composableSlot": true,
+                    "composableSlotReceiver": null,
+                    "nullable": true,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
+                },
+                {
+                    "name": "shape",
+                    "type": "Shape",
+                    "typeFqn": "androidx.compose.ui.graphics.Shape",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "color",
+                    "type": "Color",
+                    "typeFqn": "androidx.compose.ui.graphics.Color",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "contentColor",
+                    "type": "Color",
+                    "typeFqn": "androidx.compose.ui.graphics.Color",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "contentPadding",
+                    "type": "PaddingValues",
+                    "typeFqn": "androidx.compose.foundation.layout.PaddingValues",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "interactionSource",
+                    "type": "MutableInteractionSource?",
+                    "typeFqn": "androidx.compose.foundation.interaction.MutableInteractionSource",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": true,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "content",
+                    "type": "RowScope.() -> Unit",
+                    "typeFqn": "kotlin.Function1",
+                    "hasDefault": false,
+                    "composableSlot": true,
+                    "composableSlotReceiver": "androidx.compose.foundation.layout.RowScope",
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
+                }
+            ],
+            "slots": [
+                {
+                    "name": "leadingIcon",
+                    "required": false,
+                    "receiverScope": null
+                },
+                {
+                    "name": "trailingIcon",
+                    "required": false,
+                    "receiverScope": null
+                },
+                {
+                    "name": "content",
+                    "required": true,
+                    "receiverScope": "androidx.compose.foundation.layout.RowScope"
+                }
+            ],
+            "bindings": [
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker",
+                    "componentId": "ButtonGroup",
+                    "group": "Button group"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonsKt.ButtonLabelOnlySticker",
+                    "componentId": "Button",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonsKt.ButtonLargeSticker",
+                    "componentId": "Button",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonsKt.ButtonLargeSticker_VARIANT_disabled",
+                    "componentId": "Button",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonsKt.ButtonLargeSticker_VARIANT_focused",
+                    "componentId": "Button",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonsKt.ButtonLargeSticker_VARIANT_pressed",
+                    "componentId": "Button",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonsKt.ButtonSticker",
+                    "componentId": "Button",
+                    "group": "Button"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonsKt.ButtonSticker_VARIANT_disabled",
+                    "componentId": "Button",
+                    "group": "Button"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonsKt.ButtonSticker_VARIANT_focused",
+                    "componentId": "Button",
+                    "group": "Button"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonsKt.ButtonSticker_VARIANT_pressed",
+                    "componentId": "Button",
+                    "group": "Button"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonsKt.ButtonTrailingIconSticker",
+                    "componentId": "Button",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.CardsKt.CardActionSticker",
+                    "componentId": "Card",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.GlimmerEnvironmentsKt.ButtonOnBusyEnvironment",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.GlimmerEnvironmentsKt.ButtonOnDarkEnvironment",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.GlimmerEnvironmentsKt.ButtonOnLightEnvironment",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.GlimmerEnvironmentsKt.ButtonOnVeniceCanalCatsEnvironment",
+                    "componentId": null,
+                    "group": null
+                }
+            ],
+            "code": {
+                "call": "Button(onClick = {}, content = {})",
+                "imports": [
+                    "androidx.xr.glimmer.Button"
+                ],
+                "refusedReason": null,
+                "requiredOptIns": [],
+                "androidxOptIns": []
+            },
+            "signatureKnown": true,
+            "callableFromAnotherFile": true,
+            "hasTypeParameters": false,
+            "hasContextReceivers": false,
+            "overloadsCollided": false,
+            "builder": {
+                "id": null,
+                "component": "Button",
+                "declaredForCatalogId": "Button",
+                "group": null,
+                "displayName": null,
+                "canvas": null,
+                "stateCallbacks": [],
+                "starter": [],
+                "slots": [],
+                "traits": [],
+                "variantProperty": null,
+                "variants": [],
+                "nativeOnly": true,
+                "exclude": null,
+                "declaredBy": [
+                    "ee.schimke.m3catalog.glimmer.ButtonsKt.ButtonSticker",
+                    "ee.schimke.m3catalog.glimmer.ButtonsKt.ButtonSticker_VARIANT_disabled",
+                    "ee.schimke.m3catalog.glimmer.ButtonsKt.ButtonSticker_VARIANT_focused",
+                    "ee.schimke.m3catalog.glimmer.ButtonsKt.ButtonSticker_VARIANT_pressed"
+                ],
+                "conflicting": [],
+                "ambiguousWith": [],
+                "malformed": []
+            },
+            "requiredOptIns": [],
+            "androidxOptIns": []
+        },
+        {
+            "canonicalId": "catalog/androidx.xr.glimmer.CardKt.ActionCard",
+            "componentIds": [
+                "Card"
+            ],
+            "symbol": {
+                "jvmOwner": "androidx.xr.glimmer.CardKt",
+                "callable": "androidx.xr.glimmer.ActionCard",
+                "name": "ActionCard",
+                "origin": "LIBRARY",
+                "jvmName": "ActionCard-owtK_Bk",
+                "descriptor": "(Lkotlin/jvm/functions/Function2;Landroidx/compose/ui/Modifier;Lkotlin/jvm/functions/Function2;Lkotlin/jvm/functions/Function2;Lkotlin/jvm/functions/Function2;Lkotlin/jvm/functions/Function2;Lkotlin/jvm/functions/Function2;Landroidx/compose/ui/graphics/Shape;JJLandroidx/compose/foundation/layout/PaddingValues;Lkotlin/jvm/functions/Function2;Landroidx/compose/runtime/Composer;III)V",
+                "sourceFile": null,
+                "docs": "unavailable",
+                "receiver": null
+            },
+            "parameters": [
+                {
+                    "name": "action",
+                    "type": "() -> Unit",
+                    "typeFqn": "kotlin.Function0",
+                    "hasDefault": false,
+                    "composableSlot": true,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
+                },
+                {
+                    "name": "modifier",
+                    "type": "Modifier",
+                    "typeFqn": "androidx.compose.ui.Modifier",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "title",
+                    "type": "(() -> Unit)?",
+                    "typeFqn": "kotlin.Function0",
+                    "hasDefault": true,
+                    "composableSlot": true,
+                    "composableSlotReceiver": null,
+                    "nullable": true,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
+                },
+                {
+                    "name": "subtitle",
+                    "type": "(() -> Unit)?",
+                    "typeFqn": "kotlin.Function0",
+                    "hasDefault": true,
+                    "composableSlot": true,
+                    "composableSlotReceiver": null,
+                    "nullable": true,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
+                },
+                {
+                    "name": "header",
+                    "type": "(() -> Unit)?",
+                    "typeFqn": "kotlin.Function0",
+                    "hasDefault": true,
+                    "composableSlot": true,
+                    "composableSlotReceiver": null,
+                    "nullable": true,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
+                },
+                {
+                    "name": "leadingIcon",
+                    "type": "(() -> Unit)?",
+                    "typeFqn": "kotlin.Function0",
+                    "hasDefault": true,
+                    "composableSlot": true,
+                    "composableSlotReceiver": null,
+                    "nullable": true,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
+                },
+                {
+                    "name": "trailingIcon",
+                    "type": "(() -> Unit)?",
+                    "typeFqn": "kotlin.Function0",
+                    "hasDefault": true,
+                    "composableSlot": true,
+                    "composableSlotReceiver": null,
+                    "nullable": true,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
+                },
+                {
+                    "name": "shape",
+                    "type": "Shape",
+                    "typeFqn": "androidx.compose.ui.graphics.Shape",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "color",
+                    "type": "Color",
+                    "typeFqn": "androidx.compose.ui.graphics.Color",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "contentColor",
+                    "type": "Color",
+                    "typeFqn": "androidx.compose.ui.graphics.Color",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "contentPadding",
+                    "type": "PaddingValues",
+                    "typeFqn": "androidx.compose.foundation.layout.PaddingValues",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "content",
+                    "type": "() -> Unit",
+                    "typeFqn": "kotlin.Function0",
+                    "hasDefault": false,
+                    "composableSlot": true,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
+                }
+            ],
+            "slots": [
+                {
+                    "name": "action",
+                    "required": true,
+                    "receiverScope": null
+                },
+                {
+                    "name": "title",
+                    "required": false,
+                    "receiverScope": null
+                },
+                {
+                    "name": "subtitle",
+                    "required": false,
+                    "receiverScope": null
+                },
+                {
+                    "name": "header",
+                    "required": false,
+                    "receiverScope": null
+                },
+                {
+                    "name": "leadingIcon",
+                    "required": false,
+                    "receiverScope": null
+                },
+                {
+                    "name": "trailingIcon",
+                    "required": false,
+                    "receiverScope": null
+                },
+                {
+                    "name": "content",
+                    "required": true,
+                    "receiverScope": null
+                }
+            ],
+            "bindings": [
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.CardsKt.CardActionSticker",
+                    "componentId": "Card",
+                    "group": null
+                }
+            ],
+            "code": {
+                "call": "ActionCard(action = {}, content = {})",
+                "imports": [
+                    "androidx.xr.glimmer.ActionCard"
+                ],
+                "refusedReason": null,
+                "requiredOptIns": [],
+                "androidxOptIns": []
+            },
+            "signatureKnown": true,
+            "callableFromAnotherFile": true,
+            "hasTypeParameters": false,
+            "hasContextReceivers": false,
+            "overloadsCollided": false,
+            "builder": {
+                "id": null,
+                "component": "ActionCard",
+                "declaredForCatalogId": "Card",
+                "group": null,
+                "displayName": null,
+                "canvas": null,
+                "stateCallbacks": [],
+                "starter": [],
+                "slots": [],
+                "traits": [],
+                "variantProperty": null,
+                "variants": [],
+                "nativeOnly": true,
+                "exclude": null,
+                "declaredBy": [
+                    "ee.schimke.m3catalog.glimmer.CardsKt.CardActionSticker"
+                ],
+                "conflicting": [],
+                "ambiguousWith": [],
+                "malformed": []
+            },
+            "requiredOptIns": [],
+            "androidxOptIns": []
+        },
+        {
+            "canonicalId": "catalog/androidx.xr.glimmer.CardKt.Card",
+            "componentIds": [
+                "Card",
+                "VerticalStack"
+            ],
+            "symbol": {
+                "jvmOwner": "androidx.xr.glimmer.CardKt",
+                "callable": "androidx.xr.glimmer.Card",
+                "name": "Card",
+                "origin": "LIBRARY",
+                "jvmName": "Card-xOHPqjQ",
+                "descriptor": "(Landroidx/compose/ui/Modifier;Lkotlin/jvm/functions/Function2;Lkotlin/jvm/functions/Function2;Lkotlin/jvm/functions/Function2;Lkotlin/jvm/functions/Function2;Lkotlin/jvm/functions/Function2;Landroidx/compose/ui/graphics/Shape;JJLandroidx/compose/foundation/layout/PaddingValues;Landroidx/compose/foundation/interaction/MutableInteractionSource;Lkotlin/jvm/functions/Function2;Landroidx/compose/runtime/Composer;III)V",
+                "sourceFile": null,
+                "docs": "unavailable",
+                "receiver": null
+            },
+            "parameters": [
+                {
+                    "name": "modifier",
+                    "type": "Modifier",
+                    "typeFqn": "androidx.compose.ui.Modifier",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "title",
+                    "type": "(() -> Unit)?",
+                    "typeFqn": "kotlin.Function0",
+                    "hasDefault": true,
+                    "composableSlot": true,
+                    "composableSlotReceiver": null,
+                    "nullable": true,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
+                },
+                {
+                    "name": "subtitle",
+                    "type": "(() -> Unit)?",
+                    "typeFqn": "kotlin.Function0",
+                    "hasDefault": true,
+                    "composableSlot": true,
+                    "composableSlotReceiver": null,
+                    "nullable": true,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
+                },
+                {
+                    "name": "header",
+                    "type": "(() -> Unit)?",
+                    "typeFqn": "kotlin.Function0",
+                    "hasDefault": true,
+                    "composableSlot": true,
+                    "composableSlotReceiver": null,
+                    "nullable": true,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
+                },
+                {
+                    "name": "leadingIcon",
+                    "type": "(() -> Unit)?",
+                    "typeFqn": "kotlin.Function0",
+                    "hasDefault": true,
+                    "composableSlot": true,
+                    "composableSlotReceiver": null,
+                    "nullable": true,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
+                },
+                {
+                    "name": "trailingIcon",
+                    "type": "(() -> Unit)?",
+                    "typeFqn": "kotlin.Function0",
+                    "hasDefault": true,
+                    "composableSlot": true,
+                    "composableSlotReceiver": null,
+                    "nullable": true,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
+                },
+                {
+                    "name": "shape",
+                    "type": "Shape",
+                    "typeFqn": "androidx.compose.ui.graphics.Shape",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "color",
+                    "type": "Color",
+                    "typeFqn": "androidx.compose.ui.graphics.Color",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "contentColor",
+                    "type": "Color",
+                    "typeFqn": "androidx.compose.ui.graphics.Color",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "contentPadding",
+                    "type": "PaddingValues",
+                    "typeFqn": "androidx.compose.foundation.layout.PaddingValues",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "interactionSource",
+                    "type": "MutableInteractionSource?",
+                    "typeFqn": "androidx.compose.foundation.interaction.MutableInteractionSource",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": true,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "content",
+                    "type": "() -> Unit",
+                    "typeFqn": "kotlin.Function0",
+                    "hasDefault": false,
+                    "composableSlot": true,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
+                }
+            ],
+            "slots": [
+                {
+                    "name": "title",
+                    "required": false,
+                    "receiverScope": null
+                },
+                {
+                    "name": "subtitle",
+                    "required": false,
+                    "receiverScope": null
+                },
+                {
+                    "name": "header",
+                    "required": false,
+                    "receiverScope": null
+                },
+                {
+                    "name": "leadingIcon",
+                    "required": false,
+                    "receiverScope": null
+                },
+                {
+                    "name": "trailingIcon",
+                    "required": false,
+                    "receiverScope": null
+                },
+                {
+                    "name": "content",
+                    "required": true,
+                    "receiverScope": null
+                }
+            ],
+            "bindings": [
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.CardsKt.CardSticker",
+                    "componentId": "Card",
+                    "group": "Card"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.CardsKt.CardTextOnlySticker",
+                    "componentId": "Card",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.CardsKt.CardTrailingIconSticker",
+                    "componentId": "Card",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.GlimmerEnvironmentsKt.CardOnBusyEnvironment",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.GlimmerEnvironmentsKt.CardOnDarkEnvironment",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.GlimmerEnvironmentsKt.CardOnLightEnvironment",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.GlimmerEnvironmentsKt.CardOnVeniceCanalCatsEnvironment",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.StacksKt.VerticalStackSticker",
+                    "componentId": "VerticalStack",
+                    "group": "Stack"
+                }
+            ],
+            "code": {
+                "call": "Card(content = {})",
+                "imports": [
+                    "androidx.xr.glimmer.Card"
+                ],
+                "refusedReason": null,
+                "requiredOptIns": [],
+                "androidxOptIns": []
+            },
+            "signatureKnown": true,
+            "callableFromAnotherFile": true,
+            "hasTypeParameters": false,
+            "hasContextReceivers": false,
+            "overloadsCollided": false,
+            "builder": {
+                "id": null,
+                "component": "Card",
+                "declaredForCatalogId": "Card",
+                "group": null,
+                "displayName": null,
+                "canvas": null,
+                "stateCallbacks": [],
+                "starter": [],
+                "slots": [],
+                "traits": [],
+                "variantProperty": null,
+                "variants": [],
+                "nativeOnly": true,
+                "exclude": null,
+                "declaredBy": [
+                    "ee.schimke.m3catalog.glimmer.CardsKt.CardSticker"
+                ],
+                "conflicting": [],
+                "ambiguousWith": [],
+                "malformed": []
+            },
+            "requiredOptIns": [],
+            "androidxOptIns": []
+        },
+        {
+            "canonicalId": "catalog/androidx.xr.glimmer.IconButtonKt.IconButton",
+            "componentIds": [
+                "IconButton"
+            ],
+            "symbol": {
+                "jvmOwner": "androidx.xr.glimmer.IconButtonKt",
+                "callable": "androidx.xr.glimmer.IconButton",
+                "name": "IconButton",
+                "origin": "LIBRARY",
+                "jvmName": "IconButton-JXYZ-CY",
+                "descriptor": "(Lkotlin/jvm/functions/Function0;Landroidx/compose/ui/Modifier;ZLandroidx/compose/ui/graphics/Shape;JJLandroidx/compose/foundation/layout/PaddingValues;Landroidx/compose/foundation/interaction/MutableInteractionSource;Lkotlin/jvm/functions/Function2;Landroidx/compose/runtime/Composer;II)V",
+                "sourceFile": null,
+                "docs": "unavailable",
+                "receiver": null
+            },
+            "parameters": [
+                {
+                    "name": "onClick",
+                    "type": "() -> Unit",
+                    "typeFqn": "kotlin.Function0",
+                    "hasDefault": false,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
+                },
+                {
+                    "name": "modifier",
+                    "type": "Modifier",
+                    "typeFqn": "androidx.compose.ui.Modifier",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "enabled",
+                    "type": "Boolean",
+                    "typeFqn": "kotlin.Boolean",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "shape",
+                    "type": "Shape",
+                    "typeFqn": "androidx.compose.ui.graphics.Shape",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "color",
+                    "type": "Color",
+                    "typeFqn": "androidx.compose.ui.graphics.Color",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "contentColor",
+                    "type": "Color",
+                    "typeFqn": "androidx.compose.ui.graphics.Color",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "contentPadding",
+                    "type": "PaddingValues",
+                    "typeFqn": "androidx.compose.foundation.layout.PaddingValues",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "interactionSource",
+                    "type": "MutableInteractionSource?",
+                    "typeFqn": "androidx.compose.foundation.interaction.MutableInteractionSource",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": true,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "content",
+                    "type": "() -> Unit",
+                    "typeFqn": "kotlin.Function0",
+                    "hasDefault": false,
+                    "composableSlot": true,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
+                }
+            ],
+            "slots": [
+                {
+                    "name": "content",
+                    "required": true,
+                    "receiverScope": null
+                }
+            ],
+            "bindings": [
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.IconButtonsKt.IconButtonSticker",
+                    "componentId": "IconButton",
+                    "group": "Icon button"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.IconButtonsKt.IconButtonSticker_VARIANT_disabled",
+                    "componentId": "IconButton",
+                    "group": "Icon button"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.IconButtonsKt.IconButtonSticker_VARIANT_focused",
+                    "componentId": "IconButton",
+                    "group": "Icon button"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.IconButtonsKt.IconButtonSticker_VARIANT_pressed",
+                    "componentId": "IconButton",
+                    "group": "Icon button"
+                }
+            ],
+            "code": {
+                "call": "IconButton(onClick = {}, content = {})",
+                "imports": [
+                    "androidx.xr.glimmer.IconButton"
+                ],
+                "refusedReason": null,
+                "requiredOptIns": [],
+                "androidxOptIns": []
+            },
+            "signatureKnown": true,
+            "callableFromAnotherFile": true,
+            "hasTypeParameters": false,
+            "hasContextReceivers": false,
+            "overloadsCollided": false,
+            "builder": {
+                "id": null,
+                "component": "IconButton",
+                "declaredForCatalogId": "IconButton",
+                "group": null,
+                "displayName": null,
+                "canvas": null,
+                "stateCallbacks": [],
+                "starter": [],
+                "slots": [],
+                "traits": [],
+                "variantProperty": null,
+                "variants": [],
+                "nativeOnly": true,
+                "exclude": null,
+                "declaredBy": [
+                    "ee.schimke.m3catalog.glimmer.IconButtonsKt.IconButtonSticker",
+                    "ee.schimke.m3catalog.glimmer.IconButtonsKt.IconButtonSticker_VARIANT_disabled",
+                    "ee.schimke.m3catalog.glimmer.IconButtonsKt.IconButtonSticker_VARIANT_focused",
+                    "ee.schimke.m3catalog.glimmer.IconButtonsKt.IconButtonSticker_VARIANT_pressed"
+                ],
+                "conflicting": [],
+                "ambiguousWith": [],
+                "malformed": []
+            },
+            "requiredOptIns": [],
+            "androidxOptIns": []
+        },
+        {
+            "canonicalId": "catalog/androidx.xr.glimmer.IconKt.Icon",
+            "componentIds": [
+                "Button",
+                "ButtonGroup",
+                "Card",
+                "GlimmerLazyColumn",
+                "GlimmerLazyColumn/TwoLine",
+                "IconButton",
+                "IconToggleButton",
+                "ListItem",
+                "TitleChip",
+                "ToggleButton"
+            ],
+            "symbol": {
+                "jvmOwner": "androidx.xr.glimmer.IconKt",
+                "callable": "androidx.xr.glimmer.Icon",
+                "name": "Icon",
+                "origin": "LIBRARY",
+                "jvmName": "Icon",
+                "descriptor": "(Landroidx/compose/ui/graphics/vector/ImageVector;Ljava/lang/String;Landroidx/compose/ui/Modifier;Landroidx/compose/runtime/Composer;II)V",
+                "sourceFile": null,
+                "docs": "unavailable",
+                "receiver": null
+            },
+            "parameters": [
+                {
+                    "name": "imageVector",
+                    "type": "ImageVector",
+                    "typeFqn": "androidx.compose.ui.graphics.vector.ImageVector",
+                    "hasDefault": false,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "contentDescription",
+                    "type": "String?",
+                    "typeFqn": "kotlin.String",
+                    "hasDefault": false,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": true,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "modifier",
+                    "type": "Modifier",
+                    "typeFqn": "androidx.compose.ui.Modifier",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                }
+            ],
+            "slots": [],
+            "bindings": [
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker",
+                    "componentId": "ButtonGroup",
+                    "group": "Button group"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonsKt.ButtonLargeSticker",
+                    "componentId": "Button",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonsKt.ButtonLargeSticker_VARIANT_disabled",
+                    "componentId": "Button",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonsKt.ButtonLargeSticker_VARIANT_focused",
+                    "componentId": "Button",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonsKt.ButtonLargeSticker_VARIANT_pressed",
+                    "componentId": "Button",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonsKt.ButtonSticker",
+                    "componentId": "Button",
+                    "group": "Button"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonsKt.ButtonSticker_VARIANT_disabled",
+                    "componentId": "Button",
+                    "group": "Button"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonsKt.ButtonSticker_VARIANT_focused",
+                    "componentId": "Button",
+                    "group": "Button"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonsKt.ButtonSticker_VARIANT_pressed",
+                    "componentId": "Button",
+                    "group": "Button"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonsKt.ButtonTrailingIconSticker",
+                    "componentId": "Button",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonsKt.ToggleButtonCheckedSticker",
+                    "componentId": "ToggleButton",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonsKt.ToggleButtonLargeSticker",
+                    "componentId": "ToggleButton",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonsKt.ToggleButtonLargeSticker_VARIANT_disabled",
+                    "componentId": "ToggleButton",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonsKt.ToggleButtonLargeSticker_VARIANT_focused",
+                    "componentId": "ToggleButton",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonsKt.ToggleButtonLargeSticker_VARIANT_pressed",
+                    "componentId": "ToggleButton",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonsKt.ToggleButtonSticker",
+                    "componentId": "ToggleButton",
+                    "group": "Button"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonsKt.ToggleButtonSticker_VARIANT_cell-state-enabled-size-large-toggle-true-40000113-4082",
+                    "componentId": "ToggleButton",
+                    "group": "Button"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonsKt.ToggleButtonSticker_VARIANT_cell-state-focused-size-default-toggle-true-40000113-4092",
+                    "componentId": "ToggleButton",
+                    "group": "Button"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonsKt.ToggleButtonSticker_VARIANT_cell-state-focused-size-large-toggle-true-40000113-4112",
+                    "componentId": "ToggleButton",
+                    "group": "Button"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonsKt.ToggleButtonSticker_VARIANT_cell-state-pressed-size-default-toggle-true-40000113-4102",
+                    "componentId": "ToggleButton",
+                    "group": "Button"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonsKt.ToggleButtonSticker_VARIANT_cell-state-pressed-size-large-toggle-true-40000113-4122",
+                    "componentId": "ToggleButton",
+                    "group": "Button"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonsKt.ToggleButtonSticker_VARIANT_disabled",
+                    "componentId": "ToggleButton",
+                    "group": "Button"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonsKt.ToggleButtonSticker_VARIANT_focused",
+                    "componentId": "ToggleButton",
+                    "group": "Button"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonsKt.ToggleButtonSticker_VARIANT_pressed",
+                    "componentId": "ToggleButton",
+                    "group": "Button"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.CardsKt.CardSticker",
+                    "componentId": "Card",
+                    "group": "Card"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.CardsKt.CardTrailingIconSticker",
+                    "componentId": "Card",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.CardsKt.TitleChipSticker",
+                    "componentId": "TitleChip",
+                    "group": "Card"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.GlimmerEnvironmentsKt.ButtonOnBusyEnvironment",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.GlimmerEnvironmentsKt.ButtonOnDarkEnvironment",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.GlimmerEnvironmentsKt.ButtonOnLightEnvironment",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.GlimmerEnvironmentsKt.ButtonOnVeniceCanalCatsEnvironment",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.GlimmerEnvironmentsKt.CardOnBusyEnvironment",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.GlimmerEnvironmentsKt.CardOnDarkEnvironment",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.GlimmerEnvironmentsKt.CardOnLightEnvironment",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.GlimmerEnvironmentsKt.CardOnVeniceCanalCatsEnvironment",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.IconButtonsKt.IconButtonSticker",
+                    "componentId": "IconButton",
+                    "group": "Icon button"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.IconButtonsKt.IconButtonSticker_VARIANT_disabled",
+                    "componentId": "IconButton",
+                    "group": "Icon button"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.IconButtonsKt.IconButtonSticker_VARIANT_focused",
+                    "componentId": "IconButton",
+                    "group": "Icon button"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.IconButtonsKt.IconButtonSticker_VARIANT_pressed",
+                    "componentId": "IconButton",
+                    "group": "Icon button"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.IconButtonsKt.IconToggleButtonCheckedSticker",
+                    "componentId": "IconToggleButton",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.IconButtonsKt.IconToggleButtonSticker",
+                    "componentId": "IconToggleButton",
+                    "group": "Icon button"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.IconButtonsKt.IconToggleButtonSticker_VARIANT_cell-toggle-true-state-focused-40000113-4188",
+                    "componentId": "IconToggleButton",
+                    "group": "Icon button"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.IconButtonsKt.IconToggleButtonSticker_VARIANT_cell-toggle-true-state-pressed-40000113-4195",
+                    "componentId": "IconToggleButton",
+                    "group": "Icon button"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.IconButtonsKt.IconToggleButtonSticker_VARIANT_disabled",
+                    "componentId": "IconToggleButton",
+                    "group": "Icon button"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.IconButtonsKt.IconToggleButtonSticker_VARIANT_focused",
+                    "componentId": "IconToggleButton",
+                    "group": "Icon button"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.IconButtonsKt.IconToggleButtonSticker_VARIANT_pressed",
+                    "componentId": "IconToggleButton",
+                    "group": "Icon button"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnSticker",
+                    "componentId": "GlimmerLazyColumn",
+                    "group": "Lazy list"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnTwoLineSticker",
+                    "componentId": "GlimmerLazyColumn/TwoLine",
+                    "group": "Lazy list"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnWithTitleSticker",
+                    "componentId": "GlimmerLazyColumn",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ListsKt.ListItemSticker",
+                    "componentId": "ListItem",
+                    "group": "List item"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ListsKt.ListItemSticker_VARIANT_focused",
+                    "componentId": "ListItem",
+                    "group": "List item"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ListsKt.ListItemSticker_VARIANT_pressed",
+                    "componentId": "ListItem",
+                    "group": "List item"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ListsKt.ListItemSupportingIconSticker",
+                    "componentId": "ListItem",
+                    "group": null
+                }
+            ],
+            "code": {
+                "call": null,
+                "imports": [],
+                "refusedReason": "no placeholder can be written for required parameter `imageVector: ImageVector`",
+                "requiredOptIns": [],
+                "androidxOptIns": []
+            },
+            "signatureKnown": true,
+            "callableFromAnotherFile": true,
+            "hasTypeParameters": false,
+            "hasContextReceivers": false,
+            "overloadsCollided": false,
+            "builder": null,
+            "requiredOptIns": [],
+            "androidxOptIns": []
+        },
+        {
+            "canonicalId": "catalog/androidx.xr.glimmer.IconToggleButtonKt.IconToggleButton",
+            "componentIds": [
+                "IconToggleButton"
+            ],
+            "symbol": {
+                "jvmOwner": "androidx.xr.glimmer.IconToggleButtonKt",
+                "callable": "androidx.xr.glimmer.IconToggleButton",
+                "name": "IconToggleButton",
+                "origin": "LIBRARY",
+                "jvmName": "IconToggleButton",
+                "descriptor": "(ZLkotlin/jvm/functions/Function1;Landroidx/compose/ui/Modifier;Landroidx/compose/ui/graphics/Shape;Landroidx/xr/glimmer/IconToggleButtonColors;ZLandroidx/compose/foundation/layout/PaddingValues;Landroidx/compose/foundation/interaction/MutableInteractionSource;Lkotlin/jvm/functions/Function2;Landroidx/compose/runtime/Composer;II)V",
+                "sourceFile": null,
+                "docs": "unavailable",
+                "receiver": null
+            },
+            "parameters": [
+                {
+                    "name": "checked",
+                    "type": "Boolean",
+                    "typeFqn": "kotlin.Boolean",
+                    "hasDefault": false,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "onCheckedChange",
+                    "type": "(Boolean) -> Unit",
+                    "typeFqn": "kotlin.Function1",
+                    "hasDefault": false,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
+                },
+                {
+                    "name": "modifier",
+                    "type": "Modifier",
+                    "typeFqn": "androidx.compose.ui.Modifier",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "shape",
+                    "type": "Shape",
+                    "typeFqn": "androidx.compose.ui.graphics.Shape",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "colors",
+                    "type": "IconToggleButtonColors",
+                    "typeFqn": "androidx.xr.glimmer.IconToggleButtonColors",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "enabled",
+                    "type": "Boolean",
+                    "typeFqn": "kotlin.Boolean",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "contentPadding",
+                    "type": "PaddingValues",
+                    "typeFqn": "androidx.compose.foundation.layout.PaddingValues",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "interactionSource",
+                    "type": "MutableInteractionSource?",
+                    "typeFqn": "androidx.compose.foundation.interaction.MutableInteractionSource",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": true,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "content",
+                    "type": "() -> Unit",
+                    "typeFqn": "kotlin.Function0",
+                    "hasDefault": false,
+                    "composableSlot": true,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
+                }
+            ],
+            "slots": [
+                {
+                    "name": "content",
+                    "required": true,
+                    "receiverScope": null
+                }
+            ],
+            "bindings": [
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.IconButtonsKt.IconToggleButtonCheckedSticker",
+                    "componentId": "IconToggleButton",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.IconButtonsKt.IconToggleButtonSticker",
+                    "componentId": "IconToggleButton",
+                    "group": "Icon button"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.IconButtonsKt.IconToggleButtonSticker_VARIANT_cell-toggle-true-state-focused-40000113-4188",
+                    "componentId": "IconToggleButton",
+                    "group": "Icon button"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.IconButtonsKt.IconToggleButtonSticker_VARIANT_cell-toggle-true-state-pressed-40000113-4195",
+                    "componentId": "IconToggleButton",
+                    "group": "Icon button"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.IconButtonsKt.IconToggleButtonSticker_VARIANT_disabled",
+                    "componentId": "IconToggleButton",
+                    "group": "Icon button"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.IconButtonsKt.IconToggleButtonSticker_VARIANT_focused",
+                    "componentId": "IconToggleButton",
+                    "group": "Icon button"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.IconButtonsKt.IconToggleButtonSticker_VARIANT_pressed",
+                    "componentId": "IconToggleButton",
+                    "group": "Icon button"
+                }
+            ],
+            "code": {
+                "call": "IconToggleButton(checked = false, onCheckedChange = {}, content = {})",
+                "imports": [
+                    "androidx.xr.glimmer.IconToggleButton"
+                ],
+                "refusedReason": null,
+                "requiredOptIns": [],
+                "androidxOptIns": []
+            },
+            "signatureKnown": true,
+            "callableFromAnotherFile": true,
+            "hasTypeParameters": false,
+            "hasContextReceivers": false,
+            "overloadsCollided": false,
+            "builder": {
+                "id": null,
+                "component": "IconToggleButton",
+                "declaredForCatalogId": "IconToggleButton",
+                "group": null,
+                "displayName": null,
+                "canvas": null,
+                "stateCallbacks": [],
+                "starter": [],
+                "slots": [],
+                "traits": [],
+                "variantProperty": null,
+                "variants": [],
+                "nativeOnly": true,
+                "exclude": null,
+                "declaredBy": [
+                    "ee.schimke.m3catalog.glimmer.IconButtonsKt.IconToggleButtonSticker",
+                    "ee.schimke.m3catalog.glimmer.IconButtonsKt.IconToggleButtonSticker_VARIANT_cell-toggle-true-state-focused-40000113-4188",
+                    "ee.schimke.m3catalog.glimmer.IconButtonsKt.IconToggleButtonSticker_VARIANT_cell-toggle-true-state-pressed-40000113-4195",
+                    "ee.schimke.m3catalog.glimmer.IconButtonsKt.IconToggleButtonSticker_VARIANT_disabled",
+                    "ee.schimke.m3catalog.glimmer.IconButtonsKt.IconToggleButtonSticker_VARIANT_focused",
+                    "ee.schimke.m3catalog.glimmer.IconButtonsKt.IconToggleButtonSticker_VARIANT_pressed"
+                ],
+                "conflicting": [],
+                "ambiguousWith": [],
+                "malformed": []
+            },
+            "requiredOptIns": [],
+            "androidxOptIns": []
+        },
+        {
+            "canonicalId": "catalog/androidx.xr.glimmer.ListItemKt.ListItem",
+            "componentIds": [
+                "GlimmerLazyColumn",
+                "GlimmerLazyColumn/TwoLine",
+                "ListItem"
+            ],
+            "symbol": {
+                "jvmOwner": "androidx.xr.glimmer.ListItemKt",
+                "callable": "androidx.xr.glimmer.ListItem",
+                "name": "ListItem",
+                "origin": "LIBRARY",
+                "jvmName": "ListItem-QPuc2h0",
+                "descriptor": "(Lkotlin/jvm/functions/Function0;Landroidx/compose/ui/Modifier;Lkotlin/jvm/functions/Function2;Lkotlin/jvm/functions/Function2;Lkotlin/jvm/functions/Function2;Landroidx/compose/ui/graphics/Shape;JJLandroidx/compose/foundation/layout/PaddingValues;Landroidx/compose/foundation/interaction/MutableInteractionSource;Lkotlin/jvm/functions/Function2;Landroidx/compose/runtime/Composer;III)V",
+                "sourceFile": null,
+                "docs": "unavailable",
+                "receiver": null
+            },
+            "parameters": [
+                {
+                    "name": "onClick",
+                    "type": "() -> Unit",
+                    "typeFqn": "kotlin.Function0",
+                    "hasDefault": false,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
+                },
+                {
+                    "name": "modifier",
+                    "type": "Modifier",
+                    "typeFqn": "androidx.compose.ui.Modifier",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "supportingLabel",
+                    "type": "(() -> Unit)?",
+                    "typeFqn": "kotlin.Function0",
+                    "hasDefault": true,
+                    "composableSlot": true,
+                    "composableSlotReceiver": null,
+                    "nullable": true,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
+                },
+                {
+                    "name": "leadingIcon",
+                    "type": "(() -> Unit)?",
+                    "typeFqn": "kotlin.Function0",
+                    "hasDefault": true,
+                    "composableSlot": true,
+                    "composableSlotReceiver": null,
+                    "nullable": true,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
+                },
+                {
+                    "name": "trailingIcon",
+                    "type": "(() -> Unit)?",
+                    "typeFqn": "kotlin.Function0",
+                    "hasDefault": true,
+                    "composableSlot": true,
+                    "composableSlotReceiver": null,
+                    "nullable": true,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
+                },
+                {
+                    "name": "shape",
+                    "type": "Shape",
+                    "typeFqn": "androidx.compose.ui.graphics.Shape",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "color",
+                    "type": "Color",
+                    "typeFqn": "androidx.compose.ui.graphics.Color",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "contentColor",
+                    "type": "Color",
+                    "typeFqn": "androidx.compose.ui.graphics.Color",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "contentPadding",
+                    "type": "PaddingValues",
+                    "typeFqn": "androidx.compose.foundation.layout.PaddingValues",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "interactionSource",
+                    "type": "MutableInteractionSource?",
+                    "typeFqn": "androidx.compose.foundation.interaction.MutableInteractionSource",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": true,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "content",
+                    "type": "() -> Unit",
+                    "typeFqn": "kotlin.Function0",
+                    "hasDefault": false,
+                    "composableSlot": true,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
+                }
+            ],
+            "slots": [
+                {
+                    "name": "supportingLabel",
+                    "required": false,
+                    "receiverScope": null
+                },
+                {
+                    "name": "leadingIcon",
+                    "required": false,
+                    "receiverScope": null
+                },
+                {
+                    "name": "trailingIcon",
+                    "required": false,
+                    "receiverScope": null
+                },
+                {
+                    "name": "content",
+                    "required": true,
+                    "receiverScope": null
+                }
+            ],
+            "bindings": [
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnSticker",
+                    "componentId": "GlimmerLazyColumn",
+                    "group": "Lazy list"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnTwoLineSticker",
+                    "componentId": "GlimmerLazyColumn/TwoLine",
+                    "group": "Lazy list"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnWithTitleSticker",
+                    "componentId": "GlimmerLazyColumn",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ListsKt.ListItemSticker",
+                    "componentId": "ListItem",
+                    "group": "List item"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ListsKt.ListItemSticker_VARIANT_focused",
+                    "componentId": "ListItem",
+                    "group": "List item"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ListsKt.ListItemSticker_VARIANT_pressed",
+                    "componentId": "ListItem",
+                    "group": "List item"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ListsKt.ListItemSupportingIconSticker",
+                    "componentId": "ListItem",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ListsKt.ListItemSupportingSticker",
+                    "componentId": "ListItem",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ListsKt.ListItemSupportingSticker_VARIANT_focused",
+                    "componentId": "ListItem",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ListsKt.ListItemSupportingSticker_VARIANT_pressed",
+                    "componentId": "ListItem",
+                    "group": null
+                }
+            ],
+            "code": {
+                "call": "ListItem(onClick = {}, content = {})",
+                "imports": [
+                    "androidx.xr.glimmer.ListItem"
+                ],
+                "refusedReason": null,
+                "requiredOptIns": [],
+                "androidxOptIns": []
+            },
+            "signatureKnown": true,
+            "callableFromAnotherFile": true,
+            "hasTypeParameters": false,
+            "hasContextReceivers": false,
+            "overloadsCollided": false,
+            "builder": {
+                "id": null,
+                "component": "ListItem",
+                "declaredForCatalogId": "ListItem",
+                "group": null,
+                "displayName": null,
+                "canvas": null,
+                "stateCallbacks": [],
+                "starter": [],
+                "slots": [],
+                "traits": [],
+                "variantProperty": null,
+                "variants": [],
+                "nativeOnly": true,
+                "exclude": null,
+                "declaredBy": [
+                    "ee.schimke.m3catalog.glimmer.ListsKt.ListItemSticker",
+                    "ee.schimke.m3catalog.glimmer.ListsKt.ListItemSticker_VARIANT_focused",
+                    "ee.schimke.m3catalog.glimmer.ListsKt.ListItemSticker_VARIANT_pressed"
+                ],
+                "conflicting": [],
+                "ambiguousWith": [],
+                "malformed": []
+            },
+            "requiredOptIns": [],
+            "androidxOptIns": []
+        },
+        {
+            "canonicalId": "catalog/androidx.xr.glimmer.TextKt.Text",
+            "componentIds": [
+                "Button",
+                "ButtonGroup",
+                "Card",
+                "GlimmerLazyColumn",
+                "GlimmerLazyColumn/TwoLine",
+                "ListItem",
+                "TitleChip",
+                "ToggleButton",
+                "VerticalStack"
+            ],
+            "symbol": {
+                "jvmOwner": "androidx.xr.glimmer.TextKt",
+                "callable": "androidx.xr.glimmer.Text",
+                "name": "Text",
+                "origin": "LIBRARY",
+                "jvmName": "Text-w6ahP1s",
+                "descriptor": "(Ljava/lang/String;Landroidx/compose/ui/Modifier;JLandroidx/compose/foundation/text/TextAutoSize;JLandroidx/compose/ui/text/font/FontStyle;Landroidx/compose/ui/text/font/FontWeight;Landroidx/compose/ui/text/font/FontFamily;JLandroidx/compose/ui/text/style/TextDecoration;IJIZIILkotlin/jvm/functions/Function1;Landroidx/compose/ui/text/TextStyle;Landroidx/compose/runtime/Composer;III)V",
+                "sourceFile": null,
+                "docs": "unavailable",
+                "receiver": null
+            },
+            "parameters": [
+                {
+                    "name": "text",
+                    "type": "String",
+                    "typeFqn": "kotlin.String",
+                    "hasDefault": false,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "modifier",
+                    "type": "Modifier",
+                    "typeFqn": "androidx.compose.ui.Modifier",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "color",
+                    "type": "Color",
+                    "typeFqn": "androidx.compose.ui.graphics.Color",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "autoSize",
+                    "type": "TextAutoSize?",
+                    "typeFqn": "androidx.compose.foundation.text.TextAutoSize",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": true,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "fontSize",
+                    "type": "TextUnit",
+                    "typeFqn": "androidx.compose.ui.unit.TextUnit",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "fontStyle",
+                    "type": "FontStyle?",
+                    "typeFqn": "androidx.compose.ui.text.font.FontStyle",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": true,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "fontWeight",
+                    "type": "FontWeight?",
+                    "typeFqn": "androidx.compose.ui.text.font.FontWeight",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": true,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "fontFamily",
+                    "type": "FontFamily?",
+                    "typeFqn": "androidx.compose.ui.text.font.FontFamily",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": true,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "letterSpacing",
+                    "type": "TextUnit",
+                    "typeFqn": "androidx.compose.ui.unit.TextUnit",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "textDecoration",
+                    "type": "TextDecoration?",
+                    "typeFqn": "androidx.compose.ui.text.style.TextDecoration",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": true,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "textAlign",
+                    "type": "TextAlign",
+                    "typeFqn": "androidx.compose.ui.text.style.TextAlign",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "lineHeight",
+                    "type": "TextUnit",
+                    "typeFqn": "androidx.compose.ui.unit.TextUnit",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "overflow",
+                    "type": "TextOverflow",
+                    "typeFqn": "androidx.compose.ui.text.style.TextOverflow",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "softWrap",
+                    "type": "Boolean",
+                    "typeFqn": "kotlin.Boolean",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "maxLines",
+                    "type": "Int",
+                    "typeFqn": "kotlin.Int",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "minLines",
+                    "type": "Int",
+                    "typeFqn": "kotlin.Int",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "onTextLayout",
+                    "type": "((TextLayoutResult) -> Unit)?",
+                    "typeFqn": "kotlin.Function1",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": true,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
+                },
+                {
+                    "name": "style",
+                    "type": "TextStyle",
+                    "typeFqn": "androidx.compose.ui.text.TextStyle",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                }
+            ],
+            "slots": [],
+            "bindings": [
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker",
+                    "componentId": "ButtonGroup",
+                    "group": "Button group"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonsKt.ButtonLabelOnlySticker",
+                    "componentId": "Button",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonsKt.ButtonLargeSticker",
+                    "componentId": "Button",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonsKt.ButtonLargeSticker_VARIANT_disabled",
+                    "componentId": "Button",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonsKt.ButtonLargeSticker_VARIANT_focused",
+                    "componentId": "Button",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonsKt.ButtonLargeSticker_VARIANT_pressed",
+                    "componentId": "Button",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonsKt.ButtonSticker",
+                    "componentId": "Button",
+                    "group": "Button"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonsKt.ButtonSticker_VARIANT_disabled",
+                    "componentId": "Button",
+                    "group": "Button"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonsKt.ButtonSticker_VARIANT_focused",
+                    "componentId": "Button",
+                    "group": "Button"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonsKt.ButtonSticker_VARIANT_pressed",
+                    "componentId": "Button",
+                    "group": "Button"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonsKt.ButtonTrailingIconSticker",
+                    "componentId": "Button",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonsKt.ToggleButtonCheckedSticker",
+                    "componentId": "ToggleButton",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonsKt.ToggleButtonLargeSticker",
+                    "componentId": "ToggleButton",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonsKt.ToggleButtonLargeSticker_VARIANT_disabled",
+                    "componentId": "ToggleButton",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonsKt.ToggleButtonLargeSticker_VARIANT_focused",
+                    "componentId": "ToggleButton",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonsKt.ToggleButtonLargeSticker_VARIANT_pressed",
+                    "componentId": "ToggleButton",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonsKt.ToggleButtonSticker",
+                    "componentId": "ToggleButton",
+                    "group": "Button"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonsKt.ToggleButtonSticker_VARIANT_cell-state-enabled-size-large-toggle-true-40000113-4082",
+                    "componentId": "ToggleButton",
+                    "group": "Button"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonsKt.ToggleButtonSticker_VARIANT_cell-state-focused-size-default-toggle-true-40000113-4092",
+                    "componentId": "ToggleButton",
+                    "group": "Button"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonsKt.ToggleButtonSticker_VARIANT_cell-state-focused-size-large-toggle-true-40000113-4112",
+                    "componentId": "ToggleButton",
+                    "group": "Button"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonsKt.ToggleButtonSticker_VARIANT_cell-state-pressed-size-default-toggle-true-40000113-4102",
+                    "componentId": "ToggleButton",
+                    "group": "Button"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonsKt.ToggleButtonSticker_VARIANT_cell-state-pressed-size-large-toggle-true-40000113-4122",
+                    "componentId": "ToggleButton",
+                    "group": "Button"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonsKt.ToggleButtonSticker_VARIANT_disabled",
+                    "componentId": "ToggleButton",
+                    "group": "Button"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonsKt.ToggleButtonSticker_VARIANT_focused",
+                    "componentId": "ToggleButton",
+                    "group": "Button"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonsKt.ToggleButtonSticker_VARIANT_pressed",
+                    "componentId": "ToggleButton",
+                    "group": "Button"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.CardsKt.CardActionSticker",
+                    "componentId": "Card",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.CardsKt.CardSticker",
+                    "componentId": "Card",
+                    "group": "Card"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.CardsKt.CardTextOnlySticker",
+                    "componentId": "Card",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.CardsKt.CardTrailingIconSticker",
+                    "componentId": "Card",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.CardsKt.TitleChipLabelOnlySticker",
+                    "componentId": "TitleChip",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.CardsKt.TitleChipSticker",
+                    "componentId": "TitleChip",
+                    "group": "Card"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.GlimmerEnvironmentsKt.ButtonOnBusyEnvironment",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.GlimmerEnvironmentsKt.ButtonOnDarkEnvironment",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.GlimmerEnvironmentsKt.ButtonOnLightEnvironment",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.GlimmerEnvironmentsKt.ButtonOnVeniceCanalCatsEnvironment",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.GlimmerEnvironmentsKt.CardOnBusyEnvironment",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.GlimmerEnvironmentsKt.CardOnDarkEnvironment",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.GlimmerEnvironmentsKt.CardOnLightEnvironment",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.GlimmerEnvironmentsKt.CardOnVeniceCanalCatsEnvironment",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnSticker",
+                    "componentId": "GlimmerLazyColumn",
+                    "group": "Lazy list"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnTwoLineSticker",
+                    "componentId": "GlimmerLazyColumn/TwoLine",
+                    "group": "Lazy list"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnWithTitleSticker",
+                    "componentId": "GlimmerLazyColumn",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ListsKt.ListItemSticker",
+                    "componentId": "ListItem",
+                    "group": "List item"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ListsKt.ListItemSticker_VARIANT_focused",
+                    "componentId": "ListItem",
+                    "group": "List item"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ListsKt.ListItemSticker_VARIANT_pressed",
+                    "componentId": "ListItem",
+                    "group": "List item"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ListsKt.ListItemSupportingIconSticker",
+                    "componentId": "ListItem",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ListsKt.ListItemSupportingSticker",
+                    "componentId": "ListItem",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ListsKt.ListItemSupportingSticker_VARIANT_focused",
+                    "componentId": "ListItem",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ListsKt.ListItemSupportingSticker_VARIANT_pressed",
+                    "componentId": "ListItem",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.StacksKt.VerticalStackSticker",
+                    "componentId": "VerticalStack",
+                    "group": "Stack"
+                }
+            ],
+            "code": {
+                "call": "Text(text = \"\")",
+                "imports": [
+                    "androidx.xr.glimmer.Text"
+                ],
+                "refusedReason": null,
+                "requiredOptIns": [],
+                "androidxOptIns": []
+            },
+            "signatureKnown": true,
+            "callableFromAnotherFile": true,
+            "hasTypeParameters": false,
+            "hasContextReceivers": false,
+            "overloadsCollided": false,
+            "builder": null,
+            "requiredOptIns": [],
+            "androidxOptIns": []
+        },
+        {
+            "canonicalId": "catalog/androidx.xr.glimmer.TitleChipKt.TitleChip",
+            "componentIds": [
+                "GlimmerLazyColumn",
+                "TitleChip"
+            ],
+            "symbol": {
+                "jvmOwner": "androidx.xr.glimmer.TitleChipKt",
+                "callable": "androidx.xr.glimmer.TitleChip",
+                "name": "TitleChip",
+                "origin": "LIBRARY",
+                "jvmName": "TitleChip-vRFhKjU",
+                "descriptor": "(Landroidx/compose/ui/Modifier;Lkotlin/jvm/functions/Function2;Landroidx/compose/ui/graphics/Shape;JJLandroidx/compose/foundation/layout/PaddingValues;Lkotlin/jvm/functions/Function3;Landroidx/compose/runtime/Composer;II)V",
+                "sourceFile": null,
+                "docs": "unavailable",
+                "receiver": null
+            },
+            "parameters": [
+                {
+                    "name": "modifier",
+                    "type": "Modifier",
+                    "typeFqn": "androidx.compose.ui.Modifier",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "leadingIcon",
+                    "type": "(() -> Unit)?",
+                    "typeFqn": "kotlin.Function0",
+                    "hasDefault": true,
+                    "composableSlot": true,
+                    "composableSlotReceiver": null,
+                    "nullable": true,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
+                },
+                {
+                    "name": "shape",
+                    "type": "Shape",
+                    "typeFqn": "androidx.compose.ui.graphics.Shape",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "color",
+                    "type": "Color",
+                    "typeFqn": "androidx.compose.ui.graphics.Color",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "contentColor",
+                    "type": "Color",
+                    "typeFqn": "androidx.compose.ui.graphics.Color",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "contentPadding",
+                    "type": "PaddingValues",
+                    "typeFqn": "androidx.compose.foundation.layout.PaddingValues",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "content",
+                    "type": "RowScope.() -> Unit",
+                    "typeFqn": "kotlin.Function1",
+                    "hasDefault": false,
+                    "composableSlot": true,
+                    "composableSlotReceiver": "androidx.compose.foundation.layout.RowScope",
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
+                }
+            ],
+            "slots": [
+                {
+                    "name": "leadingIcon",
+                    "required": false,
+                    "receiverScope": null
+                },
+                {
+                    "name": "content",
+                    "required": true,
+                    "receiverScope": "androidx.compose.foundation.layout.RowScope"
+                }
+            ],
+            "bindings": [
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.CardsKt.TitleChipLabelOnlySticker",
+                    "componentId": "TitleChip",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.CardsKt.TitleChipSticker",
+                    "componentId": "TitleChip",
+                    "group": "Card"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnWithTitleSticker",
+                    "componentId": "GlimmerLazyColumn",
+                    "group": null
+                }
+            ],
+            "code": {
+                "call": "TitleChip(content = {})",
+                "imports": [
+                    "androidx.xr.glimmer.TitleChip"
+                ],
+                "refusedReason": null,
+                "requiredOptIns": [],
+                "androidxOptIns": []
+            },
+            "signatureKnown": true,
+            "callableFromAnotherFile": true,
+            "hasTypeParameters": false,
+            "hasContextReceivers": false,
+            "overloadsCollided": false,
+            "builder": null,
+            "requiredOptIns": [],
+            "androidxOptIns": []
+        },
+        {
+            "canonicalId": "catalog/androidx.xr.glimmer.ToggleButtonKt.ToggleButton",
+            "componentIds": [
+                "ToggleButton"
+            ],
+            "symbol": {
+                "jvmOwner": "androidx.xr.glimmer.ToggleButtonKt",
+                "callable": "androidx.xr.glimmer.ToggleButton",
+                "name": "ToggleButton",
+                "origin": "LIBRARY",
+                "jvmName": "ToggleButton-Ke2iSyg",
+                "descriptor": "(ZLkotlin/jvm/functions/Function1;Landroidx/compose/ui/Modifier;ZILkotlin/jvm/functions/Function2;Lkotlin/jvm/functions/Function2;Landroidx/compose/ui/graphics/Shape;Landroidx/xr/glimmer/ToggleButtonColors;Landroidx/compose/foundation/layout/PaddingValues;Landroidx/compose/foundation/interaction/MutableInteractionSource;Lkotlin/jvm/functions/Function3;Landroidx/compose/runtime/Composer;III)V",
+                "sourceFile": null,
+                "docs": "unavailable",
+                "receiver": null
+            },
+            "parameters": [
+                {
+                    "name": "checked",
+                    "type": "Boolean",
+                    "typeFqn": "kotlin.Boolean",
+                    "hasDefault": false,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "onCheckedChange",
+                    "type": "(Boolean) -> Unit",
+                    "typeFqn": "kotlin.Function1",
+                    "hasDefault": false,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
+                },
+                {
+                    "name": "modifier",
+                    "type": "Modifier",
+                    "typeFqn": "androidx.compose.ui.Modifier",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "enabled",
+                    "type": "Boolean",
+                    "typeFqn": "kotlin.Boolean",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "buttonSize",
+                    "type": "ButtonSize",
+                    "typeFqn": "androidx.xr.glimmer.ButtonSize",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "leadingIcon",
+                    "type": "(() -> Unit)?",
+                    "typeFqn": "kotlin.Function0",
+                    "hasDefault": true,
+                    "composableSlot": true,
+                    "composableSlotReceiver": null,
+                    "nullable": true,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
+                },
+                {
+                    "name": "trailingIcon",
+                    "type": "(() -> Unit)?",
+                    "typeFqn": "kotlin.Function0",
+                    "hasDefault": true,
+                    "composableSlot": true,
+                    "composableSlotReceiver": null,
+                    "nullable": true,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
+                },
+                {
+                    "name": "shape",
+                    "type": "Shape",
+                    "typeFqn": "androidx.compose.ui.graphics.Shape",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "colors",
+                    "type": "ToggleButtonColors",
+                    "typeFqn": "androidx.xr.glimmer.ToggleButtonColors",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "contentPadding",
+                    "type": "PaddingValues",
+                    "typeFqn": "androidx.compose.foundation.layout.PaddingValues",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "interactionSource",
+                    "type": "MutableInteractionSource?",
+                    "typeFqn": "androidx.compose.foundation.interaction.MutableInteractionSource",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": true,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "content",
+                    "type": "RowScope.() -> Unit",
+                    "typeFqn": "kotlin.Function1",
+                    "hasDefault": false,
+                    "composableSlot": true,
+                    "composableSlotReceiver": "androidx.compose.foundation.layout.RowScope",
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
+                }
+            ],
+            "slots": [
+                {
+                    "name": "leadingIcon",
+                    "required": false,
+                    "receiverScope": null
+                },
+                {
+                    "name": "trailingIcon",
+                    "required": false,
+                    "receiverScope": null
+                },
+                {
+                    "name": "content",
+                    "required": true,
+                    "receiverScope": "androidx.compose.foundation.layout.RowScope"
+                }
+            ],
+            "bindings": [
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonsKt.ToggleButtonCheckedSticker",
+                    "componentId": "ToggleButton",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonsKt.ToggleButtonLargeSticker",
+                    "componentId": "ToggleButton",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonsKt.ToggleButtonLargeSticker_VARIANT_disabled",
+                    "componentId": "ToggleButton",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonsKt.ToggleButtonLargeSticker_VARIANT_focused",
+                    "componentId": "ToggleButton",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonsKt.ToggleButtonLargeSticker_VARIANT_pressed",
+                    "componentId": "ToggleButton",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonsKt.ToggleButtonSticker",
+                    "componentId": "ToggleButton",
+                    "group": "Button"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonsKt.ToggleButtonSticker_VARIANT_cell-state-enabled-size-large-toggle-true-40000113-4082",
+                    "componentId": "ToggleButton",
+                    "group": "Button"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonsKt.ToggleButtonSticker_VARIANT_cell-state-focused-size-default-toggle-true-40000113-4092",
+                    "componentId": "ToggleButton",
+                    "group": "Button"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonsKt.ToggleButtonSticker_VARIANT_cell-state-focused-size-large-toggle-true-40000113-4112",
+                    "componentId": "ToggleButton",
+                    "group": "Button"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonsKt.ToggleButtonSticker_VARIANT_cell-state-pressed-size-default-toggle-true-40000113-4102",
+                    "componentId": "ToggleButton",
+                    "group": "Button"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonsKt.ToggleButtonSticker_VARIANT_cell-state-pressed-size-large-toggle-true-40000113-4122",
+                    "componentId": "ToggleButton",
+                    "group": "Button"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonsKt.ToggleButtonSticker_VARIANT_disabled",
+                    "componentId": "ToggleButton",
+                    "group": "Button"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonsKt.ToggleButtonSticker_VARIANT_focused",
+                    "componentId": "ToggleButton",
+                    "group": "Button"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonsKt.ToggleButtonSticker_VARIANT_pressed",
+                    "componentId": "ToggleButton",
+                    "group": "Button"
+                }
+            ],
+            "code": {
+                "call": "ToggleButton(checked = false, onCheckedChange = {}, content = {})",
+                "imports": [
+                    "androidx.xr.glimmer.ToggleButton"
+                ],
+                "refusedReason": null,
+                "requiredOptIns": [],
+                "androidxOptIns": []
+            },
+            "signatureKnown": true,
+            "callableFromAnotherFile": true,
+            "hasTypeParameters": false,
+            "hasContextReceivers": false,
+            "overloadsCollided": false,
+            "builder": {
+                "id": null,
+                "component": "ToggleButton",
+                "declaredForCatalogId": "ToggleButton",
+                "group": null,
+                "displayName": null,
+                "canvas": null,
+                "stateCallbacks": [],
+                "starter": [],
+                "slots": [],
+                "traits": [],
+                "variantProperty": null,
+                "variants": [],
+                "nativeOnly": true,
+                "exclude": null,
+                "declaredBy": [
+                    "ee.schimke.m3catalog.glimmer.ButtonsKt.ToggleButtonSticker",
+                    "ee.schimke.m3catalog.glimmer.ButtonsKt.ToggleButtonSticker_VARIANT_cell-state-enabled-size-large-toggle-true-40000113-4082",
+                    "ee.schimke.m3catalog.glimmer.ButtonsKt.ToggleButtonSticker_VARIANT_cell-state-focused-size-default-toggle-true-40000113-4092",
+                    "ee.schimke.m3catalog.glimmer.ButtonsKt.ToggleButtonSticker_VARIANT_cell-state-focused-size-large-toggle-true-40000113-4112",
+                    "ee.schimke.m3catalog.glimmer.ButtonsKt.ToggleButtonSticker_VARIANT_cell-state-pressed-size-default-toggle-true-40000113-4102",
+                    "ee.schimke.m3catalog.glimmer.ButtonsKt.ToggleButtonSticker_VARIANT_cell-state-pressed-size-large-toggle-true-40000113-4122",
+                    "ee.schimke.m3catalog.glimmer.ButtonsKt.ToggleButtonSticker_VARIANT_disabled",
+                    "ee.schimke.m3catalog.glimmer.ButtonsKt.ToggleButtonSticker_VARIANT_focused",
+                    "ee.schimke.m3catalog.glimmer.ButtonsKt.ToggleButtonSticker_VARIANT_pressed"
+                ],
+                "conflicting": [],
+                "ambiguousWith": [],
+                "malformed": []
+            },
+            "requiredOptIns": [],
+            "androidxOptIns": []
+        },
+        {
+            "canonicalId": "catalog/androidx.xr.glimmer.VoiceInputIndicatorKt.ContainedVoiceInputIndicator",
+            "componentIds": [
+                "VoiceInputIndicator"
+            ],
+            "symbol": {
+                "jvmOwner": "androidx.xr.glimmer.VoiceInputIndicatorKt",
+                "callable": "androidx.xr.glimmer.ContainedVoiceInputIndicator",
+                "name": "ContainedVoiceInputIndicator",
+                "origin": "LIBRARY",
+                "jvmName": "ContainedVoiceInputIndicator-FNF3uiM",
+                "descriptor": "(Lkotlin/jvm/functions/Function0;Landroidx/compose/ui/Modifier;JLandroidx/compose/runtime/Composer;II)V",
+                "sourceFile": null,
+                "docs": "unavailable",
+                "receiver": null
+            },
+            "parameters": [
+                {
+                    "name": "level",
+                    "type": "() -> Float",
+                    "typeFqn": "kotlin.Function0",
+                    "hasDefault": false,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Float"
+                },
+                {
+                    "name": "modifier",
+                    "type": "Modifier",
+                    "typeFqn": "androidx.compose.ui.Modifier",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "backgroundColor",
+                    "type": "Color",
+                    "typeFqn": "androidx.compose.ui.graphics.Color",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                }
+            ],
+            "slots": [],
+            "bindings": [
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.VoiceInputKt.ContainedVoiceInputIndicatorSticker",
+                    "componentId": "VoiceInputIndicator",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.VoiceInputKt.VoiceInputIndicatorSticker",
+                    "componentId": "VoiceInputIndicator",
+                    "group": "Voice input"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.VoiceInputKt.VoiceInputIndicatorSticker_VARIANT_cell-volume-quiet-contained-yes-40000116-9342",
+                    "componentId": "VoiceInputIndicator",
+                    "group": "Voice input"
+                }
+            ],
+            "code": {
+                "call": "ContainedVoiceInputIndicator(level = { 0f })",
+                "imports": [
+                    "androidx.xr.glimmer.ContainedVoiceInputIndicator"
+                ],
+                "refusedReason": null,
+                "requiredOptIns": [],
+                "androidxOptIns": []
+            },
+            "signatureKnown": true,
+            "callableFromAnotherFile": true,
+            "hasTypeParameters": false,
+            "hasContextReceivers": false,
+            "overloadsCollided": false,
+            "builder": {
+                "id": null,
+                "component": "ContainedVoiceInputIndicator",
+                "declaredForCatalogId": "VoiceInputIndicator",
+                "group": null,
+                "displayName": null,
+                "canvas": null,
+                "stateCallbacks": [],
+                "starter": [],
+                "slots": [],
+                "traits": [],
+                "variantProperty": null,
+                "variants": [],
+                "nativeOnly": true,
+                "exclude": null,
+                "declaredBy": [
+                    "ee.schimke.m3catalog.glimmer.VoiceInputKt.ContainedVoiceInputIndicatorSticker"
+                ],
+                "conflicting": [],
+                "ambiguousWith": [],
+                "malformed": []
+            },
+            "requiredOptIns": [],
+            "androidxOptIns": []
+        },
+        {
+            "canonicalId": "catalog/androidx.xr.glimmer.VoiceInputIndicatorKt.VoiceInputIndicator",
+            "componentIds": [
+                "VoiceInputIndicator"
+            ],
+            "symbol": {
+                "jvmOwner": "androidx.xr.glimmer.VoiceInputIndicatorKt",
+                "callable": "androidx.xr.glimmer.VoiceInputIndicator",
+                "name": "VoiceInputIndicator",
+                "origin": "LIBRARY",
+                "jvmName": "VoiceInputIndicator-FNF3uiM",
+                "descriptor": "(Lkotlin/jvm/functions/Function0;Landroidx/compose/ui/Modifier;JLandroidx/compose/runtime/Composer;II)V",
+                "sourceFile": null,
+                "docs": "unavailable",
+                "receiver": null
+            },
+            "parameters": [
+                {
+                    "name": "level",
+                    "type": "() -> Float",
+                    "typeFqn": "kotlin.Function0",
+                    "hasDefault": false,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Float"
+                },
+                {
+                    "name": "modifier",
+                    "type": "Modifier",
+                    "typeFqn": "androidx.compose.ui.Modifier",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "indicatorColor",
+                    "type": "Color",
+                    "typeFqn": "androidx.compose.ui.graphics.Color",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                }
+            ],
+            "slots": [],
+            "bindings": [
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.VoiceInputKt.QuietVoiceInputIndicatorSticker",
+                    "componentId": "VoiceInputIndicator",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.VoiceInputKt.VoiceInputIndicatorSticker",
+                    "componentId": "VoiceInputIndicator",
+                    "group": "Voice input"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.VoiceInputKt.VoiceInputIndicatorSticker_VARIANT_cell-volume-quiet-contained-yes-40000116-9342",
+                    "componentId": "VoiceInputIndicator",
+                    "group": "Voice input"
+                }
+            ],
+            "code": {
+                "call": "VoiceInputIndicator(level = { 0f })",
+                "imports": [
+                    "androidx.xr.glimmer.VoiceInputIndicator"
+                ],
+                "refusedReason": null,
+                "requiredOptIns": [],
+                "androidxOptIns": []
+            },
+            "signatureKnown": true,
+            "callableFromAnotherFile": true,
+            "hasTypeParameters": false,
+            "hasContextReceivers": false,
+            "overloadsCollided": false,
+            "builder": {
+                "id": null,
+                "component": "VoiceInputIndicator",
+                "declaredForCatalogId": "VoiceInputIndicator",
+                "group": null,
+                "displayName": null,
+                "canvas": null,
+                "stateCallbacks": [],
+                "starter": [],
+                "slots": [],
+                "traits": [],
+                "variantProperty": null,
+                "variants": [],
+                "nativeOnly": true,
+                "exclude": null,
+                "declaredBy": [
+                    "ee.schimke.m3catalog.glimmer.VoiceInputKt.VoiceInputIndicatorSticker",
+                    "ee.schimke.m3catalog.glimmer.VoiceInputKt.VoiceInputIndicatorSticker_VARIANT_cell-volume-quiet-contained-yes-40000116-9342"
+                ],
+                "conflicting": [],
+                "ambiguousWith": [],
+                "malformed": []
+            },
+            "requiredOptIns": [],
+            "androidxOptIns": []
+        },
+        {
+            "canonicalId": "catalog/androidx.xr.glimmer.list.GlimmerLazyListKt.GlimmerLazyColumn",
+            "componentIds": [
+                "GlimmerLazyColumn",
+                "GlimmerLazyColumn/TwoLine"
+            ],
+            "symbol": {
+                "jvmOwner": "androidx.xr.glimmer.list.GlimmerLazyListKt",
+                "callable": "androidx.xr.glimmer.list.GlimmerLazyColumn",
+                "name": "GlimmerLazyColumn",
+                "origin": "LIBRARY",
+                "jvmName": "GlimmerLazyColumn",
+                "descriptor": "(Landroidx/compose/ui/Modifier;Landroidx/xr/glimmer/list/GlimmerLazyListState;Landroidx/compose/foundation/layout/PaddingValues;ZLandroidx/compose/foundation/OverscrollEffect;Landroidx/compose/foundation/gestures/FlingBehavior;ZLandroidx/compose/ui/Alignment$Horizontal;Landroidx/compose/foundation/layout/Arrangement$Vertical;Lkotlin/jvm/functions/Function1;Landroidx/compose/runtime/Composer;II)V",
+                "sourceFile": null,
+                "docs": "unavailable",
+                "receiver": null
+            },
+            "parameters": [
+                {
+                    "name": "modifier",
+                    "type": "Modifier",
+                    "typeFqn": "androidx.compose.ui.Modifier",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "state",
+                    "type": "GlimmerLazyListState",
+                    "typeFqn": "androidx.xr.glimmer.list.GlimmerLazyListState",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "contentPadding",
+                    "type": "PaddingValues",
+                    "typeFqn": "androidx.compose.foundation.layout.PaddingValues",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "userScrollEnabled",
+                    "type": "Boolean",
+                    "typeFqn": "kotlin.Boolean",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "overscrollEffect",
+                    "type": "OverscrollEffect?",
+                    "typeFqn": "androidx.compose.foundation.OverscrollEffect",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": true,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "flingBehavior",
+                    "type": "FlingBehavior",
+                    "typeFqn": "androidx.compose.foundation.gestures.FlingBehavior",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "reverseLayout",
+                    "type": "Boolean",
+                    "typeFqn": "kotlin.Boolean",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "horizontalAlignment",
+                    "type": "Horizontal",
+                    "typeFqn": "androidx.compose.ui.Alignment.Horizontal",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "verticalArrangement",
+                    "type": "Vertical",
+                    "typeFqn": "androidx.compose.foundation.layout.Arrangement.Vertical",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "content",
+                    "type": "GlimmerLazyListScope.() -> Unit",
+                    "typeFqn": "kotlin.Function1",
+                    "hasDefault": false,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": "androidx.xr.glimmer.list.GlimmerLazyListScope",
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
+                }
+            ],
+            "slots": [],
+            "bindings": [
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnSticker",
+                    "componentId": "GlimmerLazyColumn",
+                    "group": "Lazy list"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnTwoLineSticker",
+                    "componentId": "GlimmerLazyColumn/TwoLine",
+                    "group": "Lazy list"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnWithTitleSticker",
+                    "componentId": "GlimmerLazyColumn",
+                    "group": null
+                }
+            ],
+            "code": {
+                "call": "GlimmerLazyColumn(content = {})",
+                "imports": [
+                    "androidx.xr.glimmer.list.GlimmerLazyColumn"
+                ],
+                "refusedReason": null,
+                "requiredOptIns": [],
+                "androidxOptIns": []
+            },
+            "signatureKnown": true,
+            "callableFromAnotherFile": true,
+            "hasTypeParameters": false,
+            "hasContextReceivers": false,
+            "overloadsCollided": false,
+            "builder": {
+                "id": null,
+                "component": "GlimmerLazyColumn",
+                "declaredForCatalogId": "GlimmerLazyColumn",
+                "group": null,
+                "displayName": null,
+                "canvas": null,
+                "stateCallbacks": [],
+                "starter": [],
+                "slots": [],
+                "traits": [],
+                "variantProperty": null,
+                "variants": [],
+                "nativeOnly": true,
+                "exclude": null,
+                "declaredBy": [
+                    "ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnSticker",
+                    "ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnWithTitleSticker"
+                ],
+                "conflicting": [],
+                "ambiguousWith": [],
+                "malformed": []
+            },
+            "requiredOptIns": [],
+            "androidxOptIns": []
+        },
+        {
+            "canonicalId": "catalog/androidx.xr.glimmer.stack.StackKt.VerticalStack",
+            "componentIds": [
+                "VerticalStack"
+            ],
+            "symbol": {
+                "jvmOwner": "androidx.xr.glimmer.stack.StackKt",
+                "callable": "androidx.xr.glimmer.stack.VerticalStack",
+                "name": "VerticalStack",
+                "origin": "LIBRARY",
+                "jvmName": "VerticalStack",
+                "descriptor": "(Landroidx/compose/ui/Modifier;Landroidx/xr/glimmer/stack/StackState;Lkotlin/jvm/functions/Function1;Landroidx/compose/runtime/Composer;II)V",
+                "sourceFile": null,
+                "docs": "unavailable",
+                "receiver": null
+            },
+            "parameters": [
+                {
+                    "name": "modifier",
+                    "type": "Modifier",
+                    "typeFqn": "androidx.compose.ui.Modifier",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "state",
+                    "type": "StackState",
+                    "typeFqn": "androidx.xr.glimmer.stack.StackState",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "content",
+                    "type": "StackScope.() -> Unit",
+                    "typeFqn": "kotlin.Function1",
+                    "hasDefault": false,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": "androidx.xr.glimmer.stack.StackScope",
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
+                }
+            ],
+            "slots": [],
+            "bindings": [
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.StacksKt.VerticalStackSticker",
+                    "componentId": "VerticalStack",
+                    "group": "Stack"
+                }
+            ],
+            "code": {
+                "call": "VerticalStack(content = {})",
+                "imports": [
+                    "androidx.xr.glimmer.stack.VerticalStack"
+                ],
+                "refusedReason": null,
+                "requiredOptIns": [],
+                "androidxOptIns": []
+            },
+            "signatureKnown": true,
+            "callableFromAnotherFile": true,
+            "hasTypeParameters": false,
+            "hasContextReceivers": false,
+            "overloadsCollided": false,
+            "builder": {
+                "id": null,
+                "component": "VerticalStack",
+                "declaredForCatalogId": "VerticalStack",
+                "group": null,
+                "displayName": null,
+                "canvas": null,
+                "stateCallbacks": [],
+                "starter": [],
+                "slots": [],
+                "traits": [],
+                "variantProperty": null,
+                "variants": [],
+                "nativeOnly": true,
+                "exclude": null,
+                "declaredBy": [
+                    "ee.schimke.m3catalog.glimmer.StacksKt.VerticalStackSticker"
+                ],
+                "conflicting": [],
+                "ambiguousWith": [],
+                "malformed": []
+            },
+            "requiredOptIns": [],
+            "androidxOptIns": []
+        },
+        {
+            "canonicalId": "catalog/ee.schimke.m3catalog.glimmer.GlimmerCatalogKt.Sticker",
             "componentIds": [
                 "ButtonGroup",
                 "Card",
