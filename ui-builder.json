@@ -19,8 +19,8 @@
         "componentIdPrefix": "glimmer/",
         "previewSurfaces": {
             "wasm": {
-                "fidelity": "approximate",
-                "reason": "The builder canvas does not yet link this repository's CMP Glimmer port, so components are represented by catalog-aware placeholders."
+                "fidelity": "authoritative",
+                "reason": "The catalog-owned Wasm renderer links this repository's pinned CMP Glimmer port and invokes the real Glimmer composables."
             },
             "native": {
                 "fidelity": "authoritative",
@@ -113,10 +113,10 @@
                 "record": "catalog/androidx.xr.glimmer.ButtonGroupKt.ButtonGroup",
                 "catalogId": "ButtonGroup",
                 "displayName": null,
-                "canvas": null,
+                "canvas": "glimmer/button-group",
                 "canvasMapping": null,
                 "unrolled": null,
-                "nativeOnly": true,
+                "nativeOnly": false,
                 "traits": [],
                 "slots": {},
                 "stateCallbacks": {},
@@ -132,10 +132,10 @@
                 "record": "catalog/androidx.xr.glimmer.ButtonKt.Button",
                 "catalogId": "Button",
                 "displayName": null,
-                "canvas": null,
+                "canvas": "glimmer/button",
                 "canvasMapping": null,
                 "unrolled": null,
-                "nativeOnly": true,
+                "nativeOnly": false,
                 "traits": [],
                 "slots": {},
                 "stateCallbacks": {},
@@ -151,10 +151,10 @@
                 "record": "catalog/androidx.xr.glimmer.CardKt.ActionCard",
                 "catalogId": "Card",
                 "displayName": null,
-                "canvas": null,
+                "canvas": "glimmer/action-card",
                 "canvasMapping": null,
                 "unrolled": null,
-                "nativeOnly": true,
+                "nativeOnly": false,
                 "traits": [],
                 "slots": {},
                 "stateCallbacks": {},
@@ -170,10 +170,10 @@
                 "record": "catalog/androidx.xr.glimmer.CardKt.Card",
                 "catalogId": "Card",
                 "displayName": null,
-                "canvas": null,
+                "canvas": "glimmer/card",
                 "canvasMapping": null,
                 "unrolled": null,
-                "nativeOnly": true,
+                "nativeOnly": false,
                 "traits": [],
                 "slots": {},
                 "stateCallbacks": {},
@@ -189,10 +189,10 @@
                 "record": "catalog/androidx.xr.glimmer.IconButtonKt.IconButton",
                 "catalogId": "IconButton",
                 "displayName": null,
-                "canvas": null,
+                "canvas": "glimmer/icon-button",
                 "canvasMapping": null,
                 "unrolled": null,
-                "nativeOnly": true,
+                "nativeOnly": false,
                 "traits": [],
                 "slots": {},
                 "stateCallbacks": {},
@@ -208,7 +208,7 @@
                 "record": "catalog/androidx.xr.glimmer.IconKt.Icon",
                 "catalogId": null,
                 "displayName": null,
-                "canvas": null,
+                "canvas": "glimmer/icon",
                 "canvasMapping": null,
                 "unrolled": null,
                 "nativeOnly": false,
@@ -227,13 +227,15 @@
                 "record": "catalog/androidx.xr.glimmer.IconToggleButtonKt.IconToggleButton",
                 "catalogId": "IconToggleButton",
                 "displayName": null,
-                "canvas": null,
+                "canvas": "glimmer/icon-toggle-button",
                 "canvasMapping": null,
                 "unrolled": null,
-                "nativeOnly": true,
+                "nativeOnly": false,
                 "traits": [],
                 "slots": {},
-                "stateCallbacks": {},
+                "stateCallbacks": {
+                    "onCheckedChange": "checked:boolean"
+                },
                 "starter": {},
                 "variantProperty": null,
                 "variants": {},
@@ -246,10 +248,10 @@
                 "record": "catalog/androidx.xr.glimmer.ListItemKt.ListItem",
                 "catalogId": "ListItem",
                 "displayName": null,
-                "canvas": null,
+                "canvas": "glimmer/list-item",
                 "canvasMapping": null,
                 "unrolled": null,
-                "nativeOnly": true,
+                "nativeOnly": false,
                 "traits": [],
                 "slots": {},
                 "stateCallbacks": {},
@@ -265,7 +267,7 @@
                 "record": "catalog/androidx.xr.glimmer.TextKt.Text",
                 "catalogId": null,
                 "displayName": null,
-                "canvas": null,
+                "canvas": "glimmer/text",
                 "canvasMapping": null,
                 "unrolled": null,
                 "nativeOnly": false,
@@ -282,9 +284,9 @@
             },
             "glimmer/title-chip": {
                 "record": "catalog/androidx.xr.glimmer.TitleChipKt.TitleChip",
-                "catalogId": null,
+                "catalogId": "TitleChip",
                 "displayName": null,
-                "canvas": null,
+                "canvas": "glimmer/title-chip",
                 "canvasMapping": null,
                 "unrolled": null,
                 "nativeOnly": false,
@@ -303,13 +305,15 @@
                 "record": "catalog/androidx.xr.glimmer.ToggleButtonKt.ToggleButton",
                 "catalogId": "ToggleButton",
                 "displayName": null,
-                "canvas": null,
+                "canvas": "glimmer/toggle-button",
                 "canvasMapping": null,
                 "unrolled": null,
-                "nativeOnly": true,
+                "nativeOnly": false,
                 "traits": [],
                 "slots": {},
-                "stateCallbacks": {},
+                "stateCallbacks": {
+                    "onCheckedChange": "checked:boolean"
+                },
                 "starter": {},
                 "variantProperty": null,
                 "variants": {},
@@ -322,10 +326,10 @@
                 "record": "catalog/androidx.xr.glimmer.VoiceInputIndicatorKt.ContainedVoiceInputIndicator",
                 "catalogId": "VoiceInputIndicator",
                 "displayName": null,
-                "canvas": null,
+                "canvas": "glimmer/contained-voice-input-indicator",
                 "canvasMapping": null,
                 "unrolled": null,
-                "nativeOnly": true,
+                "nativeOnly": false,
                 "traits": [],
                 "slots": {},
                 "stateCallbacks": {},
@@ -341,10 +345,10 @@
                 "record": "catalog/androidx.xr.glimmer.VoiceInputIndicatorKt.VoiceInputIndicator",
                 "catalogId": "VoiceInputIndicator",
                 "displayName": null,
-                "canvas": null,
+                "canvas": "glimmer/voice-input-indicator",
                 "canvasMapping": null,
                 "unrolled": null,
-                "nativeOnly": true,
+                "nativeOnly": false,
                 "traits": [],
                 "slots": {},
                 "stateCallbacks": {},
@@ -360,10 +364,10 @@
                 "record": "catalog/androidx.xr.glimmer.list.GlimmerLazyListKt.GlimmerLazyColumn",
                 "catalogId": "GlimmerLazyColumn",
                 "displayName": null,
-                "canvas": null,
+                "canvas": "glimmer/glimmer-lazy-column",
                 "canvasMapping": null,
                 "unrolled": null,
-                "nativeOnly": true,
+                "nativeOnly": false,
                 "traits": [],
                 "slots": {},
                 "stateCallbacks": {},
@@ -379,10 +383,10 @@
                 "record": "catalog/androidx.xr.glimmer.stack.StackKt.VerticalStack",
                 "catalogId": "VerticalStack",
                 "displayName": null,
-                "canvas": null,
+                "canvas": "glimmer/vertical-stack",
                 "canvasMapping": null,
                 "unrolled": null,
-                "nativeOnly": true,
+                "nativeOnly": false,
                 "traits": [],
                 "slots": {},
                 "stateCallbacks": {},
@@ -416,81 +420,6 @@
         }
     },
     "diagnostics": [
-        {
-            "code": "component.canvas.unclaimed",
-            "subject": "glimmer/button-group",
-            "message": "no canvas adapter claimed, so it draws as a placeholder. That is the honest default and needs no fixing; it is reported so a shelf drawn entirely in placeholders is visible rather than mysterious."
-        },
-        {
-            "code": "component.canvas.unclaimed",
-            "subject": "glimmer/button",
-            "message": "no canvas adapter claimed, so it draws as a placeholder. That is the honest default and needs no fixing; it is reported so a shelf drawn entirely in placeholders is visible rather than mysterious."
-        },
-        {
-            "code": "component.canvas.unclaimed",
-            "subject": "glimmer/action-card",
-            "message": "no canvas adapter claimed, so it draws as a placeholder. That is the honest default and needs no fixing; it is reported so a shelf drawn entirely in placeholders is visible rather than mysterious."
-        },
-        {
-            "code": "component.canvas.unclaimed",
-            "subject": "glimmer/card",
-            "message": "no canvas adapter claimed, so it draws as a placeholder. That is the honest default and needs no fixing; it is reported so a shelf drawn entirely in placeholders is visible rather than mysterious."
-        },
-        {
-            "code": "component.canvas.unclaimed",
-            "subject": "glimmer/icon-button",
-            "message": "no canvas adapter claimed, so it draws as a placeholder. That is the honest default and needs no fixing; it is reported so a shelf drawn entirely in placeholders is visible rather than mysterious."
-        },
-        {
-            "code": "component.canvas.unclaimed",
-            "subject": "glimmer/icon",
-            "message": "no canvas adapter claimed, so it draws as a placeholder. That is the honest default and needs no fixing; it is reported so a shelf drawn entirely in placeholders is visible rather than mysterious."
-        },
-        {
-            "code": "component.canvas.unclaimed",
-            "subject": "glimmer/icon-toggle-button",
-            "message": "no canvas adapter claimed, so it draws as a placeholder. That is the honest default and needs no fixing; it is reported so a shelf drawn entirely in placeholders is visible rather than mysterious."
-        },
-        {
-            "code": "component.canvas.unclaimed",
-            "subject": "glimmer/list-item",
-            "message": "no canvas adapter claimed, so it draws as a placeholder. That is the honest default and needs no fixing; it is reported so a shelf drawn entirely in placeholders is visible rather than mysterious."
-        },
-        {
-            "code": "component.canvas.unclaimed",
-            "subject": "glimmer/text",
-            "message": "no canvas adapter claimed, so it draws as a placeholder. That is the honest default and needs no fixing; it is reported so a shelf drawn entirely in placeholders is visible rather than mysterious."
-        },
-        {
-            "code": "component.canvas.unclaimed",
-            "subject": "glimmer/title-chip",
-            "message": "no canvas adapter claimed, so it draws as a placeholder. That is the honest default and needs no fixing; it is reported so a shelf drawn entirely in placeholders is visible rather than mysterious."
-        },
-        {
-            "code": "component.canvas.unclaimed",
-            "subject": "glimmer/toggle-button",
-            "message": "no canvas adapter claimed, so it draws as a placeholder. That is the honest default and needs no fixing; it is reported so a shelf drawn entirely in placeholders is visible rather than mysterious."
-        },
-        {
-            "code": "component.canvas.unclaimed",
-            "subject": "glimmer/contained-voice-input-indicator",
-            "message": "no canvas adapter claimed, so it draws as a placeholder. That is the honest default and needs no fixing; it is reported so a shelf drawn entirely in placeholders is visible rather than mysterious."
-        },
-        {
-            "code": "component.canvas.unclaimed",
-            "subject": "glimmer/voice-input-indicator",
-            "message": "no canvas adapter claimed, so it draws as a placeholder. That is the honest default and needs no fixing; it is reported so a shelf drawn entirely in placeholders is visible rather than mysterious."
-        },
-        {
-            "code": "component.canvas.unclaimed",
-            "subject": "glimmer/glimmer-lazy-column",
-            "message": "no canvas adapter claimed, so it draws as a placeholder. That is the honest default and needs no fixing; it is reported so a shelf drawn entirely in placeholders is visible rather than mysterious."
-        },
-        {
-            "code": "component.canvas.unclaimed",
-            "subject": "glimmer/vertical-stack",
-            "message": "no canvas adapter claimed, so it draws as a placeholder. That is the honest default and needs no fixing; it is reported so a shelf drawn entirely in placeholders is visible rather than mysterious."
-        },
         {
             "code": "component.excluded",
             "subject": "glimmer/sticker",
