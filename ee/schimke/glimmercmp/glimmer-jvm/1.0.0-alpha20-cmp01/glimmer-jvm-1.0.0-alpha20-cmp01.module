@@ -1,0 +1,172 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "url": "../../glimmer/1.0.0-alpha20-cmp01/glimmer-1.0.0-alpha20-cmp01.module",
+    "group": "ee.schimke.glimmercmp",
+    "module": "glimmer",
+    "version": "1.0.0-alpha20-cmp01",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "9.7.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "jvmApiElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.compose.runtime",
+          "module": "runtime",
+          "version": {
+            "requires": "1.12.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.compose.ui",
+          "module": "ui",
+          "version": {
+            "requires": "1.12.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.compose.foundation",
+          "module": "foundation",
+          "version": {
+            "requires": "1.12.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.compose.animation",
+          "module": "animation",
+          "version": {
+            "requires": "1.12.0"
+          }
+        },
+        {
+          "group": "androidx.annotation",
+          "module": "annotation",
+          "version": {
+            "requires": "1.10.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "2.4.20"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "glimmer-jvm-1.0.0-alpha20-cmp01.jar",
+          "url": "glimmer-jvm-1.0.0-alpha20-cmp01.jar",
+          "size": 708498,
+          "sha512": "143e45b6ca0a49b2503959f854df26d2e826e587e09528326809a6257a628c36386392d67c24f14ae148fc103474a9edfab2fc07eadffef65f8ae67a45213dce",
+          "sha256": "b5b51b54ae352c8d4e3db86fcbfeae6fd3cdeb71a44de7ec06cc96573aaa2cac",
+          "sha1": "04b717e3b35c6388a0776d02a4b14fdd6d536ff4",
+          "md5": "85915f237945c9fe98bc07291e5970b8"
+        }
+      ]
+    },
+    {
+      "name": "jvmRuntimeElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.compose.runtime",
+          "module": "runtime",
+          "version": {
+            "requires": "1.12.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.compose.ui",
+          "module": "ui",
+          "version": {
+            "requires": "1.12.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.compose.foundation",
+          "module": "foundation",
+          "version": {
+            "requires": "1.12.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.compose.animation",
+          "module": "animation",
+          "version": {
+            "requires": "1.12.0"
+          }
+        },
+        {
+          "group": "androidx.annotation",
+          "module": "annotation",
+          "version": {
+            "requires": "1.10.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "2.4.20"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "glimmer-jvm-1.0.0-alpha20-cmp01.jar",
+          "url": "glimmer-jvm-1.0.0-alpha20-cmp01.jar",
+          "size": 708498,
+          "sha512": "143e45b6ca0a49b2503959f854df26d2e826e587e09528326809a6257a628c36386392d67c24f14ae148fc103474a9edfab2fc07eadffef65f8ae67a45213dce",
+          "sha256": "b5b51b54ae352c8d4e3db86fcbfeae6fd3cdeb71a44de7ec06cc96573aaa2cac",
+          "sha1": "04b717e3b35c6388a0776d02a4b14fdd6d536ff4",
+          "md5": "85915f237945c9fe98bc07291e5970b8"
+        }
+      ]
+    },
+    {
+      "name": "jvmSourcesElements-published",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "files": [
+        {
+          "name": "glimmer-jvm-1.0.0-alpha20-cmp01-sources.jar",
+          "url": "glimmer-jvm-1.0.0-alpha20-cmp01-sources.jar",
+          "size": 191747,
+          "sha512": "8be829d82c1f7d99eb969c1e7436d9a435a629d07458e071a73797e256e858cc74ba2349788ef9a2ad0cf16bed54f2a7bebfe0619c41d39a45f9c8cd470d203c",
+          "sha256": "15f8ac759633f54b895b5340d59cdcd2487da9b0c0a3caaa58919fa22558c3eb",
+          "sha1": "b17396d99bc22939026208194ecc01c7ae95e066",
+          "md5": "cea57792e04d31feea669be12b6e8ccc"
+        }
+      ]
+    }
+  ]
+}
