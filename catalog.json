@@ -62,9 +62,9 @@
       "caption": "`ButtonSample` — the sample upstream's own `@Preview` renders.",
       "wireframe": "wireframes/button-buttonsample.svg",
       "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/ButtonSamples.kt",
-      "sourceModule": ":glimmer-samples",
+      "sourceModule": ":samples-catalog",
       "bodyLine": 124,
-      "sourceDirectory": "glimmer-samples",
+      "sourceDirectory": "samples-catalog",
       "sourceFunction": "ButtonPreview",
       "related": [
         {
@@ -132,9 +132,9 @@
       "caption": "`ButtonWithLeadingIconSample` — the sample upstream's own `@Preview` renders.",
       "wireframe": "wireframes/button-buttonwithleadingiconsample.svg",
       "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/ButtonSamples.kt",
-      "sourceModule": ":glimmer-samples",
+      "sourceModule": ":samples-catalog",
       "bodyLine": 130,
-      "sourceDirectory": "glimmer-samples",
+      "sourceDirectory": "samples-catalog",
       "sourceFunction": "ButtonWithLeadingIconPreview",
       "related": [
         {
@@ -202,9 +202,9 @@
       "caption": "`ButtonWithTrailingIconSample` — the sample upstream's own `@Preview` renders.",
       "wireframe": "wireframes/button-buttonwithtrailingiconsample.svg",
       "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/ButtonSamples.kt",
-      "sourceModule": ":glimmer-samples",
+      "sourceModule": ":samples-catalog",
       "bodyLine": 136,
-      "sourceDirectory": "glimmer-samples",
+      "sourceDirectory": "samples-catalog",
       "sourceFunction": "ButtonWithTrailingIconPreview",
       "related": [
         {
@@ -272,9 +272,9 @@
       "caption": "`ButtonWithLeadingAndTrailingIconSample` — the sample upstream's own `@Preview` renders.",
       "wireframe": "wireframes/button-buttonwithleadingandtrailingiconsample.svg",
       "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/ButtonSamples.kt",
-      "sourceModule": ":glimmer-samples",
+      "sourceModule": ":samples-catalog",
       "bodyLine": 142,
-      "sourceDirectory": "glimmer-samples",
+      "sourceDirectory": "samples-catalog",
       "sourceFunction": "ButtonWithLeadingAndTrailingIconPreview",
       "related": [
         {
@@ -342,9 +342,9 @@
       "caption": "`LargeButtonSample` — the sample upstream's own `@Preview` renders.",
       "wireframe": "wireframes/button-largebuttonsample.svg",
       "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/ButtonSamples.kt",
-      "sourceModule": ":glimmer-samples",
+      "sourceModule": ":samples-catalog",
       "bodyLine": 148,
-      "sourceDirectory": "glimmer-samples",
+      "sourceDirectory": "samples-catalog",
       "sourceFunction": "LargeButtonPreview",
       "related": [
         {
@@ -412,9 +412,9 @@
       "caption": "`LargeButtonWithLeadingIconSample` — the sample upstream's own `@Preview` renders.",
       "wireframe": "wireframes/button-largebuttonwithleadingiconsample.svg",
       "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/ButtonSamples.kt",
-      "sourceModule": ":glimmer-samples",
+      "sourceModule": ":samples-catalog",
       "bodyLine": 154,
-      "sourceDirectory": "glimmer-samples",
+      "sourceDirectory": "samples-catalog",
       "sourceFunction": "LargeButtonWithLeadingIconPreview",
       "related": [
         {
@@ -482,9 +482,9 @@
       "caption": "`LargeButtonWithTrailingIconSample` — the sample upstream's own `@Preview` renders.",
       "wireframe": "wireframes/button-largebuttonwithtrailingiconsample.svg",
       "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/ButtonSamples.kt",
-      "sourceModule": ":glimmer-samples",
+      "sourceModule": ":samples-catalog",
       "bodyLine": 160,
-      "sourceDirectory": "glimmer-samples",
+      "sourceDirectory": "samples-catalog",
       "sourceFunction": "LargeButtonWithTrailingIconPreview",
       "related": [
         {
@@ -552,9 +552,9 @@
       "caption": "`LargeButtonWithLeadingAndTrailingIconSample` — the sample upstream's own `@Preview` renders.",
       "wireframe": "wireframes/button-largebuttonwithleadingandtrailingiconsample.svg",
       "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/ButtonSamples.kt",
-      "sourceModule": ":glimmer-samples",
+      "sourceModule": ":samples-catalog",
       "bodyLine": 166,
-      "sourceDirectory": "glimmer-samples",
+      "sourceDirectory": "samples-catalog",
       "sourceFunction": "LargeButtonWithLeadingAndTrailingIconPreview",
       "related": [
         {
@@ -780,9 +780,9 @@
       "caption": "`ButtonGroupSample` — the sample upstream's own `@Preview` renders.",
       "wireframe": "wireframes/buttongroup-buttongroupsample.svg",
       "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/ButtonGroupSamples.kt",
-      "sourceModule": ":glimmer-samples",
+      "sourceModule": ":samples-catalog",
       "bodyLine": 61,
-      "sourceDirectory": "glimmer-samples",
+      "sourceDirectory": "samples-catalog",
       "sourceFunction": "ButtonGroupPreview",
       "related": [
         {
@@ -828,9 +828,9 @@
       "caption": "`CardSample` — the sample upstream's own `@Preview` renders.",
       "wireframe": "wireframes/card-cardsample.svg",
       "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/CardSamples.kt",
-      "sourceModule": ":glimmer-samples",
+      "sourceModule": ":samples-catalog",
       "bodyLine": 214,
-      "sourceDirectory": "glimmer-samples",
+      "sourceDirectory": "samples-catalog",
       "sourceFunction": "CardPreview",
       "related": [
         {
@@ -876,9 +876,9 @@
       "caption": "`CardWithTrailingIconSample` — the sample upstream's own `@Preview` renders.",
       "wireframe": "wireframes/card-cardwithtrailingiconsample.svg",
       "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/CardSamples.kt",
-      "sourceModule": ":glimmer-samples",
+      "sourceModule": ":samples-catalog",
       "bodyLine": 220,
-      "sourceDirectory": "glimmer-samples",
+      "sourceDirectory": "samples-catalog",
       "sourceFunction": "CardWithTrailingIconPreview",
       "related": [
         {
@@ -924,9 +924,9 @@
       "caption": "`CardWithTitleAndSubtitleAndLeadingIconSample` — the sample upstream's own `@Preview` renders.",
       "wireframe": "wireframes/card-cardwithtitleandsubtitleandleadingiconsample.svg",
       "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/CardSamples.kt",
-      "sourceModule": ":glimmer-samples",
+      "sourceModule": ":samples-catalog",
       "bodyLine": 226,
-      "sourceDirectory": "glimmer-samples",
+      "sourceDirectory": "samples-catalog",
       "sourceFunction": "CardWithTitleAndSubtitleAndLeadingIconPreview",
       "related": [
         {
@@ -981,9 +981,9 @@
       "caption": "`CardWithTitleAndHeaderSample` — the sample upstream's own `@Preview` renders.",
       "wireframe": "wireframes/card-cardwithtitleandheadersample.svg",
       "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/CardSamples.kt",
-      "sourceModule": ":glimmer-samples",
+      "sourceModule": ":samples-catalog",
       "bodyLine": 232,
-      "sourceDirectory": "glimmer-samples",
+      "sourceDirectory": "samples-catalog",
       "sourceFunction": "CardWithTitleAndHeaderPreview",
       "related": [
         {
@@ -1066,9 +1066,9 @@
       "caption": "`ActionCardWithTitleSample` — the sample upstream's own `@Preview` renders.",
       "wireframe": "wireframes/card-actioncardwithtitlesample.svg",
       "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/CardSamples.kt",
-      "sourceModule": ":glimmer-samples",
+      "sourceModule": ":samples-catalog",
       "bodyLine": 238,
-      "sourceDirectory": "glimmer-samples",
+      "sourceDirectory": "samples-catalog",
       "sourceFunction": "ActionCardWithTitlePreview",
       "related": [
         {
@@ -1123,9 +1123,9 @@
       "caption": "`CardWithTitleAndLeadingIconAndHeader` — the sample upstream's own `@Preview` renders.",
       "wireframe": "wireframes/card-cardwithtitleandleadingiconandheader.svg",
       "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/CardSamples.kt",
-      "sourceModule": ":glimmer-samples",
+      "sourceModule": ":samples-catalog",
       "bodyLine": 244,
-      "sourceDirectory": "glimmer-samples",
+      "sourceDirectory": "samples-catalog",
       "sourceFunction": "CardWithTitleAndLeadingIconAndHeaderPreview",
       "related": [
         {
@@ -1217,9 +1217,9 @@
       "caption": "`ActionCardWithTitleAndLeadingIconAndHeader` — the sample upstream's own `@Preview` renders.",
       "wireframe": "wireframes/card-actioncardwithtitleandleadingiconandheader.svg",
       "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/CardSamples.kt",
-      "sourceModule": ":glimmer-samples",
+      "sourceModule": ":samples-catalog",
       "bodyLine": 250,
-      "sourceDirectory": "glimmer-samples",
+      "sourceDirectory": "samples-catalog",
       "sourceFunction": "ActionCardWithTitleAndLeadingIconAndHeaderPreview",
       "related": [
         {
@@ -1265,9 +1265,9 @@
       "caption": "`CardWithLongText` — the sample upstream's own `@Preview` renders.",
       "wireframe": "wireframes/card-cardwithlongtext.svg",
       "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/CardSamples.kt",
-      "sourceModule": ":glimmer-samples",
+      "sourceModule": ":samples-catalog",
       "bodyLine": 256,
-      "sourceDirectory": "glimmer-samples",
+      "sourceDirectory": "samples-catalog",
       "sourceFunction": "CardWithLongTextPreview",
       "related": [
         {
@@ -1313,9 +1313,9 @@
       "caption": "`CardWithTitleAndSubtitleAndLeadingIconLongText` — the sample upstream's own `@Preview` renders.",
       "wireframe": "wireframes/card-cardwithtitleandsubtitleandleadingiconlongtext.svg",
       "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/CardSamples.kt",
-      "sourceModule": ":glimmer-samples",
+      "sourceModule": ":samples-catalog",
       "bodyLine": 262,
-      "sourceDirectory": "glimmer-samples",
+      "sourceDirectory": "samples-catalog",
       "sourceFunction": "CardWithTitleAndSubtitleAndLeadingIconLongTextPreview",
       "related": [
         {
@@ -1361,9 +1361,9 @@
       "caption": "`CardWithTitleAndSubtitleAndLeadingIconAndTrailingIconLongText` — the sample upstream's own `@Preview` renders.",
       "wireframe": "wireframes/card-cardwithtitleandsubtitleandleadingiconandtrailingiconlongtext.svg",
       "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/CardSamples.kt",
-      "sourceModule": ":glimmer-samples",
+      "sourceModule": ":samples-catalog",
       "bodyLine": 268,
-      "sourceDirectory": "glimmer-samples",
+      "sourceDirectory": "samples-catalog",
       "sourceFunction": "CardWithTitleAndSubtitleAndLeadingIconAndTrailingIconLongTextPreview",
       "related": [
         {
@@ -1574,9 +1574,9 @@
       "caption": "`ColorsSample` — the sample upstream's own `@Preview` renders.",
       "wireframe": "wireframes/colors-colorssample.svg",
       "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/ColorsSamples.kt",
-      "sourceModule": ":glimmer-samples",
+      "sourceModule": ":samples-catalog",
       "bodyLine": 50,
-      "sourceDirectory": "glimmer-samples",
+      "sourceDirectory": "samples-catalog",
       "sourceFunction": "ColorsPreview"
     },
     {
@@ -1751,9 +1751,9 @@
       "caption": "`DepthEffectLevelsSample` — the sample upstream's own `@Preview` renders.",
       "wireframe": "wireframes/deptheffectlevels-deptheffectlevelssample.svg",
       "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/DepthEffectLevelsSample.kt",
-      "sourceModule": ":glimmer-samples",
+      "sourceModule": ":samples-catalog",
       "bodyLine": 55,
-      "sourceDirectory": "glimmer-samples",
+      "sourceDirectory": "samples-catalog",
       "sourceFunction": "DepthEffectPreview"
     },
     {
@@ -1883,9 +1883,9 @@
       "caption": "`GlimmerLazyColumnSample` — the sample upstream's own `@Preview` renders.",
       "wireframe": "wireframes/glimmerlazylist-glimmerlazycolumnsample.svg",
       "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/GlimmerLazyListSamples.kt",
-      "sourceModule": ":glimmer-samples",
+      "sourceModule": ":samples-catalog",
       "bodyLine": 51,
-      "sourceDirectory": "glimmer-samples",
+      "sourceDirectory": "samples-catalog",
       "sourceFunction": "GlimmerLazyColumnPreview",
       "related": [
         {
@@ -2036,9 +2036,9 @@
       "caption": "`GlimmerLazyColumnWithTitleChipSample` — the sample upstream's own `@Preview` renders.",
       "wireframe": "wireframes/glimmerlazylist-glimmerlazycolumnwithtitlechipsample.svg",
       "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/GlimmerLazyListSamples.kt",
-      "sourceModule": ":glimmer-samples",
+      "sourceModule": ":samples-catalog",
       "bodyLine": 57,
-      "sourceDirectory": "glimmer-samples",
+      "sourceDirectory": "samples-catalog",
       "sourceFunction": "GlimmerLazyColumnWithTitleChipPreview",
       "related": [
         {
@@ -2084,9 +2084,9 @@
       "caption": "`GlimmerHorizontalPagerSample` — the sample upstream's own `@Preview` renders.",
       "wireframe": "wireframes/glimmerpager-glimmerhorizontalpagersample.svg",
       "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/GlimmerPagerSamples.kt",
-      "sourceModule": ":glimmer-samples",
+      "sourceModule": ":samples-catalog",
       "bodyLine": 145,
-      "sourceDirectory": "glimmer-samples",
+      "sourceDirectory": "samples-catalog",
       "sourceFunction": "GlimmerHorizontalPagerSamplePreview"
     },
     {
@@ -2128,9 +2128,9 @@
       "caption": "`IconSampleUsage` — the sample upstream's own `@Preview` renders.",
       "wireframe": "wireframes/icon-iconsampleusage.svg",
       "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/IconSamples.kt",
-      "sourceModule": ":glimmer-samples",
+      "sourceModule": ":samples-catalog",
       "bodyLine": 73,
-      "sourceDirectory": "glimmer-samples",
+      "sourceDirectory": "samples-catalog",
       "sourceFunction": "IconPreview"
     },
     {
@@ -2192,9 +2192,9 @@
       "caption": "`IconButtonSample` — the sample upstream's own `@Preview` renders.",
       "wireframe": "wireframes/iconbutton-iconbuttonsample.svg",
       "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/IconButtonSamples.kt",
-      "sourceModule": ":glimmer-samples",
+      "sourceModule": ":samples-catalog",
       "bodyLine": 34,
-      "sourceDirectory": "glimmer-samples",
+      "sourceDirectory": "samples-catalog",
       "sourceFunction": "IconButtonPreview",
       "related": [
         {
@@ -2261,9 +2261,9 @@
       "caption": "`IconToggleButtonSample` — the sample upstream's own `@Preview` renders.",
       "wireframe": "wireframes/icontogglebutton-icontogglebuttonsample.svg",
       "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/IconToggleButtonSamples.kt",
-      "sourceModule": ":glimmer-samples",
+      "sourceModule": ":samples-catalog",
       "bodyLine": 44,
-      "sourceDirectory": "glimmer-samples",
+      "sourceDirectory": "samples-catalog",
       "sourceFunction": "IconToggleButtonPreview",
       "related": [
         {
@@ -2293,9 +2293,9 @@
       "caption": "`OnIndirectPointerGestureSampleUsage` — the sample upstream's own `@Preview` renders.",
       "wireframe": "wireframes/indirectpointergesture-onindirectpointergesturesampleusage.svg",
       "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/IndirectPointerGestureSamples.kt",
-      "sourceModule": ":glimmer-samples",
+      "sourceModule": ":samples-catalog",
       "bodyLine": 81,
-      "sourceDirectory": "glimmer-samples",
+      "sourceDirectory": "samples-catalog",
       "sourceFunction": "OnIndirectPointerGestureSampleUsagePreview"
     },
     {
@@ -2335,9 +2335,9 @@
       "caption": "`ListItemSample` — the sample upstream's own `@Preview` renders.",
       "wireframe": "wireframes/listitem-listitemsample.svg",
       "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/ListItemSamples.kt",
-      "sourceModule": ":glimmer-samples",
+      "sourceModule": ":samples-catalog",
       "bodyLine": 117,
-      "sourceDirectory": "glimmer-samples",
+      "sourceDirectory": "samples-catalog",
       "sourceFunction": "ListItemPreview",
       "related": [
         {
@@ -2383,9 +2383,9 @@
       "caption": "`ListItemWithSupportingLabelSample` — the sample upstream's own `@Preview` renders.",
       "wireframe": "wireframes/listitem-listitemwithsupportinglabelsample.svg",
       "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/ListItemSamples.kt",
-      "sourceModule": ":glimmer-samples",
+      "sourceModule": ":samples-catalog",
       "bodyLine": 123,
-      "sourceDirectory": "glimmer-samples",
+      "sourceDirectory": "samples-catalog",
       "sourceFunction": "ListItemWithSupportingLabelPreview",
       "related": [
         {
@@ -2431,9 +2431,9 @@
       "caption": "`ListItemWithSupportingLabelAndLeadingIconSample` — the sample upstream's own `@Preview` renders.",
       "wireframe": "wireframes/listitem-listitemwithsupportinglabelandleadingiconsample.svg",
       "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/ListItemSamples.kt",
-      "sourceModule": ":glimmer-samples",
+      "sourceModule": ":samples-catalog",
       "bodyLine": 129,
-      "sourceDirectory": "glimmer-samples",
+      "sourceDirectory": "samples-catalog",
       "sourceFunction": "ListItemWithSupportingLabelAndLeadingIconPreview",
       "related": [
         {
@@ -2479,9 +2479,9 @@
       "caption": "`ClickableListItemSample` — the sample upstream's own `@Preview` renders.",
       "wireframe": "wireframes/listitem-clickablelistitemsample.svg",
       "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/ListItemSamples.kt",
-      "sourceModule": ":glimmer-samples",
+      "sourceModule": ":samples-catalog",
       "bodyLine": 135,
-      "sourceDirectory": "glimmer-samples",
+      "sourceDirectory": "samples-catalog",
       "sourceFunction": "ClickableListItemPreview",
       "related": [
         {
@@ -2527,9 +2527,9 @@
       "caption": "`ClickableListItemWithSupportingLabelSample` — the sample upstream's own `@Preview` renders.",
       "wireframe": "wireframes/listitem-clickablelistitemwithsupportinglabelsample.svg",
       "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/ListItemSamples.kt",
-      "sourceModule": ":glimmer-samples",
+      "sourceModule": ":samples-catalog",
       "bodyLine": 141,
-      "sourceDirectory": "glimmer-samples",
+      "sourceDirectory": "samples-catalog",
       "sourceFunction": "ClickableListItemWithSupportingLabelPreview",
       "related": [
         {
@@ -2575,9 +2575,9 @@
       "caption": "`ClickableListItemWithSupportingLabelAndLeadingIconSample` — the sample upstream's own `@Preview` renders.",
       "wireframe": "wireframes/listitem-clickablelistitemwithsupportinglabelandleadingiconsample.svg",
       "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/ListItemSamples.kt",
-      "sourceModule": ":glimmer-samples",
+      "sourceModule": ":samples-catalog",
       "bodyLine": 147,
-      "sourceDirectory": "glimmer-samples",
+      "sourceDirectory": "samples-catalog",
       "sourceFunction": "ClickableListItemWithSupportingLabelAndLeadingIconPreview",
       "related": [
         {
@@ -2623,9 +2623,9 @@
       "caption": "`ListItemWithSupportingLabelAndIcons` — the sample upstream's own `@Preview` renders.",
       "wireframe": "wireframes/listitem-listitemwithsupportinglabelandicons.svg",
       "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/ListItemSamples.kt",
-      "sourceModule": ":glimmer-samples",
+      "sourceModule": ":samples-catalog",
       "bodyLine": 153,
-      "sourceDirectory": "glimmer-samples",
+      "sourceDirectory": "samples-catalog",
       "sourceFunction": "ListItemWithSupportingLabelAndIconsPreview",
       "related": [
         {
@@ -2671,9 +2671,9 @@
       "caption": "`ListItemWithLeadingIconLongText` — the sample upstream's own `@Preview` renders.",
       "wireframe": "wireframes/listitem-listitemwithleadingiconlongtext.svg",
       "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/ListItemSamples.kt",
-      "sourceModule": ":glimmer-samples",
+      "sourceModule": ":samples-catalog",
       "bodyLine": 159,
-      "sourceDirectory": "glimmer-samples",
+      "sourceDirectory": "samples-catalog",
       "sourceFunction": "ListItemWithLeadingIconLongTextPreview",
       "related": [
         {
@@ -2719,9 +2719,9 @@
       "caption": "`ListItemWithSupportingLabelAndLeadingIconLongText` — the sample upstream's own `@Preview` renders.",
       "wireframe": "wireframes/listitem-listitemwithsupportinglabelandleadingiconlongtext.svg",
       "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/ListItemSamples.kt",
-      "sourceModule": ":glimmer-samples",
+      "sourceModule": ":samples-catalog",
       "bodyLine": 165,
-      "sourceDirectory": "glimmer-samples",
+      "sourceDirectory": "samples-catalog",
       "sourceFunction": "ListItemWithSupportingLabelAndLeadingIconLongTextPreview",
       "related": [
         {
@@ -2770,9 +2770,9 @@
       "caption": "`ShapesSample` — the sample upstream's own `@Preview` renders.",
       "wireframe": "wireframes/shapes-shapessample.svg",
       "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/ShapesSamples.kt",
-      "sourceModule": ":glimmer-samples",
+      "sourceModule": ":samples-catalog",
       "bodyLine": 44,
-      "sourceDirectory": "glimmer-samples",
+      "sourceDirectory": "samples-catalog",
       "sourceFunction": "ShapesPreview"
     },
     {
@@ -2857,9 +2857,9 @@
       "caption": "`VerticalStackSample` — the sample upstream's own `@Preview` renders.",
       "wireframe": "wireframes/stack-verticalstacksample.svg",
       "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/StackSamples.kt",
-      "sourceModule": ":glimmer-samples",
+      "sourceModule": ":samples-catalog",
       "bodyLine": 93,
-      "sourceDirectory": "glimmer-samples",
+      "sourceDirectory": "samples-catalog",
       "sourceFunction": "VerticalStackPreview",
       "related": [
         {
@@ -2905,9 +2905,9 @@
       "caption": "`SurfaceSample` — the sample upstream's own `@Preview` renders.",
       "wireframe": "wireframes/surface-surfacesample.svg",
       "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/SurfaceSamples.kt",
-      "sourceModule": ":glimmer-samples",
+      "sourceModule": ":samples-catalog",
       "bodyLine": 112,
-      "sourceDirectory": "glimmer-samples",
+      "sourceDirectory": "samples-catalog",
       "sourceFunction": "SurfacePreview"
     },
     {
@@ -2947,9 +2947,9 @@
       "caption": "`FocusableSurfaceSample` — the sample upstream's own `@Preview` renders.",
       "wireframe": "wireframes/surface-focusablesurfacesample.svg",
       "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/SurfaceSamples.kt",
-      "sourceModule": ":glimmer-samples",
+      "sourceModule": ":samples-catalog",
       "bodyLine": 118,
-      "sourceDirectory": "glimmer-samples",
+      "sourceDirectory": "samples-catalog",
       "sourceFunction": "FocusableSurfacePreview"
     },
     {
@@ -2989,9 +2989,9 @@
       "caption": "`ClickableSurfaceSample` — the sample upstream's own `@Preview` renders.",
       "wireframe": "wireframes/surface-clickablesurfacesample.svg",
       "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/SurfaceSamples.kt",
-      "sourceModule": ":glimmer-samples",
+      "sourceModule": ":samples-catalog",
       "bodyLine": 124,
-      "sourceDirectory": "glimmer-samples",
+      "sourceDirectory": "samples-catalog",
       "sourceFunction": "ClickableSurfacePreview"
     },
     {
@@ -3031,9 +3031,9 @@
       "caption": "`TitleChipSample` — the sample upstream's own `@Preview` renders.",
       "wireframe": "wireframes/titlechip-titlechipsample.svg",
       "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/TitleChipSamples.kt",
-      "sourceModule": ":glimmer-samples",
+      "sourceModule": ":samples-catalog",
       "bodyLine": 79,
-      "sourceDirectory": "glimmer-samples",
+      "sourceDirectory": "samples-catalog",
       "sourceFunction": "TitleChipPreview",
       "related": [
         {
@@ -3079,9 +3079,9 @@
       "caption": "`TitleChipWithLeadingIconSample` — the sample upstream's own `@Preview` renders.",
       "wireframe": "wireframes/titlechip-titlechipwithleadingiconsample.svg",
       "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/TitleChipSamples.kt",
-      "sourceModule": ":glimmer-samples",
+      "sourceModule": ":samples-catalog",
       "bodyLine": 85,
-      "sourceDirectory": "glimmer-samples",
+      "sourceDirectory": "samples-catalog",
       "sourceFunction": "TitleChipWithLeadingIconPreview",
       "related": [
         {
@@ -3142,9 +3142,9 @@
       "caption": "`TitleChipWithCardSample` — the sample upstream's own `@Preview` renders.",
       "wireframe": "wireframes/titlechip-titlechipwithcardsample.svg",
       "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/TitleChipSamples.kt",
-      "sourceModule": ":glimmer-samples",
+      "sourceModule": ":samples-catalog",
       "bodyLine": 91,
-      "sourceDirectory": "glimmer-samples",
+      "sourceDirectory": "samples-catalog",
       "sourceFunction": "TitleChipWithCardPreview",
       "related": [
         {
@@ -3211,9 +3211,9 @@
       "caption": "`ToggleButtonSample` — the sample upstream's own `@Preview` renders.",
       "wireframe": "wireframes/togglebutton-togglebuttonsample.svg",
       "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/ToggleButtonSamples.kt",
-      "sourceModule": ":glimmer-samples",
+      "sourceModule": ":samples-catalog",
       "bodyLine": 88,
-      "sourceDirectory": "glimmer-samples",
+      "sourceDirectory": "samples-catalog",
       "sourceFunction": "ToggleButtonPreview",
       "related": [
         {
@@ -3280,9 +3280,9 @@
       "caption": "`LargeToggleButtonSample` — the sample upstream's own `@Preview` renders.",
       "wireframe": "wireframes/togglebutton-largetogglebuttonsample.svg",
       "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/ToggleButtonSamples.kt",
-      "sourceModule": ":glimmer-samples",
+      "sourceModule": ":samples-catalog",
       "bodyLine": 94,
-      "sourceDirectory": "glimmer-samples",
+      "sourceDirectory": "samples-catalog",
       "sourceFunction": "LargeToggleButtonPreview",
       "related": [
         {
@@ -3349,9 +3349,9 @@
       "caption": "`ToggleButtonWithLeadingIconSample` — the sample upstream's own `@Preview` renders.",
       "wireframe": "wireframes/togglebutton-togglebuttonwithleadingiconsample.svg",
       "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/ToggleButtonSamples.kt",
-      "sourceModule": ":glimmer-samples",
+      "sourceModule": ":samples-catalog",
       "bodyLine": 100,
-      "sourceDirectory": "glimmer-samples",
+      "sourceDirectory": "samples-catalog",
       "sourceFunction": "ToggleButtonWithLeadingIconPreview",
       "related": [
         {
@@ -3418,9 +3418,9 @@
       "caption": "`ToggleButtonWithTrailingIconSample` — the sample upstream's own `@Preview` renders.",
       "wireframe": "wireframes/togglebutton-togglebuttonwithtrailingiconsample.svg",
       "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/ToggleButtonSamples.kt",
-      "sourceModule": ":glimmer-samples",
+      "sourceModule": ":samples-catalog",
       "bodyLine": 106,
-      "sourceDirectory": "glimmer-samples",
+      "sourceDirectory": "samples-catalog",
       "sourceFunction": "ToggleButtonWithTrailingIconPreview",
       "related": [
         {
@@ -3450,24 +3450,24 @@
       "caption": "`TypographyDefaultUsage` — the sample upstream's own `@Preview` renders.",
       "wireframe": "wireframes/typography-typographydefaultusage.svg",
       "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/TypographySamples.kt",
-      "sourceModule": ":glimmer-samples",
+      "sourceModule": ":samples-catalog",
       "bodyLine": 50,
-      "sourceDirectory": "glimmer-samples",
+      "sourceDirectory": "samples-catalog",
       "sourceFunction": "TypographyDefaultPreview"
     }
   ],
   "library": [
     "androidx.xr.glimmer:glimmer"
   ],
-  "renderer": "compose-preview 2.22.0",
-  "generatedAt": "2026-09-24T20:44:27.942Z",
+  "renderer": "compose-preview 2.27.0",
+  "generatedAt": "2026-09-26T16:27:21.962Z",
   "display": {
     "surface": "dark",
     "role": "samples"
   },
   "compareWith": {
     "system": "glimmer-catalog",
-    "repo": "yschimke/m3-catalog"
+    "repo": "yschimke/glimmer-catalog"
   },
   "liveBundle": {
     "path": "bundle/",
@@ -3477,14 +3477,14 @@
     {
       "path": "bundle/",
       "file": "bundle.png",
-      "module": ":glimmer-samples",
+      "module": ":samples-catalog",
       "previewIdPrefix": ""
     }
   ],
   "componentsFile": "components.json",
   "source": {
-    "repo": "yschimke/m3-catalog",
+    "repo": "yschimke/glimmer-catalog",
     "ref": "main",
-    "module": ":glimmer-samples"
+    "module": ":samples-catalog"
   }
 }
