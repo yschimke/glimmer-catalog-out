@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-09-26T16:27:49.902Z",
+  "generatedAt": "2026-09-26T16:50:46.184Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/glimmer-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "6c889e7a3b87634be0a6e88b34117eae0d1441c5",
+        "subject": "feat: render Glimmer components in UI Builder",
+        "at": "2026-09-26T17:43:35+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "e0bbd19cfb2eb8e79dede36a1c001a8585f71d6e",
         "subject": "fix(ci): bootstrap Glimmer discovery support",
