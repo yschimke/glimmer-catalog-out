@@ -1,11 +1,35 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-09-28T13:43:38.599Z",
+  "generatedAt": "2026-10-01T05:31:11.639Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/glimmer-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "cfb16f1073ca8bca5c7fac76e0d21af3b608ae9c",
+        "subject": "fix: drop the Glimmer text-assertion scope now the driver pin carries #5643 (#13)",
+        "at": "2026-10-01T05:53:31+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "6a2a0f5ea81b2b9c035e26b97846df9982bda668",
+        "subject": "fix: scope the Glimmer text assertions so the pinned driver passes them (#12)",
+        "at": "2026-09-30T18:36:29+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "164661a5031a45e9548627bac6705cd6fda337ce",
+        "subject": "feat: declare render assertions for the catalog render (#11)",
+        "at": "2026-09-30T18:25:07+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "6c889e7a3b87634be0a6e88b34117eae0d1441c5",
         "subject": "feat: render Glimmer components in UI Builder",
