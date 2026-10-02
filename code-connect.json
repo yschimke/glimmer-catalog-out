@@ -7,7 +7,7 @@
     "ref": "main",
     "module": ":catalog"
   },
-  "generatedAt": "2026-10-01T05:35:24.250Z",
+  "generatedAt": "2026-10-02T15:34:19.228Z",
   "mappings": [
     {
       "componentId": "ButtonGroup",
@@ -35,8 +35,7 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ],
-      "figmaSvg": "figma/buttongroup.svg"
+      ]
     },
     {
       "componentId": "Button",
@@ -45,8 +44,7 @@
       "source": "https://github.com/yschimke/glimmer-catalog/blob/main/catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/Buttons.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "ButtonSticker",
-      "figmaSvg": "figma/button.svg"
+      "previewName": "ButtonSticker"
     },
     {
       "componentId": "ToggleButton",
@@ -55,8 +53,7 @@
       "source": "https://github.com/yschimke/glimmer-catalog/blob/main/catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/Buttons.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "ToggleButtonSticker",
-      "figmaSvg": "figma/togglebutton.svg"
+      "previewName": "ToggleButtonSticker"
     },
     {
       "componentId": "Card",
@@ -65,8 +62,7 @@
       "source": "https://github.com/yschimke/glimmer-catalog/blob/main/catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/Cards.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "CardSticker",
-      "figmaSvg": "figma/card.svg"
+      "previewName": "CardSticker"
     },
     {
       "componentId": "TitleChip",
@@ -94,8 +90,7 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ],
-      "figmaSvg": "figma/titlechip.svg"
+      ]
     },
     {
       "componentId": "IconButton",
@@ -104,8 +99,7 @@
       "source": "https://github.com/yschimke/glimmer-catalog/blob/main/catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/IconButtons.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "IconButtonSticker",
-      "figmaSvg": "figma/iconbutton.svg"
+      "previewName": "IconButtonSticker"
     },
     {
       "componentId": "IconToggleButton",
@@ -114,8 +108,7 @@
       "source": "https://github.com/yschimke/glimmer-catalog/blob/main/catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/IconButtons.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "IconToggleButtonSticker",
-      "figmaSvg": "figma/icontogglebutton.svg"
+      "previewName": "IconToggleButtonSticker"
     },
     {
       "componentId": "GlimmerLazyColumn",
@@ -143,8 +136,7 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ],
-      "figmaSvg": "figma/glimmerlazycolumn.svg"
+      ]
     },
     {
       "componentId": "GlimmerLazyColumn/TwoLine",
@@ -153,8 +145,7 @@
       "source": "https://github.com/yschimke/glimmer-catalog/blob/main/catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/LazyLists.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "GlimmerLazyColumnTwoLineSticker",
-      "figmaSvg": "figma/glimmerlazycolumn-twoline.svg"
+      "previewName": "GlimmerLazyColumnTwoLineSticker"
     },
     {
       "componentId": "ListItem",
@@ -163,8 +154,7 @@
       "source": "https://github.com/yschimke/glimmer-catalog/blob/main/catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/Lists.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "ListItemSticker",
-      "figmaSvg": "figma/listitem.svg"
+      "previewName": "ListItemSticker"
     },
     {
       "componentId": "VerticalStack",
@@ -192,8 +182,7 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ],
-      "figmaSvg": "figma/verticalstack.svg"
+      ]
     },
     {
       "componentId": "VoiceInputIndicator",
@@ -202,8 +191,7 @@
       "source": "https://github.com/yschimke/glimmer-catalog/blob/main/catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/VoiceInput.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "VoiceInputIndicatorSticker",
-      "figmaSvg": "figma/voiceinputindicator.svg"
+      "previewName": "VoiceInputIndicatorSticker"
     }
   ]
 }

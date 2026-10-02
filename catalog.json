@@ -3363,11 +3363,11 @@
   "library": [
     "androidx.xr.glimmer:glimmer"
   ],
-  "renderer": "compose-preview 2.27.0",
-  "generatedAt": "2026-10-01T05:35:18.063Z",
+  "renderer": "compose-preview 2.32.0",
+  "generatedAt": "2026-10-02T15:34:18.098Z",
   "display": {
     "surface": "dark",
-    "hero": "CardActionSticker"
+    "hero": "GlimmerLazyColumn/TwoLine"
   },
   "liveBundle": {
     "path": "bundle/",
@@ -3385,7 +3385,7 @@
   "uiBuilderFile": "ui-builder.json",
   "uiBuilderRuntime": {
     "path": "ui-builder/runtime.zip",
-    "runtimeId": "glimmer-p2-cfb16f1073ca",
+    "runtimeId": "glimmer-p2-1243cf1cd1de",
     "protocolVersion": 2,
     "integritySha256": "022b6e7bf6ee241bb6e8f0b636c7060586da2722bbc1d974b46ddd9a4a30ffef"
   },

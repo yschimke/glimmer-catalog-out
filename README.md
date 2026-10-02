@@ -41,12 +41,12 @@ customising the live render are two ends of one workflow.
 | Components | **12** |
 | Rendered images (PNG) | **57** |
 | Editable wireframes (SVG) | **12** |
-| Editable design vectors (figma-svg) | **12** |
+| Editable design vectors (figma-svg) | **0** |
 | Components with a11y greenlines | **5** |
 | Library | `androidx.xr.glimmer:glimmer` |
-| Renderer | compose-preview 2.27.0 |
+| Renderer | compose-preview 2.32.0 |
 | Schema | `design-parity-catalog/v1` |
-| Generated | 2026-10-01 |
+| Generated | 2026-10-02 |
 
 ## Components by group
 
