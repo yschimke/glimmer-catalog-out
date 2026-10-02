@@ -1,11 +1,35 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-01T05:31:11.639Z",
+  "generatedAt": "2026-10-02T15:35:01.703Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/glimmer-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "1243cf1cd1def51f3001f6424067f37ffbc616fa",
+        "subject": "fix(deps): update compose-ai-tools to v2.32.0 (#16)",
+        "at": "2026-10-02T16:19:59+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "6f6643c98b50a5b27cb5f3d9fbc76161fbad2829",
+        "subject": "ci: add the Compose Preview visual-diff workflows (#15)",
+        "at": "2026-10-02T10:30:40+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "9f837dd6123fe458d9ee00772e8639b6737ce202",
+        "subject": "fix: lead the front door with the two-line list instead of a lone button (#14)",
+        "at": "2026-10-02T10:19:28+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "cfb16f1073ca8bca5c7fac76e0d21af3b608ae9c",
         "subject": "fix: drop the Glimmer text-assertion scope now the driver pin carries #5643 (#13)",

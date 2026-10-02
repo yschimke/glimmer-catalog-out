@@ -7,7 +7,7 @@
     "ref": "main",
     "module": ":samples-catalog"
   },
-  "generatedAt": "2026-10-01T05:30:47.281Z",
+  "generatedAt": "2026-10-02T15:29:13.086Z",
   "mappings": [
     {
       "componentId": "Button/ButtonSample",
@@ -20,8 +20,7 @@
       "codeSnippet": "ButtonSample()",
       "imports": [
         "import androidx.xr.glimmer.samples.ButtonSample"
-      ],
-      "figmaSvg": "https://preview.coo.ee/glimmer-samples/render/button-buttonsample__ideal__default.svg"
+      ]
     },
     {
       "componentId": "Button/ButtonWithLeadingIconSample",
@@ -34,8 +33,7 @@
       "codeSnippet": "ButtonWithLeadingIconSample()",
       "imports": [
         "import androidx.xr.glimmer.samples.ButtonWithLeadingIconSample"
-      ],
-      "figmaSvg": "https://preview.coo.ee/glimmer-samples/render/button-buttonwithleadingiconsample__ideal__default.svg"
+      ]
     },
     {
       "componentId": "Button/ButtonWithTrailingIconSample",
@@ -44,8 +42,7 @@
       "source": "https://github.com/yschimke/glimmer-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/xr/glimmer/samples/ButtonSamples.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "ButtonWithTrailingIconPreview",
-      "figmaSvg": "https://preview.coo.ee/glimmer-samples/render/button-buttonwithtrailingiconsample__ideal__default.svg"
+      "previewName": "ButtonWithTrailingIconPreview"
     },
     {
       "componentId": "Button/ButtonWithLeadingAndTrailingIconSample",
@@ -54,8 +51,7 @@
       "source": "https://github.com/yschimke/glimmer-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/xr/glimmer/samples/ButtonSamples.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "ButtonWithLeadingAndTrailingIconPreview",
-      "figmaSvg": "https://preview.coo.ee/glimmer-samples/render/button-buttonwithleadingandtrailingiconsample__ideal__default.svg"
+      "previewName": "ButtonWithLeadingAndTrailingIconPreview"
     },
     {
       "componentId": "Button/LargeButtonSample",
@@ -68,8 +64,7 @@
       "codeSnippet": "LargeButtonSample()",
       "imports": [
         "import androidx.xr.glimmer.samples.LargeButtonSample"
-      ],
-      "figmaSvg": "https://preview.coo.ee/glimmer-samples/render/button-largebuttonsample__ideal__default.svg"
+      ]
     },
     {
       "componentId": "Button/LargeButtonWithLeadingIconSample",
@@ -78,8 +73,7 @@
       "source": "https://github.com/yschimke/glimmer-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/xr/glimmer/samples/ButtonSamples.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "LargeButtonWithLeadingIconPreview",
-      "figmaSvg": "https://preview.coo.ee/glimmer-samples/render/button-largebuttonwithleadingiconsample__ideal__default.svg"
+      "previewName": "LargeButtonWithLeadingIconPreview"
     },
     {
       "componentId": "Button/LargeButtonWithTrailingIconSample",
@@ -88,8 +82,7 @@
       "source": "https://github.com/yschimke/glimmer-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/xr/glimmer/samples/ButtonSamples.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "LargeButtonWithTrailingIconPreview",
-      "figmaSvg": "https://preview.coo.ee/glimmer-samples/render/button-largebuttonwithtrailingiconsample__ideal__default.svg"
+      "previewName": "LargeButtonWithTrailingIconPreview"
     },
     {
       "componentId": "Button/LargeButtonWithLeadingAndTrailingIconSample",
@@ -98,8 +91,7 @@
       "source": "https://github.com/yschimke/glimmer-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/xr/glimmer/samples/ButtonSamples.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "LargeButtonWithLeadingAndTrailingIconPreview",
-      "figmaSvg": "https://preview.coo.ee/glimmer-samples/render/button-largebuttonwithleadingandtrailingiconsample__ideal__default.svg"
+      "previewName": "LargeButtonWithLeadingAndTrailingIconPreview"
     },
     {
       "componentId": "ButtonGroup/ButtonGroupSample",
@@ -112,8 +104,7 @@
       "codeSnippet": "ButtonGroupSample()",
       "imports": [
         "import androidx.xr.glimmer.samples.ButtonGroupSample"
-      ],
-      "figmaSvg": "https://preview.coo.ee/glimmer-samples/render/buttongroup-buttongroupsample__ideal__default.svg"
+      ]
     },
     {
       "componentId": "Card/CardSample",
@@ -126,8 +117,7 @@
       "codeSnippet": "CardSample()",
       "imports": [
         "import androidx.xr.glimmer.samples.CardSample"
-      ],
-      "figmaSvg": "https://preview.coo.ee/glimmer-samples/render/card-cardsample__ideal__default.svg"
+      ]
     },
     {
       "componentId": "Card/CardWithTrailingIconSample",
@@ -140,8 +130,7 @@
       "codeSnippet": "CardWithTrailingIconSample()",
       "imports": [
         "import androidx.xr.glimmer.samples.CardWithTrailingIconSample"
-      ],
-      "figmaSvg": "https://preview.coo.ee/glimmer-samples/render/card-cardwithtrailingiconsample__ideal__default.svg"
+      ]
     },
     {
       "componentId": "Card/CardWithTitleAndSubtitleAndLeadingIconSample",
@@ -154,8 +143,7 @@
       "codeSnippet": "CardWithTitleAndSubtitleAndLeadingIconSample()",
       "imports": [
         "import androidx.xr.glimmer.samples.CardWithTitleAndSubtitleAndLeadingIconSample"
-      ],
-      "figmaSvg": "https://preview.coo.ee/glimmer-samples/render/card-cardwithtitleandsubtitleandleadingiconsample__ideal__default.svg"
+      ]
     },
     {
       "componentId": "Card/CardWithTitleAndHeaderSample",
@@ -168,8 +156,7 @@
       "codeSnippet": "CardWithTitleAndHeaderSample()",
       "imports": [
         "import androidx.xr.glimmer.samples.CardWithTitleAndHeaderSample"
-      ],
-      "figmaSvg": "https://preview.coo.ee/glimmer-samples/render/card-cardwithtitleandheadersample__ideal__default.svg"
+      ]
     },
     {
       "componentId": "Card/ActionCardWithTitleSample",
@@ -182,8 +169,7 @@
       "codeSnippet": "ActionCardWithTitleSample()",
       "imports": [
         "import androidx.xr.glimmer.samples.ActionCardWithTitleSample"
-      ],
-      "figmaSvg": "https://preview.coo.ee/glimmer-samples/render/card-actioncardwithtitlesample__ideal__default.svg"
+      ]
     },
     {
       "componentId": "Card/CardWithTitleAndLeadingIconAndHeader",
@@ -196,8 +182,7 @@
       "codeSnippet": "CardWithTitleAndLeadingIconAndHeader()",
       "imports": [
         "import androidx.xr.glimmer.samples.CardWithTitleAndLeadingIconAndHeader"
-      ],
-      "figmaSvg": "https://preview.coo.ee/glimmer-samples/render/card-cardwithtitleandleadingiconandheader__ideal__default.svg"
+      ]
     },
     {
       "componentId": "Card/ActionCardWithTitleAndLeadingIconAndHeader",
@@ -210,8 +195,7 @@
       "codeSnippet": "ActionCardWithTitleAndLeadingIconAndHeader()",
       "imports": [
         "import androidx.xr.glimmer.samples.ActionCardWithTitleAndLeadingIconAndHeader"
-      ],
-      "figmaSvg": "https://preview.coo.ee/glimmer-samples/render/card-actioncardwithtitleandleadingiconandheader__ideal__default.svg"
+      ]
     },
     {
       "componentId": "Card/CardWithLongText",
@@ -224,8 +208,7 @@
       "codeSnippet": "CardWithLongText()",
       "imports": [
         "import androidx.xr.glimmer.samples.CardWithLongText"
-      ],
-      "figmaSvg": "https://preview.coo.ee/glimmer-samples/render/card-cardwithlongtext__ideal__default.svg"
+      ]
     },
     {
       "componentId": "Card/CardWithTitleAndSubtitleAndLeadingIconLongText",
@@ -238,8 +221,7 @@
       "codeSnippet": "CardWithTitleAndSubtitleAndLeadingIconLongText()",
       "imports": [
         "import androidx.xr.glimmer.samples.CardWithTitleAndSubtitleAndLeadingIconLongText"
-      ],
-      "figmaSvg": "https://preview.coo.ee/glimmer-samples/render/card-cardwithtitleandsubtitleandleadingiconlongtext__ideal__default.svg"
+      ]
     },
     {
       "componentId": "Card/CardWithTitleAndSubtitleAndLeadingIconAndTrailingIconLongText",
@@ -252,8 +234,7 @@
       "codeSnippet": "CardWithTitleAndSubtitleAndLeadingIconAndTrailingIconLongText()",
       "imports": [
         "import androidx.xr.glimmer.samples.CardWithTitleAndSubtitleAndLeadingIconAndTrailingIconLongText"
-      ],
-      "figmaSvg": "https://preview.coo.ee/glimmer-samples/render/card-cardwithtitleandsubtitleandleadingiconandtrailingiconlongtext__ideal__default.svg"
+      ]
     },
     {
       "componentId": "Colors/ColorsSample",
@@ -266,8 +247,7 @@
       "codeSnippet": "ColorsSample()",
       "imports": [
         "import androidx.xr.glimmer.samples.ColorsSample"
-      ],
-      "figmaSvg": "https://preview.coo.ee/glimmer-samples/render/colors-colorssample__ideal__default.svg"
+      ]
     },
     {
       "componentId": "DepthEffectLevels/DepthEffectLevelsSample",
@@ -280,8 +260,7 @@
       "codeSnippet": "DepthEffectLevelsSample()",
       "imports": [
         "import androidx.xr.glimmer.samples.DepthEffectLevelsSample"
-      ],
-      "figmaSvg": "https://preview.coo.ee/glimmer-samples/render/deptheffectlevels-deptheffectlevelssample__ideal__default.svg"
+      ]
     },
     {
       "componentId": "GlimmerLazyList/GlimmerLazyColumnSample",
@@ -294,8 +273,7 @@
       "codeSnippet": "GlimmerLazyColumnSample()",
       "imports": [
         "import androidx.xr.glimmer.samples.GlimmerLazyColumnSample"
-      ],
-      "figmaSvg": "https://preview.coo.ee/glimmer-samples/render/glimmerlazylist-glimmerlazycolumnsample__ideal__default.svg"
+      ]
     },
     {
       "componentId": "GlimmerLazyList/GlimmerLazyColumnWithTitleChipSample",
@@ -308,8 +286,7 @@
       "codeSnippet": "GlimmerLazyColumnWithTitleChipSample()",
       "imports": [
         "import androidx.xr.glimmer.samples.GlimmerLazyColumnWithTitleChipSample"
-      ],
-      "figmaSvg": "https://preview.coo.ee/glimmer-samples/render/glimmerlazylist-glimmerlazycolumnwithtitlechipsample__ideal__default.svg"
+      ]
     },
     {
       "componentId": "GlimmerPager/GlimmerHorizontalPagerSample",
@@ -322,8 +299,7 @@
       "codeSnippet": "GlimmerHorizontalPagerSample()",
       "imports": [
         "import androidx.xr.glimmer.samples.GlimmerHorizontalPagerSample"
-      ],
-      "figmaSvg": "https://preview.coo.ee/glimmer-samples/render/glimmerpager-glimmerhorizontalpagersample__ideal__default.svg"
+      ]
     },
     {
       "componentId": "Icon/IconSampleUsage",
@@ -336,8 +312,7 @@
       "codeSnippet": "IconSampleUsage()",
       "imports": [
         "import androidx.xr.glimmer.samples.IconSampleUsage"
-      ],
-      "figmaSvg": "https://preview.coo.ee/glimmer-samples/render/icon-iconsampleusage__ideal__default.svg"
+      ]
     },
     {
       "componentId": "IconButton/IconButtonSample",
@@ -350,8 +325,7 @@
       "codeSnippet": "IconButtonSample()",
       "imports": [
         "import androidx.xr.glimmer.samples.IconButtonSample"
-      ],
-      "figmaSvg": "https://preview.coo.ee/glimmer-samples/render/iconbutton-iconbuttonsample__ideal__default.svg"
+      ]
     },
     {
       "componentId": "IconToggleButton/IconToggleButtonSample",
@@ -364,8 +338,7 @@
       "codeSnippet": "IconToggleButtonSample()",
       "imports": [
         "import androidx.xr.glimmer.samples.IconToggleButtonSample"
-      ],
-      "figmaSvg": "https://preview.coo.ee/glimmer-samples/render/icontogglebutton-icontogglebuttonsample__ideal__default.svg"
+      ]
     },
     {
       "componentId": "IndirectPointerGesture/OnIndirectPointerGestureSampleUsage",
@@ -378,8 +351,7 @@
       "codeSnippet": "OnIndirectPointerGestureSampleUsage()",
       "imports": [
         "import androidx.xr.glimmer.samples.OnIndirectPointerGestureSampleUsage"
-      ],
-      "figmaSvg": "https://preview.coo.ee/glimmer-samples/render/indirectpointergesture-onindirectpointergesturesampleusage__ideal__default.svg"
+      ]
     },
     {
       "componentId": "ListItem/ListItemSample",
@@ -392,8 +364,7 @@
       "codeSnippet": "ListItemSample()",
       "imports": [
         "import androidx.xr.glimmer.samples.ListItemSample"
-      ],
-      "figmaSvg": "https://preview.coo.ee/glimmer-samples/render/listitem-listitemsample__ideal__default.svg"
+      ]
     },
     {
       "componentId": "ListItem/ListItemWithSupportingLabelSample",
@@ -406,8 +377,7 @@
       "codeSnippet": "ListItemWithSupportingLabelSample()",
       "imports": [
         "import androidx.xr.glimmer.samples.ListItemWithSupportingLabelSample"
-      ],
-      "figmaSvg": "https://preview.coo.ee/glimmer-samples/render/listitem-listitemwithsupportinglabelsample__ideal__default.svg"
+      ]
     },
     {
       "componentId": "ListItem/ListItemWithSupportingLabelAndLeadingIconSample",
@@ -420,8 +390,7 @@
       "codeSnippet": "ListItemWithSupportingLabelAndLeadingIconSample()",
       "imports": [
         "import androidx.xr.glimmer.samples.ListItemWithSupportingLabelAndLeadingIconSample"
-      ],
-      "figmaSvg": "https://preview.coo.ee/glimmer-samples/render/listitem-listitemwithsupportinglabelandleadingiconsample__ideal__default.svg"
+      ]
     },
     {
       "componentId": "ListItem/ClickableListItemSample",
@@ -434,8 +403,7 @@
       "codeSnippet": "ClickableListItemSample()",
       "imports": [
         "import androidx.xr.glimmer.samples.ClickableListItemSample"
-      ],
-      "figmaSvg": "https://preview.coo.ee/glimmer-samples/render/listitem-clickablelistitemsample__ideal__default.svg"
+      ]
     },
     {
       "componentId": "ListItem/ClickableListItemWithSupportingLabelSample",
@@ -448,8 +416,7 @@
       "codeSnippet": "ClickableListItemWithSupportingLabelSample()",
       "imports": [
         "import androidx.xr.glimmer.samples.ClickableListItemWithSupportingLabelSample"
-      ],
-      "figmaSvg": "https://preview.coo.ee/glimmer-samples/render/listitem-clickablelistitemwithsupportinglabelsample__ideal__default.svg"
+      ]
     },
     {
       "componentId": "ListItem/ClickableListItemWithSupportingLabelAndLeadingIconSample",
@@ -462,8 +429,7 @@
       "codeSnippet": "ClickableListItemWithSupportingLabelAndLeadingIconSample()",
       "imports": [
         "import androidx.xr.glimmer.samples.ClickableListItemWithSupportingLabelAndLeadingIconSample"
-      ],
-      "figmaSvg": "https://preview.coo.ee/glimmer-samples/render/listitem-clickablelistitemwithsupportinglabelandleadingiconsample__ideal__default.svg"
+      ]
     },
     {
       "componentId": "ListItem/ListItemWithSupportingLabelAndIcons",
@@ -472,8 +438,7 @@
       "source": "https://github.com/yschimke/glimmer-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/xr/glimmer/samples/ListItemSamples.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "ListItemWithSupportingLabelAndIconsPreview",
-      "figmaSvg": "https://preview.coo.ee/glimmer-samples/render/listitem-listitemwithsupportinglabelandicons__ideal__default.svg"
+      "previewName": "ListItemWithSupportingLabelAndIconsPreview"
     },
     {
       "componentId": "ListItem/ListItemWithLeadingIconLongText",
@@ -482,8 +447,7 @@
       "source": "https://github.com/yschimke/glimmer-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/xr/glimmer/samples/ListItemSamples.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "ListItemWithLeadingIconLongTextPreview",
-      "figmaSvg": "https://preview.coo.ee/glimmer-samples/render/listitem-listitemwithleadingiconlongtext__ideal__default.svg"
+      "previewName": "ListItemWithLeadingIconLongTextPreview"
     },
     {
       "componentId": "ListItem/ListItemWithSupportingLabelAndLeadingIconLongText",
@@ -492,8 +456,7 @@
       "source": "https://github.com/yschimke/glimmer-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/xr/glimmer/samples/ListItemSamples.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "ListItemWithSupportingLabelAndLeadingIconLongTextPreview",
-      "figmaSvg": "https://preview.coo.ee/glimmer-samples/render/listitem-listitemwithsupportinglabelandleadingiconlongtext__ideal__default.svg"
+      "previewName": "ListItemWithSupportingLabelAndLeadingIconLongTextPreview"
     },
     {
       "componentId": "Shapes/ShapesSample",
@@ -506,8 +469,7 @@
       "codeSnippet": "ShapesSample()",
       "imports": [
         "import androidx.xr.glimmer.samples.ShapesSample"
-      ],
-      "figmaSvg": "https://preview.coo.ee/glimmer-samples/render/shapes-shapessample__ideal__default.svg"
+      ]
     },
     {
       "componentId": "Stack/VerticalStackSample",
@@ -520,8 +482,7 @@
       "codeSnippet": "VerticalStackSample()",
       "imports": [
         "import androidx.xr.glimmer.samples.VerticalStackSample"
-      ],
-      "figmaSvg": "https://preview.coo.ee/glimmer-samples/render/stack-verticalstacksample__ideal__default.svg"
+      ]
     },
     {
       "componentId": "Surface/SurfaceSample",
@@ -534,8 +495,7 @@
       "codeSnippet": "SurfaceSample()",
       "imports": [
         "import androidx.xr.glimmer.samples.SurfaceSample"
-      ],
-      "figmaSvg": "https://preview.coo.ee/glimmer-samples/render/surface-surfacesample__ideal__default.svg"
+      ]
     },
     {
       "componentId": "Surface/FocusableSurfaceSample",
@@ -548,8 +508,7 @@
       "codeSnippet": "FocusableSurfaceSample()",
       "imports": [
         "import androidx.xr.glimmer.samples.FocusableSurfaceSample"
-      ],
-      "figmaSvg": "https://preview.coo.ee/glimmer-samples/render/surface-focusablesurfacesample__ideal__default.svg"
+      ]
     },
     {
       "componentId": "Surface/ClickableSurfaceSample",
@@ -562,8 +521,7 @@
       "codeSnippet": "ClickableSurfaceSample()",
       "imports": [
         "import androidx.xr.glimmer.samples.ClickableSurfaceSample"
-      ],
-      "figmaSvg": "https://preview.coo.ee/glimmer-samples/render/surface-clickablesurfacesample__ideal__default.svg"
+      ]
     },
     {
       "componentId": "TitleChip/TitleChipSample",
@@ -576,8 +534,7 @@
       "codeSnippet": "TitleChipSample()",
       "imports": [
         "import androidx.xr.glimmer.samples.TitleChipSample"
-      ],
-      "figmaSvg": "https://preview.coo.ee/glimmer-samples/render/titlechip-titlechipsample__ideal__default.svg"
+      ]
     },
     {
       "componentId": "TitleChip/TitleChipWithLeadingIconSample",
@@ -590,8 +547,7 @@
       "codeSnippet": "TitleChipWithLeadingIconSample()",
       "imports": [
         "import androidx.xr.glimmer.samples.TitleChipWithLeadingIconSample"
-      ],
-      "figmaSvg": "https://preview.coo.ee/glimmer-samples/render/titlechip-titlechipwithleadingiconsample__ideal__default.svg"
+      ]
     },
     {
       "componentId": "TitleChip/TitleChipWithCardSample",
@@ -604,8 +560,7 @@
       "codeSnippet": "TitleChipWithCardSample()",
       "imports": [
         "import androidx.xr.glimmer.samples.TitleChipWithCardSample"
-      ],
-      "figmaSvg": "https://preview.coo.ee/glimmer-samples/render/titlechip-titlechipwithcardsample__ideal__default.svg"
+      ]
     },
     {
       "componentId": "ToggleButton/ToggleButtonSample",
@@ -618,8 +573,7 @@
       "codeSnippet": "ToggleButtonSample()",
       "imports": [
         "import androidx.xr.glimmer.samples.ToggleButtonSample"
-      ],
-      "figmaSvg": "https://preview.coo.ee/glimmer-samples/render/togglebutton-togglebuttonsample__ideal__default.svg"
+      ]
     },
     {
       "componentId": "ToggleButton/LargeToggleButtonSample",
@@ -632,8 +586,7 @@
       "codeSnippet": "LargeToggleButtonSample()",
       "imports": [
         "import androidx.xr.glimmer.samples.LargeToggleButtonSample"
-      ],
-      "figmaSvg": "https://preview.coo.ee/glimmer-samples/render/togglebutton-largetogglebuttonsample__ideal__default.svg"
+      ]
     },
     {
       "componentId": "ToggleButton/ToggleButtonWithLeadingIconSample",
@@ -646,8 +599,7 @@
       "codeSnippet": "ToggleButtonWithLeadingIconSample()",
       "imports": [
         "import androidx.xr.glimmer.samples.ToggleButtonWithLeadingIconSample"
-      ],
-      "figmaSvg": "https://preview.coo.ee/glimmer-samples/render/togglebutton-togglebuttonwithleadingiconsample__ideal__default.svg"
+      ]
     },
     {
       "componentId": "ToggleButton/ToggleButtonWithTrailingIconSample",
@@ -660,8 +612,7 @@
       "codeSnippet": "ToggleButtonWithTrailingIconSample()",
       "imports": [
         "import androidx.xr.glimmer.samples.ToggleButtonWithTrailingIconSample"
-      ],
-      "figmaSvg": "https://preview.coo.ee/glimmer-samples/render/togglebutton-togglebuttonwithtrailingiconsample__ideal__default.svg"
+      ]
     },
     {
       "componentId": "Typography/TypographyDefaultUsage",
@@ -674,8 +625,7 @@
       "codeSnippet": "TypographyDefaultUsage()",
       "imports": [
         "import androidx.xr.glimmer.samples.TypographyDefaultUsage"
-      ],
-      "figmaSvg": "https://preview.coo.ee/glimmer-samples/render/typography-typographydefaultusage__ideal__default.svg"
+      ]
     }
   ]
 }
