@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-02T15:35:01.703Z",
+  "generatedAt": "2026-10-03T07:08:50.340Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/glimmer-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "a6ba77095ac20b111d6d1b64e319e966eab9120c",
+        "subject": "fix(deps): compose-preview 2.32.2 and preview runtime 3.13.0 (#17)",
+        "at": "2026-10-03T08:02:38+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "1243cf1cd1def51f3001f6424067f37ffbc616fa",
         "subject": "fix(deps): update compose-ai-tools to v2.32.0 (#16)",
