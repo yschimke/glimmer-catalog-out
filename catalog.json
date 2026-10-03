@@ -3363,8 +3363,8 @@
   "library": [
     "androidx.xr.glimmer:glimmer"
   ],
-  "renderer": "compose-preview 2.32.2",
-  "generatedAt": "2026-10-03T08:05:45.747Z",
+  "renderer": "compose-preview 2.32.4",
+  "generatedAt": "2026-10-03T10:32:35.296Z",
   "display": {
     "surface": "dark",
     "hero": "GlimmerLazyColumn/TwoLine"
@@ -3385,7 +3385,7 @@
   "uiBuilderFile": "ui-builder.json",
   "uiBuilderRuntime": {
     "path": "ui-builder/runtime.zip",
-    "runtimeId": "glimmer-p2-9412c17e3f2f",
+    "runtimeId": "glimmer-p2-0e1dd894e155",
     "protocolVersion": 2,
     "integritySha256": "022b6e7bf6ee241bb6e8f0b636c7060586da2722bbc1d974b46ddd9a4a30ffef"
   },
