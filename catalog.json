@@ -3409,8 +3409,8 @@
   "library": [
     "androidx.xr.glimmer:glimmer"
   ],
-  "renderer": "compose-preview 2.32.2",
-  "generatedAt": "2026-10-03T08:01:09.288Z",
+  "renderer": "compose-preview 2.32.4",
+  "generatedAt": "2026-10-03T10:25:32.136Z",
   "display": {
     "surface": "dark",
     "role": "samples"

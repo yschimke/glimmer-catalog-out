@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-03T08:01:52.160Z",
+  "generatedAt": "2026-10-03T10:25:56.944Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/glimmer-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "0e1dd894e155fb300b3427d11e7ebd7edbb1e640",
+        "subject": "fix(deps): compose-preview plugin 2.32.4 and daemon 3.13.1 (#19)",
+        "at": "2026-10-03T11:05:20+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "9412c17e3f2f35e1d2c55b1c6c75d61bef2e7f4e",
         "subject": "build(deps): resolve compose-preview runtime modules through the daemon BOM (#18)",
