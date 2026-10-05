@@ -1,6 +1,6 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-03T10:33:06.854Z",
+  "generatedAt": "2026-10-05T14:30:22.149Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/glimmer-catalog",
