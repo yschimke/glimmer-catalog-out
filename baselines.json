@@ -7,6 +7,78 @@
     "sha256": "a464297e475299b30871ab24c00068b3bcafea0d88893a3348390af199ee5af0",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/ButtonGroups.kt"
   },
+  "catalog/ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker_VARIANT_cell-type-button-set-length-1-focus-start-40000116-6528": {
+    "captureLabel": "",
+    "functionName": "ButtonGroupSticker",
+    "module": "catalog",
+    "renderBasename": "ButtonGroupSticker_VARIANT_cell_type_button_set_length_1_focus_start_40000116_65-a478f594.png",
+    "sha256": "f5da2dc69e7c4a312a78d946c993ef10424dfa41b741ec01f875ad8d67b88f0e",
+    "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/ButtonGroups.kt"
+  },
+  "catalog/ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker_VARIANT_cell-type-button-set-length-2-focus-end-40000116-6521": {
+    "captureLabel": "",
+    "functionName": "ButtonGroupSticker",
+    "module": "catalog",
+    "renderBasename": "ButtonGroupSticker_VARIANT_cell_type_button_set_length_2_focus_end_40000116_6521-90a1e8dd.png",
+    "sha256": "f5213271a1eb3e0bdc396443a7dc16d7735972c1f1093b9716a32daef1e6fc60",
+    "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/ButtonGroups.kt"
+  },
+  "catalog/ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker_VARIANT_cell-type-button-set-length-2-focus-start-40000116-6513": {
+    "captureLabel": "",
+    "functionName": "ButtonGroupSticker",
+    "module": "catalog",
+    "renderBasename": "ButtonGroupSticker_VARIANT_cell_type_button_set_length_2_focus_start_40000116_65-e868196d.png",
+    "sha256": "cfaca90adc4076ef23245614a6ac888bcd254fb5f472f95e2e0cefdc14fb2a80",
+    "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/ButtonGroups.kt"
+  },
+  "catalog/ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker_VARIANT_cell-type-button-set-length-3-focus-end-40000116-6508": {
+    "captureLabel": "",
+    "functionName": "ButtonGroupSticker",
+    "module": "catalog",
+    "renderBasename": "ButtonGroupSticker_VARIANT_cell_type_button_set_length_3_focus_end_40000116_6508-c140a631.png",
+    "sha256": "e0e5ba29f452fcc7af24a86bc2de32fa78935b97eca361f9224ca82be3f45e7a",
+    "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/ButtonGroups.kt"
+  },
+  "catalog/ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker_VARIANT_cell-type-button-set-length-3-focus-middle-40000116-6502": {
+    "captureLabel": "",
+    "functionName": "ButtonGroupSticker",
+    "module": "catalog",
+    "renderBasename": "ButtonGroupSticker_VARIANT_cell_type_button_set_length_3_focus_middle_40000116_6-b6f790d9.png",
+    "sha256": "594cc855e683502e71049c359036127dfddfb9f909f1716ce06e8dd66f25e386",
+    "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/ButtonGroups.kt"
+  },
+  "catalog/ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker_VARIANT_cell-type-toggle-set-length-2-focus-end-40000116-6543": {
+    "captureLabel": "",
+    "functionName": "ButtonGroupSticker",
+    "module": "catalog",
+    "renderBasename": "ButtonGroupSticker_VARIANT_cell_type_toggle_set_length_2_focus_end_40000116_6543-2344418c.png",
+    "sha256": "e5c57b9a95979671230fbaf03b1e9dd1b46b99da01e0a0ec9edce3689502e8f0",
+    "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/ButtonGroups.kt"
+  },
+  "catalog/ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker_VARIANT_cell-type-toggle-set-length-2-focus-middle-40000116-6539": {
+    "captureLabel": "",
+    "functionName": "ButtonGroupSticker",
+    "module": "catalog",
+    "renderBasename": "ButtonGroupSticker_VARIANT_cell_type_toggle_set_length_2_focus_middle_40000116_6-88433e6a.png",
+    "sha256": "076a3e90c372cee6ae56ee58f9d7ddac69fe23e87809aa83db0b96543da306c7",
+    "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/ButtonGroups.kt"
+  },
+  "catalog/ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker_VARIANT_cell-type-toggle-set-length-2-focus-start-40000116-6535": {
+    "captureLabel": "",
+    "functionName": "ButtonGroupSticker",
+    "module": "catalog",
+    "renderBasename": "ButtonGroupSticker_VARIANT_cell_type_toggle_set_length_2_focus_start_40000116_65-2489e540.png",
+    "sha256": "384fea2a8e4c30c47585f3c036df6fa8b8c0d58136d2c9dc32bafccb2a2440ec",
+    "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/ButtonGroups.kt"
+  },
+  "catalog/ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker_VARIANT_focused": {
+    "captureLabel": "",
+    "functionName": "ButtonGroupSticker",
+    "module": "catalog",
+    "renderBasename": "ButtonGroupSticker_VARIANT_focused-08b1ecf4.png",
+    "sha256": "2510e30f5b85c4fe2334bffdeba3f2448b4556f9704a74dd1c85896475b9e8b2",
+    "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/ButtonGroups.kt"
+  },
   "catalog/ee.schimke.m3catalog.glimmer.ButtonsKt.ButtonLabelOnlySticker": {
     "captureLabel": "",
     "functionName": "ButtonLabelOnlySticker",
@@ -415,6 +487,30 @@
     "sha256": "1aefc41c3053c5927e2884a8a07c6c1d0474e5d58bdb89a6433ceb8bcbd7e914",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/LazyLists.kt"
   },
+  "catalog/ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnSticker_VARIANT_cell-list-index-bottom-title-false-40000115-2000": {
+    "captureLabel": "",
+    "functionName": "GlimmerLazyColumnSticker",
+    "module": "catalog",
+    "renderBasename": "GlimmerLazyColumnSticker_VARIANT_cell_list_index_bottom_title_false_40000115_200-1df92295.png",
+    "sha256": "48fe7f030e1c6f164a9bfd4eeac3f599cc77a2d1e0624e74e30546bc4ef56fe8",
+    "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/LazyLists.kt"
+  },
+  "catalog/ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnSticker_VARIANT_cell-list-index-mid-title-false-4116-5221": {
+    "captureLabel": "",
+    "functionName": "GlimmerLazyColumnSticker",
+    "module": "catalog",
+    "renderBasename": "GlimmerLazyColumnSticker_VARIANT_cell_list_index_mid_title_false_4116_5221-23f074df.png",
+    "sha256": "e4cb1bef9573cc969bfe813bfcbb9ec7b0782fca13e7e2574b75cf4b84d09e36",
+    "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/LazyLists.kt"
+  },
+  "catalog/ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnSticker_VARIANT_focused": {
+    "captureLabel": "",
+    "functionName": "GlimmerLazyColumnSticker",
+    "module": "catalog",
+    "renderBasename": "GlimmerLazyColumnSticker_VARIANT_focused-3f051728.png",
+    "sha256": "2d277064a8caefbeaf9cf06d4c9fcea4dd5fa70c3b8d3f5d5bb8b82519e58993",
+    "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/LazyLists.kt"
+  },
   "catalog/ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnTwoLineSticker": {
     "captureLabel": "",
     "functionName": "GlimmerLazyColumnTwoLineSticker",
@@ -423,12 +519,52 @@
     "sha256": "15760604eb517dc7c5a296a55d72bd63c37898ba13958d7037b0d598d4d68535",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/LazyLists.kt"
   },
+  "catalog/ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnTwoLineSticker_VARIANT_cell-list-index-mid-title-false-4116-5259": {
+    "captureLabel": "",
+    "functionName": "GlimmerLazyColumnTwoLineSticker",
+    "module": "catalog",
+    "renderBasename": "GlimmerLazyColumnTwoLineSticker_VARIANT_cell_list_index_mid_title_false_4116_525-0e8565ee.png",
+    "sha256": "36551a2d8252b959b4448ef3ae5cb7bb356d0b8d47d6e67b835904a27862698e",
+    "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/LazyLists.kt"
+  },
+  "catalog/ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnTwoLineSticker_VARIANT_cell-list-index-mid-title-true-40000116-2458": {
+    "captureLabel": "",
+    "functionName": "GlimmerLazyColumnTwoLineSticker",
+    "module": "catalog",
+    "renderBasename": "GlimmerLazyColumnTwoLineSticker_VARIANT_cell_list_index_mid_title_true_40000116-846ecf7c.png",
+    "sha256": "706492752c35806a339783f66cbe837c278c2dfdd68729fc5da23ed34e46cd39",
+    "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/LazyLists.kt"
+  },
+  "catalog/ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnTwoLineSticker_VARIANT_cell-list-index-top-title-true-40000116-2394": {
+    "captureLabel": "",
+    "functionName": "GlimmerLazyColumnTwoLineSticker",
+    "module": "catalog",
+    "renderBasename": "GlimmerLazyColumnTwoLineSticker_VARIANT_cell_list_index_top_title_true_40000116-0f827e23.png",
+    "sha256": "1fcaed266862a921db29d820da5f6d797bec3d8d1da7e2b843a5fe4765774ddc",
+    "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/LazyLists.kt"
+  },
   "catalog/ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnWithTitleSticker": {
     "captureLabel": "",
     "functionName": "GlimmerLazyColumnWithTitleSticker",
     "module": "catalog",
     "renderBasename": "GlimmerLazyColumnWithTitleSticker-1b5a5d39.png",
     "sha256": "f38e19b236df5d5d650253ec5fdf4cf8c94a8d10da86b1d6df093f032c0fdf5b",
+    "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/LazyLists.kt"
+  },
+  "catalog/ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnWithTitleSticker_VARIANT_cell-list-index-mid-title-true-40000115-1924": {
+    "captureLabel": "",
+    "functionName": "GlimmerLazyColumnWithTitleSticker",
+    "module": "catalog",
+    "renderBasename": "GlimmerLazyColumnWithTitleSticker_VARIANT_cell_list_index_mid_title_true_4000011-fb549618.png",
+    "sha256": "2e57e616d9af7ad99ce4d005af3ad5ae30405160b81db528e019643db1b76590",
+    "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/LazyLists.kt"
+  },
+  "catalog/ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnWithTitleSticker_VARIANT_focused": {
+    "captureLabel": "",
+    "functionName": "GlimmerLazyColumnWithTitleSticker",
+    "module": "catalog",
+    "renderBasename": "GlimmerLazyColumnWithTitleSticker_VARIANT_focused-0a448f9f.png",
+    "sha256": "57577ec2b07b752223bff416a55649f88e96bfe0ee93cb62d70ed1b5f54fda03",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/LazyLists.kt"
   },
   "catalog/ee.schimke.m3catalog.glimmer.ListsKt.ListItemSticker": {
