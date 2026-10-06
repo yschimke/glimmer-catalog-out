@@ -4590,6 +4590,75 @@
           "height": 178,
           "livePreview": "https://preview.coo.ee/glimmer-catalog/p/verticalstack__ideal__default",
           "previewId": "ee.schimke.m3catalog.glimmer.StacksKt.VerticalStackSticker",
+          "overrides": [
+            {
+              "key": "type",
+              "type": "string",
+              "label": "type",
+              "default": {
+                "kind": "string",
+                "value": "cards"
+              },
+              "current": {
+                "kind": "string",
+                "value": "cards"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "cards",
+                  "label": "Cards"
+                },
+                {
+                  "value": "home",
+                  "label": "Home"
+                }
+              ],
+              "optionsExhaustive": true
+            }
+          ],
+          "density": 1
+        },
+        {
+          "variant": "ideal",
+          "path": "images/verticalstack/ideal__cell-type-home-40000042-4081.png",
+          "state": "cell-type-home-40000042-4081",
+          "width": 160,
+          "height": 56,
+          "livePreview": "https://preview.coo.ee/glimmer-catalog/p/verticalstack__ideal__cell-type-home-40000042-4081",
+          "previewId": "ee.schimke.m3catalog.glimmer.StacksKt.VerticalStackSticker_VARIANT_cell-type-home-40000042-4081",
+          "overrides": [
+            {
+              "key": "type",
+              "type": "string",
+              "label": "type",
+              "default": {
+                "kind": "string",
+                "value": "cards"
+              },
+              "current": {
+                "kind": "string",
+                "value": "home"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "cards",
+                  "label": "Cards"
+                },
+                {
+                  "value": "home",
+                  "label": "Home"
+                }
+              ],
+              "optionsExhaustive": true
+            }
+          ],
+          "secondary": true,
           "density": 1
         }
       ],
@@ -4633,7 +4702,7 @@
       "wireframe": "wireframes/verticalstack.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/Stacks.kt",
       "sourceModule": ":catalog",
-      "bodyLine": 32,
+      "bodyLine": 46,
       "sourceDirectory": "catalog",
       "sourceFunction": "VerticalStackSticker",
       "parameters": [
@@ -4825,7 +4894,7 @@
     "androidx.xr.glimmer:glimmer"
   ],
   "renderer": "compose-preview 2.32.4",
-  "generatedAt": "2026-10-06T19:33:03.326Z",
+  "generatedAt": "2026-10-06T19:44:16.180Z",
   "display": {
     "surface": "dark",
     "hero": "GlimmerLazyColumn/TwoLine"
@@ -4846,7 +4915,7 @@
   "uiBuilderFile": "ui-builder.json",
   "uiBuilderRuntime": {
     "path": "ui-builder/runtime.zip",
-    "runtimeId": "glimmer-p2-74893f56070c",
+    "runtimeId": "glimmer-p2-b08897d84a7d",
     "protocolVersion": 2,
     "integritySha256": "93bb688acdec189fce278e2d315b517e46c0301fbb0b06ac576cacd4c416e921"
   },

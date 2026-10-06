@@ -1,11 +1,24 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-06T19:33:30.159Z",
+  "generatedAt": "2026-10-06T19:44:41.523Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/glimmer-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "b08897d84a7dd94bddbf0a731b726ac4a152b4d9",
+        "subject": "feat: draw the kit's Stack Type=Home cell (#26)",
+        "at": "2026-10-06T20:32:11+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [
+          "verticalstack__ideal__default",
+          "verticalstack__ideal__cell-type-home-40000042-4081"
+        ],
+        "components": [
+          "VerticalStack"
+        ]
+      },
       {
         "sha": "74893f56070cdbf2e3d44a393de71c8d46fa723a",
         "subject": "feat: draw the kit's focus-position cells for Button group and lists (#25)",
@@ -120,6 +133,7 @@
           "listitem__ideal__pressed",
           "listitem__ideal__default__content-supporting-label",
           "verticalstack__ideal__default",
+          "verticalstack__ideal__cell-type-home-40000042-4081",
           "voiceinputindicator__ideal__default",
           "voiceinputindicator__ideal__cell-volume-quiet-contained-yes-40000116-9342",
           "voiceinputindicator__ideal__default__volume-quiet",
@@ -196,6 +210,7 @@
           "listitem__ideal__pressed",
           "listitem__ideal__default__content-supporting-label",
           "verticalstack__ideal__default",
+          "verticalstack__ideal__cell-type-home-40000042-4081",
           "voiceinputindicator__ideal__default",
           "voiceinputindicator__ideal__cell-volume-quiet-contained-yes-40000116-9342",
           "voiceinputindicator__ideal__default__volume-quiet",
