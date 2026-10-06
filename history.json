@@ -1,6 +1,6 @@
 {
     "formatVersion": "compose-preview-history/v1",
-    "generatedFrom": "693fb22371c63826622babe41d8de1dfdf4cf524",
+    "generatedFrom": "b914ab90599d44130bc4aabaaf48983856aab0cf",
     "previews": {
         "catalog/ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker": {
             "path": "renders/catalog/ButtonGroupSticker-bf99a803.png",
@@ -1180,6 +1180,21 @@
                     "commit": "5d8a7f1ee16a5af1d513ceabf2b8b54fd7369d17",
                     "date": "2026-10-02T09:35:56Z",
                     "sourceSha": "6f6643c9",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.m3catalog.glimmer.StacksKt.VerticalStackSticker_VARIANT_cell-type-home-40000042-4081": {
+            "path": "renders/catalog/VerticalStackSticker_VARIANT_cell_type_home_40000042_4081-5f2dfd07.png",
+            "versions": [
+                {
+                    "blob": "0a2549b45c4ba44d77ae713dbc5061d75f05849f",
+                    "commit": "b914ab90599d44130bc4aabaaf48983856aab0cf",
+                    "date": "2026-10-06T19:34:43Z",
+                    "sourceSha": "b08897d8",
                     "commits": 1
                 }
             ],
