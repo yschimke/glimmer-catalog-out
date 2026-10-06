@@ -1,11 +1,32 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-06T21:13:37.979Z",
+  "generatedAt": "2026-10-06T21:40:50.803Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/glimmer-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "451b21c54fee8a25c0f7bb908576232b1c0b1838",
+        "subject": "feat: draw the kit's last three list Bottom cells (#29)",
+        "at": "2026-10-06T22:31:06+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [
+          "glimmerlazycolumn__ideal__focused",
+          "glimmerlazycolumn__ideal__cell-list-index-bottom-title-false-40000115-2000",
+          "glimmerlazycolumn__ideal__cell-list-index-mid-title-false-4116-5221",
+          "glimmerlazycolumn-twoline__ideal__default",
+          "glimmerlazycolumn-twoline__ideal__cell-list-index-bottom-title-false-4116-5267",
+          "glimmerlazycolumn-twoline__ideal__cell-list-index-bottom-title-true-40000116-2522",
+          "glimmerlazycolumn-twoline__ideal__cell-list-index-mid-title-false-4116-5259",
+          "glimmerlazycolumn-twoline__ideal__cell-list-index-mid-title-true-40000116-2458",
+          "glimmerlazycolumn-twoline__ideal__cell-list-index-top-title-true-40000116-2394"
+        ],
+        "components": [
+          "GlimmerLazyColumn",
+          "GlimmerLazyColumn/TwoLine"
+        ]
+      },
       {
         "sha": "3a8746129de5ccd5ae3ae17132238dcc88da04bb",
         "subject": "feat: pair the focused base cells with their focused renders (#27)",
@@ -25,6 +46,8 @@
           "glimmerlazycolumn__ideal__cell-list-index-bottom-title-false-40000115-2000",
           "glimmerlazycolumn__ideal__cell-list-index-mid-title-false-4116-5221",
           "glimmerlazycolumn-twoline__ideal__default",
+          "glimmerlazycolumn-twoline__ideal__cell-list-index-bottom-title-false-4116-5267",
+          "glimmerlazycolumn-twoline__ideal__cell-list-index-bottom-title-true-40000116-2522",
           "glimmerlazycolumn-twoline__ideal__cell-list-index-mid-title-false-4116-5259",
           "glimmerlazycolumn-twoline__ideal__cell-list-index-mid-title-true-40000116-2458",
           "glimmerlazycolumn-twoline__ideal__cell-list-index-top-title-true-40000116-2394"
@@ -67,6 +90,8 @@
           "glimmerlazycolumn__ideal__cell-list-index-bottom-title-false-40000115-2000",
           "glimmerlazycolumn__ideal__cell-list-index-mid-title-false-4116-5221",
           "glimmerlazycolumn-twoline__ideal__default",
+          "glimmerlazycolumn-twoline__ideal__cell-list-index-bottom-title-false-4116-5267",
+          "glimmerlazycolumn-twoline__ideal__cell-list-index-bottom-title-true-40000116-2522",
           "glimmerlazycolumn-twoline__ideal__cell-list-index-mid-title-false-4116-5259",
           "glimmerlazycolumn-twoline__ideal__cell-list-index-mid-title-true-40000116-2458",
           "glimmerlazycolumn-twoline__ideal__cell-list-index-top-title-true-40000116-2394"
@@ -153,6 +178,8 @@
           "glimmerlazycolumn__ideal__cell-list-index-bottom-title-false-40000115-2000",
           "glimmerlazycolumn__ideal__cell-list-index-mid-title-false-4116-5221",
           "glimmerlazycolumn-twoline__ideal__default",
+          "glimmerlazycolumn-twoline__ideal__cell-list-index-bottom-title-false-4116-5267",
+          "glimmerlazycolumn-twoline__ideal__cell-list-index-bottom-title-true-40000116-2522",
           "glimmerlazycolumn-twoline__ideal__cell-list-index-mid-title-false-4116-5259",
           "glimmerlazycolumn-twoline__ideal__cell-list-index-mid-title-true-40000116-2458",
           "glimmerlazycolumn-twoline__ideal__cell-list-index-top-title-true-40000116-2394",
@@ -229,6 +256,8 @@
           "glimmerlazycolumn__ideal__cell-list-index-bottom-title-false-40000115-2000",
           "glimmerlazycolumn__ideal__cell-list-index-mid-title-false-4116-5221",
           "glimmerlazycolumn-twoline__ideal__default",
+          "glimmerlazycolumn-twoline__ideal__cell-list-index-bottom-title-false-4116-5267",
+          "glimmerlazycolumn-twoline__ideal__cell-list-index-bottom-title-true-40000116-2522",
           "glimmerlazycolumn-twoline__ideal__cell-list-index-mid-title-false-4116-5259",
           "glimmerlazycolumn-twoline__ideal__cell-list-index-mid-title-true-40000116-2458",
           "glimmerlazycolumn-twoline__ideal__cell-list-index-top-title-true-40000116-2394",
@@ -274,7 +303,7 @@
     },
     {
       "kind": "dangling-mapping",
-      "detail": "design-map names ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnWithTitleSticker_VARIANT_focused, ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnWithTitleSticker_VARIANT_cell-list-index-mid-title-true-40000115-1924, which this catalog does not publish.",
+      "detail": "design-map names ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnWithTitleSticker_VARIANT_focused, ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnWithTitleSticker_VARIANT_cell-list-index-bottom-title-true-4116-5230, ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnWithTitleSticker_VARIANT_cell-list-index-mid-title-true-40000115-1924, which this catalog does not publish.",
       "code": "catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/LazyLists.kt#GlimmerLazyColumnSticker",
       "previewId": "ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnWithTitleSticker_VARIANT_focused"
     },

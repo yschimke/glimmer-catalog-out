@@ -3894,6 +3894,17 @@
         },
         {
           "variant": "ideal",
+          "path": "images/glimmerlazycolumn/ideal__cell-list-index-bottom-title-true-4116-5230__title-true.png",
+          "state": "cell-list-index-bottom-title-true-4116-5230",
+          "width": 420,
+          "height": 364,
+          "props": {
+            "Title": "True"
+          },
+          "livePreview": "https://preview.coo.ee/glimmer-catalog/p/glimmerlazycolumn__ideal__cell-list-index-bottom-title-true-4116-5230__title-true"
+        },
+        {
+          "variant": "ideal",
           "path": "images/glimmerlazycolumn/ideal__cell-list-index-mid-title-true-40000115-1924__title-true.png",
           "state": "cell-list-index-mid-title-true-40000115-1924",
           "width": 420,
@@ -3985,7 +3996,7 @@
       "wireframe": "wireframes/glimmerlazycolumn.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/LazyLists.kt",
       "sourceModule": ":catalog",
-      "bodyLine": 101,
+      "bodyLine": 104,
       "sourceDirectory": "catalog",
       "sourceFunction": "GlimmerLazyColumnSticker",
       "parameters": [
@@ -4067,6 +4078,150 @@
               "optionsExhaustive": true
             }
           ],
+          "density": 1
+        },
+        {
+          "variant": "ideal",
+          "path": "images/glimmerlazycolumn-twoline/ideal__cell-list-index-bottom-title-false-4116-5267.png",
+          "state": "cell-list-index-bottom-title-false-4116-5267",
+          "width": 420,
+          "height": 364,
+          "livePreview": "https://preview.coo.ee/glimmer-catalog/p/glimmerlazycolumn-twoline__ideal__cell-list-index-bottom-title-false-4116-5267",
+          "previewId": "ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnTwoLineSticker_VARIANT_cell-list-index-bottom-title-false-4116-5267",
+          "overrides": [
+            {
+              "key": "index",
+              "type": "string",
+              "label": "index",
+              "default": {
+                "kind": "string",
+                "value": "top"
+              },
+              "current": {
+                "kind": "string",
+                "value": "bottom"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "top",
+                  "label": "Top"
+                },
+                {
+                  "value": "mid",
+                  "label": "Mid"
+                },
+                {
+                  "value": "bottom",
+                  "label": "Bottom"
+                }
+              ],
+              "optionsExhaustive": true
+            },
+            {
+              "key": "title",
+              "type": "string",
+              "label": "title",
+              "default": {
+                "kind": "string",
+                "value": "false"
+              },
+              "current": {
+                "kind": "string",
+                "value": "false"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "false",
+                  "label": "No title"
+                },
+                {
+                  "value": "true",
+                  "label": "Title"
+                }
+              ],
+              "optionsExhaustive": true
+            }
+          ],
+          "supportsFocus": true,
+          "secondary": true,
+          "density": 1
+        },
+        {
+          "variant": "ideal",
+          "path": "images/glimmerlazycolumn-twoline/ideal__cell-list-index-bottom-title-true-40000116-2522.png",
+          "state": "cell-list-index-bottom-title-true-40000116-2522",
+          "width": 420,
+          "height": 364,
+          "livePreview": "https://preview.coo.ee/glimmer-catalog/p/glimmerlazycolumn-twoline__ideal__cell-list-index-bottom-title-true-40000116-2522",
+          "previewId": "ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnTwoLineSticker_VARIANT_cell-list-index-bottom-title-true-40000116-2522",
+          "overrides": [
+            {
+              "key": "index",
+              "type": "string",
+              "label": "index",
+              "default": {
+                "kind": "string",
+                "value": "top"
+              },
+              "current": {
+                "kind": "string",
+                "value": "bottom"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "top",
+                  "label": "Top"
+                },
+                {
+                  "value": "mid",
+                  "label": "Mid"
+                },
+                {
+                  "value": "bottom",
+                  "label": "Bottom"
+                }
+              ],
+              "optionsExhaustive": true
+            },
+            {
+              "key": "title",
+              "type": "string",
+              "label": "title",
+              "default": {
+                "kind": "string",
+                "value": "false"
+              },
+              "current": {
+                "kind": "string",
+                "value": "true"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "false",
+                  "label": "No title"
+                },
+                {
+                  "value": "true",
+                  "label": "Title"
+                }
+              ],
+              "optionsExhaustive": true
+            }
+          ],
+          "supportsFocus": true,
+          "secondary": true,
           "density": 1
         },
         {
@@ -4331,21 +4486,6 @@
             "bottom": 16
           },
           "cornerRadius": 36
-        },
-        {
-          "bounds": {
-            "x": 0,
-            "y": 332,
-            "width": 420,
-            "height": 32
-          },
-          "padding": {
-            "start": 16,
-            "top": 16,
-            "end": 16,
-            "bottom": 16
-          },
-          "cornerRadius": 36
         }
       ],
       "section": "Containment",
@@ -4355,7 +4495,7 @@
       "wireframe": "wireframes/glimmerlazycolumn-twoline.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/LazyLists.kt",
       "sourceModule": ":catalog",
-      "bodyLine": 172,
+      "bodyLine": 200,
       "sourceDirectory": "catalog",
       "sourceFunction": "GlimmerLazyColumnTwoLineSticker",
       "parameters": [
@@ -4894,7 +5034,7 @@
     "androidx.xr.glimmer:glimmer"
   ],
   "renderer": "compose-preview 2.32.4",
-  "generatedAt": "2026-10-06T21:13:16.478Z",
+  "generatedAt": "2026-10-06T21:40:24.628Z",
   "display": {
     "surface": "dark",
     "hero": "GlimmerLazyColumn/TwoLine"
@@ -4915,7 +5055,7 @@
   "uiBuilderFile": "ui-builder.json",
   "uiBuilderRuntime": {
     "path": "ui-builder/runtime.zip",
-    "runtimeId": "glimmer-p2-f659ab89dc7a",
+    "runtimeId": "glimmer-p2-451b21c54fee",
     "protocolVersion": 2,
     "integritySha256": "93bb688acdec189fce278e2d315b517e46c0301fbb0b06ac576cacd4c416e921"
   },
