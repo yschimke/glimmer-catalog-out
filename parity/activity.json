@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-05T14:28:01.731Z",
+  "generatedAt": "2026-10-06T17:42:24.588Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/glimmer-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "7e51ee65663aec63751a6714fc4241fd83b2ba3a",
+        "subject": "feat: update Glimmer to alpha20 and re-pin its samples (#23)",
+        "at": "2026-10-06T18:34:45+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "0e1dd894e155fb300b3427d11e7ebd7edbb1e640",
         "subject": "fix(deps): compose-preview plugin 2.32.4 and daemon 3.13.1 (#19)",

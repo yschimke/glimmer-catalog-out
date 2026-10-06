@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 305" width="960" height="305" role="img" aria-label="Card/TrailingImageCardSample layout wireframe">
+  <title>Card/TrailingImageCardSample — layout wireframe (slots + tokens)</title>
+  <rect width="960" height="305" fill="#ffffff"/>
+  <g>
+    <rect x="0" y="0" width="960" height="305" fill="none" fill-opacity="0" stroke="#5B6470" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="0" y="0" width="960" height="305" fill="none" fill-opacity="0" stroke="#2E7D6B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <path d="M48,12 H912 A36,36 0 0 1 948,48 V257 A36,36 0 0 1 912,293 H48 A36,36 0 0 1 12,257 V48 A36,36 0 0 1 48,12 Z" fill="#303030" fill-opacity="1" stroke="#8E6BA8" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="15" y="24" font-family="system-ui, sans-serif" font-size="9" fill="#8E6BA8">#FF303030  pad 12.0dp</text>
+  </g>
+  <g>
+    <rect x="20" y="109" width="635" height="87" fill="none" fill-opacity="0" stroke="#B0813B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="20" y="109" width="54" height="32" fill="none" fill-opacity="0" stroke="#3B72A8" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="20" y="144" width="77" height="23" fill="none" fill-opacity="0" stroke="#3B72A8" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="20" y="170" width="355" height="26" fill="none" fill-opacity="0" stroke="#3B72A8" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <path d="M691,12 H924 A24,24 0 0 1 948,36 V269 A24,24 0 0 1 924,293 H691 A24,24 0 0 1 667,269 V36 A24,24 0 0 1 691,12 Z" fill="none" fill-opacity="0" stroke="#B0813B" stroke-width="1.5" stroke-opacity="1"/>
+  </g>
+  <g>
+    <rect x="667" y="12" width="281" height="281" fill="none" fill-opacity="0" stroke="#3B72A8" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+</svg>

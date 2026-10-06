@@ -365,7 +365,7 @@
                     "group": null
                 },
                 {
-                    "previewId": "androidx.xr.glimmer.samples.CardSamplesKt.ActionCardWithTitleAndLeadingIconAndHeaderPreview",
+                    "previewId": "androidx.xr.glimmer.samples.CardSamplesKt.ActionCardWithTitleAndLeadingIconPreview",
                     "componentId": null,
                     "group": null
                 },
@@ -401,8 +401,8 @@
                 "callable": "androidx.xr.glimmer.ActionCard",
                 "name": "ActionCard",
                 "origin": "LIBRARY",
-                "jvmName": "ActionCard-owtK_Bk",
-                "descriptor": "(Lkotlin/jvm/functions/Function2;Landroidx/compose/ui/Modifier;Lkotlin/jvm/functions/Function2;Lkotlin/jvm/functions/Function2;Lkotlin/jvm/functions/Function2;Lkotlin/jvm/functions/Function2;Lkotlin/jvm/functions/Function2;Landroidx/compose/ui/graphics/Shape;JJLandroidx/compose/foundation/layout/PaddingValues;Lkotlin/jvm/functions/Function2;Landroidx/compose/runtime/Composer;III)V",
+                "jvmName": "ActionCard-uPCbpMU",
+                "descriptor": "(Lkotlin/jvm/functions/Function2;Landroidx/compose/ui/Modifier;Lkotlin/jvm/functions/Function2;Lkotlin/jvm/functions/Function2;Lkotlin/jvm/functions/Function2;Lkotlin/jvm/functions/Function2;Landroidx/compose/ui/graphics/Shape;JJLandroidx/compose/foundation/layout/PaddingValues;Lkotlin/jvm/functions/Function2;Landroidx/compose/runtime/Composer;III)V",
                 "sourceFile": null,
                 "docs": "unavailable",
                 "receiver": null
@@ -449,19 +449,6 @@
                 },
                 {
                     "name": "subtitle",
-                    "type": "(() -> Unit)?",
-                    "typeFqn": "kotlin.Function0",
-                    "hasDefault": true,
-                    "composableSlot": true,
-                    "composableSlotReceiver": null,
-                    "nullable": true,
-                    "noArgConstructible": false,
-                    "noArgFactory": null,
-                    "scopeDslReceiver": null,
-                    "lambdaReturnTypeFqn": "kotlin.Unit"
-                },
-                {
-                    "name": "header",
                     "type": "(() -> Unit)?",
                     "typeFqn": "kotlin.Function0",
                     "hasDefault": true,
@@ -582,11 +569,6 @@
                     "receiverScope": null
                 },
                 {
-                    "name": "header",
-                    "required": false,
-                    "receiverScope": null
-                },
-                {
                     "name": "leadingIcon",
                     "required": false,
                     "receiverScope": null
@@ -604,7 +586,7 @@
             ],
             "bindings": [
                 {
-                    "previewId": "androidx.xr.glimmer.samples.CardSamplesKt.ActionCardWithTitleAndLeadingIconAndHeaderPreview",
+                    "previewId": "androidx.xr.glimmer.samples.CardSamplesKt.ActionCardWithTitleAndLeadingIconPreview",
                     "componentId": null,
                     "group": null
                 },
@@ -640,8 +622,8 @@
                 "callable": "androidx.xr.glimmer.Card",
                 "name": "Card",
                 "origin": "LIBRARY",
-                "jvmName": "Card-xOHPqjQ",
-                "descriptor": "(Landroidx/compose/ui/Modifier;Lkotlin/jvm/functions/Function2;Lkotlin/jvm/functions/Function2;Lkotlin/jvm/functions/Function2;Lkotlin/jvm/functions/Function2;Lkotlin/jvm/functions/Function2;Landroidx/compose/ui/graphics/Shape;JJLandroidx/compose/foundation/layout/PaddingValues;Landroidx/compose/foundation/interaction/MutableInteractionSource;Lkotlin/jvm/functions/Function2;Landroidx/compose/runtime/Composer;III)V",
+                "jvmName": "Card-QPuc2h0",
+                "descriptor": "(Landroidx/compose/ui/Modifier;Lkotlin/jvm/functions/Function2;Lkotlin/jvm/functions/Function2;Lkotlin/jvm/functions/Function2;Lkotlin/jvm/functions/Function2;Landroidx/compose/ui/graphics/Shape;JJLandroidx/compose/foundation/layout/PaddingValues;Landroidx/compose/foundation/interaction/MutableInteractionSource;Lkotlin/jvm/functions/Function2;Landroidx/compose/runtime/Composer;III)V",
                 "sourceFile": null,
                 "docs": "unavailable",
                 "receiver": null
@@ -675,19 +657,6 @@
                 },
                 {
                     "name": "subtitle",
-                    "type": "(() -> Unit)?",
-                    "typeFqn": "kotlin.Function0",
-                    "hasDefault": true,
-                    "composableSlot": true,
-                    "composableSlotReceiver": null,
-                    "nullable": true,
-                    "noArgConstructible": false,
-                    "noArgFactory": null,
-                    "scopeDslReceiver": null,
-                    "lambdaReturnTypeFqn": "kotlin.Unit"
-                },
-                {
-                    "name": "header",
                     "type": "(() -> Unit)?",
                     "typeFqn": "kotlin.Function0",
                     "hasDefault": true,
@@ -816,11 +785,6 @@
                     "receiverScope": null
                 },
                 {
-                    "name": "header",
-                    "required": false,
-                    "receiverScope": null
-                },
-                {
                     "name": "leadingIcon",
                     "required": false,
                     "receiverScope": null
@@ -844,16 +808,6 @@
                 },
                 {
                     "previewId": "androidx.xr.glimmer.samples.CardSamplesKt.CardWithLongTextPreview",
-                    "componentId": null,
-                    "group": null
-                },
-                {
-                    "previewId": "androidx.xr.glimmer.samples.CardSamplesKt.CardWithTitleAndHeaderPreview",
-                    "componentId": null,
-                    "group": null
-                },
-                {
-                    "previewId": "androidx.xr.glimmer.samples.CardSamplesKt.CardWithTitleAndLeadingIconAndHeaderPreview",
                     "componentId": null,
                     "group": null
                 },
@@ -897,6 +851,626 @@
                 "call": "Card(content = {})",
                 "imports": [
                     "androidx.xr.glimmer.Card"
+                ],
+                "refusedReason": null,
+                "requiredOptIns": [],
+                "androidxOptIns": []
+            },
+            "signatureKnown": true,
+            "callableFromAnotherFile": true,
+            "hasTypeParameters": false,
+            "hasContextReceivers": false,
+            "overloadsCollided": false,
+            "builder": null,
+            "requiredOptIns": [],
+            "androidxOptIns": []
+        },
+        {
+            "canonicalId": "samples-catalog/androidx.xr.glimmer.CardKt.ImageCard",
+            "componentIds": [],
+            "symbol": {
+                "jvmOwner": "androidx.xr.glimmer.CardKt",
+                "callable": "androidx.xr.glimmer.ImageCard",
+                "name": "ImageCard",
+                "origin": "LIBRARY",
+                "jvmName": "ImageCard-xOHPqjQ",
+                "descriptor": "(Lkotlin/jvm/functions/Function2;Landroidx/compose/ui/Modifier;Lkotlin/jvm/functions/Function2;Lkotlin/jvm/functions/Function2;Lkotlin/jvm/functions/Function2;Lkotlin/jvm/functions/Function2;Landroidx/compose/ui/graphics/Shape;JJLandroidx/compose/foundation/layout/PaddingValues;Landroidx/compose/foundation/interaction/MutableInteractionSource;Lkotlin/jvm/functions/Function2;Landroidx/compose/runtime/Composer;III)V",
+                "sourceFile": null,
+                "docs": "unavailable",
+                "receiver": null
+            },
+            "parameters": [
+                {
+                    "name": "image",
+                    "type": "() -> Unit",
+                    "typeFqn": "kotlin.Function0",
+                    "hasDefault": false,
+                    "composableSlot": true,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
+                },
+                {
+                    "name": "modifier",
+                    "type": "Modifier",
+                    "typeFqn": "androidx.compose.ui.Modifier",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "title",
+                    "type": "(() -> Unit)?",
+                    "typeFqn": "kotlin.Function0",
+                    "hasDefault": true,
+                    "composableSlot": true,
+                    "composableSlotReceiver": null,
+                    "nullable": true,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
+                },
+                {
+                    "name": "subtitle",
+                    "type": "(() -> Unit)?",
+                    "typeFqn": "kotlin.Function0",
+                    "hasDefault": true,
+                    "composableSlot": true,
+                    "composableSlotReceiver": null,
+                    "nullable": true,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
+                },
+                {
+                    "name": "leadingIcon",
+                    "type": "(() -> Unit)?",
+                    "typeFqn": "kotlin.Function0",
+                    "hasDefault": true,
+                    "composableSlot": true,
+                    "composableSlotReceiver": null,
+                    "nullable": true,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
+                },
+                {
+                    "name": "trailingIcon",
+                    "type": "(() -> Unit)?",
+                    "typeFqn": "kotlin.Function0",
+                    "hasDefault": true,
+                    "composableSlot": true,
+                    "composableSlotReceiver": null,
+                    "nullable": true,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
+                },
+                {
+                    "name": "shape",
+                    "type": "Shape",
+                    "typeFqn": "androidx.compose.ui.graphics.Shape",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "color",
+                    "type": "Color",
+                    "typeFqn": "androidx.compose.ui.graphics.Color",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "contentColor",
+                    "type": "Color",
+                    "typeFqn": "androidx.compose.ui.graphics.Color",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "contentPadding",
+                    "type": "PaddingValues",
+                    "typeFqn": "androidx.compose.foundation.layout.PaddingValues",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "interactionSource",
+                    "type": "MutableInteractionSource?",
+                    "typeFqn": "androidx.compose.foundation.interaction.MutableInteractionSource",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": true,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "content",
+                    "type": "() -> Unit",
+                    "typeFqn": "kotlin.Function0",
+                    "hasDefault": false,
+                    "composableSlot": true,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
+                }
+            ],
+            "slots": [
+                {
+                    "name": "image",
+                    "required": true,
+                    "receiverScope": null
+                },
+                {
+                    "name": "title",
+                    "required": false,
+                    "receiverScope": null
+                },
+                {
+                    "name": "subtitle",
+                    "required": false,
+                    "receiverScope": null
+                },
+                {
+                    "name": "leadingIcon",
+                    "required": false,
+                    "receiverScope": null
+                },
+                {
+                    "name": "trailingIcon",
+                    "required": false,
+                    "receiverScope": null
+                },
+                {
+                    "name": "content",
+                    "required": true,
+                    "receiverScope": null
+                }
+            ],
+            "bindings": [
+                {
+                    "previewId": "androidx.xr.glimmer.samples.CardSamplesKt.ImageCardPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "androidx.xr.glimmer.samples.CardSamplesKt.ImageCardWithTitleAndSubtitleAndLeadingIconPreview",
+                    "componentId": null,
+                    "group": null
+                }
+            ],
+            "code": {
+                "call": "ImageCard(image = {}, content = {})",
+                "imports": [
+                    "androidx.xr.glimmer.ImageCard"
+                ],
+                "refusedReason": null,
+                "requiredOptIns": [],
+                "androidxOptIns": []
+            },
+            "signatureKnown": true,
+            "callableFromAnotherFile": true,
+            "hasTypeParameters": false,
+            "hasContextReceivers": false,
+            "overloadsCollided": false,
+            "builder": null,
+            "requiredOptIns": [],
+            "androidxOptIns": []
+        },
+        {
+            "canonicalId": "samples-catalog/androidx.xr.glimmer.CardKt.LeadingImageCard",
+            "componentIds": [],
+            "symbol": {
+                "jvmOwner": "androidx.xr.glimmer.CardKt",
+                "callable": "androidx.xr.glimmer.LeadingImageCard",
+                "name": "LeadingImageCard",
+                "origin": "LIBRARY",
+                "jvmName": "LeadingImageCard-1ix9Op4",
+                "descriptor": "(Lkotlin/jvm/functions/Function2;Landroidx/compose/ui/Modifier;Lkotlin/jvm/functions/Function2;Lkotlin/jvm/functions/Function2;Landroidx/compose/ui/graphics/Shape;JJLandroidx/compose/foundation/layout/PaddingValues;Landroidx/compose/foundation/interaction/MutableInteractionSource;Lkotlin/jvm/functions/Function2;Landroidx/compose/runtime/Composer;II)V",
+                "sourceFile": null,
+                "docs": "unavailable",
+                "receiver": null
+            },
+            "parameters": [
+                {
+                    "name": "image",
+                    "type": "() -> Unit",
+                    "typeFqn": "kotlin.Function0",
+                    "hasDefault": false,
+                    "composableSlot": true,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
+                },
+                {
+                    "name": "modifier",
+                    "type": "Modifier",
+                    "typeFqn": "androidx.compose.ui.Modifier",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "title",
+                    "type": "(() -> Unit)?",
+                    "typeFqn": "kotlin.Function0",
+                    "hasDefault": true,
+                    "composableSlot": true,
+                    "composableSlotReceiver": null,
+                    "nullable": true,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
+                },
+                {
+                    "name": "subtitle",
+                    "type": "(() -> Unit)?",
+                    "typeFqn": "kotlin.Function0",
+                    "hasDefault": true,
+                    "composableSlot": true,
+                    "composableSlotReceiver": null,
+                    "nullable": true,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
+                },
+                {
+                    "name": "shape",
+                    "type": "Shape",
+                    "typeFqn": "androidx.compose.ui.graphics.Shape",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "color",
+                    "type": "Color",
+                    "typeFqn": "androidx.compose.ui.graphics.Color",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "contentColor",
+                    "type": "Color",
+                    "typeFqn": "androidx.compose.ui.graphics.Color",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "contentPadding",
+                    "type": "PaddingValues",
+                    "typeFqn": "androidx.compose.foundation.layout.PaddingValues",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "interactionSource",
+                    "type": "MutableInteractionSource?",
+                    "typeFqn": "androidx.compose.foundation.interaction.MutableInteractionSource",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": true,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "content",
+                    "type": "() -> Unit",
+                    "typeFqn": "kotlin.Function0",
+                    "hasDefault": false,
+                    "composableSlot": true,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
+                }
+            ],
+            "slots": [
+                {
+                    "name": "image",
+                    "required": true,
+                    "receiverScope": null
+                },
+                {
+                    "name": "title",
+                    "required": false,
+                    "receiverScope": null
+                },
+                {
+                    "name": "subtitle",
+                    "required": false,
+                    "receiverScope": null
+                },
+                {
+                    "name": "content",
+                    "required": true,
+                    "receiverScope": null
+                }
+            ],
+            "bindings": [
+                {
+                    "previewId": "androidx.xr.glimmer.samples.CardSamplesKt.LeadingImageCardPreview",
+                    "componentId": null,
+                    "group": null
+                }
+            ],
+            "code": {
+                "call": "LeadingImageCard(image = {}, content = {})",
+                "imports": [
+                    "androidx.xr.glimmer.LeadingImageCard"
+                ],
+                "refusedReason": null,
+                "requiredOptIns": [],
+                "androidxOptIns": []
+            },
+            "signatureKnown": true,
+            "callableFromAnotherFile": true,
+            "hasTypeParameters": false,
+            "hasContextReceivers": false,
+            "overloadsCollided": false,
+            "builder": null,
+            "requiredOptIns": [],
+            "androidxOptIns": []
+        },
+        {
+            "canonicalId": "samples-catalog/androidx.xr.glimmer.CardKt.TrailingImageCard",
+            "componentIds": [],
+            "symbol": {
+                "jvmOwner": "androidx.xr.glimmer.CardKt",
+                "callable": "androidx.xr.glimmer.TrailingImageCard",
+                "name": "TrailingImageCard",
+                "origin": "LIBRARY",
+                "jvmName": "TrailingImageCard-1ix9Op4",
+                "descriptor": "(Lkotlin/jvm/functions/Function2;Landroidx/compose/ui/Modifier;Lkotlin/jvm/functions/Function2;Lkotlin/jvm/functions/Function2;Landroidx/compose/ui/graphics/Shape;JJLandroidx/compose/foundation/layout/PaddingValues;Landroidx/compose/foundation/interaction/MutableInteractionSource;Lkotlin/jvm/functions/Function2;Landroidx/compose/runtime/Composer;II)V",
+                "sourceFile": null,
+                "docs": "unavailable",
+                "receiver": null
+            },
+            "parameters": [
+                {
+                    "name": "image",
+                    "type": "() -> Unit",
+                    "typeFqn": "kotlin.Function0",
+                    "hasDefault": false,
+                    "composableSlot": true,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
+                },
+                {
+                    "name": "modifier",
+                    "type": "Modifier",
+                    "typeFqn": "androidx.compose.ui.Modifier",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "title",
+                    "type": "(() -> Unit)?",
+                    "typeFqn": "kotlin.Function0",
+                    "hasDefault": true,
+                    "composableSlot": true,
+                    "composableSlotReceiver": null,
+                    "nullable": true,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
+                },
+                {
+                    "name": "subtitle",
+                    "type": "(() -> Unit)?",
+                    "typeFqn": "kotlin.Function0",
+                    "hasDefault": true,
+                    "composableSlot": true,
+                    "composableSlotReceiver": null,
+                    "nullable": true,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
+                },
+                {
+                    "name": "shape",
+                    "type": "Shape",
+                    "typeFqn": "androidx.compose.ui.graphics.Shape",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "color",
+                    "type": "Color",
+                    "typeFqn": "androidx.compose.ui.graphics.Color",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "contentColor",
+                    "type": "Color",
+                    "typeFqn": "androidx.compose.ui.graphics.Color",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "contentPadding",
+                    "type": "PaddingValues",
+                    "typeFqn": "androidx.compose.foundation.layout.PaddingValues",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "interactionSource",
+                    "type": "MutableInteractionSource?",
+                    "typeFqn": "androidx.compose.foundation.interaction.MutableInteractionSource",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": true,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "content",
+                    "type": "() -> Unit",
+                    "typeFqn": "kotlin.Function0",
+                    "hasDefault": false,
+                    "composableSlot": true,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
+                }
+            ],
+            "slots": [
+                {
+                    "name": "image",
+                    "required": true,
+                    "receiverScope": null
+                },
+                {
+                    "name": "title",
+                    "required": false,
+                    "receiverScope": null
+                },
+                {
+                    "name": "subtitle",
+                    "required": false,
+                    "receiverScope": null
+                },
+                {
+                    "name": "content",
+                    "required": true,
+                    "receiverScope": null
+                }
+            ],
+            "bindings": [
+                {
+                    "previewId": "androidx.xr.glimmer.samples.CardSamplesKt.TrailingImageCardPreview",
+                    "componentId": null,
+                    "group": null
+                }
+            ],
+            "code": {
+                "call": "TrailingImageCard(image = {}, content = {})",
+                "imports": [
+                    "androidx.xr.glimmer.TrailingImageCard"
                 ],
                 "refusedReason": null,
                 "requiredOptIns": [],
@@ -1164,12 +1738,7 @@
                     "group": null
                 },
                 {
-                    "previewId": "androidx.xr.glimmer.samples.CardSamplesKt.ActionCardWithTitleAndLeadingIconAndHeaderPreview",
-                    "componentId": null,
-                    "group": null
-                },
-                {
-                    "previewId": "androidx.xr.glimmer.samples.CardSamplesKt.CardWithTitleAndLeadingIconAndHeaderPreview",
+                    "previewId": "androidx.xr.glimmer.samples.CardSamplesKt.ActionCardWithTitleAndLeadingIconPreview",
                     "componentId": null,
                     "group": null
                 },
@@ -1194,7 +1763,17 @@
                     "group": null
                 },
                 {
+                    "previewId": "androidx.xr.glimmer.samples.CardSamplesKt.ImageCardWithTitleAndSubtitleAndLeadingIconPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
                     "previewId": "androidx.xr.glimmer.samples.IconButtonSamplesKt.IconButtonPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "androidx.xr.glimmer.samples.IconMarkerSamplesKt.IconMarkerWithCustomIconSamplePreview",
                     "componentId": null,
                     "group": null
                 },
@@ -1258,6 +1837,176 @@
                 "call": null,
                 "imports": [],
                 "refusedReason": "no placeholder can be written for required parameter `imageVector: ImageVector`",
+                "requiredOptIns": [],
+                "androidxOptIns": []
+            },
+            "signatureKnown": true,
+            "callableFromAnotherFile": true,
+            "hasTypeParameters": false,
+            "hasContextReceivers": false,
+            "overloadsCollided": false,
+            "builder": null,
+            "requiredOptIns": [],
+            "androidxOptIns": []
+        },
+        {
+            "canonicalId": "samples-catalog/androidx.xr.glimmer.IconMarkerKt.IconMarker",
+            "componentIds": [],
+            "symbol": {
+                "jvmOwner": "androidx.xr.glimmer.IconMarkerKt",
+                "callable": "androidx.xr.glimmer.IconMarker",
+                "name": "IconMarker",
+                "origin": "LIBRARY",
+                "jvmName": "IconMarker-S11gU5g",
+                "descriptor": "(Lkotlin/jvm/functions/Function0;Ljava/lang/String;Landroidx/compose/ui/Modifier;IJJLandroidx/compose/foundation/layout/PaddingValues;Landroidx/compose/foundation/interaction/MutableInteractionSource;Lkotlin/jvm/functions/Function2;Landroidx/compose/runtime/Composer;II)V",
+                "sourceFile": null,
+                "docs": "unavailable",
+                "receiver": null
+            },
+            "parameters": [
+                {
+                    "name": "onClick",
+                    "type": "() -> Unit",
+                    "typeFqn": "kotlin.Function0",
+                    "hasDefault": false,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
+                },
+                {
+                    "name": "contentDescription",
+                    "type": "String",
+                    "typeFqn": "kotlin.String",
+                    "hasDefault": false,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "modifier",
+                    "type": "Modifier",
+                    "typeFqn": "androidx.compose.ui.Modifier",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "size",
+                    "type": "IconMarkerSize",
+                    "typeFqn": "androidx.xr.glimmer.IconMarkerSize",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "color",
+                    "type": "Color",
+                    "typeFqn": "androidx.compose.ui.graphics.Color",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "contentColor",
+                    "type": "Color",
+                    "typeFqn": "androidx.compose.ui.graphics.Color",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "contentPadding",
+                    "type": "PaddingValues",
+                    "typeFqn": "androidx.compose.foundation.layout.PaddingValues",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "interactionSource",
+                    "type": "MutableInteractionSource?",
+                    "typeFqn": "androidx.compose.foundation.interaction.MutableInteractionSource",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": true,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "content",
+                    "type": "() -> Unit",
+                    "typeFqn": "kotlin.Function0",
+                    "hasDefault": true,
+                    "composableSlot": true,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
+                }
+            ],
+            "slots": [
+                {
+                    "name": "content",
+                    "required": false,
+                    "receiverScope": null
+                }
+            ],
+            "bindings": [
+                {
+                    "previewId": "androidx.xr.glimmer.samples.IconMarkerSamplesKt.IconMarkerPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "androidx.xr.glimmer.samples.IconMarkerSamplesKt.IconMarkerWithCustomIconSamplePreview",
+                    "componentId": null,
+                    "group": null
+                }
+            ],
+            "code": {
+                "call": "IconMarker(onClick = {}, contentDescription = \"\")",
+                "imports": [
+                    "androidx.xr.glimmer.IconMarker"
+                ],
+                "refusedReason": null,
                 "requiredOptIns": [],
                 "androidxOptIns": []
             },
@@ -1982,7 +2731,7 @@
                     "group": null
                 },
                 {
-                    "previewId": "androidx.xr.glimmer.samples.CardSamplesKt.ActionCardWithTitleAndLeadingIconAndHeaderPreview",
+                    "previewId": "androidx.xr.glimmer.samples.CardSamplesKt.ActionCardWithTitleAndLeadingIconPreview",
                     "componentId": null,
                     "group": null
                 },
@@ -1998,16 +2747,6 @@
                 },
                 {
                     "previewId": "androidx.xr.glimmer.samples.CardSamplesKt.CardWithLongTextPreview",
-                    "componentId": null,
-                    "group": null
-                },
-                {
-                    "previewId": "androidx.xr.glimmer.samples.CardSamplesKt.CardWithTitleAndHeaderPreview",
-                    "componentId": null,
-                    "group": null
-                },
-                {
-                    "previewId": "androidx.xr.glimmer.samples.CardSamplesKt.CardWithTitleAndLeadingIconAndHeaderPreview",
                     "componentId": null,
                     "group": null
                 },
@@ -2028,6 +2767,26 @@
                 },
                 {
                     "previewId": "androidx.xr.glimmer.samples.CardSamplesKt.CardWithTrailingIconPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "androidx.xr.glimmer.samples.CardSamplesKt.ImageCardPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "androidx.xr.glimmer.samples.CardSamplesKt.ImageCardWithTitleAndSubtitleAndLeadingIconPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "androidx.xr.glimmer.samples.CardSamplesKt.LeadingImageCardPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "androidx.xr.glimmer.samples.CardSamplesKt.TrailingImageCardPreview",
                     "componentId": null,
                     "group": null
                 },
@@ -3334,14 +4093,14 @@
             "androidxOptIns": []
         },
         {
-            "canonicalId": "samples-catalog/androidx.xr.glimmer.samples.CardSamplesKt.ActionCardWithTitleAndLeadingIconAndHeader",
+            "canonicalId": "samples-catalog/androidx.xr.glimmer.samples.CardSamplesKt.ActionCardWithTitleAndLeadingIcon",
             "componentIds": [],
             "symbol": {
                 "jvmOwner": "androidx.xr.glimmer.samples.CardSamplesKt",
-                "callable": "androidx.xr.glimmer.samples.ActionCardWithTitleAndLeadingIconAndHeader",
-                "name": "ActionCardWithTitleAndLeadingIconAndHeader",
+                "callable": "androidx.xr.glimmer.samples.ActionCardWithTitleAndLeadingIcon",
+                "name": "ActionCardWithTitleAndLeadingIcon",
                 "origin": "LIBRARY",
-                "jvmName": "ActionCardWithTitleAndLeadingIconAndHeader",
+                "jvmName": "ActionCardWithTitleAndLeadingIcon",
                 "descriptor": "(Landroidx/compose/runtime/Composer;I)V",
                 "sourceFile": null,
                 "docs": "unavailable",
@@ -3351,15 +4110,15 @@
             "slots": [],
             "bindings": [
                 {
-                    "previewId": "androidx.xr.glimmer.samples.CardSamplesKt.ActionCardWithTitleAndLeadingIconAndHeaderPreview",
+                    "previewId": "androidx.xr.glimmer.samples.CardSamplesKt.ActionCardWithTitleAndLeadingIconPreview",
                     "componentId": null,
                     "group": null
                 }
             ],
             "code": {
-                "call": "ActionCardWithTitleAndLeadingIconAndHeader()",
+                "call": "ActionCardWithTitleAndLeadingIcon()",
                 "imports": [
-                    "androidx.xr.glimmer.samples.ActionCardWithTitleAndLeadingIconAndHeader"
+                    "androidx.xr.glimmer.samples.ActionCardWithTitleAndLeadingIcon"
                 ],
                 "refusedReason": null,
                 "requiredOptIns": [],
@@ -3483,88 +4242,6 @@
                 "call": "CardWithLongText()",
                 "imports": [
                     "androidx.xr.glimmer.samples.CardWithLongText"
-                ],
-                "refusedReason": null,
-                "requiredOptIns": [],
-                "androidxOptIns": []
-            },
-            "signatureKnown": true,
-            "callableFromAnotherFile": true,
-            "hasTypeParameters": false,
-            "hasContextReceivers": false,
-            "overloadsCollided": false,
-            "builder": null,
-            "requiredOptIns": [],
-            "androidxOptIns": []
-        },
-        {
-            "canonicalId": "samples-catalog/androidx.xr.glimmer.samples.CardSamplesKt.CardWithTitleAndHeaderSample",
-            "componentIds": [],
-            "symbol": {
-                "jvmOwner": "androidx.xr.glimmer.samples.CardSamplesKt",
-                "callable": "androidx.xr.glimmer.samples.CardWithTitleAndHeaderSample",
-                "name": "CardWithTitleAndHeaderSample",
-                "origin": "LIBRARY",
-                "jvmName": "CardWithTitleAndHeaderSample",
-                "descriptor": "(Landroidx/compose/runtime/Composer;I)V",
-                "sourceFile": null,
-                "docs": "unavailable",
-                "receiver": null
-            },
-            "parameters": [],
-            "slots": [],
-            "bindings": [
-                {
-                    "previewId": "androidx.xr.glimmer.samples.CardSamplesKt.CardWithTitleAndHeaderPreview",
-                    "componentId": null,
-                    "group": null
-                }
-            ],
-            "code": {
-                "call": "CardWithTitleAndHeaderSample()",
-                "imports": [
-                    "androidx.xr.glimmer.samples.CardWithTitleAndHeaderSample"
-                ],
-                "refusedReason": null,
-                "requiredOptIns": [],
-                "androidxOptIns": []
-            },
-            "signatureKnown": true,
-            "callableFromAnotherFile": true,
-            "hasTypeParameters": false,
-            "hasContextReceivers": false,
-            "overloadsCollided": false,
-            "builder": null,
-            "requiredOptIns": [],
-            "androidxOptIns": []
-        },
-        {
-            "canonicalId": "samples-catalog/androidx.xr.glimmer.samples.CardSamplesKt.CardWithTitleAndLeadingIconAndHeader",
-            "componentIds": [],
-            "symbol": {
-                "jvmOwner": "androidx.xr.glimmer.samples.CardSamplesKt",
-                "callable": "androidx.xr.glimmer.samples.CardWithTitleAndLeadingIconAndHeader",
-                "name": "CardWithTitleAndLeadingIconAndHeader",
-                "origin": "LIBRARY",
-                "jvmName": "CardWithTitleAndLeadingIconAndHeader",
-                "descriptor": "(Landroidx/compose/runtime/Composer;I)V",
-                "sourceFile": null,
-                "docs": "unavailable",
-                "receiver": null
-            },
-            "parameters": [],
-            "slots": [],
-            "bindings": [
-                {
-                    "previewId": "androidx.xr.glimmer.samples.CardSamplesKt.CardWithTitleAndLeadingIconAndHeaderPreview",
-                    "componentId": null,
-                    "group": null
-                }
-            ],
-            "code": {
-                "call": "CardWithTitleAndLeadingIconAndHeader()",
-                "imports": [
-                    "androidx.xr.glimmer.samples.CardWithTitleAndLeadingIconAndHeader"
                 ],
                 "refusedReason": null,
                 "requiredOptIns": [],
@@ -3729,6 +4406,170 @@
                 "call": "CardWithTrailingIconSample()",
                 "imports": [
                     "androidx.xr.glimmer.samples.CardWithTrailingIconSample"
+                ],
+                "refusedReason": null,
+                "requiredOptIns": [],
+                "androidxOptIns": []
+            },
+            "signatureKnown": true,
+            "callableFromAnotherFile": true,
+            "hasTypeParameters": false,
+            "hasContextReceivers": false,
+            "overloadsCollided": false,
+            "builder": null,
+            "requiredOptIns": [],
+            "androidxOptIns": []
+        },
+        {
+            "canonicalId": "samples-catalog/androidx.xr.glimmer.samples.CardSamplesKt.ImageCardSample",
+            "componentIds": [],
+            "symbol": {
+                "jvmOwner": "androidx.xr.glimmer.samples.CardSamplesKt",
+                "callable": "androidx.xr.glimmer.samples.ImageCardSample",
+                "name": "ImageCardSample",
+                "origin": "LIBRARY",
+                "jvmName": "ImageCardSample",
+                "descriptor": "(Landroidx/compose/runtime/Composer;I)V",
+                "sourceFile": null,
+                "docs": "unavailable",
+                "receiver": null
+            },
+            "parameters": [],
+            "slots": [],
+            "bindings": [
+                {
+                    "previewId": "androidx.xr.glimmer.samples.CardSamplesKt.ImageCardPreview",
+                    "componentId": null,
+                    "group": null
+                }
+            ],
+            "code": {
+                "call": "ImageCardSample()",
+                "imports": [
+                    "androidx.xr.glimmer.samples.ImageCardSample"
+                ],
+                "refusedReason": null,
+                "requiredOptIns": [],
+                "androidxOptIns": []
+            },
+            "signatureKnown": true,
+            "callableFromAnotherFile": true,
+            "hasTypeParameters": false,
+            "hasContextReceivers": false,
+            "overloadsCollided": false,
+            "builder": null,
+            "requiredOptIns": [],
+            "androidxOptIns": []
+        },
+        {
+            "canonicalId": "samples-catalog/androidx.xr.glimmer.samples.CardSamplesKt.ImageCardWithTitleAndSubtitleAndLeadingIconSample",
+            "componentIds": [],
+            "symbol": {
+                "jvmOwner": "androidx.xr.glimmer.samples.CardSamplesKt",
+                "callable": "androidx.xr.glimmer.samples.ImageCardWithTitleAndSubtitleAndLeadingIconSample",
+                "name": "ImageCardWithTitleAndSubtitleAndLeadingIconSample",
+                "origin": "LIBRARY",
+                "jvmName": "ImageCardWithTitleAndSubtitleAndLeadingIconSample",
+                "descriptor": "(Landroidx/compose/runtime/Composer;I)V",
+                "sourceFile": null,
+                "docs": "unavailable",
+                "receiver": null
+            },
+            "parameters": [],
+            "slots": [],
+            "bindings": [
+                {
+                    "previewId": "androidx.xr.glimmer.samples.CardSamplesKt.ImageCardWithTitleAndSubtitleAndLeadingIconPreview",
+                    "componentId": null,
+                    "group": null
+                }
+            ],
+            "code": {
+                "call": "ImageCardWithTitleAndSubtitleAndLeadingIconSample()",
+                "imports": [
+                    "androidx.xr.glimmer.samples.ImageCardWithTitleAndSubtitleAndLeadingIconSample"
+                ],
+                "refusedReason": null,
+                "requiredOptIns": [],
+                "androidxOptIns": []
+            },
+            "signatureKnown": true,
+            "callableFromAnotherFile": true,
+            "hasTypeParameters": false,
+            "hasContextReceivers": false,
+            "overloadsCollided": false,
+            "builder": null,
+            "requiredOptIns": [],
+            "androidxOptIns": []
+        },
+        {
+            "canonicalId": "samples-catalog/androidx.xr.glimmer.samples.CardSamplesKt.LeadingImageCardSample",
+            "componentIds": [],
+            "symbol": {
+                "jvmOwner": "androidx.xr.glimmer.samples.CardSamplesKt",
+                "callable": "androidx.xr.glimmer.samples.LeadingImageCardSample",
+                "name": "LeadingImageCardSample",
+                "origin": "LIBRARY",
+                "jvmName": "LeadingImageCardSample",
+                "descriptor": "(Landroidx/compose/runtime/Composer;I)V",
+                "sourceFile": null,
+                "docs": "unavailable",
+                "receiver": null
+            },
+            "parameters": [],
+            "slots": [],
+            "bindings": [
+                {
+                    "previewId": "androidx.xr.glimmer.samples.CardSamplesKt.LeadingImageCardPreview",
+                    "componentId": null,
+                    "group": null
+                }
+            ],
+            "code": {
+                "call": "LeadingImageCardSample()",
+                "imports": [
+                    "androidx.xr.glimmer.samples.LeadingImageCardSample"
+                ],
+                "refusedReason": null,
+                "requiredOptIns": [],
+                "androidxOptIns": []
+            },
+            "signatureKnown": true,
+            "callableFromAnotherFile": true,
+            "hasTypeParameters": false,
+            "hasContextReceivers": false,
+            "overloadsCollided": false,
+            "builder": null,
+            "requiredOptIns": [],
+            "androidxOptIns": []
+        },
+        {
+            "canonicalId": "samples-catalog/androidx.xr.glimmer.samples.CardSamplesKt.TrailingImageCardSample",
+            "componentIds": [],
+            "symbol": {
+                "jvmOwner": "androidx.xr.glimmer.samples.CardSamplesKt",
+                "callable": "androidx.xr.glimmer.samples.TrailingImageCardSample",
+                "name": "TrailingImageCardSample",
+                "origin": "LIBRARY",
+                "jvmName": "TrailingImageCardSample",
+                "descriptor": "(Landroidx/compose/runtime/Composer;I)V",
+                "sourceFile": null,
+                "docs": "unavailable",
+                "receiver": null
+            },
+            "parameters": [],
+            "slots": [],
+            "bindings": [
+                {
+                    "previewId": "androidx.xr.glimmer.samples.CardSamplesKt.TrailingImageCardPreview",
+                    "componentId": null,
+                    "group": null
+                }
+            ],
+            "code": {
+                "call": "TrailingImageCardSample()",
+                "imports": [
+                    "androidx.xr.glimmer.samples.TrailingImageCardSample"
                 ],
                 "refusedReason": null,
                 "requiredOptIns": [],
@@ -4133,6 +4974,88 @@
                 "call": "IconButtonSample()",
                 "imports": [
                     "androidx.xr.glimmer.samples.IconButtonSample"
+                ],
+                "refusedReason": null,
+                "requiredOptIns": [],
+                "androidxOptIns": []
+            },
+            "signatureKnown": true,
+            "callableFromAnotherFile": true,
+            "hasTypeParameters": false,
+            "hasContextReceivers": false,
+            "overloadsCollided": false,
+            "builder": null,
+            "requiredOptIns": [],
+            "androidxOptIns": []
+        },
+        {
+            "canonicalId": "samples-catalog/androidx.xr.glimmer.samples.IconMarkerSamplesKt.IconMarkerSample",
+            "componentIds": [],
+            "symbol": {
+                "jvmOwner": "androidx.xr.glimmer.samples.IconMarkerSamplesKt",
+                "callable": "androidx.xr.glimmer.samples.IconMarkerSample",
+                "name": "IconMarkerSample",
+                "origin": "LIBRARY",
+                "jvmName": "IconMarkerSample",
+                "descriptor": "(Landroidx/compose/runtime/Composer;I)V",
+                "sourceFile": null,
+                "docs": "unavailable",
+                "receiver": null
+            },
+            "parameters": [],
+            "slots": [],
+            "bindings": [
+                {
+                    "previewId": "androidx.xr.glimmer.samples.IconMarkerSamplesKt.IconMarkerPreview",
+                    "componentId": null,
+                    "group": null
+                }
+            ],
+            "code": {
+                "call": "IconMarkerSample()",
+                "imports": [
+                    "androidx.xr.glimmer.samples.IconMarkerSample"
+                ],
+                "refusedReason": null,
+                "requiredOptIns": [],
+                "androidxOptIns": []
+            },
+            "signatureKnown": true,
+            "callableFromAnotherFile": true,
+            "hasTypeParameters": false,
+            "hasContextReceivers": false,
+            "overloadsCollided": false,
+            "builder": null,
+            "requiredOptIns": [],
+            "androidxOptIns": []
+        },
+        {
+            "canonicalId": "samples-catalog/androidx.xr.glimmer.samples.IconMarkerSamplesKt.IconMarkerWithCustomIconSample",
+            "componentIds": [],
+            "symbol": {
+                "jvmOwner": "androidx.xr.glimmer.samples.IconMarkerSamplesKt",
+                "callable": "androidx.xr.glimmer.samples.IconMarkerWithCustomIconSample",
+                "name": "IconMarkerWithCustomIconSample",
+                "origin": "LIBRARY",
+                "jvmName": "IconMarkerWithCustomIconSample",
+                "descriptor": "(Landroidx/compose/runtime/Composer;I)V",
+                "sourceFile": null,
+                "docs": "unavailable",
+                "receiver": null
+            },
+            "parameters": [],
+            "slots": [],
+            "bindings": [
+                {
+                    "previewId": "androidx.xr.glimmer.samples.IconMarkerSamplesKt.IconMarkerWithCustomIconSamplePreview",
+                    "componentId": null,
+                    "group": null
+                }
+            ],
+            "code": {
+                "call": "IconMarkerWithCustomIconSample()",
+                "imports": [
+                    "androidx.xr.glimmer.samples.IconMarkerWithCustomIconSample"
                 ],
                 "refusedReason": null,
                 "requiredOptIns": [],

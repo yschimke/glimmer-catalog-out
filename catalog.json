@@ -819,13 +819,13 @@
       "wireframe": "wireframes/card-cardsample.svg",
       "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/CardSamples.kt",
       "sourceModule": ":samples-catalog",
-      "bodyLine": 214,
+      "bodyLine": 265,
       "sourceDirectory": "samples-catalog",
       "sourceFunction": "CardPreview",
       "related": [
         {
           "system": "glimmer-catalog",
-          "componentId": "Card"
+          "componentId": "ImageCard"
         }
       ]
     },
@@ -866,13 +866,13 @@
       "wireframe": "wireframes/card-cardwithtrailingiconsample.svg",
       "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/CardSamples.kt",
       "sourceModule": ":samples-catalog",
-      "bodyLine": 220,
+      "bodyLine": 271,
       "sourceDirectory": "samples-catalog",
       "sourceFunction": "CardWithTrailingIconPreview",
       "related": [
         {
           "system": "glimmer-catalog",
-          "componentId": "Card"
+          "componentId": "ImageCard"
         }
       ]
     },
@@ -913,27 +913,27 @@
       "wireframe": "wireframes/card-cardwithtitleandsubtitleandleadingiconsample.svg",
       "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/CardSamples.kt",
       "sourceModule": ":samples-catalog",
-      "bodyLine": 226,
+      "bodyLine": 277,
       "sourceDirectory": "samples-catalog",
       "sourceFunction": "CardWithTitleAndSubtitleAndLeadingIconPreview",
       "related": [
         {
           "system": "glimmer-catalog",
-          "componentId": "Card"
+          "componentId": "ImageCard"
         }
       ]
     },
     {
-      "componentId": "Card/CardWithTitleAndHeaderSample",
+      "componentId": "Card/CardWithLongText",
       "images": [
         {
           "variant": "ideal",
-          "path": "images/card-cardwithtitleandheadersample/ideal__default.png",
+          "path": "images/card-cardwithlongtext/ideal__default.png",
           "state": "default",
           "width": 960,
-          "height": 686,
-          "livePreview": "https://preview.coo.ee/glimmer-samples/p/card-cardwithtitleandheadersample__ideal__default",
-          "previewId": "androidx.xr.glimmer.samples.CardSamplesKt.CardWithTitleAndHeaderPreview",
+          "height": 94,
+          "livePreview": "https://preview.coo.ee/glimmer-samples/p/card-cardwithlongtext__ideal__default",
+          "previewId": "androidx.xr.glimmer.samples.CardSamplesKt.CardWithLongTextPreview",
           "density": 1
         }
       ],
@@ -944,7 +944,7 @@
             "x": 0,
             "y": 0,
             "width": 960,
-            "height": 686
+            "height": 94
           },
           "padding": {
             "start": 12,
@@ -953,29 +953,114 @@
             "bottom": 12
           },
           "cornerRadius": 36
-        },
-        {
-          "bounds": {
-            "x": 12,
-            "y": 12,
-            "width": 936,
-            "height": 585
-          },
-          "cornerRadius": 24
         }
       ],
       "group": "Card",
-      "caption": "`CardWithTitleAndHeaderSample` — the sample upstream's own `@Preview` renders.",
-      "wireframe": "wireframes/card-cardwithtitleandheadersample.svg",
+      "caption": "`CardWithLongText` — the sample upstream's own `@Preview` renders.",
+      "wireframe": "wireframes/card-cardwithlongtext.svg",
       "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/CardSamples.kt",
       "sourceModule": ":samples-catalog",
-      "bodyLine": 232,
+      "bodyLine": 283,
       "sourceDirectory": "samples-catalog",
-      "sourceFunction": "CardWithTitleAndHeaderPreview",
+      "sourceFunction": "CardWithLongTextPreview",
       "related": [
         {
           "system": "glimmer-catalog",
-          "componentId": "Card"
+          "componentId": "ImageCard"
+        }
+      ]
+    },
+    {
+      "componentId": "Card/CardWithTitleAndSubtitleAndLeadingIconLongText",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/card-cardwithtitleandsubtitleandleadingiconlongtext/ideal__default.png",
+          "state": "default",
+          "width": 960,
+          "height": 155,
+          "livePreview": "https://preview.coo.ee/glimmer-samples/p/card-cardwithtitleandsubtitleandleadingiconlongtext__ideal__default",
+          "previewId": "androidx.xr.glimmer.samples.CardSamplesKt.CardWithTitleAndSubtitleAndLeadingIconLongTextPreview",
+          "density": 1
+        }
+      ],
+      "greenlines": [],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 960,
+            "height": 155
+          },
+          "padding": {
+            "start": 12,
+            "top": 12,
+            "end": 12,
+            "bottom": 12
+          },
+          "cornerRadius": 36
+        }
+      ],
+      "group": "Card",
+      "caption": "`CardWithTitleAndSubtitleAndLeadingIconLongText` — the sample upstream's own `@Preview` renders.",
+      "wireframe": "wireframes/card-cardwithtitleandsubtitleandleadingiconlongtext.svg",
+      "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/CardSamples.kt",
+      "sourceModule": ":samples-catalog",
+      "bodyLine": 289,
+      "sourceDirectory": "samples-catalog",
+      "sourceFunction": "CardWithTitleAndSubtitleAndLeadingIconLongTextPreview",
+      "related": [
+        {
+          "system": "glimmer-catalog",
+          "componentId": "ImageCard"
+        }
+      ]
+    },
+    {
+      "componentId": "Card/CardWithTitleAndSubtitleAndLeadingIconAndTrailingIconLongText",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/card-cardwithtitleandsubtitleandleadingiconandtrailingiconlongtext/ideal__default.png",
+          "state": "default",
+          "width": 960,
+          "height": 155,
+          "livePreview": "https://preview.coo.ee/glimmer-samples/p/card-cardwithtitleandsubtitleandleadingiconandtrailingiconlongtext__ideal__default",
+          "previewId": "androidx.xr.glimmer.samples.CardSamplesKt.CardWithTitleAndSubtitleAndLeadingIconAndTrailingIconLongTextPreview",
+          "density": 1
+        }
+      ],
+      "greenlines": [],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 960,
+            "height": 155
+          },
+          "padding": {
+            "start": 12,
+            "top": 12,
+            "end": 12,
+            "bottom": 12
+          },
+          "cornerRadius": 36
+        }
+      ],
+      "group": "Card",
+      "caption": "`CardWithTitleAndSubtitleAndLeadingIconAndTrailingIconLongText` — the sample upstream's own `@Preview` renders.",
+      "wireframe": "wireframes/card-cardwithtitleandsubtitleandleadingiconandtrailingiconlongtext.svg",
+      "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/CardSamples.kt",
+      "sourceModule": ":samples-catalog",
+      "bodyLine": 295,
+      "sourceDirectory": "samples-catalog",
+      "sourceFunction": "CardWithTitleAndSubtitleAndLeadingIconAndTrailingIconLongTextPreview",
+      "related": [
+        {
+          "system": "glimmer-catalog",
+          "componentId": "ImageCard"
         }
       ]
     },
@@ -1053,83 +1138,27 @@
       "wireframe": "wireframes/card-actioncardwithtitlesample.svg",
       "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/CardSamples.kt",
       "sourceModule": ":samples-catalog",
-      "bodyLine": 238,
+      "bodyLine": 301,
       "sourceDirectory": "samples-catalog",
       "sourceFunction": "ActionCardWithTitlePreview",
       "related": [
         {
           "system": "glimmer-catalog",
-          "componentId": "Card"
+          "componentId": "ImageCard"
         }
       ]
     },
     {
-      "componentId": "Card/CardWithTitleAndLeadingIconAndHeader",
+      "componentId": "Card/ActionCardWithTitleAndLeadingIcon",
       "images": [
         {
           "variant": "ideal",
-          "path": "images/card-cardwithtitleandleadingiconandheader/ideal__default.png",
+          "path": "images/card-actioncardwithtitleandleadingicon/ideal__default.png",
           "state": "default",
           "width": 960,
-          "height": 686,
-          "livePreview": "https://preview.coo.ee/glimmer-samples/p/card-cardwithtitleandleadingiconandheader__ideal__default",
-          "previewId": "androidx.xr.glimmer.samples.CardSamplesKt.CardWithTitleAndLeadingIconAndHeaderPreview",
-          "density": 1
-        }
-      ],
-      "greenlines": [],
-      "redlines": [
-        {
-          "bounds": {
-            "x": 0,
-            "y": 0,
-            "width": 960,
-            "height": 686
-          },
-          "padding": {
-            "start": 12,
-            "top": 12,
-            "end": 12,
-            "bottom": 12
-          },
-          "cornerRadius": 36
-        },
-        {
-          "bounds": {
-            "x": 12,
-            "y": 12,
-            "width": 936,
-            "height": 585
-          },
-          "cornerRadius": 24
-        }
-      ],
-      "group": "Card",
-      "caption": "`CardWithTitleAndLeadingIconAndHeader` — the sample upstream's own `@Preview` renders.",
-      "wireframe": "wireframes/card-cardwithtitleandleadingiconandheader.svg",
-      "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/CardSamples.kt",
-      "sourceModule": ":samples-catalog",
-      "bodyLine": 244,
-      "sourceDirectory": "samples-catalog",
-      "sourceFunction": "CardWithTitleAndLeadingIconAndHeaderPreview",
-      "related": [
-        {
-          "system": "glimmer-catalog",
-          "componentId": "Card"
-        }
-      ]
-    },
-    {
-      "componentId": "Card/ActionCardWithTitleAndLeadingIconAndHeader",
-      "images": [
-        {
-          "variant": "ideal",
-          "path": "images/card-actioncardwithtitleandleadingiconandheader/ideal__default.png",
-          "state": "default",
-          "width": 960,
-          "height": 720,
-          "livePreview": "https://preview.coo.ee/glimmer-samples/p/card-actioncardwithtitleandleadingiconandheader__ideal__default",
-          "previewId": "androidx.xr.glimmer.samples.CardSamplesKt.ActionCardWithTitleAndLeadingIconAndHeaderPreview",
+          "height": 149,
+          "livePreview": "https://preview.coo.ee/glimmer-samples/p/card-actioncardwithtitleandleadingicon__ideal__default",
+          "previewId": "androidx.xr.glimmer.samples.CardSamplesKt.ActionCardWithTitleAndLeadingIconPreview",
           "density": 1
         }
       ],
@@ -1142,16 +1171,16 @@
             "role": "button",
             "bounds": {
               "x": 12,
-              "y": 674,
+              "y": 89,
               "width": 936,
-              "height": 34
+              "height": 48
             }
           },
           "bounds": {
             "x": 12,
-            "y": 674,
+            "y": 89,
             "width": 936,
-            "height": 34
+            "height": 48
           }
         }
       ],
@@ -1161,7 +1190,70 @@
             "x": 12,
             "y": 12,
             "width": 936,
-            "height": 696
+            "height": 125
+          },
+          "padding": {
+            "start": 12,
+            "top": 12,
+            "end": 12,
+            "bottom": 12
+          },
+          "cornerRadius": 36
+        },
+        {
+          "bounds": {
+            "x": 12,
+            "y": 89,
+            "width": 936,
+            "height": 48
+          },
+          "role": "Button",
+          "padding": {
+            "start": 16,
+            "top": 8,
+            "end": 16,
+            "bottom": 8
+          },
+          "cornerRadius": 24
+        }
+      ],
+      "group": "Card",
+      "caption": "`ActionCardWithTitleAndLeadingIcon` — the sample upstream's own `@Preview` renders.",
+      "wireframe": "wireframes/card-actioncardwithtitleandleadingicon.svg",
+      "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/CardSamples.kt",
+      "sourceModule": ":samples-catalog",
+      "bodyLine": 307,
+      "sourceDirectory": "samples-catalog",
+      "sourceFunction": "ActionCardWithTitleAndLeadingIconPreview",
+      "related": [
+        {
+          "system": "glimmer-catalog",
+          "componentId": "ImageCard"
+        }
+      ]
+    },
+    {
+      "componentId": "Card/ImageCardSample",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/card-imagecardsample/ideal__default.png",
+          "state": "default",
+          "width": 960,
+          "height": 651,
+          "livePreview": "https://preview.coo.ee/glimmer-samples/p/card-imagecardsample__ideal__default",
+          "previewId": "androidx.xr.glimmer.samples.CardSamplesKt.ImageCardPreview",
+          "density": 1
+        }
+      ],
+      "greenlines": [],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 960,
+            "height": 651
           },
           "padding": {
             "start": 12,
@@ -1179,50 +1271,90 @@
             "height": 585
           },
           "cornerRadius": 24
+        }
+      ],
+      "group": "Card",
+      "caption": "`ImageCardSample` — the sample upstream's own `@Preview` renders.",
+      "wireframe": "wireframes/card-imagecardsample.svg",
+      "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/CardSamples.kt",
+      "sourceModule": ":samples-catalog",
+      "bodyLine": 313,
+      "sourceDirectory": "samples-catalog",
+      "sourceFunction": "ImageCardPreview",
+      "related": [
+        {
+          "system": "glimmer-catalog",
+          "componentId": "ImageCard"
+        }
+      ]
+    },
+    {
+      "componentId": "Card/ImageCardWithTitleAndSubtitleAndLeadingIconSample",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/card-imagecardwithtitleandsubtitleandleadingiconsample/ideal__default.png",
+          "state": "default",
+          "width": 960,
+          "height": 712,
+          "livePreview": "https://preview.coo.ee/glimmer-samples/p/card-imagecardwithtitleandsubtitleandleadingiconsample__ideal__default",
+          "previewId": "androidx.xr.glimmer.samples.CardSamplesKt.ImageCardWithTitleAndSubtitleAndLeadingIconPreview",
+          "density": 1
+        }
+      ],
+      "greenlines": [],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 960,
+            "height": 712
+          },
+          "padding": {
+            "start": 12,
+            "top": 12,
+            "end": 12,
+            "bottom": 12
+          },
+          "cornerRadius": 36
         },
         {
           "bounds": {
             "x": 12,
-            "y": 674,
+            "y": 12,
             "width": 936,
-            "height": 34
+            "height": 585
           },
-          "role": "Button",
-          "padding": {
-            "start": 16,
-            "top": 8,
-            "end": 16,
-            "bottom": 8
-          },
-          "cornerRadius": 17
+          "cornerRadius": 24
         }
       ],
       "group": "Card",
-      "caption": "`ActionCardWithTitleAndLeadingIconAndHeader` — the sample upstream's own `@Preview` renders.",
-      "wireframe": "wireframes/card-actioncardwithtitleandleadingiconandheader.svg",
+      "caption": "`ImageCardWithTitleAndSubtitleAndLeadingIconSample` — the sample upstream's own `@Preview` renders.",
+      "wireframe": "wireframes/card-imagecardwithtitleandsubtitleandleadingiconsample.svg",
       "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/CardSamples.kt",
       "sourceModule": ":samples-catalog",
-      "bodyLine": 250,
+      "bodyLine": 319,
       "sourceDirectory": "samples-catalog",
-      "sourceFunction": "ActionCardWithTitleAndLeadingIconAndHeaderPreview",
+      "sourceFunction": "ImageCardWithTitleAndSubtitleAndLeadingIconPreview",
       "related": [
         {
           "system": "glimmer-catalog",
-          "componentId": "Card"
+          "componentId": "ImageCard"
         }
       ]
     },
     {
-      "componentId": "Card/CardWithLongText",
+      "componentId": "Card/LeadingImageCardSample",
       "images": [
         {
           "variant": "ideal",
-          "path": "images/card-cardwithlongtext/ideal__default.png",
+          "path": "images/card-leadingimagecardsample/ideal__default.png",
           "state": "default",
           "width": 960,
-          "height": 94,
-          "livePreview": "https://preview.coo.ee/glimmer-samples/p/card-cardwithlongtext__ideal__default",
-          "previewId": "androidx.xr.glimmer.samples.CardSamplesKt.CardWithLongTextPreview",
+          "height": 305,
+          "livePreview": "https://preview.coo.ee/glimmer-samples/p/card-leadingimagecardsample__ideal__default",
+          "previewId": "androidx.xr.glimmer.samples.CardSamplesKt.LeadingImageCardPreview",
           "density": 1
         }
       ],
@@ -1233,7 +1365,7 @@
             "x": 0,
             "y": 0,
             "width": 960,
-            "height": 94
+            "height": 305
           },
           "padding": {
             "start": 12,
@@ -1242,34 +1374,43 @@
             "bottom": 12
           },
           "cornerRadius": 36
+        },
+        {
+          "bounds": {
+            "x": 12,
+            "y": 12,
+            "width": 281,
+            "height": 281
+          },
+          "cornerRadius": 24
         }
       ],
       "group": "Card",
-      "caption": "`CardWithLongText` — the sample upstream's own `@Preview` renders.",
-      "wireframe": "wireframes/card-cardwithlongtext.svg",
+      "caption": "`LeadingImageCardSample` — the sample upstream's own `@Preview` renders.",
+      "wireframe": "wireframes/card-leadingimagecardsample.svg",
       "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/CardSamples.kt",
       "sourceModule": ":samples-catalog",
-      "bodyLine": 256,
+      "bodyLine": 325,
       "sourceDirectory": "samples-catalog",
-      "sourceFunction": "CardWithLongTextPreview",
+      "sourceFunction": "LeadingImageCardPreview",
       "related": [
         {
           "system": "glimmer-catalog",
-          "componentId": "Card"
+          "componentId": "ImageCard"
         }
       ]
     },
     {
-      "componentId": "Card/CardWithTitleAndSubtitleAndLeadingIconLongText",
+      "componentId": "Card/TrailingImageCardSample",
       "images": [
         {
           "variant": "ideal",
-          "path": "images/card-cardwithtitleandsubtitleandleadingiconlongtext/ideal__default.png",
+          "path": "images/card-trailingimagecardsample/ideal__default.png",
           "state": "default",
           "width": 960,
-          "height": 155,
-          "livePreview": "https://preview.coo.ee/glimmer-samples/p/card-cardwithtitleandsubtitleandleadingiconlongtext__ideal__default",
-          "previewId": "androidx.xr.glimmer.samples.CardSamplesKt.CardWithTitleAndSubtitleAndLeadingIconLongTextPreview",
+          "height": 305,
+          "livePreview": "https://preview.coo.ee/glimmer-samples/p/card-trailingimagecardsample__ideal__default",
+          "previewId": "androidx.xr.glimmer.samples.CardSamplesKt.TrailingImageCardPreview",
           "density": 1
         }
       ],
@@ -1280,7 +1421,7 @@
             "x": 0,
             "y": 0,
             "width": 960,
-            "height": 155
+            "height": 305
           },
           "padding": {
             "start": 12,
@@ -1289,67 +1430,29 @@
             "bottom": 12
           },
           "cornerRadius": 36
-        }
-      ],
-      "group": "Card",
-      "caption": "`CardWithTitleAndSubtitleAndLeadingIconLongText` — the sample upstream's own `@Preview` renders.",
-      "wireframe": "wireframes/card-cardwithtitleandsubtitleandleadingiconlongtext.svg",
-      "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/CardSamples.kt",
-      "sourceModule": ":samples-catalog",
-      "bodyLine": 262,
-      "sourceDirectory": "samples-catalog",
-      "sourceFunction": "CardWithTitleAndSubtitleAndLeadingIconLongTextPreview",
-      "related": [
-        {
-          "system": "glimmer-catalog",
-          "componentId": "Card"
-        }
-      ]
-    },
-    {
-      "componentId": "Card/CardWithTitleAndSubtitleAndLeadingIconAndTrailingIconLongText",
-      "images": [
-        {
-          "variant": "ideal",
-          "path": "images/card-cardwithtitleandsubtitleandleadingiconandtrailingiconlongtext/ideal__default.png",
-          "state": "default",
-          "width": 960,
-          "height": 155,
-          "livePreview": "https://preview.coo.ee/glimmer-samples/p/card-cardwithtitleandsubtitleandleadingiconandtrailingiconlongtext__ideal__default",
-          "previewId": "androidx.xr.glimmer.samples.CardSamplesKt.CardWithTitleAndSubtitleAndLeadingIconAndTrailingIconLongTextPreview",
-          "density": 1
-        }
-      ],
-      "greenlines": [],
-      "redlines": [
+        },
         {
           "bounds": {
-            "x": 0,
-            "y": 0,
-            "width": 960,
-            "height": 155
+            "x": 667,
+            "y": 12,
+            "width": 281,
+            "height": 281
           },
-          "padding": {
-            "start": 12,
-            "top": 12,
-            "end": 12,
-            "bottom": 12
-          },
-          "cornerRadius": 36
+          "cornerRadius": 24
         }
       ],
       "group": "Card",
-      "caption": "`CardWithTitleAndSubtitleAndLeadingIconAndTrailingIconLongText` — the sample upstream's own `@Preview` renders.",
-      "wireframe": "wireframes/card-cardwithtitleandsubtitleandleadingiconandtrailingiconlongtext.svg",
+      "caption": "`TrailingImageCardSample` — the sample upstream's own `@Preview` renders.",
+      "wireframe": "wireframes/card-trailingimagecardsample.svg",
       "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/CardSamples.kt",
       "sourceModule": ":samples-catalog",
-      "bodyLine": 268,
+      "bodyLine": 331,
       "sourceDirectory": "samples-catalog",
-      "sourceFunction": "CardWithTitleAndSubtitleAndLeadingIconAndTrailingIconLongTextPreview",
+      "sourceFunction": "TrailingImageCardPreview",
       "related": [
         {
           "system": "glimmer-catalog",
-          "componentId": "Card"
+          "componentId": "ImageCard"
         }
       ]
     },
@@ -2176,6 +2279,136 @@
           "componentId": "IconButton"
         }
       ]
+    },
+    {
+      "componentId": "IconMarker/IconMarkerSample",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/iconmarker-iconmarkersample/ideal__default.png",
+          "state": "default",
+          "width": 64,
+          "height": 64,
+          "livePreview": "https://preview.coo.ee/glimmer-samples/p/iconmarker-iconmarkersample__ideal__default",
+          "previewId": "androidx.xr.glimmer.samples.IconMarkerSamplesKt.IconMarkerPreview",
+          "density": 1
+        }
+      ],
+      "greenlines": [
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button \"Northern Cardinal\"",
+          "detail": {
+            "role": "button",
+            "label": "Northern Cardinal",
+            "bounds": {
+              "x": 0,
+              "y": 0,
+              "width": 64,
+              "height": 64
+            }
+          },
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 64,
+            "height": 64
+          }
+        }
+      ],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 64,
+            "height": 64
+          },
+          "role": "Button",
+          "label": "Northern Cardinal",
+          "padding": {
+            "start": 12,
+            "top": 12,
+            "end": 12,
+            "bottom": 12
+          },
+          "cornerRadius": 36
+        }
+      ],
+      "group": "IconMarker",
+      "caption": "`IconMarkerSample` — the sample upstream's own `@Preview` renders.",
+      "wireframe": "wireframes/iconmarker-iconmarkersample.svg",
+      "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/IconMarkerSamples.kt",
+      "sourceModule": ":samples-catalog",
+      "bodyLine": 49,
+      "sourceDirectory": "samples-catalog",
+      "sourceFunction": "IconMarkerPreview"
+    },
+    {
+      "componentId": "IconMarker/IconMarkerWithCustomIconSample",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/iconmarker-iconmarkerwithcustomiconsample/ideal__default.png",
+          "state": "default",
+          "width": 64,
+          "height": 64,
+          "livePreview": "https://preview.coo.ee/glimmer-samples/p/iconmarker-iconmarkerwithcustomiconsample__ideal__default",
+          "previewId": "androidx.xr.glimmer.samples.IconMarkerSamplesKt.IconMarkerWithCustomIconSamplePreview",
+          "density": 1
+        }
+      ],
+      "greenlines": [
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button \"Favourite meal\"",
+          "detail": {
+            "role": "button",
+            "label": "Favourite meal",
+            "bounds": {
+              "x": 0,
+              "y": 0,
+              "width": 64,
+              "height": 64
+            }
+          },
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 64,
+            "height": 64
+          }
+        }
+      ],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 64,
+            "height": 64
+          },
+          "role": "Button",
+          "label": "Favourite meal",
+          "padding": {
+            "start": 12,
+            "top": 12,
+            "end": 12,
+            "bottom": 12
+          },
+          "cornerRadius": 36
+        }
+      ],
+      "group": "IconMarker",
+      "caption": "`IconMarkerWithCustomIconSample` — the sample upstream's own `@Preview` renders.",
+      "wireframe": "wireframes/iconmarker-iconmarkerwithcustomiconsample.svg",
+      "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/IconMarkerSamples.kt",
+      "sourceModule": ":samples-catalog",
+      "bodyLine": 55,
+      "sourceDirectory": "samples-catalog",
+      "sourceFunction": "IconMarkerWithCustomIconSamplePreview"
     },
     {
       "componentId": "IconToggleButton/IconToggleButtonSample",
@@ -3410,7 +3643,7 @@
     "androidx.xr.glimmer:glimmer"
   ],
   "renderer": "compose-preview 2.32.4",
-  "generatedAt": "2026-10-05T14:27:33.416Z",
+  "generatedAt": "2026-10-06T17:41:57.878Z",
   "display": {
     "surface": "dark",
     "role": "samples"
