@@ -1,11 +1,40 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-06T19:44:41.523Z",
+  "generatedAt": "2026-10-06T20:52:09.616Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/glimmer-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "3a8746129de5ccd5ae3ae17132238dcc88da04bb",
+        "subject": "feat: pair the focused base cells with their focused renders (#27)",
+        "at": "2026-10-06T21:39:30+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [
+          "buttongroup__ideal__focused",
+          "buttongroup__ideal__cell-type-button-set-length-1-focus-start-40000116-6528",
+          "buttongroup__ideal__cell-type-button-set-length-2-focus-end-40000116-6521",
+          "buttongroup__ideal__cell-type-button-set-length-2-focus-start-40000116-6513",
+          "buttongroup__ideal__cell-type-button-set-length-3-focus-end-40000116-6508",
+          "buttongroup__ideal__cell-type-button-set-length-3-focus-middle-40000116-6502",
+          "buttongroup__ideal__cell-type-toggle-set-length-2-focus-end-40000116-6543",
+          "buttongroup__ideal__cell-type-toggle-set-length-2-focus-middle-40000116-6539",
+          "buttongroup__ideal__cell-type-toggle-set-length-2-focus-start-40000116-6535",
+          "glimmerlazycolumn__ideal__focused",
+          "glimmerlazycolumn__ideal__cell-list-index-bottom-title-false-40000115-2000",
+          "glimmerlazycolumn__ideal__cell-list-index-mid-title-false-4116-5221",
+          "glimmerlazycolumn-twoline__ideal__default",
+          "glimmerlazycolumn-twoline__ideal__cell-list-index-mid-title-false-4116-5259",
+          "glimmerlazycolumn-twoline__ideal__cell-list-index-mid-title-true-40000116-2458",
+          "glimmerlazycolumn-twoline__ideal__cell-list-index-top-title-true-40000116-2394"
+        ],
+        "components": [
+          "ButtonGroup",
+          "GlimmerLazyColumn",
+          "GlimmerLazyColumn/TwoLine"
+        ]
+      },
       {
         "sha": "b08897d84a7dd94bddbf0a731b726ac4a152b4d9",
         "subject": "feat: draw the kit's Stack Type=Home cell (#26)",
@@ -25,7 +54,7 @@
         "at": "2026-10-06T20:21:57+01:00",
         "author": "Yuri Schimke",
         "previewIds": [
-          "buttongroup__ideal__default",
+          "buttongroup__ideal__focused",
           "buttongroup__ideal__cell-type-button-set-length-1-focus-start-40000116-6528",
           "buttongroup__ideal__cell-type-button-set-length-2-focus-end-40000116-6521",
           "buttongroup__ideal__cell-type-button-set-length-2-focus-start-40000116-6513",
@@ -34,10 +63,9 @@
           "buttongroup__ideal__cell-type-toggle-set-length-2-focus-end-40000116-6543",
           "buttongroup__ideal__cell-type-toggle-set-length-2-focus-middle-40000116-6539",
           "buttongroup__ideal__cell-type-toggle-set-length-2-focus-start-40000116-6535",
-          "glimmerlazycolumn__ideal__default",
+          "glimmerlazycolumn__ideal__focused",
           "glimmerlazycolumn__ideal__cell-list-index-bottom-title-false-40000115-2000",
           "glimmerlazycolumn__ideal__cell-list-index-mid-title-false-4116-5221",
-          "glimmerlazycolumn__ideal__default__title-true",
           "glimmerlazycolumn-twoline__ideal__default",
           "glimmerlazycolumn-twoline__ideal__cell-list-index-mid-title-false-4116-5259",
           "glimmerlazycolumn-twoline__ideal__cell-list-index-mid-title-true-40000116-2458",
@@ -55,7 +83,7 @@
         "at": "2026-10-06T18:34:45+01:00",
         "author": "Yuri Schimke",
         "previewIds": [
-          "buttongroup__ideal__default",
+          "buttongroup__ideal__focused",
           "buttongroup__ideal__cell-type-button-set-length-1-focus-start-40000116-6528",
           "buttongroup__ideal__cell-type-button-set-length-2-focus-end-40000116-6521",
           "buttongroup__ideal__cell-type-button-set-length-2-focus-start-40000116-6513",
@@ -83,7 +111,7 @@
         "at": "2026-09-26T17:43:35+01:00",
         "author": "Yuri Schimke",
         "previewIds": [
-          "buttongroup__ideal__default",
+          "buttongroup__ideal__focused",
           "buttongroup__ideal__cell-type-button-set-length-1-focus-start-40000116-6528",
           "buttongroup__ideal__cell-type-button-set-length-2-focus-end-40000116-6521",
           "buttongroup__ideal__cell-type-button-set-length-2-focus-start-40000116-6513",
@@ -121,10 +149,9 @@
           "icontogglebutton__ideal__focused",
           "icontogglebutton__ideal__pressed",
           "icontogglebutton__ideal__checked",
-          "glimmerlazycolumn__ideal__default",
+          "glimmerlazycolumn__ideal__focused",
           "glimmerlazycolumn__ideal__cell-list-index-bottom-title-false-40000115-2000",
           "glimmerlazycolumn__ideal__cell-list-index-mid-title-false-4116-5221",
-          "glimmerlazycolumn__ideal__default__title-true",
           "glimmerlazycolumn-twoline__ideal__default",
           "glimmerlazycolumn-twoline__ideal__cell-list-index-mid-title-false-4116-5259",
           "glimmerlazycolumn-twoline__ideal__cell-list-index-mid-title-true-40000116-2458",
@@ -160,7 +187,7 @@
         "at": "2026-09-26T14:30:45+01:00",
         "author": "Yuri Schimke",
         "previewIds": [
-          "buttongroup__ideal__default",
+          "buttongroup__ideal__focused",
           "buttongroup__ideal__cell-type-button-set-length-1-focus-start-40000116-6528",
           "buttongroup__ideal__cell-type-button-set-length-2-focus-end-40000116-6521",
           "buttongroup__ideal__cell-type-button-set-length-2-focus-start-40000116-6513",
@@ -198,10 +225,9 @@
           "icontogglebutton__ideal__focused",
           "icontogglebutton__ideal__pressed",
           "icontogglebutton__ideal__checked",
-          "glimmerlazycolumn__ideal__default",
+          "glimmerlazycolumn__ideal__focused",
           "glimmerlazycolumn__ideal__cell-list-index-bottom-title-false-40000115-2000",
           "glimmerlazycolumn__ideal__cell-list-index-mid-title-false-4116-5221",
-          "glimmerlazycolumn__ideal__default__title-true",
           "glimmerlazycolumn-twoline__ideal__default",
           "glimmerlazycolumn-twoline__ideal__cell-list-index-mid-title-false-4116-5259",
           "glimmerlazycolumn-twoline__ideal__cell-list-index-mid-title-true-40000116-2458",
@@ -248,9 +274,9 @@
     },
     {
       "kind": "dangling-mapping",
-      "detail": "design-map names ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnWithTitleSticker_VARIANT_cell-list-index-mid-title-true-40000115-1924, which this catalog does not publish.",
+      "detail": "design-map names ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnWithTitleSticker_VARIANT_focused, ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnWithTitleSticker_VARIANT_cell-list-index-mid-title-true-40000115-1924, which this catalog does not publish.",
       "code": "catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/LazyLists.kt#GlimmerLazyColumnSticker",
-      "previewId": "ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnWithTitleSticker_VARIANT_cell-list-index-mid-title-true-40000115-1924"
+      "previewId": "ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnWithTitleSticker_VARIANT_focused"
     },
     {
       "kind": "dangling-mapping",

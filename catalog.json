@@ -1074,7 +1074,7 @@
       "wireframe": "wireframes/buttongroup.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/ButtonGroups.kt",
       "sourceModule": ":catalog",
-      "bodyLine": 63,
+      "bodyLine": 70,
       "sourceDirectory": "catalog",
       "sourceFunction": "ButtonGroupSticker",
       "parameters": [
@@ -3985,7 +3985,7 @@
       "wireframe": "wireframes/glimmerlazycolumn.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/LazyLists.kt",
       "sourceModule": ":catalog",
-      "bodyLine": 94,
+      "bodyLine": 101,
       "sourceDirectory": "catalog",
       "sourceFunction": "GlimmerLazyColumnSticker",
       "parameters": [
@@ -4355,7 +4355,7 @@
       "wireframe": "wireframes/glimmerlazycolumn-twoline.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/LazyLists.kt",
       "sourceModule": ":catalog",
-      "bodyLine": 158,
+      "bodyLine": 172,
       "sourceDirectory": "catalog",
       "sourceFunction": "GlimmerLazyColumnTwoLineSticker",
       "parameters": [
@@ -4894,7 +4894,7 @@
     "androidx.xr.glimmer:glimmer"
   ],
   "renderer": "compose-preview 2.32.4",
-  "generatedAt": "2026-10-06T19:44:16.180Z",
+  "generatedAt": "2026-10-06T20:51:41.702Z",
   "display": {
     "surface": "dark",
     "hero": "GlimmerLazyColumn/TwoLine"
@@ -4915,7 +4915,7 @@
   "uiBuilderFile": "ui-builder.json",
   "uiBuilderRuntime": {
     "path": "ui-builder/runtime.zip",
-    "runtimeId": "glimmer-p2-b08897d84a7d",
+    "runtimeId": "glimmer-p2-3a8746129de5",
     "protocolVersion": 2,
     "integritySha256": "93bb688acdec189fce278e2d315b517e46c0301fbb0b06ac576cacd4c416e921"
   },
