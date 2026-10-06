@@ -4,6 +4,226 @@
   "title": "Compose Glimmer Samples",
   "components": [
     {
+      "componentId": "AlertDialog/AlertDialogSample",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/alertdialog-alertdialogsample/ideal__default.png",
+          "state": "default",
+          "width": 960,
+          "height": 216,
+          "livePreview": "https://preview.coo.ee/glimmer-samples/p/alertdialog-alertdialogsample__ideal__default",
+          "previewId": "ee.schimke.m3catalog.glimmersamples.AlertDialogSamplePreviewsKt.AlertDialogSamplePreview",
+          "density": 1
+        }
+      ],
+      "greenlines": [
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 363,
+              "y": 168,
+              "width": 117,
+              "height": 48
+            }
+          },
+          "bounds": {
+            "x": 363,
+            "y": 168,
+            "width": 117,
+            "height": 48
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 488,
+              "y": 168,
+              "width": 110,
+              "height": 48
+            }
+          },
+          "bounds": {
+            "x": 488,
+            "y": 168,
+            "width": 110,
+            "height": 48
+          }
+        }
+      ],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 960,
+            "height": 152
+          },
+          "padding": {
+            "start": 12,
+            "top": 12,
+            "end": 12,
+            "bottom": 12
+          },
+          "cornerRadius": 36
+        },
+        {
+          "bounds": {
+            "x": 319,
+            "y": 168,
+            "width": 323,
+            "height": 48
+          },
+          "padding": {
+            "start": 44,
+            "top": 0,
+            "end": 44,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 363,
+            "y": 168,
+            "width": 117,
+            "height": 48
+          },
+          "role": "Button",
+          "padding": {
+            "start": 16,
+            "top": 8,
+            "end": 16,
+            "bottom": 8
+          },
+          "cornerRadius": 24
+        },
+        {
+          "bounds": {
+            "x": 488,
+            "y": 168,
+            "width": 110,
+            "height": 48
+          },
+          "role": "Button",
+          "padding": {
+            "start": 16,
+            "top": 8,
+            "end": 16,
+            "bottom": 8
+          },
+          "cornerRadius": 24
+        }
+      ],
+      "group": "AlertDialog",
+      "caption": "`AlertDialogSample` — upstream ships no preview for it, so this catalog's own renders it.",
+      "wireframe": "wireframes/alertdialog-alertdialogsample.svg",
+      "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmersamples/AlertDialogSamplePreviews.kt",
+      "sourceModule": ":samples-catalog",
+      "bodyLine": 15,
+      "sourceDirectory": "samples-catalog",
+      "sourceFunction": "AlertDialogSamplePreview"
+    },
+    {
+      "componentId": "AlertDialog/AlertDialogConfirmOnlySample",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/alertdialog-alertdialogconfirmonlysample/ideal__default.png",
+          "state": "default",
+          "width": 960,
+          "height": 216,
+          "livePreview": "https://preview.coo.ee/glimmer-samples/p/alertdialog-alertdialogconfirmonlysample__ideal__default",
+          "previewId": "ee.schimke.m3catalog.glimmersamples.AlertDialogSamplePreviewsKt.AlertDialogConfirmOnlySamplePreview",
+          "density": 1
+        }
+      ],
+      "greenlines": [
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 449,
+              "y": 168,
+              "width": 63,
+              "height": 48
+            }
+          },
+          "bounds": {
+            "x": 449,
+            "y": 168,
+            "width": 63,
+            "height": 48
+          }
+        }
+      ],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 960,
+            "height": 152
+          },
+          "padding": {
+            "start": 12,
+            "top": 12,
+            "end": 12,
+            "bottom": 12
+          },
+          "cornerRadius": 36
+        },
+        {
+          "bounds": {
+            "x": 405,
+            "y": 168,
+            "width": 151,
+            "height": 48
+          },
+          "padding": {
+            "start": 44,
+            "top": 0,
+            "end": 44,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 449,
+            "y": 168,
+            "width": 63,
+            "height": 48
+          },
+          "role": "Button",
+          "padding": {
+            "start": 16,
+            "top": 8,
+            "end": 16,
+            "bottom": 8
+          },
+          "cornerRadius": 24
+        }
+      ],
+      "group": "AlertDialog",
+      "caption": "`AlertDialogConfirmOnlySample` — upstream ships no preview for it, so this catalog's own renders it.",
+      "wireframe": "wireframes/alertdialog-alertdialogconfirmonlysample.svg",
+      "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmersamples/AlertDialogSamplePreviews.kt",
+      "sourceModule": ":samples-catalog",
+      "bodyLine": 21,
+      "sourceDirectory": "samples-catalog",
+      "sourceFunction": "AlertDialogConfirmOnlySamplePreview"
+    },
+    {
       "componentId": "Button/ButtonSample",
       "images": [
         {
@@ -783,6 +1003,125 @@
       ]
     },
     {
+      "componentId": "ButtonGroup/ButtonGroupControlCurrentItemSample",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/buttongroup-buttongroupcontrolcurrentitemsample/ideal__default.png",
+          "state": "default",
+          "width": 960,
+          "height": 48,
+          "livePreview": "https://preview.coo.ee/glimmer-samples/p/buttongroup-buttongroupcontrolcurrentitemsample__ideal__default",
+          "previewId": "ee.schimke.m3catalog.glimmersamples.ButtonGroupSamplePreviewsKt.ButtonGroupControlCurrentItemSamplePreview",
+          "density": 1
+        }
+      ],
+      "greenlines": [
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 281,
+              "y": 0,
+              "width": 193,
+              "height": 48
+            }
+          },
+          "bounds": {
+            "x": 281,
+            "y": 0,
+            "width": 193,
+            "height": 48
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 482,
+              "y": 0,
+              "width": 198,
+              "height": 48
+            }
+          },
+          "bounds": {
+            "x": 482,
+            "y": 0,
+            "width": 198,
+            "height": 48
+          }
+        }
+      ],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 960,
+            "height": 48
+          },
+          "padding": {
+            "start": 44,
+            "top": 0,
+            "end": 44,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 281,
+            "y": 0,
+            "width": 193,
+            "height": 48
+          },
+          "role": "Button",
+          "padding": {
+            "start": 16,
+            "top": 8,
+            "end": 16,
+            "bottom": 8
+          },
+          "cornerRadius": 24
+        },
+        {
+          "bounds": {
+            "x": 482,
+            "y": 0,
+            "width": 198,
+            "height": 48
+          },
+          "role": "Button",
+          "padding": {
+            "start": 16,
+            "top": 8,
+            "end": 16,
+            "bottom": 8
+          },
+          "cornerRadius": 24
+        }
+      ],
+      "group": "ButtonGroup",
+      "caption": "`ButtonGroupControlCurrentItemSample` — upstream ships no preview for it, so this catalog's own renders it.",
+      "wireframe": "wireframes/buttongroup-buttongroupcontrolcurrentitemsample.svg",
+      "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmersamples/ButtonGroupSamplePreviews.kt",
+      "sourceModule": ":samples-catalog",
+      "bodyLine": 14,
+      "sourceDirectory": "samples-catalog",
+      "sourceFunction": "ButtonGroupControlCurrentItemSamplePreview",
+      "related": [
+        {
+          "system": "glimmer-catalog",
+          "componentId": "ButtonGroup"
+        }
+      ]
+    },
+    {
       "componentId": "Card/CardSample",
       "images": [
         {
@@ -1449,6 +1788,259 @@
       "bodyLine": 331,
       "sourceDirectory": "samples-catalog",
       "sourceFunction": "TrailingImageCardPreview",
+      "related": [
+        {
+          "system": "glimmer-catalog",
+          "componentId": "ImageCard"
+        }
+      ]
+    },
+    {
+      "componentId": "Card/ClickableCardSample",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/card-clickablecardsample/ideal__default.png",
+          "state": "default",
+          "width": 960,
+          "height": 80,
+          "livePreview": "https://preview.coo.ee/glimmer-samples/p/card-clickablecardsample__ideal__default",
+          "previewId": "ee.schimke.m3catalog.glimmersamples.CardSamplePreviewsKt.ClickableCardSamplePreview",
+          "density": 1
+        }
+      ],
+      "greenlines": [],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 960,
+            "height": 80
+          },
+          "padding": {
+            "start": 12,
+            "top": 12,
+            "end": 12,
+            "bottom": 12
+          },
+          "cornerRadius": 36
+        }
+      ],
+      "group": "Card",
+      "caption": "`ClickableCardSample` — upstream ships no preview for it, so this catalog's own renders it.",
+      "wireframe": "wireframes/card-clickablecardsample.svg",
+      "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmersamples/CardSamplePreviews.kt",
+      "sourceModule": ":samples-catalog",
+      "bodyLine": 17,
+      "sourceDirectory": "samples-catalog",
+      "sourceFunction": "ClickableCardSamplePreview",
+      "related": [
+        {
+          "system": "glimmer-catalog",
+          "componentId": "ImageCard"
+        }
+      ]
+    },
+    {
+      "componentId": "Card/ClickableCardWithTrailingIconSample",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/card-clickablecardwithtrailingiconsample/ideal__default.png",
+          "state": "default",
+          "width": 960,
+          "height": 88,
+          "livePreview": "https://preview.coo.ee/glimmer-samples/p/card-clickablecardwithtrailingiconsample__ideal__default",
+          "previewId": "ee.schimke.m3catalog.glimmersamples.CardSamplePreviewsKt.ClickableCardWithTrailingIconSamplePreview",
+          "density": 1
+        }
+      ],
+      "greenlines": [],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 960,
+            "height": 88
+          },
+          "padding": {
+            "start": 12,
+            "top": 12,
+            "end": 12,
+            "bottom": 12
+          },
+          "cornerRadius": 36
+        }
+      ],
+      "group": "Card",
+      "caption": "`ClickableCardWithTrailingIconSample` — upstream ships no preview for it, so this catalog's own renders it.",
+      "wireframe": "wireframes/card-clickablecardwithtrailingiconsample.svg",
+      "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmersamples/CardSamplePreviews.kt",
+      "sourceModule": ":samples-catalog",
+      "bodyLine": 23,
+      "sourceDirectory": "samples-catalog",
+      "sourceFunction": "ClickableCardWithTrailingIconSamplePreview",
+      "related": [
+        {
+          "system": "glimmer-catalog",
+          "componentId": "ImageCard"
+        }
+      ]
+    },
+    {
+      "componentId": "Card/ClickableCardWithTitleAndSubtitleAndLeadingIconSample",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/card-clickablecardwithtitleandsubtitleandleadingiconsample/ideal__default.png",
+          "state": "default",
+          "width": 960,
+          "height": 127,
+          "livePreview": "https://preview.coo.ee/glimmer-samples/p/card-clickablecardwithtitleandsubtitleandleadingiconsample__ideal__default",
+          "previewId": "ee.schimke.m3catalog.glimmersamples.CardSamplePreviewsKt.ClickableCardWithTitleAndSubtitleAndLeadingIconSamplePreview",
+          "density": 1
+        }
+      ],
+      "greenlines": [],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 960,
+            "height": 127
+          },
+          "padding": {
+            "start": 12,
+            "top": 12,
+            "end": 12,
+            "bottom": 12
+          },
+          "cornerRadius": 36
+        }
+      ],
+      "group": "Card",
+      "caption": "`ClickableCardWithTitleAndSubtitleAndLeadingIconSample` — upstream ships no preview for it, so this catalog's own renders it.",
+      "wireframe": "wireframes/card-clickablecardwithtitleandsubtitleandleadingiconsample.svg",
+      "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmersamples/CardSamplePreviews.kt",
+      "sourceModule": ":samples-catalog",
+      "bodyLine": 29,
+      "sourceDirectory": "samples-catalog",
+      "sourceFunction": "ClickableCardWithTitleAndSubtitleAndLeadingIconSamplePreview",
+      "related": [
+        {
+          "system": "glimmer-catalog",
+          "componentId": "ImageCard"
+        }
+      ]
+    },
+    {
+      "componentId": "Card/ClickableImageCardSample",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/card-clickableimagecardsample/ideal__default.png",
+          "state": "default",
+          "width": 960,
+          "height": 651,
+          "livePreview": "https://preview.coo.ee/glimmer-samples/p/card-clickableimagecardsample__ideal__default",
+          "previewId": "ee.schimke.m3catalog.glimmersamples.CardSamplePreviewsKt.ClickableImageCardSamplePreview",
+          "density": 1
+        }
+      ],
+      "greenlines": [],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 960,
+            "height": 651
+          },
+          "padding": {
+            "start": 12,
+            "top": 12,
+            "end": 12,
+            "bottom": 12
+          },
+          "cornerRadius": 36
+        },
+        {
+          "bounds": {
+            "x": 12,
+            "y": 12,
+            "width": 936,
+            "height": 585
+          },
+          "cornerRadius": 24
+        }
+      ],
+      "group": "Card",
+      "caption": "`ClickableImageCardSample` — upstream ships no preview for it, so this catalog's own renders it.",
+      "wireframe": "wireframes/card-clickableimagecardsample.svg",
+      "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmersamples/CardSamplePreviews.kt",
+      "sourceModule": ":samples-catalog",
+      "bodyLine": 35,
+      "sourceDirectory": "samples-catalog",
+      "sourceFunction": "ClickableImageCardSamplePreview",
+      "related": [
+        {
+          "system": "glimmer-catalog",
+          "componentId": "ImageCard"
+        }
+      ]
+    },
+    {
+      "componentId": "Card/ClickableImageCardWithTitleAndSubtitleAndLeadingIconSample",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/card-clickableimagecardwithtitleandsubtitleandleadingiconsample/ideal__default.png",
+          "state": "default",
+          "width": 960,
+          "height": 712,
+          "livePreview": "https://preview.coo.ee/glimmer-samples/p/card-clickableimagecardwithtitleandsubtitleandleadingiconsample__ideal__default",
+          "previewId": "ee.schimke.m3catalog.glimmersamples.CardSamplePreviewsKt.ClickableImageCardWithTitleAndSubtitleAndLeadingIconSamplePreview",
+          "density": 1
+        }
+      ],
+      "greenlines": [],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 960,
+            "height": 712
+          },
+          "padding": {
+            "start": 12,
+            "top": 12,
+            "end": 12,
+            "bottom": 12
+          },
+          "cornerRadius": 36
+        },
+        {
+          "bounds": {
+            "x": 12,
+            "y": 12,
+            "width": 936,
+            "height": 585
+          },
+          "cornerRadius": 24
+        }
+      ],
+      "group": "Card",
+      "caption": "`ClickableImageCardWithTitleAndSubtitleAndLeadingIconSample` — upstream ships no preview for it, so this catalog's own renders it.",
+      "wireframe": "wireframes/card-clickableimagecardwithtitleandsubtitleandleadingiconsample.svg",
+      "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmersamples/CardSamplePreviews.kt",
+      "sourceModule": ":samples-catalog",
+      "bodyLine": 41,
+      "sourceDirectory": "samples-catalog",
+      "sourceFunction": "ClickableImageCardWithTitleAndSubtitleAndLeadingIconSamplePreview",
       "related": [
         {
           "system": "glimmer-catalog",
@@ -2167,6 +2759,240 @@
       "bodyLine": 145,
       "sourceDirectory": "samples-catalog",
       "sourceFunction": "GlimmerHorizontalPagerSamplePreview"
+    },
+    {
+      "componentId": "GlimmerPager/GlimmerPagerStateAnimateScrollToPageSample",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/glimmerpager-glimmerpagerstateanimatescrolltopagesample/ideal__default.png",
+          "state": "default",
+          "width": 960,
+          "height": 720,
+          "livePreview": "https://preview.coo.ee/glimmer-samples/p/glimmerpager-glimmerpagerstateanimatescrolltopagesample__ideal__default",
+          "previewId": "ee.schimke.m3catalog.glimmersamples.GlimmerPagerSamplePreviewsKt.GlimmerPagerStateAnimateScrollToPageSamplePreview",
+          "density": 1
+        }
+      ],
+      "greenlines": [
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 0,
+              "y": 0,
+              "width": 191,
+              "height": 48
+            }
+          },
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 191,
+            "height": 48
+          }
+        }
+      ],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 191,
+            "height": 48
+          },
+          "role": "Button",
+          "padding": {
+            "start": 16,
+            "top": 8,
+            "end": 16,
+            "bottom": 8
+          },
+          "cornerRadius": 24
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 606,
+            "width": 960,
+            "height": 80
+          },
+          "padding": {
+            "start": 12,
+            "top": 12,
+            "end": 12,
+            "bottom": 12
+          },
+          "cornerRadius": 36
+        }
+      ],
+      "group": "GlimmerPager",
+      "caption": "`GlimmerPagerStateAnimateScrollToPageSample` — upstream ships no preview for it, so this catalog's own renders it.",
+      "wireframe": "wireframes/glimmerpager-glimmerpagerstateanimatescrolltopagesample.svg",
+      "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmersamples/GlimmerPagerSamplePreviews.kt",
+      "sourceModule": ":samples-catalog",
+      "bodyLine": 16,
+      "sourceDirectory": "samples-catalog",
+      "sourceFunction": "GlimmerPagerStateAnimateScrollToPageSamplePreview"
+    },
+    {
+      "componentId": "GlimmerPager/GlimmerPagerStateScrollToPageSample",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/glimmerpager-glimmerpagerstatescrolltopagesample/ideal__default.png",
+          "state": "default",
+          "width": 960,
+          "height": 720,
+          "livePreview": "https://preview.coo.ee/glimmer-samples/p/glimmerpager-glimmerpagerstatescrolltopagesample__ideal__default",
+          "previewId": "ee.schimke.m3catalog.glimmersamples.GlimmerPagerSamplePreviewsKt.GlimmerPagerStateScrollToPageSamplePreview",
+          "density": 1
+        }
+      ],
+      "greenlines": [
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 0,
+              "y": 0,
+              "width": 191,
+              "height": 48
+            }
+          },
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 191,
+            "height": 48
+          }
+        }
+      ],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 191,
+            "height": 48
+          },
+          "role": "Button",
+          "padding": {
+            "start": 16,
+            "top": 8,
+            "end": 16,
+            "bottom": 8
+          },
+          "cornerRadius": 24
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 606,
+            "width": 960,
+            "height": 80
+          },
+          "padding": {
+            "start": 12,
+            "top": 12,
+            "end": 12,
+            "bottom": 12
+          },
+          "cornerRadius": 36
+        }
+      ],
+      "group": "GlimmerPager",
+      "caption": "`GlimmerPagerStateScrollToPageSample` — upstream ships no preview for it, so this catalog's own renders it.",
+      "wireframe": "wireframes/glimmerpager-glimmerpagerstatescrolltopagesample.svg",
+      "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmersamples/GlimmerPagerSamplePreviews.kt",
+      "sourceModule": ":samples-catalog",
+      "bodyLine": 22,
+      "sourceDirectory": "samples-catalog",
+      "sourceFunction": "GlimmerPagerStateScrollToPageSamplePreview"
+    },
+    {
+      "componentId": "GlimmerPager/GlimmerPagerStateCustomAnimateScrollToPageSample",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/glimmerpager-glimmerpagerstatecustomanimatescrolltopagesample/ideal__default.png",
+          "state": "default",
+          "width": 960,
+          "height": 720,
+          "livePreview": "https://preview.coo.ee/glimmer-samples/p/glimmerpager-glimmerpagerstatecustomanimatescrolltopagesample__ideal__default",
+          "previewId": "ee.schimke.m3catalog.glimmersamples.GlimmerPagerSamplePreviewsKt.GlimmerPagerStateCustomAnimateScrollToPageSamplePreview",
+          "density": 1
+        }
+      ],
+      "greenlines": [
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 0,
+              "y": 0,
+              "width": 191,
+              "height": 48
+            }
+          },
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 191,
+            "height": 48
+          }
+        }
+      ],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 191,
+            "height": 48
+          },
+          "role": "Button",
+          "padding": {
+            "start": 16,
+            "top": 8,
+            "end": 16,
+            "bottom": 8
+          },
+          "cornerRadius": 24
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 606,
+            "width": 960,
+            "height": 80
+          },
+          "padding": {
+            "start": 12,
+            "top": 12,
+            "end": 12,
+            "bottom": 12
+          },
+          "cornerRadius": 36
+        }
+      ],
+      "group": "GlimmerPager",
+      "caption": "`GlimmerPagerStateCustomAnimateScrollToPageSample` — upstream ships no preview for it, so this catalog's own renders it.",
+      "wireframe": "wireframes/glimmerpager-glimmerpagerstatecustomanimatescrolltopagesample.svg",
+      "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmersamples/GlimmerPagerSamplePreviews.kt",
+      "sourceModule": ":samples-catalog",
+      "bodyLine": 28,
+      "sourceDirectory": "samples-catalog",
+      "sourceFunction": "GlimmerPagerStateCustomAnimateScrollToPageSamplePreview"
     },
     {
       "componentId": "Icon/IconSampleUsage",
@@ -3063,6 +3889,218 @@
       ]
     },
     {
+      "componentId": "Stack/VerticalStackWithMultipleShapesSample",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/stack-verticalstackwithmultipleshapessample/ideal__default.png",
+          "state": "default",
+          "width": 960,
+          "height": 364,
+          "livePreview": "https://preview.coo.ee/glimmer-samples/p/stack-verticalstackwithmultipleshapessample__ideal__default",
+          "previewId": "ee.schimke.m3catalog.glimmersamples.StackSamplePreviewsKt.VerticalStackWithMultipleShapesSamplePreview",
+          "density": 1
+        }
+      ],
+      "greenlines": [],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "padding": {
+            "start": 12,
+            "top": 12,
+            "end": 12,
+            "bottom": 12
+          },
+          "cornerRadius": 36
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "padding": {
+            "start": 12,
+            "top": 12,
+            "end": 12,
+            "bottom": 12
+          },
+          "cornerRadius": 36
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "padding": {
+            "start": 12,
+            "top": 12,
+            "end": 12,
+            "bottom": 12
+          },
+          "cornerRadius": 36
+        },
+        {
+          "bounds": {
+            "x": 28,
+            "y": 213,
+            "width": 903,
+            "height": 75
+          },
+          "padding": {
+            "start": 12,
+            "top": 12,
+            "end": 12,
+            "bottom": 12
+          },
+          "cornerRadius": 36
+        },
+        {
+          "bounds": {
+            "x": 28,
+            "y": 288,
+            "width": 452,
+            "height": 75
+          },
+          "padding": {
+            "start": 12,
+            "top": 12,
+            "end": 12,
+            "bottom": 12
+          },
+          "cornerRadius": 36
+        },
+        {
+          "bounds": {
+            "x": 480,
+            "y": 288,
+            "width": 451,
+            "height": 75
+          },
+          "padding": {
+            "start": 12,
+            "top": 12,
+            "end": 12,
+            "bottom": 12
+          },
+          "cornerRadius": 36
+        },
+        {
+          "bounds": {
+            "x": 28,
+            "y": 213,
+            "width": 903,
+            "height": 75
+          },
+          "padding": {
+            "start": 12,
+            "top": 12,
+            "end": 12,
+            "bottom": 12
+          },
+          "cornerRadius": 36
+        },
+        {
+          "bounds": {
+            "x": 28,
+            "y": 288,
+            "width": 452,
+            "height": 76
+          },
+          "padding": {
+            "start": 12,
+            "top": 12,
+            "end": 12,
+            "bottom": 12
+          },
+          "cornerRadius": 36
+        },
+        {
+          "bounds": {
+            "x": 480,
+            "y": 288,
+            "width": 451,
+            "height": 76
+          },
+          "padding": {
+            "start": 12,
+            "top": 12,
+            "end": 12,
+            "bottom": 12
+          },
+          "cornerRadius": 36
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 186,
+            "width": 960,
+            "height": 80
+          },
+          "padding": {
+            "start": 12,
+            "top": 12,
+            "end": 12,
+            "bottom": 12
+          },
+          "cornerRadius": 36
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 266,
+            "width": 480,
+            "height": 80
+          },
+          "padding": {
+            "start": 12,
+            "top": 12,
+            "end": 12,
+            "bottom": 12
+          },
+          "cornerRadius": 36
+        },
+        {
+          "bounds": {
+            "x": 480,
+            "y": 266,
+            "width": 480,
+            "height": 80
+          },
+          "padding": {
+            "start": 12,
+            "top": 12,
+            "end": 12,
+            "bottom": 12
+          },
+          "cornerRadius": 36
+        }
+      ],
+      "group": "Stack",
+      "caption": "`VerticalStackWithMultipleShapesSample` — upstream ships no preview for it, so this catalog's own renders it.",
+      "wireframe": "wireframes/stack-verticalstackwithmultipleshapessample.svg",
+      "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmersamples/StackSamplePreviews.kt",
+      "sourceModule": ":samples-catalog",
+      "bodyLine": 13,
+      "sourceDirectory": "samples-catalog",
+      "sourceFunction": "VerticalStackWithMultipleShapesSamplePreview",
+      "related": [
+        {
+          "system": "glimmer-catalog",
+          "componentId": "VerticalStack"
+        }
+      ]
+    },
+    {
       "componentId": "Surface/SurfaceSample",
       "images": [
         {
@@ -3184,6 +4222,47 @@
       "bodyLine": 124,
       "sourceDirectory": "samples-catalog",
       "sourceFunction": "ClickableSurfacePreview"
+    },
+    {
+      "componentId": "Surface/CustomFocusedColorSurfaceSample",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/surface-customfocusedcolorsurfacesample/ideal__default.png",
+          "state": "default",
+          "width": 331,
+          "height": 66,
+          "livePreview": "https://preview.coo.ee/glimmer-samples/p/surface-customfocusedcolorsurfacesample__ideal__default",
+          "previewId": "ee.schimke.m3catalog.glimmersamples.SurfaceSamplePreviewsKt.CustomFocusedColorSurfaceSamplePreview",
+          "density": 1
+        }
+      ],
+      "greenlines": [],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 331,
+            "height": 66
+          },
+          "padding": {
+            "start": 24,
+            "top": 20,
+            "end": 24,
+            "bottom": 20
+          },
+          "cornerRadius": 36
+        }
+      ],
+      "group": "Surface",
+      "caption": "`CustomFocusedColorSurfaceSample` — upstream ships no preview for it, so this catalog's own renders it.",
+      "wireframe": "wireframes/surface-customfocusedcolorsurfacesample.svg",
+      "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmersamples/SurfaceSamplePreviews.kt",
+      "sourceModule": ":samples-catalog",
+      "bodyLine": 13,
+      "sourceDirectory": "samples-catalog",
+      "sourceFunction": "CustomFocusedColorSurfaceSamplePreview"
     },
     {
       "componentId": "TitleChip/TitleChipSample",
@@ -3637,13 +4716,44 @@
       "bodyLine": 50,
       "sourceDirectory": "samples-catalog",
       "sourceFunction": "TypographyDefaultPreview"
+    },
+    {
+      "componentId": "VoiceInputIndicator/VoiceInputIndicatorSampleUsage",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/voiceinputindicator-voiceinputindicatorsampleusage/ideal__default.png",
+          "state": "default",
+          "width": 32,
+          "height": 32,
+          "livePreview": "https://preview.coo.ee/glimmer-samples/p/voiceinputindicator-voiceinputindicatorsampleusage__ideal__default",
+          "previewId": "ee.schimke.m3catalog.glimmersamples.VoiceInputIndicatorSamplePreviewsKt.VoiceInputIndicatorSampleUsagePreview",
+          "density": 1
+        }
+      ],
+      "greenlines": [],
+      "redlines": [],
+      "group": "VoiceInputIndicator",
+      "caption": "`VoiceInputIndicatorSampleUsage` — upstream ships no preview for it, so this catalog's own renders it.",
+      "wireframe": "wireframes/voiceinputindicator-voiceinputindicatorsampleusage.svg",
+      "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmersamples/VoiceInputIndicatorSamplePreviews.kt",
+      "sourceModule": ":samples-catalog",
+      "bodyLine": 14,
+      "sourceDirectory": "samples-catalog",
+      "sourceFunction": "VoiceInputIndicatorSampleUsagePreview",
+      "related": [
+        {
+          "system": "glimmer-catalog",
+          "componentId": "VoiceInputIndicator"
+        }
+      ]
     }
   ],
   "library": [
     "androidx.xr.glimmer:glimmer"
   ],
   "renderer": "compose-preview 2.32.4",
-  "generatedAt": "2026-10-06T20:46:09.313Z",
+  "generatedAt": "2026-10-06T21:11:40.603Z",
   "display": {
     "surface": "dark",
     "role": "samples"

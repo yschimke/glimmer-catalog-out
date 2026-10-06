@@ -7,8 +7,34 @@
     "ref": "main",
     "module": ":samples-catalog"
   },
-  "generatedAt": "2026-10-06T20:46:09.871Z",
+  "generatedAt": "2026-10-06T21:11:41.099Z",
   "mappings": [
+    {
+      "componentId": "AlertDialog/AlertDialogSample",
+      "figmaLayerName": "AlertDialog/AlertDialogSample",
+      "componentName": "AlertDialogSample",
+      "source": "https://github.com/yschimke/glimmer-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/xr/glimmer/samples/AlertDialogSamples.kt",
+      "label": "Compose",
+      "confidence": "HIGH",
+      "previewName": "AlertDialogSamplePreview",
+      "codeSnippet": "AlertDialogSample()",
+      "imports": [
+        "import androidx.xr.glimmer.samples.AlertDialogSample"
+      ]
+    },
+    {
+      "componentId": "AlertDialog/AlertDialogConfirmOnlySample",
+      "figmaLayerName": "AlertDialog/AlertDialogConfirmOnlySample",
+      "componentName": "AlertDialogConfirmOnlySample",
+      "source": "https://github.com/yschimke/glimmer-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/xr/glimmer/samples/AlertDialogSamples.kt",
+      "label": "Compose",
+      "confidence": "HIGH",
+      "previewName": "AlertDialogConfirmOnlySamplePreview",
+      "codeSnippet": "AlertDialogConfirmOnlySample()",
+      "imports": [
+        "import androidx.xr.glimmer.samples.AlertDialogConfirmOnlySample"
+      ]
+    },
     {
       "componentId": "Button/ButtonSample",
       "figmaLayerName": "Button/ButtonSample",
@@ -104,6 +130,19 @@
       "codeSnippet": "ButtonGroupSample()",
       "imports": [
         "import androidx.xr.glimmer.samples.ButtonGroupSample"
+      ]
+    },
+    {
+      "componentId": "ButtonGroup/ButtonGroupControlCurrentItemSample",
+      "figmaLayerName": "ButtonGroup/ButtonGroupControlCurrentItemSample",
+      "componentName": "ButtonGroupControlCurrentItemSample",
+      "source": "https://github.com/yschimke/glimmer-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/xr/glimmer/samples/ButtonGroupSamples.kt",
+      "label": "Compose",
+      "confidence": "HIGH",
+      "previewName": "ButtonGroupControlCurrentItemSamplePreview",
+      "codeSnippet": "ButtonGroupControlCurrentItemSample()",
+      "imports": [
+        "import androidx.xr.glimmer.samples.ButtonGroupControlCurrentItemSample"
       ]
     },
     {
@@ -263,6 +302,71 @@
       ]
     },
     {
+      "componentId": "Card/ClickableCardSample",
+      "figmaLayerName": "Card/ClickableCardSample",
+      "componentName": "ClickableCardSample",
+      "source": "https://github.com/yschimke/glimmer-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/xr/glimmer/samples/CardSamples.kt",
+      "label": "Compose",
+      "confidence": "HIGH",
+      "previewName": "ClickableCardSamplePreview",
+      "codeSnippet": "ClickableCardSample()",
+      "imports": [
+        "import androidx.xr.glimmer.samples.ClickableCardSample"
+      ]
+    },
+    {
+      "componentId": "Card/ClickableCardWithTrailingIconSample",
+      "figmaLayerName": "Card/ClickableCardWithTrailingIconSample",
+      "componentName": "ClickableCardWithTrailingIconSample",
+      "source": "https://github.com/yschimke/glimmer-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/xr/glimmer/samples/CardSamples.kt",
+      "label": "Compose",
+      "confidence": "HIGH",
+      "previewName": "ClickableCardWithTrailingIconSamplePreview",
+      "codeSnippet": "ClickableCardWithTrailingIconSample()",
+      "imports": [
+        "import androidx.xr.glimmer.samples.ClickableCardWithTrailingIconSample"
+      ]
+    },
+    {
+      "componentId": "Card/ClickableCardWithTitleAndSubtitleAndLeadingIconSample",
+      "figmaLayerName": "Card/ClickableCardWithTitleAndSubtitleAndLeadingIconSample",
+      "componentName": "ClickableCardWithTitleAndSubtitleAndLeadingIconSample",
+      "source": "https://github.com/yschimke/glimmer-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/xr/glimmer/samples/CardSamples.kt",
+      "label": "Compose",
+      "confidence": "HIGH",
+      "previewName": "ClickableCardWithTitleAndSubtitleAndLeadingIconSamplePreview",
+      "codeSnippet": "ClickableCardWithTitleAndSubtitleAndLeadingIconSample()",
+      "imports": [
+        "import androidx.xr.glimmer.samples.ClickableCardWithTitleAndSubtitleAndLeadingIconSample"
+      ]
+    },
+    {
+      "componentId": "Card/ClickableImageCardSample",
+      "figmaLayerName": "Card/ClickableImageCardSample",
+      "componentName": "ClickableImageCardSample",
+      "source": "https://github.com/yschimke/glimmer-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/xr/glimmer/samples/CardSamples.kt",
+      "label": "Compose",
+      "confidence": "HIGH",
+      "previewName": "ClickableImageCardSamplePreview",
+      "codeSnippet": "ClickableImageCardSample()",
+      "imports": [
+        "import androidx.xr.glimmer.samples.ClickableImageCardSample"
+      ]
+    },
+    {
+      "componentId": "Card/ClickableImageCardWithTitleAndSubtitleAndLeadingIconSample",
+      "figmaLayerName": "Card/ClickableImageCardWithTitleAndSubtitleAndLeadingIconSample",
+      "componentName": "ClickableImageCardWithTitleAndSubtitleAndLeadingIconSample",
+      "source": "https://github.com/yschimke/glimmer-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/xr/glimmer/samples/CardSamples.kt",
+      "label": "Compose",
+      "confidence": "HIGH",
+      "previewName": "ClickableImageCardWithTitleAndSubtitleAndLeadingIconSamplePreview",
+      "codeSnippet": "ClickableImageCardWithTitleAndSubtitleAndLeadingIconSample()",
+      "imports": [
+        "import androidx.xr.glimmer.samples.ClickableImageCardWithTitleAndSubtitleAndLeadingIconSample"
+      ]
+    },
+    {
       "componentId": "Colors/ColorsSample",
       "figmaLayerName": "Colors/ColorsSample",
       "componentName": "ColorsSample",
@@ -325,6 +429,45 @@
       "codeSnippet": "GlimmerHorizontalPagerSample()",
       "imports": [
         "import androidx.xr.glimmer.samples.GlimmerHorizontalPagerSample"
+      ]
+    },
+    {
+      "componentId": "GlimmerPager/GlimmerPagerStateAnimateScrollToPageSample",
+      "figmaLayerName": "GlimmerPager/GlimmerPagerStateAnimateScrollToPageSample",
+      "componentName": "GlimmerPagerStateAnimateScrollToPageSample",
+      "source": "https://github.com/yschimke/glimmer-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/xr/glimmer/samples/GlimmerPagerSamples.kt",
+      "label": "Compose",
+      "confidence": "HIGH",
+      "previewName": "GlimmerPagerStateAnimateScrollToPageSamplePreview",
+      "codeSnippet": "GlimmerPagerStateAnimateScrollToPageSample()",
+      "imports": [
+        "import androidx.xr.glimmer.samples.GlimmerPagerStateAnimateScrollToPageSample"
+      ]
+    },
+    {
+      "componentId": "GlimmerPager/GlimmerPagerStateScrollToPageSample",
+      "figmaLayerName": "GlimmerPager/GlimmerPagerStateScrollToPageSample",
+      "componentName": "GlimmerPagerStateScrollToPageSample",
+      "source": "https://github.com/yschimke/glimmer-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/xr/glimmer/samples/GlimmerPagerSamples.kt",
+      "label": "Compose",
+      "confidence": "HIGH",
+      "previewName": "GlimmerPagerStateScrollToPageSamplePreview",
+      "codeSnippet": "GlimmerPagerStateScrollToPageSample()",
+      "imports": [
+        "import androidx.xr.glimmer.samples.GlimmerPagerStateScrollToPageSample"
+      ]
+    },
+    {
+      "componentId": "GlimmerPager/GlimmerPagerStateCustomAnimateScrollToPageSample",
+      "figmaLayerName": "GlimmerPager/GlimmerPagerStateCustomAnimateScrollToPageSample",
+      "componentName": "GlimmerPagerStateCustomAnimateScrollToPageSample",
+      "source": "https://github.com/yschimke/glimmer-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/xr/glimmer/samples/GlimmerPagerSamples.kt",
+      "label": "Compose",
+      "confidence": "HIGH",
+      "previewName": "GlimmerPagerStateCustomAnimateScrollToPageSamplePreview",
+      "codeSnippet": "GlimmerPagerStateCustomAnimateScrollToPageSample()",
+      "imports": [
+        "import androidx.xr.glimmer.samples.GlimmerPagerStateCustomAnimateScrollToPageSample"
       ]
     },
     {
@@ -537,6 +680,19 @@
       ]
     },
     {
+      "componentId": "Stack/VerticalStackWithMultipleShapesSample",
+      "figmaLayerName": "Stack/VerticalStackWithMultipleShapesSample",
+      "componentName": "VerticalStackWithMultipleShapesSample",
+      "source": "https://github.com/yschimke/glimmer-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/xr/glimmer/samples/StackSamples.kt",
+      "label": "Compose",
+      "confidence": "HIGH",
+      "previewName": "VerticalStackWithMultipleShapesSamplePreview",
+      "codeSnippet": "VerticalStackWithMultipleShapesSample()",
+      "imports": [
+        "import androidx.xr.glimmer.samples.VerticalStackWithMultipleShapesSample"
+      ]
+    },
+    {
       "componentId": "Surface/SurfaceSample",
       "figmaLayerName": "Surface/SurfaceSample",
       "componentName": "SurfaceSample",
@@ -573,6 +729,19 @@
       "codeSnippet": "ClickableSurfaceSample()",
       "imports": [
         "import androidx.xr.glimmer.samples.ClickableSurfaceSample"
+      ]
+    },
+    {
+      "componentId": "Surface/CustomFocusedColorSurfaceSample",
+      "figmaLayerName": "Surface/CustomFocusedColorSurfaceSample",
+      "componentName": "CustomFocusedColorSurfaceSample",
+      "source": "https://github.com/yschimke/glimmer-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/xr/glimmer/samples/SurfaceSamples.kt",
+      "label": "Compose",
+      "confidence": "HIGH",
+      "previewName": "CustomFocusedColorSurfaceSamplePreview",
+      "codeSnippet": "CustomFocusedColorSurfaceSample()",
+      "imports": [
+        "import androidx.xr.glimmer.samples.CustomFocusedColorSurfaceSample"
       ]
     },
     {
@@ -677,6 +846,19 @@
       "codeSnippet": "TypographyDefaultUsage()",
       "imports": [
         "import androidx.xr.glimmer.samples.TypographyDefaultUsage"
+      ]
+    },
+    {
+      "componentId": "VoiceInputIndicator/VoiceInputIndicatorSampleUsage",
+      "figmaLayerName": "VoiceInputIndicator/VoiceInputIndicatorSampleUsage",
+      "componentName": "VoiceInputIndicatorSampleUsage",
+      "source": "https://github.com/yschimke/glimmer-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/xr/glimmer/samples/VoiceInputIndicatorSamples.kt",
+      "label": "Compose",
+      "confidence": "HIGH",
+      "previewName": "VoiceInputIndicatorSampleUsagePreview",
+      "codeSnippet": "VoiceInputIndicatorSampleUsage()",
+      "imports": [
+        "import androidx.xr.glimmer.samples.VoiceInputIndicatorSampleUsage"
       ]
     }
   ]

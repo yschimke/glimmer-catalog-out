@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 48" width="960" height="48" role="img" aria-label="ButtonGroup/ButtonGroupControlCurrentItemSample layout wireframe">
+  <title>ButtonGroup/ButtonGroupControlCurrentItemSample — layout wireframe (slots + tokens)</title>
+  <rect width="960" height="48" fill="#ffffff"/>
+  <g>
+    <rect x="0" y="0" width="960" height="48" fill="none" fill-opacity="0" stroke="#5B6470" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="0" y="0" width="960" height="48" fill="none" fill-opacity="0" stroke="#2E7D6B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="44" y="0" width="872" height="48" fill="none" fill-opacity="0" stroke="#8E6BA8" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <path d="M313,8 H442 A16,16 0 0 1 458,24 V24 A16,16 0 0 1 442,40 H313 A16,16 0 0 1 297,24 V24 A16,16 0 0 1 313,8 Z" fill="#303030" fill-opacity="1" stroke="#B0813B" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="300" y="20" font-family="system-ui, sans-serif" font-size="9" fill="#B0813B">#FF303030  pad ·</text>
+  </g>
+  <g>
+    <rect x="297" y="11" width="161" height="26" fill="none" fill-opacity="0" stroke="#3B72A8" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <path d="M514,8 H648 A16,16 0 0 1 664,24 V24 A16,16 0 0 1 648,40 H514 A16,16 0 0 1 498,24 V24 A16,16 0 0 1 514,8 Z" fill="#303030" fill-opacity="1" stroke="#B0813B" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="501" y="20" font-family="system-ui, sans-serif" font-size="9" fill="#B0813B">#FF303030  pad ·</text>
+  </g>
+  <g>
+    <rect x="498" y="11" width="166" height="26" fill="none" fill-opacity="0" stroke="#3B72A8" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+</svg>

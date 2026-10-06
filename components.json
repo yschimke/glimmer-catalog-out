@@ -4,6 +4,222 @@
     "variant": "debug",
     "components": [
         {
+            "canonicalId": "samples-catalog/androidx.xr.glimmer.AlertDialogKt.AlertDialog",
+            "componentIds": [],
+            "symbol": {
+                "jvmOwner": "androidx.xr.glimmer.AlertDialogKt",
+                "callable": "androidx.xr.glimmer.AlertDialog",
+                "name": "AlertDialog",
+                "origin": "LIBRARY",
+                "jvmName": "AlertDialog-x_PqTlM",
+                "descriptor": "(Lkotlin/jvm/functions/Function0;Lkotlin/jvm/functions/Function2;Lkotlin/jvm/functions/Function2;Landroidx/compose/ui/Modifier;Lkotlin/jvm/functions/Function2;Lkotlin/jvm/functions/Function2;Lkotlin/jvm/functions/Function2;Landroidx/compose/ui/graphics/Shape;JJLandroidx/compose/foundation/layout/PaddingValues;Landroidx/compose/runtime/Composer;III)V",
+                "sourceFile": null,
+                "docs": "unavailable",
+                "receiver": null
+            },
+            "parameters": [
+                {
+                    "name": "onDismissRequest",
+                    "type": "() -> Unit",
+                    "typeFqn": "kotlin.Function0",
+                    "hasDefault": false,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
+                },
+                {
+                    "name": "confirmButton",
+                    "type": "() -> Unit",
+                    "typeFqn": "kotlin.Function0",
+                    "hasDefault": false,
+                    "composableSlot": true,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
+                },
+                {
+                    "name": "text",
+                    "type": "() -> Unit",
+                    "typeFqn": "kotlin.Function0",
+                    "hasDefault": false,
+                    "composableSlot": true,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
+                },
+                {
+                    "name": "modifier",
+                    "type": "Modifier",
+                    "typeFqn": "androidx.compose.ui.Modifier",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "dismissButton",
+                    "type": "(() -> Unit)?",
+                    "typeFqn": "kotlin.Function0",
+                    "hasDefault": true,
+                    "composableSlot": true,
+                    "composableSlotReceiver": null,
+                    "nullable": true,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
+                },
+                {
+                    "name": "icon",
+                    "type": "(() -> Unit)?",
+                    "typeFqn": "kotlin.Function0",
+                    "hasDefault": true,
+                    "composableSlot": true,
+                    "composableSlotReceiver": null,
+                    "nullable": true,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
+                },
+                {
+                    "name": "title",
+                    "type": "(() -> Unit)?",
+                    "typeFqn": "kotlin.Function0",
+                    "hasDefault": true,
+                    "composableSlot": true,
+                    "composableSlotReceiver": null,
+                    "nullable": true,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
+                },
+                {
+                    "name": "shape",
+                    "type": "Shape",
+                    "typeFqn": "androidx.compose.ui.graphics.Shape",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "containerColor",
+                    "type": "Color",
+                    "typeFqn": "androidx.compose.ui.graphics.Color",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "contentColor",
+                    "type": "Color",
+                    "typeFqn": "androidx.compose.ui.graphics.Color",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "contentPadding",
+                    "type": "PaddingValues",
+                    "typeFqn": "androidx.compose.foundation.layout.PaddingValues",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                }
+            ],
+            "slots": [
+                {
+                    "name": "confirmButton",
+                    "required": true,
+                    "receiverScope": null
+                },
+                {
+                    "name": "text",
+                    "required": true,
+                    "receiverScope": null
+                },
+                {
+                    "name": "dismissButton",
+                    "required": false,
+                    "receiverScope": null
+                },
+                {
+                    "name": "icon",
+                    "required": false,
+                    "receiverScope": null
+                },
+                {
+                    "name": "title",
+                    "required": false,
+                    "receiverScope": null
+                }
+            ],
+            "bindings": [
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmersamples.AlertDialogSamplePreviewsKt.AlertDialogConfirmOnlySamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmersamples.AlertDialogSamplePreviewsKt.AlertDialogSamplePreview",
+                    "componentId": null,
+                    "group": null
+                }
+            ],
+            "code": {
+                "call": "AlertDialog(onDismissRequest = {}, confirmButton = {}, text = {})",
+                "imports": [
+                    "androidx.xr.glimmer.AlertDialog"
+                ],
+                "refusedReason": null,
+                "requiredOptIns": [],
+                "androidxOptIns": []
+            },
+            "signatureKnown": true,
+            "callableFromAnotherFile": true,
+            "hasTypeParameters": false,
+            "hasContextReceivers": false,
+            "overloadsCollided": false,
+            "builder": null,
+            "requiredOptIns": [],
+            "androidxOptIns": []
+        },
+        {
             "canonicalId": "samples-catalog/androidx.xr.glimmer.ButtonGroupKt.ButtonGroup",
             "componentIds": [],
             "symbol": {
@@ -107,6 +323,11 @@
             "bindings": [
                 {
                     "previewId": "androidx.xr.glimmer.samples.ButtonGroupSamplesKt.ButtonGroupPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmersamples.ButtonGroupSamplePreviewsKt.ButtonGroupControlCurrentItemSamplePreview",
                     "componentId": null,
                     "group": null
                 }
@@ -373,6 +594,36 @@
                     "previewId": "androidx.xr.glimmer.samples.CardSamplesKt.ActionCardWithTitlePreview",
                     "componentId": null,
                     "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmersamples.AlertDialogSamplePreviewsKt.AlertDialogConfirmOnlySamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmersamples.AlertDialogSamplePreviewsKt.AlertDialogSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmersamples.ButtonGroupSamplePreviewsKt.ButtonGroupControlCurrentItemSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmersamples.GlimmerPagerSamplePreviewsKt.GlimmerPagerStateAnimateScrollToPageSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmersamples.GlimmerPagerSamplePreviewsKt.GlimmerPagerStateCustomAnimateScrollToPageSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmersamples.GlimmerPagerSamplePreviewsKt.GlimmerPagerStateScrollToPageSamplePreview",
+                    "componentId": null,
+                    "group": null
                 }
             ],
             "code": {
@@ -622,13 +873,26 @@
                 "callable": "androidx.xr.glimmer.Card",
                 "name": "Card",
                 "origin": "LIBRARY",
-                "jvmName": "Card-QPuc2h0",
-                "descriptor": "(Landroidx/compose/ui/Modifier;Lkotlin/jvm/functions/Function2;Lkotlin/jvm/functions/Function2;Lkotlin/jvm/functions/Function2;Lkotlin/jvm/functions/Function2;Landroidx/compose/ui/graphics/Shape;JJLandroidx/compose/foundation/layout/PaddingValues;Landroidx/compose/foundation/interaction/MutableInteractionSource;Lkotlin/jvm/functions/Function2;Landroidx/compose/runtime/Composer;III)V",
+                "jvmName": null,
+                "descriptor": null,
                 "sourceFile": null,
                 "docs": "unavailable",
                 "receiver": null
             },
             "parameters": [
+                {
+                    "name": "onClick",
+                    "type": "() -> Unit",
+                    "typeFqn": "kotlin.Function0",
+                    "hasDefault": false,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
+                },
                 {
                     "name": "modifier",
                     "type": "Modifier",
@@ -845,14 +1109,47 @@
                     "previewId": "androidx.xr.glimmer.samples.TitleChipSamplesKt.TitleChipWithCardPreview",
                     "componentId": null,
                     "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmersamples.CardSamplePreviewsKt.ClickableCardSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmersamples.CardSamplePreviewsKt.ClickableCardWithTitleAndSubtitleAndLeadingIconSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmersamples.CardSamplePreviewsKt.ClickableCardWithTrailingIconSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmersamples.GlimmerPagerSamplePreviewsKt.GlimmerPagerStateAnimateScrollToPageSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmersamples.GlimmerPagerSamplePreviewsKt.GlimmerPagerStateCustomAnimateScrollToPageSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmersamples.GlimmerPagerSamplePreviewsKt.GlimmerPagerStateScrollToPageSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmersamples.StackSamplePreviewsKt.VerticalStackWithMultipleShapesSamplePreview",
+                    "componentId": null,
+                    "group": null
                 }
             ],
             "code": {
-                "call": "Card(content = {})",
-                "imports": [
-                    "androidx.xr.glimmer.Card"
-                ],
-                "refusedReason": null,
+                "call": null,
+                "imports": [],
+                "refusedReason": "overloads collided under this canonical id, so no single call site identifies one",
                 "requiredOptIns": [],
                 "androidxOptIns": []
             },
@@ -860,7 +1157,7 @@
             "callableFromAnotherFile": true,
             "hasTypeParameters": false,
             "hasContextReceivers": false,
-            "overloadsCollided": false,
+            "overloadsCollided": true,
             "builder": null,
             "requiredOptIns": [],
             "androidxOptIns": []
@@ -873,13 +1170,26 @@
                 "callable": "androidx.xr.glimmer.ImageCard",
                 "name": "ImageCard",
                 "origin": "LIBRARY",
-                "jvmName": "ImageCard-xOHPqjQ",
-                "descriptor": "(Lkotlin/jvm/functions/Function2;Landroidx/compose/ui/Modifier;Lkotlin/jvm/functions/Function2;Lkotlin/jvm/functions/Function2;Lkotlin/jvm/functions/Function2;Lkotlin/jvm/functions/Function2;Landroidx/compose/ui/graphics/Shape;JJLandroidx/compose/foundation/layout/PaddingValues;Landroidx/compose/foundation/interaction/MutableInteractionSource;Lkotlin/jvm/functions/Function2;Landroidx/compose/runtime/Composer;III)V",
+                "jvmName": null,
+                "descriptor": null,
                 "sourceFile": null,
                 "docs": "unavailable",
                 "receiver": null
             },
             "parameters": [
+                {
+                    "name": "onClick",
+                    "type": "() -> Unit",
+                    "typeFqn": "kotlin.Function0",
+                    "hasDefault": false,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
+                },
                 {
                     "name": "image",
                     "type": "() -> Unit",
@@ -1079,14 +1389,22 @@
                     "previewId": "androidx.xr.glimmer.samples.CardSamplesKt.ImageCardWithTitleAndSubtitleAndLeadingIconPreview",
                     "componentId": null,
                     "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmersamples.CardSamplePreviewsKt.ClickableImageCardSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmersamples.CardSamplePreviewsKt.ClickableImageCardWithTitleAndSubtitleAndLeadingIconSamplePreview",
+                    "componentId": null,
+                    "group": null
                 }
             ],
             "code": {
-                "call": "ImageCard(image = {}, content = {})",
-                "imports": [
-                    "androidx.xr.glimmer.ImageCard"
-                ],
-                "refusedReason": null,
+                "call": null,
+                "imports": [],
+                "refusedReason": "overloads collided under this canonical id, so no single call site identifies one",
                 "requiredOptIns": [],
                 "androidxOptIns": []
             },
@@ -1094,7 +1412,7 @@
             "callableFromAnotherFile": true,
             "hasTypeParameters": false,
             "hasContextReceivers": false,
-            "overloadsCollided": false,
+            "overloadsCollided": true,
             "builder": null,
             "requiredOptIns": [],
             "androidxOptIns": []
@@ -1829,6 +2147,31 @@
                 },
                 {
                     "previewId": "androidx.xr.glimmer.samples.ToggleButtonSamplesKt.ToggleButtonWithTrailingIconPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmersamples.AlertDialogSamplePreviewsKt.AlertDialogConfirmOnlySamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmersamples.AlertDialogSamplePreviewsKt.AlertDialogSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmersamples.CardSamplePreviewsKt.ClickableCardWithTitleAndSubtitleAndLeadingIconSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmersamples.CardSamplePreviewsKt.ClickableCardWithTrailingIconSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmersamples.CardSamplePreviewsKt.ClickableImageCardWithTitleAndSubtitleAndLeadingIconSamplePreview",
                     "componentId": null,
                     "group": null
                 }
@@ -2929,6 +3272,71 @@
                     "previewId": "androidx.xr.glimmer.samples.TypographySamplesKt.TypographyDefaultPreview",
                     "componentId": null,
                     "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmersamples.AlertDialogSamplePreviewsKt.AlertDialogConfirmOnlySamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmersamples.AlertDialogSamplePreviewsKt.AlertDialogSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmersamples.ButtonGroupSamplePreviewsKt.ButtonGroupControlCurrentItemSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmersamples.CardSamplePreviewsKt.ClickableCardSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmersamples.CardSamplePreviewsKt.ClickableCardWithTitleAndSubtitleAndLeadingIconSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmersamples.CardSamplePreviewsKt.ClickableCardWithTrailingIconSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmersamples.CardSamplePreviewsKt.ClickableImageCardSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmersamples.CardSamplePreviewsKt.ClickableImageCardWithTitleAndSubtitleAndLeadingIconSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmersamples.GlimmerPagerSamplePreviewsKt.GlimmerPagerStateAnimateScrollToPageSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmersamples.GlimmerPagerSamplePreviewsKt.GlimmerPagerStateCustomAnimateScrollToPageSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmersamples.GlimmerPagerSamplePreviewsKt.GlimmerPagerStateScrollToPageSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmersamples.StackSamplePreviewsKt.VerticalStackWithMultipleShapesSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmersamples.SurfaceSamplePreviewsKt.CustomFocusedColorSurfaceSamplePreview",
+                    "componentId": null,
+                    "group": null
                 }
             ],
             "code": {
@@ -3338,6 +3746,87 @@
             "androidxOptIns": []
         },
         {
+            "canonicalId": "samples-catalog/androidx.xr.glimmer.VoiceInputIndicatorKt.VoiceInputIndicator",
+            "componentIds": [],
+            "symbol": {
+                "jvmOwner": "androidx.xr.glimmer.VoiceInputIndicatorKt",
+                "callable": "androidx.xr.glimmer.VoiceInputIndicator",
+                "name": "VoiceInputIndicator",
+                "origin": "LIBRARY",
+                "jvmName": "VoiceInputIndicator-FNF3uiM",
+                "descriptor": "(Lkotlin/jvm/functions/Function0;Landroidx/compose/ui/Modifier;JLandroidx/compose/runtime/Composer;II)V",
+                "sourceFile": null,
+                "docs": "unavailable",
+                "receiver": null
+            },
+            "parameters": [
+                {
+                    "name": "level",
+                    "type": "() -> Float",
+                    "typeFqn": "kotlin.Function0",
+                    "hasDefault": false,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Float"
+                },
+                {
+                    "name": "modifier",
+                    "type": "Modifier",
+                    "typeFqn": "androidx.compose.ui.Modifier",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "indicatorColor",
+                    "type": "Color",
+                    "typeFqn": "androidx.compose.ui.graphics.Color",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                }
+            ],
+            "slots": [],
+            "bindings": [
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmersamples.VoiceInputIndicatorSamplePreviewsKt.VoiceInputIndicatorSampleUsagePreview",
+                    "componentId": null,
+                    "group": null
+                }
+            ],
+            "code": {
+                "call": "VoiceInputIndicator(level = { 0f })",
+                "imports": [
+                    "androidx.xr.glimmer.VoiceInputIndicator"
+                ],
+                "refusedReason": null,
+                "requiredOptIns": [],
+                "androidxOptIns": []
+            },
+            "signatureKnown": true,
+            "callableFromAnotherFile": true,
+            "hasTypeParameters": false,
+            "hasContextReceivers": false,
+            "overloadsCollided": false,
+            "builder": null,
+            "requiredOptIns": [],
+            "androidxOptIns": []
+        },
+        {
             "canonicalId": "samples-catalog/androidx.xr.glimmer.list.GlimmerLazyListKt.GlimmerLazyColumn",
             "componentIds": [],
             "symbol": {
@@ -3715,12 +4204,150 @@
                     "previewId": "androidx.xr.glimmer.samples.GlimmerPagerSamplesKt.GlimmerHorizontalPagerSamplePreview",
                     "componentId": null,
                     "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmersamples.GlimmerPagerSamplePreviewsKt.GlimmerPagerStateAnimateScrollToPageSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmersamples.GlimmerPagerSamplePreviewsKt.GlimmerPagerStateCustomAnimateScrollToPageSamplePreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmersamples.GlimmerPagerSamplePreviewsKt.GlimmerPagerStateScrollToPageSamplePreview",
+                    "componentId": null,
+                    "group": null
                 }
             ],
             "code": {
                 "call": null,
                 "imports": [],
                 "refusedReason": "no placeholder can be written for required parameter `state: GlimmerPagerState`",
+                "requiredOptIns": [],
+                "androidxOptIns": []
+            },
+            "signatureKnown": true,
+            "callableFromAnotherFile": true,
+            "hasTypeParameters": false,
+            "hasContextReceivers": false,
+            "overloadsCollided": false,
+            "builder": null,
+            "requiredOptIns": [],
+            "androidxOptIns": []
+        },
+        {
+            "canonicalId": "samples-catalog/androidx.xr.glimmer.samples.AlertDialogSamplesKt.AlertDialogConfirmOnlySample",
+            "componentIds": [],
+            "symbol": {
+                "jvmOwner": "androidx.xr.glimmer.samples.AlertDialogSamplesKt",
+                "callable": "androidx.xr.glimmer.samples.AlertDialogConfirmOnlySample",
+                "name": "AlertDialogConfirmOnlySample",
+                "origin": "LIBRARY",
+                "jvmName": "AlertDialogConfirmOnlySample",
+                "descriptor": "(Landroidx/compose/runtime/Composer;I)V",
+                "sourceFile": null,
+                "docs": "unavailable",
+                "receiver": null
+            },
+            "parameters": [],
+            "slots": [],
+            "bindings": [
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmersamples.AlertDialogSamplePreviewsKt.AlertDialogConfirmOnlySamplePreview",
+                    "componentId": null,
+                    "group": null
+                }
+            ],
+            "code": {
+                "call": "AlertDialogConfirmOnlySample()",
+                "imports": [
+                    "androidx.xr.glimmer.samples.AlertDialogConfirmOnlySample"
+                ],
+                "refusedReason": null,
+                "requiredOptIns": [],
+                "androidxOptIns": []
+            },
+            "signatureKnown": true,
+            "callableFromAnotherFile": true,
+            "hasTypeParameters": false,
+            "hasContextReceivers": false,
+            "overloadsCollided": false,
+            "builder": null,
+            "requiredOptIns": [],
+            "androidxOptIns": []
+        },
+        {
+            "canonicalId": "samples-catalog/androidx.xr.glimmer.samples.AlertDialogSamplesKt.AlertDialogSample",
+            "componentIds": [],
+            "symbol": {
+                "jvmOwner": "androidx.xr.glimmer.samples.AlertDialogSamplesKt",
+                "callable": "androidx.xr.glimmer.samples.AlertDialogSample",
+                "name": "AlertDialogSample",
+                "origin": "LIBRARY",
+                "jvmName": "AlertDialogSample",
+                "descriptor": "(Landroidx/compose/runtime/Composer;I)V",
+                "sourceFile": null,
+                "docs": "unavailable",
+                "receiver": null
+            },
+            "parameters": [],
+            "slots": [],
+            "bindings": [
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmersamples.AlertDialogSamplePreviewsKt.AlertDialogSamplePreview",
+                    "componentId": null,
+                    "group": null
+                }
+            ],
+            "code": {
+                "call": "AlertDialogSample()",
+                "imports": [
+                    "androidx.xr.glimmer.samples.AlertDialogSample"
+                ],
+                "refusedReason": null,
+                "requiredOptIns": [],
+                "androidxOptIns": []
+            },
+            "signatureKnown": true,
+            "callableFromAnotherFile": true,
+            "hasTypeParameters": false,
+            "hasContextReceivers": false,
+            "overloadsCollided": false,
+            "builder": null,
+            "requiredOptIns": [],
+            "androidxOptIns": []
+        },
+        {
+            "canonicalId": "samples-catalog/androidx.xr.glimmer.samples.ButtonGroupSamplesKt.ButtonGroupControlCurrentItemSample",
+            "componentIds": [],
+            "symbol": {
+                "jvmOwner": "androidx.xr.glimmer.samples.ButtonGroupSamplesKt",
+                "callable": "androidx.xr.glimmer.samples.ButtonGroupControlCurrentItemSample",
+                "name": "ButtonGroupControlCurrentItemSample",
+                "origin": "LIBRARY",
+                "jvmName": "ButtonGroupControlCurrentItemSample",
+                "descriptor": "(Landroidx/compose/runtime/Composer;I)V",
+                "sourceFile": null,
+                "docs": "unavailable",
+                "receiver": null
+            },
+            "parameters": [],
+            "slots": [],
+            "bindings": [
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmersamples.ButtonGroupSamplePreviewsKt.ButtonGroupControlCurrentItemSamplePreview",
+                    "componentId": null,
+                    "group": null
+                }
+            ],
+            "code": {
+                "call": "ButtonGroupControlCurrentItemSample()",
+                "imports": [
+                    "androidx.xr.glimmer.samples.ButtonGroupControlCurrentItemSample"
+                ],
+                "refusedReason": null,
                 "requiredOptIns": [],
                 "androidxOptIns": []
             },
@@ -4421,6 +5048,211 @@
             "androidxOptIns": []
         },
         {
+            "canonicalId": "samples-catalog/androidx.xr.glimmer.samples.CardSamplesKt.ClickableCardSample",
+            "componentIds": [],
+            "symbol": {
+                "jvmOwner": "androidx.xr.glimmer.samples.CardSamplesKt",
+                "callable": "androidx.xr.glimmer.samples.ClickableCardSample",
+                "name": "ClickableCardSample",
+                "origin": "LIBRARY",
+                "jvmName": "ClickableCardSample",
+                "descriptor": "(Landroidx/compose/runtime/Composer;I)V",
+                "sourceFile": null,
+                "docs": "unavailable",
+                "receiver": null
+            },
+            "parameters": [],
+            "slots": [],
+            "bindings": [
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmersamples.CardSamplePreviewsKt.ClickableCardSamplePreview",
+                    "componentId": null,
+                    "group": null
+                }
+            ],
+            "code": {
+                "call": "ClickableCardSample()",
+                "imports": [
+                    "androidx.xr.glimmer.samples.ClickableCardSample"
+                ],
+                "refusedReason": null,
+                "requiredOptIns": [],
+                "androidxOptIns": []
+            },
+            "signatureKnown": true,
+            "callableFromAnotherFile": true,
+            "hasTypeParameters": false,
+            "hasContextReceivers": false,
+            "overloadsCollided": false,
+            "builder": null,
+            "requiredOptIns": [],
+            "androidxOptIns": []
+        },
+        {
+            "canonicalId": "samples-catalog/androidx.xr.glimmer.samples.CardSamplesKt.ClickableCardWithTitleAndSubtitleAndLeadingIconSample",
+            "componentIds": [],
+            "symbol": {
+                "jvmOwner": "androidx.xr.glimmer.samples.CardSamplesKt",
+                "callable": "androidx.xr.glimmer.samples.ClickableCardWithTitleAndSubtitleAndLeadingIconSample",
+                "name": "ClickableCardWithTitleAndSubtitleAndLeadingIconSample",
+                "origin": "LIBRARY",
+                "jvmName": "ClickableCardWithTitleAndSubtitleAndLeadingIconSample",
+                "descriptor": "(Landroidx/compose/runtime/Composer;I)V",
+                "sourceFile": null,
+                "docs": "unavailable",
+                "receiver": null
+            },
+            "parameters": [],
+            "slots": [],
+            "bindings": [
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmersamples.CardSamplePreviewsKt.ClickableCardWithTitleAndSubtitleAndLeadingIconSamplePreview",
+                    "componentId": null,
+                    "group": null
+                }
+            ],
+            "code": {
+                "call": "ClickableCardWithTitleAndSubtitleAndLeadingIconSample()",
+                "imports": [
+                    "androidx.xr.glimmer.samples.ClickableCardWithTitleAndSubtitleAndLeadingIconSample"
+                ],
+                "refusedReason": null,
+                "requiredOptIns": [],
+                "androidxOptIns": []
+            },
+            "signatureKnown": true,
+            "callableFromAnotherFile": true,
+            "hasTypeParameters": false,
+            "hasContextReceivers": false,
+            "overloadsCollided": false,
+            "builder": null,
+            "requiredOptIns": [],
+            "androidxOptIns": []
+        },
+        {
+            "canonicalId": "samples-catalog/androidx.xr.glimmer.samples.CardSamplesKt.ClickableCardWithTrailingIconSample",
+            "componentIds": [],
+            "symbol": {
+                "jvmOwner": "androidx.xr.glimmer.samples.CardSamplesKt",
+                "callable": "androidx.xr.glimmer.samples.ClickableCardWithTrailingIconSample",
+                "name": "ClickableCardWithTrailingIconSample",
+                "origin": "LIBRARY",
+                "jvmName": "ClickableCardWithTrailingIconSample",
+                "descriptor": "(Landroidx/compose/runtime/Composer;I)V",
+                "sourceFile": null,
+                "docs": "unavailable",
+                "receiver": null
+            },
+            "parameters": [],
+            "slots": [],
+            "bindings": [
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmersamples.CardSamplePreviewsKt.ClickableCardWithTrailingIconSamplePreview",
+                    "componentId": null,
+                    "group": null
+                }
+            ],
+            "code": {
+                "call": "ClickableCardWithTrailingIconSample()",
+                "imports": [
+                    "androidx.xr.glimmer.samples.ClickableCardWithTrailingIconSample"
+                ],
+                "refusedReason": null,
+                "requiredOptIns": [],
+                "androidxOptIns": []
+            },
+            "signatureKnown": true,
+            "callableFromAnotherFile": true,
+            "hasTypeParameters": false,
+            "hasContextReceivers": false,
+            "overloadsCollided": false,
+            "builder": null,
+            "requiredOptIns": [],
+            "androidxOptIns": []
+        },
+        {
+            "canonicalId": "samples-catalog/androidx.xr.glimmer.samples.CardSamplesKt.ClickableImageCardSample",
+            "componentIds": [],
+            "symbol": {
+                "jvmOwner": "androidx.xr.glimmer.samples.CardSamplesKt",
+                "callable": "androidx.xr.glimmer.samples.ClickableImageCardSample",
+                "name": "ClickableImageCardSample",
+                "origin": "LIBRARY",
+                "jvmName": "ClickableImageCardSample",
+                "descriptor": "(Landroidx/compose/runtime/Composer;I)V",
+                "sourceFile": null,
+                "docs": "unavailable",
+                "receiver": null
+            },
+            "parameters": [],
+            "slots": [],
+            "bindings": [
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmersamples.CardSamplePreviewsKt.ClickableImageCardSamplePreview",
+                    "componentId": null,
+                    "group": null
+                }
+            ],
+            "code": {
+                "call": "ClickableImageCardSample()",
+                "imports": [
+                    "androidx.xr.glimmer.samples.ClickableImageCardSample"
+                ],
+                "refusedReason": null,
+                "requiredOptIns": [],
+                "androidxOptIns": []
+            },
+            "signatureKnown": true,
+            "callableFromAnotherFile": true,
+            "hasTypeParameters": false,
+            "hasContextReceivers": false,
+            "overloadsCollided": false,
+            "builder": null,
+            "requiredOptIns": [],
+            "androidxOptIns": []
+        },
+        {
+            "canonicalId": "samples-catalog/androidx.xr.glimmer.samples.CardSamplesKt.ClickableImageCardWithTitleAndSubtitleAndLeadingIconSample",
+            "componentIds": [],
+            "symbol": {
+                "jvmOwner": "androidx.xr.glimmer.samples.CardSamplesKt",
+                "callable": "androidx.xr.glimmer.samples.ClickableImageCardWithTitleAndSubtitleAndLeadingIconSample",
+                "name": "ClickableImageCardWithTitleAndSubtitleAndLeadingIconSample",
+                "origin": "LIBRARY",
+                "jvmName": "ClickableImageCardWithTitleAndSubtitleAndLeadingIconSample",
+                "descriptor": "(Landroidx/compose/runtime/Composer;I)V",
+                "sourceFile": null,
+                "docs": "unavailable",
+                "receiver": null
+            },
+            "parameters": [],
+            "slots": [],
+            "bindings": [
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmersamples.CardSamplePreviewsKt.ClickableImageCardWithTitleAndSubtitleAndLeadingIconSamplePreview",
+                    "componentId": null,
+                    "group": null
+                }
+            ],
+            "code": {
+                "call": "ClickableImageCardWithTitleAndSubtitleAndLeadingIconSample()",
+                "imports": [
+                    "androidx.xr.glimmer.samples.ClickableImageCardWithTitleAndSubtitleAndLeadingIconSample"
+                ],
+                "refusedReason": null,
+                "requiredOptIns": [],
+                "androidxOptIns": []
+            },
+            "signatureKnown": true,
+            "callableFromAnotherFile": true,
+            "hasTypeParameters": false,
+            "hasContextReceivers": false,
+            "overloadsCollided": false,
+            "builder": null,
+            "requiredOptIns": [],
+            "androidxOptIns": []
+        },
+        {
             "canonicalId": "samples-catalog/androidx.xr.glimmer.samples.CardSamplesKt.ImageCardSample",
             "componentIds": [],
             "symbol": {
@@ -4933,6 +5765,129 @@
                 "call": "GlimmerHorizontalPagerSample()",
                 "imports": [
                     "androidx.xr.glimmer.samples.GlimmerHorizontalPagerSample"
+                ],
+                "refusedReason": null,
+                "requiredOptIns": [],
+                "androidxOptIns": []
+            },
+            "signatureKnown": true,
+            "callableFromAnotherFile": true,
+            "hasTypeParameters": false,
+            "hasContextReceivers": false,
+            "overloadsCollided": false,
+            "builder": null,
+            "requiredOptIns": [],
+            "androidxOptIns": []
+        },
+        {
+            "canonicalId": "samples-catalog/androidx.xr.glimmer.samples.GlimmerPagerSamplesKt.GlimmerPagerStateAnimateScrollToPageSample",
+            "componentIds": [],
+            "symbol": {
+                "jvmOwner": "androidx.xr.glimmer.samples.GlimmerPagerSamplesKt",
+                "callable": "androidx.xr.glimmer.samples.GlimmerPagerStateAnimateScrollToPageSample",
+                "name": "GlimmerPagerStateAnimateScrollToPageSample",
+                "origin": "LIBRARY",
+                "jvmName": "GlimmerPagerStateAnimateScrollToPageSample",
+                "descriptor": "(Landroidx/compose/runtime/Composer;I)V",
+                "sourceFile": null,
+                "docs": "unavailable",
+                "receiver": null
+            },
+            "parameters": [],
+            "slots": [],
+            "bindings": [
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmersamples.GlimmerPagerSamplePreviewsKt.GlimmerPagerStateAnimateScrollToPageSamplePreview",
+                    "componentId": null,
+                    "group": null
+                }
+            ],
+            "code": {
+                "call": "GlimmerPagerStateAnimateScrollToPageSample()",
+                "imports": [
+                    "androidx.xr.glimmer.samples.GlimmerPagerStateAnimateScrollToPageSample"
+                ],
+                "refusedReason": null,
+                "requiredOptIns": [],
+                "androidxOptIns": []
+            },
+            "signatureKnown": true,
+            "callableFromAnotherFile": true,
+            "hasTypeParameters": false,
+            "hasContextReceivers": false,
+            "overloadsCollided": false,
+            "builder": null,
+            "requiredOptIns": [],
+            "androidxOptIns": []
+        },
+        {
+            "canonicalId": "samples-catalog/androidx.xr.glimmer.samples.GlimmerPagerSamplesKt.GlimmerPagerStateCustomAnimateScrollToPageSample",
+            "componentIds": [],
+            "symbol": {
+                "jvmOwner": "androidx.xr.glimmer.samples.GlimmerPagerSamplesKt",
+                "callable": "androidx.xr.glimmer.samples.GlimmerPagerStateCustomAnimateScrollToPageSample",
+                "name": "GlimmerPagerStateCustomAnimateScrollToPageSample",
+                "origin": "LIBRARY",
+                "jvmName": "GlimmerPagerStateCustomAnimateScrollToPageSample",
+                "descriptor": "(Landroidx/compose/runtime/Composer;I)V",
+                "sourceFile": null,
+                "docs": "unavailable",
+                "receiver": null
+            },
+            "parameters": [],
+            "slots": [],
+            "bindings": [
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmersamples.GlimmerPagerSamplePreviewsKt.GlimmerPagerStateCustomAnimateScrollToPageSamplePreview",
+                    "componentId": null,
+                    "group": null
+                }
+            ],
+            "code": {
+                "call": "GlimmerPagerStateCustomAnimateScrollToPageSample()",
+                "imports": [
+                    "androidx.xr.glimmer.samples.GlimmerPagerStateCustomAnimateScrollToPageSample"
+                ],
+                "refusedReason": null,
+                "requiredOptIns": [],
+                "androidxOptIns": []
+            },
+            "signatureKnown": true,
+            "callableFromAnotherFile": true,
+            "hasTypeParameters": false,
+            "hasContextReceivers": false,
+            "overloadsCollided": false,
+            "builder": null,
+            "requiredOptIns": [],
+            "androidxOptIns": []
+        },
+        {
+            "canonicalId": "samples-catalog/androidx.xr.glimmer.samples.GlimmerPagerSamplesKt.GlimmerPagerStateScrollToPageSample",
+            "componentIds": [],
+            "symbol": {
+                "jvmOwner": "androidx.xr.glimmer.samples.GlimmerPagerSamplesKt",
+                "callable": "androidx.xr.glimmer.samples.GlimmerPagerStateScrollToPageSample",
+                "name": "GlimmerPagerStateScrollToPageSample",
+                "origin": "LIBRARY",
+                "jvmName": "GlimmerPagerStateScrollToPageSample",
+                "descriptor": "(Landroidx/compose/runtime/Composer;I)V",
+                "sourceFile": null,
+                "docs": "unavailable",
+                "receiver": null
+            },
+            "parameters": [],
+            "slots": [],
+            "bindings": [
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmersamples.GlimmerPagerSamplePreviewsKt.GlimmerPagerStateScrollToPageSamplePreview",
+                    "componentId": null,
+                    "group": null
+                }
+            ],
+            "code": {
+                "call": "GlimmerPagerStateScrollToPageSample()",
+                "imports": [
+                    "androidx.xr.glimmer.samples.GlimmerPagerStateScrollToPageSample"
                 ],
                 "refusedReason": null,
                 "requiredOptIns": [],
@@ -5759,6 +6714,47 @@
             "androidxOptIns": []
         },
         {
+            "canonicalId": "samples-catalog/androidx.xr.glimmer.samples.StackSamplesKt.VerticalStackWithMultipleShapesSample",
+            "componentIds": [],
+            "symbol": {
+                "jvmOwner": "androidx.xr.glimmer.samples.StackSamplesKt",
+                "callable": "androidx.xr.glimmer.samples.VerticalStackWithMultipleShapesSample",
+                "name": "VerticalStackWithMultipleShapesSample",
+                "origin": "LIBRARY",
+                "jvmName": "VerticalStackWithMultipleShapesSample",
+                "descriptor": "(Landroidx/compose/runtime/Composer;I)V",
+                "sourceFile": null,
+                "docs": "unavailable",
+                "receiver": null
+            },
+            "parameters": [],
+            "slots": [],
+            "bindings": [
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmersamples.StackSamplePreviewsKt.VerticalStackWithMultipleShapesSamplePreview",
+                    "componentId": null,
+                    "group": null
+                }
+            ],
+            "code": {
+                "call": "VerticalStackWithMultipleShapesSample()",
+                "imports": [
+                    "androidx.xr.glimmer.samples.VerticalStackWithMultipleShapesSample"
+                ],
+                "refusedReason": null,
+                "requiredOptIns": [],
+                "androidxOptIns": []
+            },
+            "signatureKnown": true,
+            "callableFromAnotherFile": true,
+            "hasTypeParameters": false,
+            "hasContextReceivers": false,
+            "overloadsCollided": false,
+            "builder": null,
+            "requiredOptIns": [],
+            "androidxOptIns": []
+        },
+        {
             "canonicalId": "samples-catalog/androidx.xr.glimmer.samples.SurfaceSamplesKt.ClickableSurfaceSample",
             "componentIds": [],
             "symbol": {
@@ -5785,6 +6781,47 @@
                 "call": "ClickableSurfaceSample()",
                 "imports": [
                     "androidx.xr.glimmer.samples.ClickableSurfaceSample"
+                ],
+                "refusedReason": null,
+                "requiredOptIns": [],
+                "androidxOptIns": []
+            },
+            "signatureKnown": true,
+            "callableFromAnotherFile": true,
+            "hasTypeParameters": false,
+            "hasContextReceivers": false,
+            "overloadsCollided": false,
+            "builder": null,
+            "requiredOptIns": [],
+            "androidxOptIns": []
+        },
+        {
+            "canonicalId": "samples-catalog/androidx.xr.glimmer.samples.SurfaceSamplesKt.CustomFocusedColorSurfaceSample",
+            "componentIds": [],
+            "symbol": {
+                "jvmOwner": "androidx.xr.glimmer.samples.SurfaceSamplesKt",
+                "callable": "androidx.xr.glimmer.samples.CustomFocusedColorSurfaceSample",
+                "name": "CustomFocusedColorSurfaceSample",
+                "origin": "LIBRARY",
+                "jvmName": "CustomFocusedColorSurfaceSample",
+                "descriptor": "(Landroidx/compose/runtime/Composer;I)V",
+                "sourceFile": null,
+                "docs": "unavailable",
+                "receiver": null
+            },
+            "parameters": [],
+            "slots": [],
+            "bindings": [
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmersamples.SurfaceSamplePreviewsKt.CustomFocusedColorSurfaceSamplePreview",
+                    "componentId": null,
+                    "group": null
+                }
+            ],
+            "code": {
+                "call": "CustomFocusedColorSurfaceSample()",
+                "imports": [
+                    "androidx.xr.glimmer.samples.CustomFocusedColorSurfaceSample"
                 ],
                 "refusedReason": null,
                 "requiredOptIns": [],
@@ -6289,6 +7326,47 @@
             "androidxOptIns": []
         },
         {
+            "canonicalId": "samples-catalog/androidx.xr.glimmer.samples.VoiceInputIndicatorSamplesKt.VoiceInputIndicatorSampleUsage",
+            "componentIds": [],
+            "symbol": {
+                "jvmOwner": "androidx.xr.glimmer.samples.VoiceInputIndicatorSamplesKt",
+                "callable": "androidx.xr.glimmer.samples.VoiceInputIndicatorSampleUsage",
+                "name": "VoiceInputIndicatorSampleUsage",
+                "origin": "LIBRARY",
+                "jvmName": "VoiceInputIndicatorSampleUsage",
+                "descriptor": "(Landroidx/compose/runtime/Composer;I)V",
+                "sourceFile": null,
+                "docs": "unavailable",
+                "receiver": null
+            },
+            "parameters": [],
+            "slots": [],
+            "bindings": [
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmersamples.VoiceInputIndicatorSamplePreviewsKt.VoiceInputIndicatorSampleUsagePreview",
+                    "componentId": null,
+                    "group": null
+                }
+            ],
+            "code": {
+                "call": "VoiceInputIndicatorSampleUsage()",
+                "imports": [
+                    "androidx.xr.glimmer.samples.VoiceInputIndicatorSampleUsage"
+                ],
+                "refusedReason": null,
+                "requiredOptIns": [],
+                "androidxOptIns": []
+            },
+            "signatureKnown": true,
+            "callableFromAnotherFile": true,
+            "hasTypeParameters": false,
+            "hasContextReceivers": false,
+            "overloadsCollided": false,
+            "builder": null,
+            "requiredOptIns": [],
+            "androidxOptIns": []
+        },
+        {
             "canonicalId": "samples-catalog/androidx.xr.glimmer.stack.StackKt.VerticalStack",
             "componentIds": [],
             "symbol": {
@@ -6347,6 +7425,11 @@
             "bindings": [
                 {
                     "previewId": "androidx.xr.glimmer.samples.StackSamplesKt.VerticalStackPreview",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmersamples.StackSamplePreviewsKt.VerticalStackWithMultipleShapesSamplePreview",
                     "componentId": null,
                     "group": null
                 }

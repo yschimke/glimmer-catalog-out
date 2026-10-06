@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-06T20:46:33.072Z",
+  "generatedAt": "2026-10-06T21:12:12.484Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/glimmer-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "f659ab89dc7a636e036a7f89d9fa7c64d3e0f5fc",
+        "subject": "feat: render every sample upstream leaves unpreviewed (#28)",
+        "at": "2026-10-06T22:04:16+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "3a8746129de5ccd5ae3ae17132238dcc88da04bb",
         "subject": "feat: pair the focused base cells with their focused renders (#27)",

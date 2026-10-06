@@ -48,11 +48,11 @@ customising the live render are two ends of one workflow.
 
 | | |
 | --- | --- |
-| Components | **54** |
-| Rendered images (PNG) | **54** |
-| Editable wireframes (SVG) | **54** |
+| Components | **68** |
+| Rendered images (PNG) | **68** |
+| Editable wireframes (SVG) | **68** |
 | Editable design vectors (figma-svg) | **0** |
-| Components with a11y greenlines | **19** |
+| Components with a11y greenlines | **25** |
 | Library | `androidx.xr.glimmer:glimmer` |
 | Renderer | compose-preview 2.32.4 |
 | Schema | `design-parity-catalog/v1` |
@@ -62,25 +62,27 @@ customising the live render are two ends of one workflow.
 
 | Group | Count |
 | --- | ---: |
-| Card | 12 |
+| Card | 17 |
 | ListItem | 9 |
 | Button | 8 |
+| GlimmerPager | 4 |
+| Surface | 4 |
 | ToggleButton | 4 |
-| Surface | 3 |
 | TitleChip | 3 |
+| AlertDialog | 2 |
+| ButtonGroup | 2 |
 | GlimmerLazyList | 2 |
 | IconMarker | 2 |
-| ButtonGroup | 1 |
+| Stack | 2 |
 | Colors | 1 |
 | DepthEffectLevels | 1 |
-| GlimmerPager | 1 |
 | Icon | 1 |
 | IconButton | 1 |
 | IconToggleButton | 1 |
 | IndirectPointerGesture | 1 |
 | Shapes | 1 |
-| Stack | 1 |
 | Typography | 1 |
+| VoiceInputIndicator | 1 |
 
 ## What's in this branch
 
