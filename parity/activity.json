@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-06T19:40:17.587Z",
+  "generatedAt": "2026-10-06T20:46:33.072Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/glimmer-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "3a8746129de5ccd5ae3ae17132238dcc88da04bb",
+        "subject": "feat: pair the focused base cells with their focused renders (#27)",
+        "at": "2026-10-06T21:39:30+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "b08897d84a7dd94bddbf0a731b726ac4a152b4d9",
         "subject": "feat: draw the kit's Stack Type=Home cell (#26)",
