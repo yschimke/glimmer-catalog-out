@@ -1,11 +1,27 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-06T17:42:24.588Z",
+  "generatedAt": "2026-10-06T19:29:30.923Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/glimmer-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "74893f56070cdbf2e3d44a393de71c8d46fa723a",
+        "subject": "feat: draw the kit's focus-position cells for Button group and lists (#25)",
+        "at": "2026-10-06T20:21:57+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "1ede734edb9959a83763d044e55036e07568c94b",
+        "subject": "fix(ci): run the catalog validators from the locked export driver (#24)",
+        "at": "2026-10-06T18:59:10+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "7e51ee65663aec63751a6714fc4241fd83b2ba3a",
         "subject": "feat: update Glimmer to alpha20 and re-pin its samples (#23)",
