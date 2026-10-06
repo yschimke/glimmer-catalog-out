@@ -14,6 +14,930 @@
           "height": 48,
           "livePreview": "https://preview.coo.ee/glimmer-catalog/p/buttongroup__ideal__default",
           "previewId": "ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker",
+          "overrides": [
+            {
+              "key": "type",
+              "type": "string",
+              "label": "type",
+              "default": {
+                "kind": "string",
+                "value": "button"
+              },
+              "current": {
+                "kind": "string",
+                "value": "button"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "button",
+                  "label": "Button set"
+                },
+                {
+                  "value": "toggle",
+                  "label": "Toggle set"
+                }
+              ],
+              "optionsExhaustive": true
+            },
+            {
+              "key": "length",
+              "type": "string",
+              "label": "length",
+              "default": {
+                "kind": "string",
+                "value": "3+"
+              },
+              "current": {
+                "kind": "string",
+                "value": "3+"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "3+",
+                  "label": "3+"
+                },
+                {
+                  "value": "2",
+                  "label": "2"
+                },
+                {
+                  "value": "1",
+                  "label": "1"
+                }
+              ],
+              "optionsExhaustive": true
+            },
+            {
+              "key": "focus",
+              "type": "string",
+              "label": "focus",
+              "default": {
+                "kind": "string",
+                "value": "start"
+              },
+              "current": {
+                "kind": "string",
+                "value": "start"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "start",
+                  "label": "Start"
+                },
+                {
+                  "value": "middle",
+                  "label": "Middle"
+                },
+                {
+                  "value": "end",
+                  "label": "End"
+                }
+              ],
+              "optionsExhaustive": true
+            }
+          ],
+          "density": 1
+        },
+        {
+          "variant": "ideal",
+          "path": "images/buttongroup/ideal__cell-type-button-set-length-1-focus-start-40000116-6528.png",
+          "state": "cell-type-button-set-length-1-focus-start-40000116-6528",
+          "width": 420,
+          "height": 48,
+          "livePreview": "https://preview.coo.ee/glimmer-catalog/p/buttongroup__ideal__cell-type-button-set-length-1-focus-start-40000116-6528",
+          "previewId": "ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker_VARIANT_cell-type-button-set-length-1-focus-start-40000116-6528",
+          "overrides": [
+            {
+              "key": "type",
+              "type": "string",
+              "label": "type",
+              "default": {
+                "kind": "string",
+                "value": "button"
+              },
+              "current": {
+                "kind": "string",
+                "value": "button"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "button",
+                  "label": "Button set"
+                },
+                {
+                  "value": "toggle",
+                  "label": "Toggle set"
+                }
+              ],
+              "optionsExhaustive": true
+            },
+            {
+              "key": "length",
+              "type": "string",
+              "label": "length",
+              "default": {
+                "kind": "string",
+                "value": "3+"
+              },
+              "current": {
+                "kind": "string",
+                "value": "1"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "3+",
+                  "label": "3+"
+                },
+                {
+                  "value": "2",
+                  "label": "2"
+                },
+                {
+                  "value": "1",
+                  "label": "1"
+                }
+              ],
+              "optionsExhaustive": true
+            },
+            {
+              "key": "focus",
+              "type": "string",
+              "label": "focus",
+              "default": {
+                "kind": "string",
+                "value": "start"
+              },
+              "current": {
+                "kind": "string",
+                "value": "start"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "start",
+                  "label": "Start"
+                },
+                {
+                  "value": "middle",
+                  "label": "Middle"
+                },
+                {
+                  "value": "end",
+                  "label": "End"
+                }
+              ],
+              "optionsExhaustive": true
+            }
+          ],
+          "supportsFocus": true,
+          "secondary": true,
+          "density": 1
+        },
+        {
+          "variant": "ideal",
+          "path": "images/buttongroup/ideal__cell-type-button-set-length-2-focus-end-40000116-6521.png",
+          "state": "cell-type-button-set-length-2-focus-end-40000116-6521",
+          "width": 420,
+          "height": 48,
+          "livePreview": "https://preview.coo.ee/glimmer-catalog/p/buttongroup__ideal__cell-type-button-set-length-2-focus-end-40000116-6521",
+          "previewId": "ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker_VARIANT_cell-type-button-set-length-2-focus-end-40000116-6521",
+          "overrides": [
+            {
+              "key": "type",
+              "type": "string",
+              "label": "type",
+              "default": {
+                "kind": "string",
+                "value": "button"
+              },
+              "current": {
+                "kind": "string",
+                "value": "button"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "button",
+                  "label": "Button set"
+                },
+                {
+                  "value": "toggle",
+                  "label": "Toggle set"
+                }
+              ],
+              "optionsExhaustive": true
+            },
+            {
+              "key": "length",
+              "type": "string",
+              "label": "length",
+              "default": {
+                "kind": "string",
+                "value": "3+"
+              },
+              "current": {
+                "kind": "string",
+                "value": "2"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "3+",
+                  "label": "3+"
+                },
+                {
+                  "value": "2",
+                  "label": "2"
+                },
+                {
+                  "value": "1",
+                  "label": "1"
+                }
+              ],
+              "optionsExhaustive": true
+            },
+            {
+              "key": "focus",
+              "type": "string",
+              "label": "focus",
+              "default": {
+                "kind": "string",
+                "value": "start"
+              },
+              "current": {
+                "kind": "string",
+                "value": "end"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "start",
+                  "label": "Start"
+                },
+                {
+                  "value": "middle",
+                  "label": "Middle"
+                },
+                {
+                  "value": "end",
+                  "label": "End"
+                }
+              ],
+              "optionsExhaustive": true
+            }
+          ],
+          "supportsFocus": true,
+          "secondary": true,
+          "density": 1
+        },
+        {
+          "variant": "ideal",
+          "path": "images/buttongroup/ideal__cell-type-button-set-length-2-focus-start-40000116-6513.png",
+          "state": "cell-type-button-set-length-2-focus-start-40000116-6513",
+          "width": 420,
+          "height": 48,
+          "livePreview": "https://preview.coo.ee/glimmer-catalog/p/buttongroup__ideal__cell-type-button-set-length-2-focus-start-40000116-6513",
+          "previewId": "ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker_VARIANT_cell-type-button-set-length-2-focus-start-40000116-6513",
+          "overrides": [
+            {
+              "key": "type",
+              "type": "string",
+              "label": "type",
+              "default": {
+                "kind": "string",
+                "value": "button"
+              },
+              "current": {
+                "kind": "string",
+                "value": "button"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "button",
+                  "label": "Button set"
+                },
+                {
+                  "value": "toggle",
+                  "label": "Toggle set"
+                }
+              ],
+              "optionsExhaustive": true
+            },
+            {
+              "key": "length",
+              "type": "string",
+              "label": "length",
+              "default": {
+                "kind": "string",
+                "value": "3+"
+              },
+              "current": {
+                "kind": "string",
+                "value": "2"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "3+",
+                  "label": "3+"
+                },
+                {
+                  "value": "2",
+                  "label": "2"
+                },
+                {
+                  "value": "1",
+                  "label": "1"
+                }
+              ],
+              "optionsExhaustive": true
+            },
+            {
+              "key": "focus",
+              "type": "string",
+              "label": "focus",
+              "default": {
+                "kind": "string",
+                "value": "start"
+              },
+              "current": {
+                "kind": "string",
+                "value": "start"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "start",
+                  "label": "Start"
+                },
+                {
+                  "value": "middle",
+                  "label": "Middle"
+                },
+                {
+                  "value": "end",
+                  "label": "End"
+                }
+              ],
+              "optionsExhaustive": true
+            }
+          ],
+          "supportsFocus": true,
+          "secondary": true,
+          "density": 1
+        },
+        {
+          "variant": "ideal",
+          "path": "images/buttongroup/ideal__cell-type-button-set-length-3-focus-end-40000116-6508.png",
+          "state": "cell-type-button-set-length-3-focus-end-40000116-6508",
+          "width": 420,
+          "height": 48,
+          "livePreview": "https://preview.coo.ee/glimmer-catalog/p/buttongroup__ideal__cell-type-button-set-length-3-focus-end-40000116-6508",
+          "previewId": "ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker_VARIANT_cell-type-button-set-length-3-focus-end-40000116-6508",
+          "overrides": [
+            {
+              "key": "type",
+              "type": "string",
+              "label": "type",
+              "default": {
+                "kind": "string",
+                "value": "button"
+              },
+              "current": {
+                "kind": "string",
+                "value": "button"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "button",
+                  "label": "Button set"
+                },
+                {
+                  "value": "toggle",
+                  "label": "Toggle set"
+                }
+              ],
+              "optionsExhaustive": true
+            },
+            {
+              "key": "length",
+              "type": "string",
+              "label": "length",
+              "default": {
+                "kind": "string",
+                "value": "3+"
+              },
+              "current": {
+                "kind": "string",
+                "value": "3+"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "3+",
+                  "label": "3+"
+                },
+                {
+                  "value": "2",
+                  "label": "2"
+                },
+                {
+                  "value": "1",
+                  "label": "1"
+                }
+              ],
+              "optionsExhaustive": true
+            },
+            {
+              "key": "focus",
+              "type": "string",
+              "label": "focus",
+              "default": {
+                "kind": "string",
+                "value": "start"
+              },
+              "current": {
+                "kind": "string",
+                "value": "end"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "start",
+                  "label": "Start"
+                },
+                {
+                  "value": "middle",
+                  "label": "Middle"
+                },
+                {
+                  "value": "end",
+                  "label": "End"
+                }
+              ],
+              "optionsExhaustive": true
+            }
+          ],
+          "supportsFocus": true,
+          "secondary": true,
+          "density": 1
+        },
+        {
+          "variant": "ideal",
+          "path": "images/buttongroup/ideal__cell-type-button-set-length-3-focus-middle-40000116-6502.png",
+          "state": "cell-type-button-set-length-3-focus-middle-40000116-6502",
+          "width": 420,
+          "height": 48,
+          "livePreview": "https://preview.coo.ee/glimmer-catalog/p/buttongroup__ideal__cell-type-button-set-length-3-focus-middle-40000116-6502",
+          "previewId": "ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker_VARIANT_cell-type-button-set-length-3-focus-middle-40000116-6502",
+          "overrides": [
+            {
+              "key": "type",
+              "type": "string",
+              "label": "type",
+              "default": {
+                "kind": "string",
+                "value": "button"
+              },
+              "current": {
+                "kind": "string",
+                "value": "button"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "button",
+                  "label": "Button set"
+                },
+                {
+                  "value": "toggle",
+                  "label": "Toggle set"
+                }
+              ],
+              "optionsExhaustive": true
+            },
+            {
+              "key": "length",
+              "type": "string",
+              "label": "length",
+              "default": {
+                "kind": "string",
+                "value": "3+"
+              },
+              "current": {
+                "kind": "string",
+                "value": "3+"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "3+",
+                  "label": "3+"
+                },
+                {
+                  "value": "2",
+                  "label": "2"
+                },
+                {
+                  "value": "1",
+                  "label": "1"
+                }
+              ],
+              "optionsExhaustive": true
+            },
+            {
+              "key": "focus",
+              "type": "string",
+              "label": "focus",
+              "default": {
+                "kind": "string",
+                "value": "start"
+              },
+              "current": {
+                "kind": "string",
+                "value": "middle"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "start",
+                  "label": "Start"
+                },
+                {
+                  "value": "middle",
+                  "label": "Middle"
+                },
+                {
+                  "value": "end",
+                  "label": "End"
+                }
+              ],
+              "optionsExhaustive": true
+            }
+          ],
+          "supportsFocus": true,
+          "secondary": true,
+          "density": 1
+        },
+        {
+          "variant": "ideal",
+          "path": "images/buttongroup/ideal__cell-type-toggle-set-length-2-focus-end-40000116-6543.png",
+          "state": "cell-type-toggle-set-length-2-focus-end-40000116-6543",
+          "width": 420,
+          "height": 48,
+          "livePreview": "https://preview.coo.ee/glimmer-catalog/p/buttongroup__ideal__cell-type-toggle-set-length-2-focus-end-40000116-6543",
+          "previewId": "ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker_VARIANT_cell-type-toggle-set-length-2-focus-end-40000116-6543",
+          "overrides": [
+            {
+              "key": "type",
+              "type": "string",
+              "label": "type",
+              "default": {
+                "kind": "string",
+                "value": "button"
+              },
+              "current": {
+                "kind": "string",
+                "value": "toggle"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "button",
+                  "label": "Button set"
+                },
+                {
+                  "value": "toggle",
+                  "label": "Toggle set"
+                }
+              ],
+              "optionsExhaustive": true
+            },
+            {
+              "key": "focus",
+              "type": "string",
+              "label": "focus",
+              "default": {
+                "kind": "string",
+                "value": "start"
+              },
+              "current": {
+                "kind": "string",
+                "value": "end"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "start",
+                  "label": "Start"
+                },
+                {
+                  "value": "middle",
+                  "label": "Middle"
+                },
+                {
+                  "value": "end",
+                  "label": "End"
+                }
+              ],
+              "optionsExhaustive": true
+            }
+          ],
+          "supportsFocus": true,
+          "secondary": true,
+          "density": 1
+        },
+        {
+          "variant": "ideal",
+          "path": "images/buttongroup/ideal__cell-type-toggle-set-length-2-focus-middle-40000116-6539.png",
+          "state": "cell-type-toggle-set-length-2-focus-middle-40000116-6539",
+          "width": 420,
+          "height": 48,
+          "livePreview": "https://preview.coo.ee/glimmer-catalog/p/buttongroup__ideal__cell-type-toggle-set-length-2-focus-middle-40000116-6539",
+          "previewId": "ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker_VARIANT_cell-type-toggle-set-length-2-focus-middle-40000116-6539",
+          "overrides": [
+            {
+              "key": "type",
+              "type": "string",
+              "label": "type",
+              "default": {
+                "kind": "string",
+                "value": "button"
+              },
+              "current": {
+                "kind": "string",
+                "value": "toggle"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "button",
+                  "label": "Button set"
+                },
+                {
+                  "value": "toggle",
+                  "label": "Toggle set"
+                }
+              ],
+              "optionsExhaustive": true
+            },
+            {
+              "key": "focus",
+              "type": "string",
+              "label": "focus",
+              "default": {
+                "kind": "string",
+                "value": "start"
+              },
+              "current": {
+                "kind": "string",
+                "value": "middle"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "start",
+                  "label": "Start"
+                },
+                {
+                  "value": "middle",
+                  "label": "Middle"
+                },
+                {
+                  "value": "end",
+                  "label": "End"
+                }
+              ],
+              "optionsExhaustive": true
+            }
+          ],
+          "supportsFocus": true,
+          "secondary": true,
+          "density": 1
+        },
+        {
+          "variant": "ideal",
+          "path": "images/buttongroup/ideal__cell-type-toggle-set-length-2-focus-start-40000116-6535.png",
+          "state": "cell-type-toggle-set-length-2-focus-start-40000116-6535",
+          "width": 420,
+          "height": 48,
+          "livePreview": "https://preview.coo.ee/glimmer-catalog/p/buttongroup__ideal__cell-type-toggle-set-length-2-focus-start-40000116-6535",
+          "previewId": "ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker_VARIANT_cell-type-toggle-set-length-2-focus-start-40000116-6535",
+          "overrides": [
+            {
+              "key": "type",
+              "type": "string",
+              "label": "type",
+              "default": {
+                "kind": "string",
+                "value": "button"
+              },
+              "current": {
+                "kind": "string",
+                "value": "toggle"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "button",
+                  "label": "Button set"
+                },
+                {
+                  "value": "toggle",
+                  "label": "Toggle set"
+                }
+              ],
+              "optionsExhaustive": true
+            },
+            {
+              "key": "focus",
+              "type": "string",
+              "label": "focus",
+              "default": {
+                "kind": "string",
+                "value": "start"
+              },
+              "current": {
+                "kind": "string",
+                "value": "start"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "start",
+                  "label": "Start"
+                },
+                {
+                  "value": "middle",
+                  "label": "Middle"
+                },
+                {
+                  "value": "end",
+                  "label": "End"
+                }
+              ],
+              "optionsExhaustive": true
+            }
+          ],
+          "supportsFocus": true,
+          "secondary": true,
+          "density": 1
+        },
+        {
+          "variant": "ideal",
+          "path": "images/buttongroup/ideal__focused.png",
+          "state": "focused",
+          "width": 420,
+          "height": 48,
+          "livePreview": "https://preview.coo.ee/glimmer-catalog/p/buttongroup__ideal__focused",
+          "previewId": "ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker_VARIANT_focused",
+          "overrides": [
+            {
+              "key": "type",
+              "type": "string",
+              "label": "type",
+              "default": {
+                "kind": "string",
+                "value": "button"
+              },
+              "current": {
+                "kind": "string",
+                "value": "button"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "button",
+                  "label": "Button set"
+                },
+                {
+                  "value": "toggle",
+                  "label": "Toggle set"
+                }
+              ],
+              "optionsExhaustive": true
+            },
+            {
+              "key": "length",
+              "type": "string",
+              "label": "length",
+              "default": {
+                "kind": "string",
+                "value": "3+"
+              },
+              "current": {
+                "kind": "string",
+                "value": "3+"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "3+",
+                  "label": "3+"
+                },
+                {
+                  "value": "2",
+                  "label": "2"
+                },
+                {
+                  "value": "1",
+                  "label": "1"
+                }
+              ],
+              "optionsExhaustive": true
+            },
+            {
+              "key": "focus",
+              "type": "string",
+              "label": "focus",
+              "default": {
+                "kind": "string",
+                "value": "start"
+              },
+              "current": {
+                "kind": "string",
+                "value": "start"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "start",
+                  "label": "Start"
+                },
+                {
+                  "value": "middle",
+                  "label": "Middle"
+                },
+                {
+                  "value": "end",
+                  "label": "End"
+                }
+              ],
+              "optionsExhaustive": true
+            }
+          ],
+          "supportsFocus": true,
           "density": 1
         }
       ],
@@ -150,7 +1074,7 @@
       "wireframe": "wireframes/buttongroup.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/ButtonGroups.kt",
       "sourceModule": ":catalog",
-      "bodyLine": 32,
+      "bodyLine": 63,
       "sourceDirectory": "catalog",
       "sourceFunction": "ButtonGroupSticker",
       "parameters": [
@@ -2753,6 +3677,173 @@
           "height": 364,
           "livePreview": "https://preview.coo.ee/glimmer-catalog/p/glimmerlazycolumn__ideal__default",
           "previewId": "ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnSticker",
+          "overrides": [
+            {
+              "key": "index",
+              "type": "string",
+              "label": "index",
+              "default": {
+                "kind": "string",
+                "value": "top"
+              },
+              "current": {
+                "kind": "string",
+                "value": "top"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "top",
+                  "label": "Top"
+                },
+                {
+                  "value": "mid",
+                  "label": "Mid"
+                },
+                {
+                  "value": "bottom",
+                  "label": "Bottom"
+                }
+              ],
+              "optionsExhaustive": true
+            }
+          ],
+          "density": 1
+        },
+        {
+          "variant": "ideal",
+          "path": "images/glimmerlazycolumn/ideal__cell-list-index-bottom-title-false-40000115-2000.png",
+          "state": "cell-list-index-bottom-title-false-40000115-2000",
+          "width": 420,
+          "height": 364,
+          "livePreview": "https://preview.coo.ee/glimmer-catalog/p/glimmerlazycolumn__ideal__cell-list-index-bottom-title-false-40000115-2000",
+          "previewId": "ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnSticker_VARIANT_cell-list-index-bottom-title-false-40000115-2000",
+          "overrides": [
+            {
+              "key": "index",
+              "type": "string",
+              "label": "index",
+              "default": {
+                "kind": "string",
+                "value": "top"
+              },
+              "current": {
+                "kind": "string",
+                "value": "bottom"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "top",
+                  "label": "Top"
+                },
+                {
+                  "value": "mid",
+                  "label": "Mid"
+                },
+                {
+                  "value": "bottom",
+                  "label": "Bottom"
+                }
+              ],
+              "optionsExhaustive": true
+            }
+          ],
+          "supportsFocus": true,
+          "secondary": true,
+          "density": 1
+        },
+        {
+          "variant": "ideal",
+          "path": "images/glimmerlazycolumn/ideal__cell-list-index-mid-title-false-4116-5221.png",
+          "state": "cell-list-index-mid-title-false-4116-5221",
+          "width": 420,
+          "height": 364,
+          "livePreview": "https://preview.coo.ee/glimmer-catalog/p/glimmerlazycolumn__ideal__cell-list-index-mid-title-false-4116-5221",
+          "previewId": "ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnSticker_VARIANT_cell-list-index-mid-title-false-4116-5221",
+          "overrides": [
+            {
+              "key": "index",
+              "type": "string",
+              "label": "index",
+              "default": {
+                "kind": "string",
+                "value": "top"
+              },
+              "current": {
+                "kind": "string",
+                "value": "mid"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "top",
+                  "label": "Top"
+                },
+                {
+                  "value": "mid",
+                  "label": "Mid"
+                },
+                {
+                  "value": "bottom",
+                  "label": "Bottom"
+                }
+              ],
+              "optionsExhaustive": true
+            }
+          ],
+          "supportsFocus": true,
+          "secondary": true,
+          "density": 1
+        },
+        {
+          "variant": "ideal",
+          "path": "images/glimmerlazycolumn/ideal__focused.png",
+          "state": "focused",
+          "width": 420,
+          "height": 364,
+          "livePreview": "https://preview.coo.ee/glimmer-catalog/p/glimmerlazycolumn__ideal__focused",
+          "previewId": "ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnSticker_VARIANT_focused",
+          "overrides": [
+            {
+              "key": "index",
+              "type": "string",
+              "label": "index",
+              "default": {
+                "kind": "string",
+                "value": "top"
+              },
+              "current": {
+                "kind": "string",
+                "value": "top"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "top",
+                  "label": "Top"
+                },
+                {
+                  "value": "mid",
+                  "label": "Mid"
+                },
+                {
+                  "value": "bottom",
+                  "label": "Bottom"
+                }
+              ],
+              "optionsExhaustive": true
+            }
+          ],
+          "supportsFocus": true,
           "density": 1
         },
         {
@@ -2766,7 +3857,62 @@
           },
           "livePreview": "https://preview.coo.ee/glimmer-catalog/p/glimmerlazycolumn__ideal__default__title-true",
           "previewId": "ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnWithTitleSticker",
+          "overrides": [
+            {
+              "key": "index",
+              "type": "string",
+              "label": "index",
+              "default": {
+                "kind": "string",
+                "value": "top"
+              },
+              "current": {
+                "kind": "string",
+                "value": "top"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "top",
+                  "label": "Top"
+                },
+                {
+                  "value": "mid",
+                  "label": "Mid"
+                },
+                {
+                  "value": "bottom",
+                  "label": "Bottom"
+                }
+              ],
+              "optionsExhaustive": true
+            }
+          ],
           "density": 1
+        },
+        {
+          "variant": "ideal",
+          "path": "images/glimmerlazycolumn/ideal__cell-list-index-mid-title-true-40000115-1924__title-true.png",
+          "state": "cell-list-index-mid-title-true-40000115-1924",
+          "width": 420,
+          "height": 364,
+          "props": {
+            "Title": "True"
+          },
+          "livePreview": "https://preview.coo.ee/glimmer-catalog/p/glimmerlazycolumn__ideal__cell-list-index-mid-title-true-40000115-1924__title-true"
+        },
+        {
+          "variant": "ideal",
+          "path": "images/glimmerlazycolumn/ideal__focused__title-true.png",
+          "state": "focused",
+          "width": 420,
+          "height": 364,
+          "props": {
+            "Title": "True"
+          },
+          "livePreview": "https://preview.coo.ee/glimmer-catalog/p/glimmerlazycolumn__ideal__focused__title-true"
         }
       ],
       "greenlines": [],
@@ -2839,7 +3985,7 @@
       "wireframe": "wireframes/glimmerlazycolumn.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/LazyLists.kt",
       "sourceModule": ":catalog",
-      "bodyLine": 53,
+      "bodyLine": 94,
       "sourceDirectory": "catalog",
       "sourceFunction": "GlimmerLazyColumnSticker",
       "parameters": [
@@ -2861,6 +4007,281 @@
           "height": 364,
           "livePreview": "https://preview.coo.ee/glimmer-catalog/p/glimmerlazycolumn-twoline__ideal__default",
           "previewId": "ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnTwoLineSticker",
+          "overrides": [
+            {
+              "key": "index",
+              "type": "string",
+              "label": "index",
+              "default": {
+                "kind": "string",
+                "value": "top"
+              },
+              "current": {
+                "kind": "string",
+                "value": "top"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "top",
+                  "label": "Top"
+                },
+                {
+                  "value": "mid",
+                  "label": "Mid"
+                },
+                {
+                  "value": "bottom",
+                  "label": "Bottom"
+                }
+              ],
+              "optionsExhaustive": true
+            },
+            {
+              "key": "title",
+              "type": "string",
+              "label": "title",
+              "default": {
+                "kind": "string",
+                "value": "false"
+              },
+              "current": {
+                "kind": "string",
+                "value": "false"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "false",
+                  "label": "No title"
+                },
+                {
+                  "value": "true",
+                  "label": "Title"
+                }
+              ],
+              "optionsExhaustive": true
+            }
+          ],
+          "density": 1
+        },
+        {
+          "variant": "ideal",
+          "path": "images/glimmerlazycolumn-twoline/ideal__cell-list-index-mid-title-false-4116-5259.png",
+          "state": "cell-list-index-mid-title-false-4116-5259",
+          "width": 420,
+          "height": 364,
+          "livePreview": "https://preview.coo.ee/glimmer-catalog/p/glimmerlazycolumn-twoline__ideal__cell-list-index-mid-title-false-4116-5259",
+          "previewId": "ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnTwoLineSticker_VARIANT_cell-list-index-mid-title-false-4116-5259",
+          "overrides": [
+            {
+              "key": "index",
+              "type": "string",
+              "label": "index",
+              "default": {
+                "kind": "string",
+                "value": "top"
+              },
+              "current": {
+                "kind": "string",
+                "value": "mid"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "top",
+                  "label": "Top"
+                },
+                {
+                  "value": "mid",
+                  "label": "Mid"
+                },
+                {
+                  "value": "bottom",
+                  "label": "Bottom"
+                }
+              ],
+              "optionsExhaustive": true
+            },
+            {
+              "key": "title",
+              "type": "string",
+              "label": "title",
+              "default": {
+                "kind": "string",
+                "value": "false"
+              },
+              "current": {
+                "kind": "string",
+                "value": "false"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "false",
+                  "label": "No title"
+                },
+                {
+                  "value": "true",
+                  "label": "Title"
+                }
+              ],
+              "optionsExhaustive": true
+            }
+          ],
+          "supportsFocus": true,
+          "secondary": true,
+          "density": 1
+        },
+        {
+          "variant": "ideal",
+          "path": "images/glimmerlazycolumn-twoline/ideal__cell-list-index-mid-title-true-40000116-2458.png",
+          "state": "cell-list-index-mid-title-true-40000116-2458",
+          "width": 420,
+          "height": 364,
+          "livePreview": "https://preview.coo.ee/glimmer-catalog/p/glimmerlazycolumn-twoline__ideal__cell-list-index-mid-title-true-40000116-2458",
+          "previewId": "ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnTwoLineSticker_VARIANT_cell-list-index-mid-title-true-40000116-2458",
+          "overrides": [
+            {
+              "key": "index",
+              "type": "string",
+              "label": "index",
+              "default": {
+                "kind": "string",
+                "value": "top"
+              },
+              "current": {
+                "kind": "string",
+                "value": "mid"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "top",
+                  "label": "Top"
+                },
+                {
+                  "value": "mid",
+                  "label": "Mid"
+                },
+                {
+                  "value": "bottom",
+                  "label": "Bottom"
+                }
+              ],
+              "optionsExhaustive": true
+            },
+            {
+              "key": "title",
+              "type": "string",
+              "label": "title",
+              "default": {
+                "kind": "string",
+                "value": "false"
+              },
+              "current": {
+                "kind": "string",
+                "value": "true"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "false",
+                  "label": "No title"
+                },
+                {
+                  "value": "true",
+                  "label": "Title"
+                }
+              ],
+              "optionsExhaustive": true
+            }
+          ],
+          "supportsFocus": true,
+          "secondary": true,
+          "density": 1
+        },
+        {
+          "variant": "ideal",
+          "path": "images/glimmerlazycolumn-twoline/ideal__cell-list-index-top-title-true-40000116-2394.png",
+          "state": "cell-list-index-top-title-true-40000116-2394",
+          "width": 420,
+          "height": 364,
+          "livePreview": "https://preview.coo.ee/glimmer-catalog/p/glimmerlazycolumn-twoline__ideal__cell-list-index-top-title-true-40000116-2394",
+          "previewId": "ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnTwoLineSticker_VARIANT_cell-list-index-top-title-true-40000116-2394",
+          "overrides": [
+            {
+              "key": "index",
+              "type": "string",
+              "label": "index",
+              "default": {
+                "kind": "string",
+                "value": "top"
+              },
+              "current": {
+                "kind": "string",
+                "value": "top"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "top",
+                  "label": "Top"
+                },
+                {
+                  "value": "mid",
+                  "label": "Mid"
+                },
+                {
+                  "value": "bottom",
+                  "label": "Bottom"
+                }
+              ],
+              "optionsExhaustive": true
+            },
+            {
+              "key": "title",
+              "type": "string",
+              "label": "title",
+              "default": {
+                "kind": "string",
+                "value": "false"
+              },
+              "current": {
+                "kind": "string",
+                "value": "true"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "false",
+                  "label": "No title"
+                },
+                {
+                  "value": "true",
+                  "label": "Title"
+                }
+              ],
+              "optionsExhaustive": true
+            }
+          ],
+          "secondary": true,
           "density": 1
         }
       ],
@@ -2934,9 +4355,16 @@
       "wireframe": "wireframes/glimmerlazycolumn-twoline.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/LazyLists.kt",
       "sourceModule": ":catalog",
-      "bodyLine": 85,
+      "bodyLine": 158,
       "sourceDirectory": "catalog",
-      "sourceFunction": "GlimmerLazyColumnTwoLineSticker"
+      "sourceFunction": "GlimmerLazyColumnTwoLineSticker",
+      "parameters": [
+        {
+          "name": "content",
+          "type": "() -> Unit",
+          "composableSlot": true
+        }
+      ]
     },
     {
       "componentId": "ListItem",
@@ -3397,7 +4825,7 @@
     "androidx.xr.glimmer:glimmer"
   ],
   "renderer": "compose-preview 2.32.4",
-  "generatedAt": "2026-10-06T17:44:42.460Z",
+  "generatedAt": "2026-10-06T19:33:03.326Z",
   "display": {
     "surface": "dark",
     "hero": "GlimmerLazyColumn/TwoLine"
@@ -3418,7 +4846,7 @@
   "uiBuilderFile": "ui-builder.json",
   "uiBuilderRuntime": {
     "path": "ui-builder/runtime.zip",
-    "runtimeId": "glimmer-p2-7e51ee65663a",
+    "runtimeId": "glimmer-p2-74893f56070c",
     "protocolVersion": 2,
     "integritySha256": "93bb688acdec189fce278e2d315b517e46c0301fbb0b06ac576cacd4c416e921"
   },

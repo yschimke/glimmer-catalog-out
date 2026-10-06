@@ -111,6 +111,51 @@
                     "previewId": "ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker",
                     "componentId": "ButtonGroup",
                     "group": "Button group"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker_VARIANT_cell-type-button-set-length-1-focus-start-40000116-6528",
+                    "componentId": "ButtonGroup",
+                    "group": "Button group"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker_VARIANT_cell-type-button-set-length-2-focus-end-40000116-6521",
+                    "componentId": "ButtonGroup",
+                    "group": "Button group"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker_VARIANT_cell-type-button-set-length-2-focus-start-40000116-6513",
+                    "componentId": "ButtonGroup",
+                    "group": "Button group"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker_VARIANT_cell-type-button-set-length-3-focus-end-40000116-6508",
+                    "componentId": "ButtonGroup",
+                    "group": "Button group"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker_VARIANT_cell-type-button-set-length-3-focus-middle-40000116-6502",
+                    "componentId": "ButtonGroup",
+                    "group": "Button group"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker_VARIANT_cell-type-toggle-set-length-2-focus-end-40000116-6543",
+                    "componentId": "ButtonGroup",
+                    "group": "Button group"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker_VARIANT_cell-type-toggle-set-length-2-focus-middle-40000116-6539",
+                    "componentId": "ButtonGroup",
+                    "group": "Button group"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker_VARIANT_cell-type-toggle-set-length-2-focus-start-40000116-6535",
+                    "componentId": "ButtonGroup",
+                    "group": "Button group"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker_VARIANT_focused",
+                    "componentId": "ButtonGroup",
+                    "group": "Button group"
                 }
             ],
             "code": {
@@ -143,7 +188,16 @@
                 "nativeOnly": false,
                 "exclude": null,
                 "declaredBy": [
-                    "ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker"
+                    "ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker",
+                    "ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker_VARIANT_cell-type-button-set-length-1-focus-start-40000116-6528",
+                    "ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker_VARIANT_cell-type-button-set-length-2-focus-end-40000116-6521",
+                    "ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker_VARIANT_cell-type-button-set-length-2-focus-start-40000116-6513",
+                    "ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker_VARIANT_cell-type-button-set-length-3-focus-end-40000116-6508",
+                    "ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker_VARIANT_cell-type-button-set-length-3-focus-middle-40000116-6502",
+                    "ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker_VARIANT_cell-type-toggle-set-length-2-focus-end-40000116-6543",
+                    "ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker_VARIANT_cell-type-toggle-set-length-2-focus-middle-40000116-6539",
+                    "ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker_VARIANT_cell-type-toggle-set-length-2-focus-start-40000116-6535",
+                    "ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker_VARIANT_focused"
                 ],
                 "conflicting": [],
                 "ambiguousWith": [],
@@ -348,6 +402,51 @@
             "bindings": [
                 {
                     "previewId": "ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker",
+                    "componentId": "ButtonGroup",
+                    "group": "Button group"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker_VARIANT_cell-type-button-set-length-1-focus-start-40000116-6528",
+                    "componentId": "ButtonGroup",
+                    "group": "Button group"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker_VARIANT_cell-type-button-set-length-2-focus-end-40000116-6521",
+                    "componentId": "ButtonGroup",
+                    "group": "Button group"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker_VARIANT_cell-type-button-set-length-2-focus-start-40000116-6513",
+                    "componentId": "ButtonGroup",
+                    "group": "Button group"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker_VARIANT_cell-type-button-set-length-3-focus-end-40000116-6508",
+                    "componentId": "ButtonGroup",
+                    "group": "Button group"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker_VARIANT_cell-type-button-set-length-3-focus-middle-40000116-6502",
+                    "componentId": "ButtonGroup",
+                    "group": "Button group"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker_VARIANT_cell-type-toggle-set-length-2-focus-end-40000116-6543",
+                    "componentId": "ButtonGroup",
+                    "group": "Button group"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker_VARIANT_cell-type-toggle-set-length-2-focus-middle-40000116-6539",
+                    "componentId": "ButtonGroup",
+                    "group": "Button group"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker_VARIANT_cell-type-toggle-set-length-2-focus-start-40000116-6535",
+                    "componentId": "ButtonGroup",
+                    "group": "Button group"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker_VARIANT_focused",
                     "componentId": "ButtonGroup",
                     "group": "Button group"
                 },
@@ -1510,6 +1609,51 @@
                     "group": "Button group"
                 },
                 {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker_VARIANT_cell-type-button-set-length-1-focus-start-40000116-6528",
+                    "componentId": "ButtonGroup",
+                    "group": "Button group"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker_VARIANT_cell-type-button-set-length-2-focus-end-40000116-6521",
+                    "componentId": "ButtonGroup",
+                    "group": "Button group"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker_VARIANT_cell-type-button-set-length-2-focus-start-40000116-6513",
+                    "componentId": "ButtonGroup",
+                    "group": "Button group"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker_VARIANT_cell-type-button-set-length-3-focus-end-40000116-6508",
+                    "componentId": "ButtonGroup",
+                    "group": "Button group"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker_VARIANT_cell-type-button-set-length-3-focus-middle-40000116-6502",
+                    "componentId": "ButtonGroup",
+                    "group": "Button group"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker_VARIANT_cell-type-toggle-set-length-2-focus-end-40000116-6543",
+                    "componentId": "ButtonGroup",
+                    "group": "Button group"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker_VARIANT_cell-type-toggle-set-length-2-focus-middle-40000116-6539",
+                    "componentId": "ButtonGroup",
+                    "group": "Button group"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker_VARIANT_cell-type-toggle-set-length-2-focus-start-40000116-6535",
+                    "componentId": "ButtonGroup",
+                    "group": "Button group"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker_VARIANT_focused",
+                    "componentId": "ButtonGroup",
+                    "group": "Button group"
+                },
+                {
                     "previewId": "ee.schimke.m3catalog.glimmer.ButtonsKt.ButtonLargeSticker",
                     "componentId": "Button",
                     "group": null
@@ -1745,12 +1889,52 @@
                     "group": "Lazy list"
                 },
                 {
+                    "previewId": "ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnSticker_VARIANT_cell-list-index-bottom-title-false-40000115-2000",
+                    "componentId": "GlimmerLazyColumn",
+                    "group": "Lazy list"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnSticker_VARIANT_cell-list-index-mid-title-false-4116-5221",
+                    "componentId": "GlimmerLazyColumn",
+                    "group": "Lazy list"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnSticker_VARIANT_focused",
+                    "componentId": "GlimmerLazyColumn",
+                    "group": "Lazy list"
+                },
+                {
                     "previewId": "ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnTwoLineSticker",
                     "componentId": "GlimmerLazyColumn/TwoLine",
                     "group": "Lazy list"
                 },
                 {
+                    "previewId": "ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnTwoLineSticker_VARIANT_cell-list-index-mid-title-false-4116-5259",
+                    "componentId": "GlimmerLazyColumn/TwoLine",
+                    "group": "Lazy list"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnTwoLineSticker_VARIANT_cell-list-index-mid-title-true-40000116-2458",
+                    "componentId": "GlimmerLazyColumn/TwoLine",
+                    "group": "Lazy list"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnTwoLineSticker_VARIANT_cell-list-index-top-title-true-40000116-2394",
+                    "componentId": "GlimmerLazyColumn/TwoLine",
+                    "group": "Lazy list"
+                },
+                {
                     "previewId": "ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnWithTitleSticker",
+                    "componentId": "GlimmerLazyColumn",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnWithTitleSticker_VARIANT_cell-list-index-mid-title-true-40000115-1924",
+                    "componentId": "GlimmerLazyColumn",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnWithTitleSticker_VARIANT_focused",
                     "componentId": "GlimmerLazyColumn",
                     "group": null
                 },
@@ -1794,6 +1978,7 @@
         {
             "canonicalId": "catalog/androidx.xr.glimmer.IconToggleButtonKt.IconToggleButton",
             "componentIds": [
+                "ButtonGroup",
                 "IconToggleButton"
             ],
             "symbol": {
@@ -1934,6 +2119,56 @@
                 }
             ],
             "bindings": [
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker",
+                    "componentId": "ButtonGroup",
+                    "group": "Button group"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker_VARIANT_cell-type-button-set-length-1-focus-start-40000116-6528",
+                    "componentId": "ButtonGroup",
+                    "group": "Button group"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker_VARIANT_cell-type-button-set-length-2-focus-end-40000116-6521",
+                    "componentId": "ButtonGroup",
+                    "group": "Button group"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker_VARIANT_cell-type-button-set-length-2-focus-start-40000116-6513",
+                    "componentId": "ButtonGroup",
+                    "group": "Button group"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker_VARIANT_cell-type-button-set-length-3-focus-end-40000116-6508",
+                    "componentId": "ButtonGroup",
+                    "group": "Button group"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker_VARIANT_cell-type-button-set-length-3-focus-middle-40000116-6502",
+                    "componentId": "ButtonGroup",
+                    "group": "Button group"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker_VARIANT_cell-type-toggle-set-length-2-focus-end-40000116-6543",
+                    "componentId": "ButtonGroup",
+                    "group": "Button group"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker_VARIANT_cell-type-toggle-set-length-2-focus-middle-40000116-6539",
+                    "componentId": "ButtonGroup",
+                    "group": "Button group"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker_VARIANT_cell-type-toggle-set-length-2-focus-start-40000116-6535",
+                    "componentId": "ButtonGroup",
+                    "group": "Button group"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker_VARIANT_focused",
+                    "componentId": "ButtonGroup",
+                    "group": "Button group"
+                },
                 {
                     "previewId": "ee.schimke.m3catalog.glimmer.IconButtonsKt.IconToggleButtonCheckedSticker",
                     "componentId": "IconToggleButton",
@@ -2211,12 +2446,52 @@
                     "group": "Lazy list"
                 },
                 {
+                    "previewId": "ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnSticker_VARIANT_cell-list-index-bottom-title-false-40000115-2000",
+                    "componentId": "GlimmerLazyColumn",
+                    "group": "Lazy list"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnSticker_VARIANT_cell-list-index-mid-title-false-4116-5221",
+                    "componentId": "GlimmerLazyColumn",
+                    "group": "Lazy list"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnSticker_VARIANT_focused",
+                    "componentId": "GlimmerLazyColumn",
+                    "group": "Lazy list"
+                },
+                {
                     "previewId": "ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnTwoLineSticker",
                     "componentId": "GlimmerLazyColumn/TwoLine",
                     "group": "Lazy list"
                 },
                 {
+                    "previewId": "ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnTwoLineSticker_VARIANT_cell-list-index-mid-title-false-4116-5259",
+                    "componentId": "GlimmerLazyColumn/TwoLine",
+                    "group": "Lazy list"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnTwoLineSticker_VARIANT_cell-list-index-mid-title-true-40000116-2458",
+                    "componentId": "GlimmerLazyColumn/TwoLine",
+                    "group": "Lazy list"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnTwoLineSticker_VARIANT_cell-list-index-top-title-true-40000116-2394",
+                    "componentId": "GlimmerLazyColumn/TwoLine",
+                    "group": "Lazy list"
+                },
+                {
                     "previewId": "ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnWithTitleSticker",
+                    "componentId": "GlimmerLazyColumn",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnWithTitleSticker_VARIANT_cell-list-index-mid-title-true-40000115-1924",
+                    "componentId": "GlimmerLazyColumn",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnWithTitleSticker_VARIANT_focused",
                     "componentId": "GlimmerLazyColumn",
                     "group": null
                 },
@@ -2565,6 +2840,51 @@
                     "group": "Button group"
                 },
                 {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker_VARIANT_cell-type-button-set-length-1-focus-start-40000116-6528",
+                    "componentId": "ButtonGroup",
+                    "group": "Button group"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker_VARIANT_cell-type-button-set-length-2-focus-end-40000116-6521",
+                    "componentId": "ButtonGroup",
+                    "group": "Button group"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker_VARIANT_cell-type-button-set-length-2-focus-start-40000116-6513",
+                    "componentId": "ButtonGroup",
+                    "group": "Button group"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker_VARIANT_cell-type-button-set-length-3-focus-end-40000116-6508",
+                    "componentId": "ButtonGroup",
+                    "group": "Button group"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker_VARIANT_cell-type-button-set-length-3-focus-middle-40000116-6502",
+                    "componentId": "ButtonGroup",
+                    "group": "Button group"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker_VARIANT_cell-type-toggle-set-length-2-focus-end-40000116-6543",
+                    "componentId": "ButtonGroup",
+                    "group": "Button group"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker_VARIANT_cell-type-toggle-set-length-2-focus-middle-40000116-6539",
+                    "componentId": "ButtonGroup",
+                    "group": "Button group"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker_VARIANT_cell-type-toggle-set-length-2-focus-start-40000116-6535",
+                    "componentId": "ButtonGroup",
+                    "group": "Button group"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker_VARIANT_focused",
+                    "componentId": "ButtonGroup",
+                    "group": "Button group"
+                },
+                {
                     "previewId": "ee.schimke.m3catalog.glimmer.ButtonsKt.ButtonLabelOnlySticker",
                     "componentId": "Button",
                     "group": null
@@ -2765,12 +3085,52 @@
                     "group": "Lazy list"
                 },
                 {
+                    "previewId": "ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnSticker_VARIANT_cell-list-index-bottom-title-false-40000115-2000",
+                    "componentId": "GlimmerLazyColumn",
+                    "group": "Lazy list"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnSticker_VARIANT_cell-list-index-mid-title-false-4116-5221",
+                    "componentId": "GlimmerLazyColumn",
+                    "group": "Lazy list"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnSticker_VARIANT_focused",
+                    "componentId": "GlimmerLazyColumn",
+                    "group": "Lazy list"
+                },
+                {
                     "previewId": "ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnTwoLineSticker",
                     "componentId": "GlimmerLazyColumn/TwoLine",
                     "group": "Lazy list"
                 },
                 {
+                    "previewId": "ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnTwoLineSticker_VARIANT_cell-list-index-mid-title-false-4116-5259",
+                    "componentId": "GlimmerLazyColumn/TwoLine",
+                    "group": "Lazy list"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnTwoLineSticker_VARIANT_cell-list-index-mid-title-true-40000116-2458",
+                    "componentId": "GlimmerLazyColumn/TwoLine",
+                    "group": "Lazy list"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnTwoLineSticker_VARIANT_cell-list-index-top-title-true-40000116-2394",
+                    "componentId": "GlimmerLazyColumn/TwoLine",
+                    "group": "Lazy list"
+                },
+                {
                     "previewId": "ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnWithTitleSticker",
+                    "componentId": "GlimmerLazyColumn",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnWithTitleSticker_VARIANT_cell-list-index-mid-title-true-40000115-1924",
+                    "componentId": "GlimmerLazyColumn",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnWithTitleSticker_VARIANT_focused",
                     "componentId": "GlimmerLazyColumn",
                     "group": null
                 },
@@ -2837,6 +3197,7 @@
             "canonicalId": "catalog/androidx.xr.glimmer.TitleChipKt.TitleChip",
             "componentIds": [
                 "GlimmerLazyColumn",
+                "GlimmerLazyColumn/TwoLine",
                 "TitleChip"
             ],
             "symbol": {
@@ -2967,7 +3328,37 @@
                     "group": "Card"
                 },
                 {
+                    "previewId": "ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnTwoLineSticker",
+                    "componentId": "GlimmerLazyColumn/TwoLine",
+                    "group": "Lazy list"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnTwoLineSticker_VARIANT_cell-list-index-mid-title-false-4116-5259",
+                    "componentId": "GlimmerLazyColumn/TwoLine",
+                    "group": "Lazy list"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnTwoLineSticker_VARIANT_cell-list-index-mid-title-true-40000116-2458",
+                    "componentId": "GlimmerLazyColumn/TwoLine",
+                    "group": "Lazy list"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnTwoLineSticker_VARIANT_cell-list-index-top-title-true-40000116-2394",
+                    "componentId": "GlimmerLazyColumn/TwoLine",
+                    "group": "Lazy list"
+                },
+                {
                     "previewId": "ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnWithTitleSticker",
+                    "componentId": "GlimmerLazyColumn",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnWithTitleSticker_VARIANT_cell-list-index-mid-title-true-40000115-1924",
+                    "componentId": "GlimmerLazyColumn",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnWithTitleSticker_VARIANT_focused",
                     "componentId": "GlimmerLazyColumn",
                     "group": null
                 }
@@ -3712,12 +4103,52 @@
                     "group": "Lazy list"
                 },
                 {
+                    "previewId": "ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnSticker_VARIANT_cell-list-index-bottom-title-false-40000115-2000",
+                    "componentId": "GlimmerLazyColumn",
+                    "group": "Lazy list"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnSticker_VARIANT_cell-list-index-mid-title-false-4116-5221",
+                    "componentId": "GlimmerLazyColumn",
+                    "group": "Lazy list"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnSticker_VARIANT_focused",
+                    "componentId": "GlimmerLazyColumn",
+                    "group": "Lazy list"
+                },
+                {
                     "previewId": "ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnTwoLineSticker",
                     "componentId": "GlimmerLazyColumn/TwoLine",
                     "group": "Lazy list"
                 },
                 {
+                    "previewId": "ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnTwoLineSticker_VARIANT_cell-list-index-mid-title-false-4116-5259",
+                    "componentId": "GlimmerLazyColumn/TwoLine",
+                    "group": "Lazy list"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnTwoLineSticker_VARIANT_cell-list-index-mid-title-true-40000116-2458",
+                    "componentId": "GlimmerLazyColumn/TwoLine",
+                    "group": "Lazy list"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnTwoLineSticker_VARIANT_cell-list-index-top-title-true-40000116-2394",
+                    "componentId": "GlimmerLazyColumn/TwoLine",
+                    "group": "Lazy list"
+                },
+                {
                     "previewId": "ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnWithTitleSticker",
+                    "componentId": "GlimmerLazyColumn",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnWithTitleSticker_VARIANT_cell-list-index-mid-title-true-40000115-1924",
+                    "componentId": "GlimmerLazyColumn",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnWithTitleSticker_VARIANT_focused",
                     "componentId": "GlimmerLazyColumn",
                     "group": null
                 }
@@ -3753,7 +4184,12 @@
                 "exclude": null,
                 "declaredBy": [
                     "ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnSticker",
-                    "ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnWithTitleSticker"
+                    "ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnSticker_VARIANT_cell-list-index-bottom-title-false-40000115-2000",
+                    "ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnSticker_VARIANT_cell-list-index-mid-title-false-4116-5221",
+                    "ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnSticker_VARIANT_focused",
+                    "ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnWithTitleSticker",
+                    "ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnWithTitleSticker_VARIANT_cell-list-index-mid-title-true-40000115-1924",
+                    "ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnWithTitleSticker_VARIANT_focused"
                 ],
                 "conflicting": [],
                 "ambiguousWith": [],
@@ -3871,6 +4307,7 @@
             "componentIds": [
                 "ButtonGroup",
                 "GlimmerLazyColumn",
+                "GlimmerLazyColumn/TwoLine",
                 "IconToggleButton",
                 "ImageCard",
                 "TitleChip",
@@ -3914,6 +4351,51 @@
             "bindings": [
                 {
                     "previewId": "ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker",
+                    "componentId": "ButtonGroup",
+                    "group": "Button group"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker_VARIANT_cell-type-button-set-length-1-focus-start-40000116-6528",
+                    "componentId": "ButtonGroup",
+                    "group": "Button group"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker_VARIANT_cell-type-button-set-length-2-focus-end-40000116-6521",
+                    "componentId": "ButtonGroup",
+                    "group": "Button group"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker_VARIANT_cell-type-button-set-length-2-focus-start-40000116-6513",
+                    "componentId": "ButtonGroup",
+                    "group": "Button group"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker_VARIANT_cell-type-button-set-length-3-focus-end-40000116-6508",
+                    "componentId": "ButtonGroup",
+                    "group": "Button group"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker_VARIANT_cell-type-button-set-length-3-focus-middle-40000116-6502",
+                    "componentId": "ButtonGroup",
+                    "group": "Button group"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker_VARIANT_cell-type-toggle-set-length-2-focus-end-40000116-6543",
+                    "componentId": "ButtonGroup",
+                    "group": "Button group"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker_VARIANT_cell-type-toggle-set-length-2-focus-middle-40000116-6539",
+                    "componentId": "ButtonGroup",
+                    "group": "Button group"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker_VARIANT_cell-type-toggle-set-length-2-focus-start-40000116-6535",
+                    "componentId": "ButtonGroup",
+                    "group": "Button group"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker_VARIANT_focused",
                     "componentId": "ButtonGroup",
                     "group": "Button group"
                 },
@@ -4008,7 +4490,52 @@
                     "group": "Lazy list"
                 },
                 {
+                    "previewId": "ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnSticker_VARIANT_cell-list-index-bottom-title-false-40000115-2000",
+                    "componentId": "GlimmerLazyColumn",
+                    "group": "Lazy list"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnSticker_VARIANT_cell-list-index-mid-title-false-4116-5221",
+                    "componentId": "GlimmerLazyColumn",
+                    "group": "Lazy list"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnSticker_VARIANT_focused",
+                    "componentId": "GlimmerLazyColumn",
+                    "group": "Lazy list"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnTwoLineSticker",
+                    "componentId": "GlimmerLazyColumn/TwoLine",
+                    "group": "Lazy list"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnTwoLineSticker_VARIANT_cell-list-index-mid-title-false-4116-5259",
+                    "componentId": "GlimmerLazyColumn/TwoLine",
+                    "group": "Lazy list"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnTwoLineSticker_VARIANT_cell-list-index-mid-title-true-40000116-2458",
+                    "componentId": "GlimmerLazyColumn/TwoLine",
+                    "group": "Lazy list"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnTwoLineSticker_VARIANT_cell-list-index-top-title-true-40000116-2394",
+                    "componentId": "GlimmerLazyColumn/TwoLine",
+                    "group": "Lazy list"
+                },
+                {
                     "previewId": "ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnWithTitleSticker",
+                    "componentId": "GlimmerLazyColumn",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnWithTitleSticker_VARIANT_cell-list-index-mid-title-true-40000115-1924",
+                    "componentId": "GlimmerLazyColumn",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnWithTitleSticker_VARIANT_focused",
                     "componentId": "GlimmerLazyColumn",
                     "group": null
                 },
