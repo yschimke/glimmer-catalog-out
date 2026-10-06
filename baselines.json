@@ -631,6 +631,14 @@
     "sha256": "35d22a5ed709c89251e4f411d424082877b6b9c38bc7d8299fd0f561840395d5",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/Stacks.kt"
   },
+  "catalog/ee.schimke.m3catalog.glimmer.StacksKt.VerticalStackSticker_VARIANT_cell-type-home-40000042-4081": {
+    "captureLabel": "",
+    "functionName": "VerticalStackSticker",
+    "module": "catalog",
+    "renderBasename": "VerticalStackSticker_VARIANT_cell_type_home_40000042_4081-5f2dfd07.png",
+    "sha256": "2ab85a1ce2c981ae028b5521b155dc459bce9b77b6b72229a68c70699bda4021",
+    "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/Stacks.kt"
+  },
   "catalog/ee.schimke.m3catalog.glimmer.VoiceInputKt.ContainedVoiceInputIndicatorSticker": {
     "captureLabel": "",
     "functionName": "ContainedVoiceInputIndicatorSticker",
