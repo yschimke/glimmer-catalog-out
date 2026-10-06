@@ -11,7 +11,7 @@
     "record": {
         "file": "components.json",
         "schemaVersion": 2,
-        "components": 16
+        "components": 17
     },
     "statusSemantics": {
         "platform": "glasses",
@@ -51,6 +51,9 @@
                     "group": "Card"
                 },
                 "glimmer/card": {
+                    "group": "Stack"
+                },
+                "glimmer/image-card": {
                     "group": "Card"
                 },
                 "glimmer/icon-button": {
@@ -149,7 +152,7 @@
             },
             "glimmer/action-card": {
                 "record": "catalog/androidx.xr.glimmer.CardKt.ActionCard",
-                "catalogId": "Card",
+                "catalogId": "ImageCard",
                 "displayName": null,
                 "canvas": "glimmer/action-card",
                 "canvasMapping": null,
@@ -168,9 +171,28 @@
             },
             "glimmer/card": {
                 "record": "catalog/androidx.xr.glimmer.CardKt.Card",
-                "catalogId": "Card",
+                "catalogId": "ImageCard",
                 "displayName": null,
                 "canvas": "glimmer/card",
+                "canvasMapping": null,
+                "unrolled": null,
+                "nativeOnly": false,
+                "traits": [],
+                "slots": {},
+                "stateCallbacks": {},
+                "starter": {},
+                "variantProperty": null,
+                "variants": {},
+                "excluded": null,
+                "propertyCapabilities": null,
+                "slotCapabilities": null,
+                "modifierCapabilities": null
+            },
+            "glimmer/image-card": {
+                "record": "catalog/androidx.xr.glimmer.CardKt.ImageCard",
+                "catalogId": "ImageCard",
+                "displayName": null,
+                "canvas": "glimmer/image-card",
                 "canvasMapping": null,
                 "unrolled": null,
                 "nativeOnly": false,

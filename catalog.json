@@ -1730,15 +1730,15 @@
       "sourceFunction": "ToggleButtonSticker"
     },
     {
-      "componentId": "Card",
+      "componentId": "ImageCard",
       "images": [
         {
           "variant": "ideal",
-          "path": "images/card/ideal__default.png",
+          "path": "images/imagecard/ideal__default.png",
           "state": "default",
           "width": 420,
           "height": 375,
-          "livePreview": "https://preview.coo.ee/glimmer-catalog/p/card__ideal__default",
+          "livePreview": "https://preview.coo.ee/glimmer-catalog/p/imagecard__ideal__default",
           "previewId": "ee.schimke.m3catalog.glimmer.CardsKt.CardSticker",
           "overrides": [
             {
@@ -1764,27 +1764,60 @@
         },
         {
           "variant": "ideal",
-          "path": "images/card/ideal__default__content-text-only.png",
+          "path": "images/imagecard/ideal__default__content-no-image.png",
+          "state": "default",
+          "width": 420,
+          "height": 127,
+          "props": {
+            "content": "no-image"
+          },
+          "livePreview": "https://preview.coo.ee/glimmer-catalog/p/imagecard__ideal__default__content-no-image",
+          "previewId": "ee.schimke.m3catalog.glimmer.CardsKt.CardNoImageSticker",
+          "overrides": [
+            {
+              "key": "title",
+              "type": "string",
+              "label": "title",
+              "default": {
+                "kind": "string",
+                "value": "Title"
+              },
+              "current": {
+                "kind": "string",
+                "value": "Title"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [],
+              "optionsExhaustive": false
+            }
+          ],
+          "density": 1
+        },
+        {
+          "variant": "ideal",
+          "path": "images/imagecard/ideal__default__content-text-only.png",
           "state": "default",
           "width": 420,
           "height": 80,
           "props": {
             "content": "text-only"
           },
-          "livePreview": "https://preview.coo.ee/glimmer-catalog/p/card__ideal__default__content-text-only",
+          "livePreview": "https://preview.coo.ee/glimmer-catalog/p/imagecard__ideal__default__content-text-only",
           "previewId": "ee.schimke.m3catalog.glimmer.CardsKt.CardTextOnlySticker",
           "density": 1
         },
         {
           "variant": "ideal",
-          "path": "images/card/ideal__default__content-trailing-icon.png",
+          "path": "images/imagecard/ideal__default__content-trailing-icon.png",
           "state": "default",
           "width": 420,
           "height": 101,
           "props": {
             "content": "trailing-icon"
           },
-          "livePreview": "https://preview.coo.ee/glimmer-catalog/p/card__ideal__default__content-trailing-icon",
+          "livePreview": "https://preview.coo.ee/glimmer-catalog/p/imagecard__ideal__default__content-trailing-icon",
           "previewId": "ee.schimke.m3catalog.glimmer.CardsKt.CardTrailingIconSticker",
           "overrides": [
             {
@@ -1810,14 +1843,14 @@
         },
         {
           "variant": "ideal",
-          "path": "images/card/ideal__default__content-action.png",
+          "path": "images/imagecard/ideal__default__content-action.png",
           "state": "default",
           "width": 420,
           "height": 149,
           "props": {
             "content": "action"
           },
-          "livePreview": "https://preview.coo.ee/glimmer-catalog/p/card__ideal__default__content-action",
+          "livePreview": "https://preview.coo.ee/glimmer-catalog/p/imagecard__ideal__default__content-action",
           "previewId": "ee.schimke.m3catalog.glimmer.CardsKt.CardActionSticker",
           "overrides": [
             {
@@ -1889,12 +1922,12 @@
       ],
       "section": "Containment",
       "group": "Card",
-      "caption": "A surface for a unit of content. Header image, title, subtitle and the icon slots.",
+      "caption": "A card for a unit of content. Image, title, subtitle and the icon slots.",
       "reference": "figma:HKfLClZDLRyMhf4IQQLna8/416:2700",
-      "wireframe": "wireframes/card.svg",
+      "wireframe": "wireframes/imagecard.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/Cards.kt",
       "sourceModule": ":catalog",
-      "bodyLine": 51,
+      "bodyLine": 57,
       "sourceDirectory": "catalog",
       "sourceFunction": "CardSticker"
     },
@@ -1990,7 +2023,7 @@
       "wireframe": "wireframes/titlechip.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/Cards.kt",
       "sourceModule": ":catalog",
-      "bodyLine": 132,
+      "bodyLine": 158,
       "sourceDirectory": "catalog",
       "sourceFunction": "TitleChipSticker",
       "parameters": [
@@ -3364,7 +3397,7 @@
     "androidx.xr.glimmer:glimmer"
   ],
   "renderer": "compose-preview 2.32.4",
-  "generatedAt": "2026-10-05T14:29:57.651Z",
+  "generatedAt": "2026-10-06T17:44:42.460Z",
   "display": {
     "surface": "dark",
     "hero": "GlimmerLazyColumn/TwoLine"
@@ -3385,9 +3418,9 @@
   "uiBuilderFile": "ui-builder.json",
   "uiBuilderRuntime": {
     "path": "ui-builder/runtime.zip",
-    "runtimeId": "glimmer-p2-0e1dd894e155",
+    "runtimeId": "glimmer-p2-7e51ee65663a",
     "protocolVersion": 2,
-    "integritySha256": "022b6e7bf6ee241bb6e8f0b636c7060586da2722bbc1d974b46ddd9a4a30ffef"
+    "integritySha256": "93bb688acdec189fce278e2d315b517e46c0301fbb0b06ac576cacd4c416e921"
   },
   "source": {
     "repo": "yschimke/glimmer-catalog",

@@ -1,11 +1,31 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-05T14:30:22.149Z",
+  "generatedAt": "2026-10-06T17:45:08.546Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/glimmer-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "7e51ee65663aec63751a6714fc4241fd83b2ba3a",
+        "subject": "feat: update Glimmer to alpha20 and re-pin its samples (#23)",
+        "at": "2026-10-06T18:34:45+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [
+          "buttongroup__ideal__default",
+          "imagecard__ideal__default",
+          "titlechip__ideal__default",
+          "listitem__ideal__default",
+          "listitem__ideal__pressed",
+          "listitem__ideal__default__content-supporting-label"
+        ],
+        "components": [
+          "ButtonGroup",
+          "ImageCard",
+          "TitleChip",
+          "ListItem"
+        ]
+      },
       {
         "sha": "6c889e7a3b87634be0a6e88b34117eae0d1441c5",
         "subject": "feat: render Glimmer components in UI Builder",
@@ -29,7 +49,7 @@
           "togglebutton__ideal__pressed",
           "togglebutton__ideal__default__size-large",
           "togglebutton__ideal__checked",
-          "card__ideal__default",
+          "imagecard__ideal__default",
           "titlechip__ideal__default",
           "iconbutton__ideal__default",
           "iconbutton__ideal__disabled",
@@ -58,7 +78,7 @@
           "ButtonGroup",
           "Button",
           "ToggleButton",
-          "Card",
+          "ImageCard",
           "TitleChip",
           "IconButton",
           "IconToggleButton",
@@ -92,7 +112,7 @@
           "togglebutton__ideal__pressed",
           "togglebutton__ideal__default__size-large",
           "togglebutton__ideal__checked",
-          "card__ideal__default",
+          "imagecard__ideal__default",
           "titlechip__ideal__default",
           "iconbutton__ideal__default",
           "iconbutton__ideal__disabled",
@@ -121,7 +141,7 @@
           "ButtonGroup",
           "Button",
           "ToggleButton",
-          "Card",
+          "ImageCard",
           "TitleChip",
           "IconButton",
           "IconToggleButton",

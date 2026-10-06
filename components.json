@@ -157,7 +157,7 @@
             "componentIds": [
                 "Button",
                 "ButtonGroup",
-                "Card"
+                "ImageCard"
             ],
             "symbol": {
                 "jvmOwner": "androidx.xr.glimmer.ButtonKt",
@@ -403,7 +403,7 @@
                 },
                 {
                     "previewId": "ee.schimke.m3catalog.glimmer.CardsKt.CardActionSticker",
-                    "componentId": "Card",
+                    "componentId": "ImageCard",
                     "group": null
                 },
                 {
@@ -472,15 +472,15 @@
         {
             "canonicalId": "catalog/androidx.xr.glimmer.CardKt.ActionCard",
             "componentIds": [
-                "Card"
+                "ImageCard"
             ],
             "symbol": {
                 "jvmOwner": "androidx.xr.glimmer.CardKt",
                 "callable": "androidx.xr.glimmer.ActionCard",
                 "name": "ActionCard",
                 "origin": "LIBRARY",
-                "jvmName": "ActionCard-owtK_Bk",
-                "descriptor": "(Lkotlin/jvm/functions/Function2;Landroidx/compose/ui/Modifier;Lkotlin/jvm/functions/Function2;Lkotlin/jvm/functions/Function2;Lkotlin/jvm/functions/Function2;Lkotlin/jvm/functions/Function2;Lkotlin/jvm/functions/Function2;Landroidx/compose/ui/graphics/Shape;JJLandroidx/compose/foundation/layout/PaddingValues;Lkotlin/jvm/functions/Function2;Landroidx/compose/runtime/Composer;III)V",
+                "jvmName": "ActionCard-uPCbpMU",
+                "descriptor": "(Lkotlin/jvm/functions/Function2;Landroidx/compose/ui/Modifier;Lkotlin/jvm/functions/Function2;Lkotlin/jvm/functions/Function2;Lkotlin/jvm/functions/Function2;Lkotlin/jvm/functions/Function2;Landroidx/compose/ui/graphics/Shape;JJLandroidx/compose/foundation/layout/PaddingValues;Lkotlin/jvm/functions/Function2;Landroidx/compose/runtime/Composer;III)V",
                 "sourceFile": null,
                 "docs": "unavailable",
                 "receiver": null
@@ -527,19 +527,6 @@
                 },
                 {
                     "name": "subtitle",
-                    "type": "(() -> Unit)?",
-                    "typeFqn": "kotlin.Function0",
-                    "hasDefault": true,
-                    "composableSlot": true,
-                    "composableSlotReceiver": null,
-                    "nullable": true,
-                    "noArgConstructible": false,
-                    "noArgFactory": null,
-                    "scopeDslReceiver": null,
-                    "lambdaReturnTypeFqn": "kotlin.Unit"
-                },
-                {
-                    "name": "header",
                     "type": "(() -> Unit)?",
                     "typeFqn": "kotlin.Function0",
                     "hasDefault": true,
@@ -660,11 +647,6 @@
                     "receiverScope": null
                 },
                 {
-                    "name": "header",
-                    "required": false,
-                    "receiverScope": null
-                },
-                {
                     "name": "leadingIcon",
                     "required": false,
                     "receiverScope": null
@@ -683,7 +665,7 @@
             "bindings": [
                 {
                     "previewId": "ee.schimke.m3catalog.glimmer.CardsKt.CardActionSticker",
-                    "componentId": "Card",
+                    "componentId": "ImageCard",
                     "group": null
                 }
             ],
@@ -704,7 +686,7 @@
             "builder": {
                 "id": null,
                 "component": "ActionCard",
-                "declaredForCatalogId": "Card",
+                "declaredForCatalogId": "ImageCard",
                 "group": null,
                 "displayName": null,
                 "canvas": "glimmer/action-card",
@@ -729,7 +711,7 @@
         {
             "canonicalId": "catalog/androidx.xr.glimmer.CardKt.Card",
             "componentIds": [
-                "Card",
+                "ImageCard",
                 "VerticalStack"
             ],
             "symbol": {
@@ -737,8 +719,8 @@
                 "callable": "androidx.xr.glimmer.Card",
                 "name": "Card",
                 "origin": "LIBRARY",
-                "jvmName": "Card-xOHPqjQ",
-                "descriptor": "(Landroidx/compose/ui/Modifier;Lkotlin/jvm/functions/Function2;Lkotlin/jvm/functions/Function2;Lkotlin/jvm/functions/Function2;Lkotlin/jvm/functions/Function2;Lkotlin/jvm/functions/Function2;Landroidx/compose/ui/graphics/Shape;JJLandroidx/compose/foundation/layout/PaddingValues;Landroidx/compose/foundation/interaction/MutableInteractionSource;Lkotlin/jvm/functions/Function2;Landroidx/compose/runtime/Composer;III)V",
+                "jvmName": "Card-QPuc2h0",
+                "descriptor": "(Landroidx/compose/ui/Modifier;Lkotlin/jvm/functions/Function2;Lkotlin/jvm/functions/Function2;Lkotlin/jvm/functions/Function2;Lkotlin/jvm/functions/Function2;Landroidx/compose/ui/graphics/Shape;JJLandroidx/compose/foundation/layout/PaddingValues;Landroidx/compose/foundation/interaction/MutableInteractionSource;Lkotlin/jvm/functions/Function2;Landroidx/compose/runtime/Composer;III)V",
                 "sourceFile": null,
                 "docs": "unavailable",
                 "receiver": null
@@ -772,19 +754,6 @@
                 },
                 {
                     "name": "subtitle",
-                    "type": "(() -> Unit)?",
-                    "typeFqn": "kotlin.Function0",
-                    "hasDefault": true,
-                    "composableSlot": true,
-                    "composableSlotReceiver": null,
-                    "nullable": true,
-                    "noArgConstructible": false,
-                    "noArgFactory": null,
-                    "scopeDslReceiver": null,
-                    "lambdaReturnTypeFqn": "kotlin.Unit"
-                },
-                {
-                    "name": "header",
                     "type": "(() -> Unit)?",
                     "typeFqn": "kotlin.Function0",
                     "hasDefault": true,
@@ -913,11 +882,6 @@
                     "receiverScope": null
                 },
                 {
-                    "name": "header",
-                    "required": false,
-                    "receiverScope": null
-                },
-                {
                     "name": "leadingIcon",
                     "required": false,
                     "receiverScope": null
@@ -935,38 +899,18 @@
             ],
             "bindings": [
                 {
-                    "previewId": "ee.schimke.m3catalog.glimmer.CardsKt.CardSticker",
-                    "componentId": "Card",
-                    "group": "Card"
+                    "previewId": "ee.schimke.m3catalog.glimmer.CardsKt.CardNoImageSticker",
+                    "componentId": "ImageCard",
+                    "group": null
                 },
                 {
                     "previewId": "ee.schimke.m3catalog.glimmer.CardsKt.CardTextOnlySticker",
-                    "componentId": "Card",
+                    "componentId": "ImageCard",
                     "group": null
                 },
                 {
                     "previewId": "ee.schimke.m3catalog.glimmer.CardsKt.CardTrailingIconSticker",
-                    "componentId": "Card",
-                    "group": null
-                },
-                {
-                    "previewId": "ee.schimke.m3catalog.glimmer.GlimmerEnvironmentsKt.CardOnBusyEnvironment",
-                    "componentId": null,
-                    "group": null
-                },
-                {
-                    "previewId": "ee.schimke.m3catalog.glimmer.GlimmerEnvironmentsKt.CardOnDarkEnvironment",
-                    "componentId": null,
-                    "group": null
-                },
-                {
-                    "previewId": "ee.schimke.m3catalog.glimmer.GlimmerEnvironmentsKt.CardOnLightEnvironment",
-                    "componentId": null,
-                    "group": null
-                },
-                {
-                    "previewId": "ee.schimke.m3catalog.glimmer.GlimmerEnvironmentsKt.CardOnVeniceCanalCatsEnvironment",
-                    "componentId": null,
+                    "componentId": "ImageCard",
                     "group": null
                 },
                 {
@@ -992,10 +936,282 @@
             "builder": {
                 "id": null,
                 "component": "Card",
-                "declaredForCatalogId": "Card",
+                "declaredForCatalogId": "ImageCard",
                 "group": null,
                 "displayName": null,
                 "canvas": "glimmer/card",
+                "stateCallbacks": [],
+                "starter": [],
+                "slots": [],
+                "traits": [],
+                "variantProperty": null,
+                "variants": [],
+                "nativeOnly": false,
+                "exclude": null,
+                "declaredBy": [
+                    "ee.schimke.m3catalog.glimmer.CardsKt.CardNoImageSticker"
+                ],
+                "conflicting": [],
+                "ambiguousWith": [],
+                "malformed": []
+            },
+            "requiredOptIns": [],
+            "androidxOptIns": []
+        },
+        {
+            "canonicalId": "catalog/androidx.xr.glimmer.CardKt.ImageCard",
+            "componentIds": [
+                "ImageCard"
+            ],
+            "symbol": {
+                "jvmOwner": "androidx.xr.glimmer.CardKt",
+                "callable": "androidx.xr.glimmer.ImageCard",
+                "name": "ImageCard",
+                "origin": "LIBRARY",
+                "jvmName": "ImageCard-xOHPqjQ",
+                "descriptor": "(Lkotlin/jvm/functions/Function2;Landroidx/compose/ui/Modifier;Lkotlin/jvm/functions/Function2;Lkotlin/jvm/functions/Function2;Lkotlin/jvm/functions/Function2;Lkotlin/jvm/functions/Function2;Landroidx/compose/ui/graphics/Shape;JJLandroidx/compose/foundation/layout/PaddingValues;Landroidx/compose/foundation/interaction/MutableInteractionSource;Lkotlin/jvm/functions/Function2;Landroidx/compose/runtime/Composer;III)V",
+                "sourceFile": null,
+                "docs": "unavailable",
+                "receiver": null
+            },
+            "parameters": [
+                {
+                    "name": "image",
+                    "type": "() -> Unit",
+                    "typeFqn": "kotlin.Function0",
+                    "hasDefault": false,
+                    "composableSlot": true,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
+                },
+                {
+                    "name": "modifier",
+                    "type": "Modifier",
+                    "typeFqn": "androidx.compose.ui.Modifier",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "title",
+                    "type": "(() -> Unit)?",
+                    "typeFqn": "kotlin.Function0",
+                    "hasDefault": true,
+                    "composableSlot": true,
+                    "composableSlotReceiver": null,
+                    "nullable": true,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
+                },
+                {
+                    "name": "subtitle",
+                    "type": "(() -> Unit)?",
+                    "typeFqn": "kotlin.Function0",
+                    "hasDefault": true,
+                    "composableSlot": true,
+                    "composableSlotReceiver": null,
+                    "nullable": true,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
+                },
+                {
+                    "name": "leadingIcon",
+                    "type": "(() -> Unit)?",
+                    "typeFqn": "kotlin.Function0",
+                    "hasDefault": true,
+                    "composableSlot": true,
+                    "composableSlotReceiver": null,
+                    "nullable": true,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
+                },
+                {
+                    "name": "trailingIcon",
+                    "type": "(() -> Unit)?",
+                    "typeFqn": "kotlin.Function0",
+                    "hasDefault": true,
+                    "composableSlot": true,
+                    "composableSlotReceiver": null,
+                    "nullable": true,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
+                },
+                {
+                    "name": "shape",
+                    "type": "Shape",
+                    "typeFqn": "androidx.compose.ui.graphics.Shape",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "color",
+                    "type": "Color",
+                    "typeFqn": "androidx.compose.ui.graphics.Color",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "contentColor",
+                    "type": "Color",
+                    "typeFqn": "androidx.compose.ui.graphics.Color",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "contentPadding",
+                    "type": "PaddingValues",
+                    "typeFqn": "androidx.compose.foundation.layout.PaddingValues",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "interactionSource",
+                    "type": "MutableInteractionSource?",
+                    "typeFqn": "androidx.compose.foundation.interaction.MutableInteractionSource",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": true,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "content",
+                    "type": "() -> Unit",
+                    "typeFqn": "kotlin.Function0",
+                    "hasDefault": false,
+                    "composableSlot": true,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
+                }
+            ],
+            "slots": [
+                {
+                    "name": "image",
+                    "required": true,
+                    "receiverScope": null
+                },
+                {
+                    "name": "title",
+                    "required": false,
+                    "receiverScope": null
+                },
+                {
+                    "name": "subtitle",
+                    "required": false,
+                    "receiverScope": null
+                },
+                {
+                    "name": "leadingIcon",
+                    "required": false,
+                    "receiverScope": null
+                },
+                {
+                    "name": "trailingIcon",
+                    "required": false,
+                    "receiverScope": null
+                },
+                {
+                    "name": "content",
+                    "required": true,
+                    "receiverScope": null
+                }
+            ],
+            "bindings": [
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.CardsKt.CardSticker",
+                    "componentId": "ImageCard",
+                    "group": "Card"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.GlimmerEnvironmentsKt.CardOnBusyEnvironment",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.GlimmerEnvironmentsKt.CardOnDarkEnvironment",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.GlimmerEnvironmentsKt.CardOnLightEnvironment",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.GlimmerEnvironmentsKt.CardOnVeniceCanalCatsEnvironment",
+                    "componentId": null,
+                    "group": null
+                }
+            ],
+            "code": {
+                "call": "ImageCard(image = {}, content = {})",
+                "imports": [
+                    "androidx.xr.glimmer.ImageCard"
+                ],
+                "refusedReason": null,
+                "requiredOptIns": [],
+                "androidxOptIns": []
+            },
+            "signatureKnown": true,
+            "callableFromAnotherFile": true,
+            "hasTypeParameters": false,
+            "hasContextReceivers": false,
+            "overloadsCollided": false,
+            "builder": {
+                "id": null,
+                "component": "ImageCard",
+                "declaredForCatalogId": "ImageCard",
+                "group": null,
+                "displayName": null,
+                "canvas": "glimmer/image-card",
                 "stateCallbacks": [],
                 "starter": [],
                 "slots": [],
@@ -1225,11 +1441,11 @@
             "componentIds": [
                 "Button",
                 "ButtonGroup",
-                "Card",
                 "GlimmerLazyColumn",
                 "GlimmerLazyColumn/TwoLine",
                 "IconButton",
                 "IconToggleButton",
+                "ImageCard",
                 "ListItem",
                 "TitleChip",
                 "ToggleButton"
@@ -1409,13 +1625,18 @@
                     "group": "Button"
                 },
                 {
+                    "previewId": "ee.schimke.m3catalog.glimmer.CardsKt.CardNoImageSticker",
+                    "componentId": "ImageCard",
+                    "group": null
+                },
+                {
                     "previewId": "ee.schimke.m3catalog.glimmer.CardsKt.CardSticker",
-                    "componentId": "Card",
+                    "componentId": "ImageCard",
                     "group": "Card"
                 },
                 {
                     "previewId": "ee.schimke.m3catalog.glimmer.CardsKt.CardTrailingIconSticker",
-                    "componentId": "Card",
+                    "componentId": "ImageCard",
                     "group": null
                 },
                 {
@@ -2081,9 +2302,9 @@
             "componentIds": [
                 "Button",
                 "ButtonGroup",
-                "Card",
                 "GlimmerLazyColumn",
                 "GlimmerLazyColumn/TwoLine",
+                "ImageCard",
                 "ListItem",
                 "TitleChip",
                 "ToggleButton",
@@ -2465,22 +2686,27 @@
                 },
                 {
                     "previewId": "ee.schimke.m3catalog.glimmer.CardsKt.CardActionSticker",
-                    "componentId": "Card",
+                    "componentId": "ImageCard",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.CardsKt.CardNoImageSticker",
+                    "componentId": "ImageCard",
                     "group": null
                 },
                 {
                     "previewId": "ee.schimke.m3catalog.glimmer.CardsKt.CardSticker",
-                    "componentId": "Card",
+                    "componentId": "ImageCard",
                     "group": "Card"
                 },
                 {
                     "previewId": "ee.schimke.m3catalog.glimmer.CardsKt.CardTextOnlySticker",
-                    "componentId": "Card",
+                    "componentId": "ImageCard",
                     "group": null
                 },
                 {
                     "previewId": "ee.schimke.m3catalog.glimmer.CardsKt.CardTrailingIconSticker",
-                    "componentId": "Card",
+                    "componentId": "ImageCard",
                     "group": null
                 },
                 {
@@ -3644,9 +3870,9 @@
             "canonicalId": "catalog/ee.schimke.m3catalog.glimmer.GlimmerCatalogKt.Sticker",
             "componentIds": [
                 "ButtonGroup",
-                "Card",
                 "GlimmerLazyColumn",
                 "IconToggleButton",
+                "ImageCard",
                 "TitleChip",
                 "ToggleButton",
                 "VerticalStack",
@@ -3718,7 +3944,7 @@
                 },
                 {
                     "previewId": "ee.schimke.m3catalog.glimmer.CardsKt.CardTextOnlySticker",
-                    "componentId": "Card",
+                    "componentId": "ImageCard",
                     "group": null
                 },
                 {

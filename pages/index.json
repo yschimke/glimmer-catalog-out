@@ -1820,7 +1820,7 @@
           "ref": "figma:HKfLClZDLRyMhf4IQQLna8/416:2700",
           "link": "manifest",
           "code": "catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/Cards.kt#CardSticker",
-          "previewId": "card__ideal__default",
+          "previewId": "imagecard__ideal__default",
           "confidence": "high"
         }
       ]
