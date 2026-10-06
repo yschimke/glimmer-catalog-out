@@ -1102,5 +1102,117 @@
     "renderBasename": "TypographyDefaultPreview-06be4c88.png",
     "sha256": "3f09019090b8c03dc9f90f7fcce593434be98566610be1ef84952036eafc78c2",
     "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/TypographySamples.kt"
+  },
+  "samples-catalog/ee.schimke.m3catalog.glimmersamples.AlertDialogSamplePreviewsKt.AlertDialogConfirmOnlySamplePreview": {
+    "captureLabel": "",
+    "functionName": "AlertDialogConfirmOnlySamplePreview",
+    "module": "samples-catalog",
+    "renderBasename": "AlertDialogConfirmOnlySamplePreview-49cb0056.png",
+    "sha256": "fa7cb5926475cc81d034fa86fdfddac44cc404240475418f47d349f89f3806d2",
+    "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmersamples/AlertDialogSamplePreviews.kt"
+  },
+  "samples-catalog/ee.schimke.m3catalog.glimmersamples.AlertDialogSamplePreviewsKt.AlertDialogSamplePreview": {
+    "captureLabel": "",
+    "functionName": "AlertDialogSamplePreview",
+    "module": "samples-catalog",
+    "renderBasename": "AlertDialogSamplePreview-b16eb86e.png",
+    "sha256": "c0bcdd7436a7e7e42901e0c745c41718df10b4f8d3c01027be2a5a00766e3bf8",
+    "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmersamples/AlertDialogSamplePreviews.kt"
+  },
+  "samples-catalog/ee.schimke.m3catalog.glimmersamples.ButtonGroupSamplePreviewsKt.ButtonGroupControlCurrentItemSamplePreview": {
+    "captureLabel": "",
+    "functionName": "ButtonGroupControlCurrentItemSamplePreview",
+    "module": "samples-catalog",
+    "renderBasename": "ButtonGroupControlCurrentItemSamplePreview-dbbc4546.png",
+    "sha256": "6c83138526c8b0ab1caee42b78c9588d70d698d53d16311a564fd26223143adc",
+    "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmersamples/ButtonGroupSamplePreviews.kt"
+  },
+  "samples-catalog/ee.schimke.m3catalog.glimmersamples.CardSamplePreviewsKt.ClickableCardSamplePreview": {
+    "captureLabel": "",
+    "functionName": "ClickableCardSamplePreview",
+    "module": "samples-catalog",
+    "renderBasename": "ClickableCardSamplePreview-fadc9bca.png",
+    "sha256": "6ec88dcc577687397aade0a04b960e32287ec2ddd0400947cd5a3af70d8f0dba",
+    "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmersamples/CardSamplePreviews.kt"
+  },
+  "samples-catalog/ee.schimke.m3catalog.glimmersamples.CardSamplePreviewsKt.ClickableCardWithTitleAndSubtitleAndLeadingIconSamplePreview": {
+    "captureLabel": "",
+    "functionName": "ClickableCardWithTitleAndSubtitleAndLeadingIconSamplePreview",
+    "module": "samples-catalog",
+    "renderBasename": "ClickableCardWithTitleAndSubtitleAndLeadingIconSamplePreview-72889075.png",
+    "sha256": "7f3b8284369d8f85687aaf63eaf195a4f02724dce0be33f6edfa9b90a1dc214f",
+    "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmersamples/CardSamplePreviews.kt"
+  },
+  "samples-catalog/ee.schimke.m3catalog.glimmersamples.CardSamplePreviewsKt.ClickableCardWithTrailingIconSamplePreview": {
+    "captureLabel": "",
+    "functionName": "ClickableCardWithTrailingIconSamplePreview",
+    "module": "samples-catalog",
+    "renderBasename": "ClickableCardWithTrailingIconSamplePreview-05abf64d.png",
+    "sha256": "b723949647cce42d032b365aa147a4bf5d8b6240308a2c8df6dd5732eab298f4",
+    "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmersamples/CardSamplePreviews.kt"
+  },
+  "samples-catalog/ee.schimke.m3catalog.glimmersamples.CardSamplePreviewsKt.ClickableImageCardSamplePreview": {
+    "captureLabel": "",
+    "functionName": "ClickableImageCardSamplePreview",
+    "module": "samples-catalog",
+    "renderBasename": "ClickableImageCardSamplePreview-a187dd4c.png",
+    "sha256": "3291f89c88813d5cd687ce24bb0d69b949a0c90f19130716f0748b3c526f6662",
+    "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmersamples/CardSamplePreviews.kt"
+  },
+  "samples-catalog/ee.schimke.m3catalog.glimmersamples.CardSamplePreviewsKt.ClickableImageCardWithTitleAndSubtitleAndLeadingIconSamplePreview": {
+    "captureLabel": "",
+    "functionName": "ClickableImageCardWithTitleAndSubtitleAndLeadingIconSamplePreview",
+    "module": "samples-catalog",
+    "renderBasename": "ClickableImageCardWithTitleAndSubtitleAndLeadingIconSamplePreview-7c695182.png",
+    "sha256": "6e32a95042557752c58528b3a797f4f2d034eb8d73fd792ccf2682af94fa3d02",
+    "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmersamples/CardSamplePreviews.kt"
+  },
+  "samples-catalog/ee.schimke.m3catalog.glimmersamples.GlimmerPagerSamplePreviewsKt.GlimmerPagerStateAnimateScrollToPageSamplePreview": {
+    "captureLabel": "",
+    "functionName": "GlimmerPagerStateAnimateScrollToPageSamplePreview",
+    "module": "samples-catalog",
+    "renderBasename": "GlimmerPagerStateAnimateScrollToPageSamplePreview-4a421202.png",
+    "sha256": "af27668ad894134d71f462c038a08aa8c991acdcbf27e98a091514e6ec6ca93e",
+    "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmersamples/GlimmerPagerSamplePreviews.kt"
+  },
+  "samples-catalog/ee.schimke.m3catalog.glimmersamples.GlimmerPagerSamplePreviewsKt.GlimmerPagerStateCustomAnimateScrollToPageSamplePreview": {
+    "captureLabel": "",
+    "functionName": "GlimmerPagerStateCustomAnimateScrollToPageSamplePreview",
+    "module": "samples-catalog",
+    "renderBasename": "GlimmerPagerStateCustomAnimateScrollToPageSamplePreview-510f4944.png",
+    "sha256": "af27668ad894134d71f462c038a08aa8c991acdcbf27e98a091514e6ec6ca93e",
+    "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmersamples/GlimmerPagerSamplePreviews.kt"
+  },
+  "samples-catalog/ee.schimke.m3catalog.glimmersamples.GlimmerPagerSamplePreviewsKt.GlimmerPagerStateScrollToPageSamplePreview": {
+    "captureLabel": "",
+    "functionName": "GlimmerPagerStateScrollToPageSamplePreview",
+    "module": "samples-catalog",
+    "renderBasename": "GlimmerPagerStateScrollToPageSamplePreview-692dcd29.png",
+    "sha256": "af27668ad894134d71f462c038a08aa8c991acdcbf27e98a091514e6ec6ca93e",
+    "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmersamples/GlimmerPagerSamplePreviews.kt"
+  },
+  "samples-catalog/ee.schimke.m3catalog.glimmersamples.StackSamplePreviewsKt.VerticalStackWithMultipleShapesSamplePreview": {
+    "captureLabel": "",
+    "functionName": "VerticalStackWithMultipleShapesSamplePreview",
+    "module": "samples-catalog",
+    "renderBasename": "VerticalStackWithMultipleShapesSamplePreview-ce9932bb.png",
+    "sha256": "a5c9e33f07530f3c4c75fab4b95611e1ef764df45f830ab34a29fe7d2d325a14",
+    "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmersamples/StackSamplePreviews.kt"
+  },
+  "samples-catalog/ee.schimke.m3catalog.glimmersamples.SurfaceSamplePreviewsKt.CustomFocusedColorSurfaceSamplePreview": {
+    "captureLabel": "",
+    "functionName": "CustomFocusedColorSurfaceSamplePreview",
+    "module": "samples-catalog",
+    "renderBasename": "CustomFocusedColorSurfaceSamplePreview-cc9e0943.png",
+    "sha256": "7e3dd71fba481867b0090a3cef3ca31e2350f9a3a9e3867615e1c639173e1206",
+    "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmersamples/SurfaceSamplePreviews.kt"
+  },
+  "samples-catalog/ee.schimke.m3catalog.glimmersamples.VoiceInputIndicatorSamplePreviewsKt.VoiceInputIndicatorSampleUsagePreview": {
+    "captureLabel": "",
+    "functionName": "VoiceInputIndicatorSampleUsagePreview",
+    "module": "samples-catalog",
+    "renderBasename": "VoiceInputIndicatorSampleUsagePreview-1ff482ac.png",
+    "sha256": "f529e71dd1942c1e7e4356d40f4a24937ac3c567fb560e6546e05ad71dea1d6a",
+    "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmersamples/VoiceInputIndicatorSamplePreviews.kt"
   }
 }
