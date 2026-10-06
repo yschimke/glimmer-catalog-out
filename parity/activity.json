@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-06T19:29:30.923Z",
+  "generatedAt": "2026-10-06T19:40:17.587Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/glimmer-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "b08897d84a7dd94bddbf0a731b726ac4a152b4d9",
+        "subject": "feat: draw the kit's Stack Type=Home cell (#26)",
+        "at": "2026-10-06T20:32:11+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "74893f56070cdbf2e3d44a393de71c8d46fa723a",
         "subject": "feat: draw the kit's focus-position cells for Button group and lists (#25)",
