@@ -1,6 +1,6 @@
 {
     "formatVersion": "compose-preview-history/v1",
-    "generatedFrom": "b914ab90599d44130bc4aabaaf48983856aab0cf",
+    "generatedFrom": "610e24870804a35eb2ee49f654e3a6c3ac538c10",
     "previews": {
         "catalog/ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker": {
             "path": "renders/catalog/ButtonGroupSticker-bf99a803.png",
@@ -2072,6 +2072,216 @@
                     "commit": "5d8a7f1ee16a5af1d513ceabf2b8b54fd7369d17",
                     "date": "2026-10-02T09:35:56Z",
                     "sourceSha": "6f6643c9",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples-catalog/ee.schimke.m3catalog.glimmersamples.AlertDialogSamplePreviewsKt.AlertDialogConfirmOnlySamplePreview": {
+            "path": "renders/samples-catalog/AlertDialogConfirmOnlySamplePreview-49cb0056.png",
+            "versions": [
+                {
+                    "blob": "ab20f7b77d40b2aadf67dae797ac494929e37795",
+                    "commit": "610e24870804a35eb2ee49f654e3a6c3ac538c10",
+                    "date": "2026-10-06T21:07:03Z",
+                    "sourceSha": "f659ab89",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples-catalog/ee.schimke.m3catalog.glimmersamples.AlertDialogSamplePreviewsKt.AlertDialogSamplePreview": {
+            "path": "renders/samples-catalog/AlertDialogSamplePreview-b16eb86e.png",
+            "versions": [
+                {
+                    "blob": "e946d775c667c288438a69defd222e7de605c904",
+                    "commit": "610e24870804a35eb2ee49f654e3a6c3ac538c10",
+                    "date": "2026-10-06T21:07:03Z",
+                    "sourceSha": "f659ab89",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples-catalog/ee.schimke.m3catalog.glimmersamples.ButtonGroupSamplePreviewsKt.ButtonGroupControlCurrentItemSamplePreview": {
+            "path": "renders/samples-catalog/ButtonGroupControlCurrentItemSamplePreview-dbbc4546.png",
+            "versions": [
+                {
+                    "blob": "065fb42a754135f62613490d31777c78ca64a674",
+                    "commit": "610e24870804a35eb2ee49f654e3a6c3ac538c10",
+                    "date": "2026-10-06T21:07:03Z",
+                    "sourceSha": "f659ab89",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples-catalog/ee.schimke.m3catalog.glimmersamples.CardSamplePreviewsKt.ClickableCardSamplePreview": {
+            "path": "renders/samples-catalog/ClickableCardSamplePreview-fadc9bca.png",
+            "versions": [
+                {
+                    "blob": "b9f22230e600ad1283cbba797dfdcc081d1b6e69",
+                    "commit": "610e24870804a35eb2ee49f654e3a6c3ac538c10",
+                    "date": "2026-10-06T21:07:03Z",
+                    "sourceSha": "f659ab89",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples-catalog/ee.schimke.m3catalog.glimmersamples.CardSamplePreviewsKt.ClickableCardWithTitleAndSubtitleAndLeadingIconSamplePreview": {
+            "path": "renders/samples-catalog/ClickableCardWithTitleAndSubtitleAndLeadingIconSamplePreview-72889075.png",
+            "versions": [
+                {
+                    "blob": "d07ee8e05c0d6a2ab797409d14111a584c0e5164",
+                    "commit": "610e24870804a35eb2ee49f654e3a6c3ac538c10",
+                    "date": "2026-10-06T21:07:03Z",
+                    "sourceSha": "f659ab89",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples-catalog/ee.schimke.m3catalog.glimmersamples.CardSamplePreviewsKt.ClickableCardWithTrailingIconSamplePreview": {
+            "path": "renders/samples-catalog/ClickableCardWithTrailingIconSamplePreview-05abf64d.png",
+            "versions": [
+                {
+                    "blob": "525edabf15b0098be65f6f36a3efbecb7830a0fb",
+                    "commit": "610e24870804a35eb2ee49f654e3a6c3ac538c10",
+                    "date": "2026-10-06T21:07:03Z",
+                    "sourceSha": "f659ab89",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples-catalog/ee.schimke.m3catalog.glimmersamples.CardSamplePreviewsKt.ClickableImageCardSamplePreview": {
+            "path": "renders/samples-catalog/ClickableImageCardSamplePreview-a187dd4c.png",
+            "versions": [
+                {
+                    "blob": "9bbe083fbd46dfb2e5a08e35d376f90a9b1ce474",
+                    "commit": "610e24870804a35eb2ee49f654e3a6c3ac538c10",
+                    "date": "2026-10-06T21:07:03Z",
+                    "sourceSha": "f659ab89",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples-catalog/ee.schimke.m3catalog.glimmersamples.CardSamplePreviewsKt.ClickableImageCardWithTitleAndSubtitleAndLeadingIconSamplePreview": {
+            "path": "renders/samples-catalog/ClickableImageCardWithTitleAndSubtitleAndLeadingIconSamplePreview-7c695182.png",
+            "versions": [
+                {
+                    "blob": "6f1c38300470d965ff0ac3558c5bc35c9c54b2a6",
+                    "commit": "610e24870804a35eb2ee49f654e3a6c3ac538c10",
+                    "date": "2026-10-06T21:07:03Z",
+                    "sourceSha": "f659ab89",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples-catalog/ee.schimke.m3catalog.glimmersamples.GlimmerPagerSamplePreviewsKt.GlimmerPagerStateAnimateScrollToPageSamplePreview": {
+            "path": "renders/samples-catalog/GlimmerPagerStateAnimateScrollToPageSamplePreview-4a421202.png",
+            "versions": [
+                {
+                    "blob": "f63b4d9a35e7ae7d29917530cbd96c6563052f5e",
+                    "commit": "610e24870804a35eb2ee49f654e3a6c3ac538c10",
+                    "date": "2026-10-06T21:07:03Z",
+                    "sourceSha": "f659ab89",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples-catalog/ee.schimke.m3catalog.glimmersamples.GlimmerPagerSamplePreviewsKt.GlimmerPagerStateCustomAnimateScrollToPageSamplePreview": {
+            "path": "renders/samples-catalog/GlimmerPagerStateCustomAnimateScrollToPageSamplePreview-510f4944.png",
+            "versions": [
+                {
+                    "blob": "f63b4d9a35e7ae7d29917530cbd96c6563052f5e",
+                    "commit": "610e24870804a35eb2ee49f654e3a6c3ac538c10",
+                    "date": "2026-10-06T21:07:03Z",
+                    "sourceSha": "f659ab89",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples-catalog/ee.schimke.m3catalog.glimmersamples.GlimmerPagerSamplePreviewsKt.GlimmerPagerStateScrollToPageSamplePreview": {
+            "path": "renders/samples-catalog/GlimmerPagerStateScrollToPageSamplePreview-692dcd29.png",
+            "versions": [
+                {
+                    "blob": "f63b4d9a35e7ae7d29917530cbd96c6563052f5e",
+                    "commit": "610e24870804a35eb2ee49f654e3a6c3ac538c10",
+                    "date": "2026-10-06T21:07:03Z",
+                    "sourceSha": "f659ab89",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples-catalog/ee.schimke.m3catalog.glimmersamples.StackSamplePreviewsKt.VerticalStackWithMultipleShapesSamplePreview": {
+            "path": "renders/samples-catalog/VerticalStackWithMultipleShapesSamplePreview-ce9932bb.png",
+            "versions": [
+                {
+                    "blob": "4251953f171e42cfa89f331c63993f515839b431",
+                    "commit": "610e24870804a35eb2ee49f654e3a6c3ac538c10",
+                    "date": "2026-10-06T21:07:03Z",
+                    "sourceSha": "f659ab89",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples-catalog/ee.schimke.m3catalog.glimmersamples.SurfaceSamplePreviewsKt.CustomFocusedColorSurfaceSamplePreview": {
+            "path": "renders/samples-catalog/CustomFocusedColorSurfaceSamplePreview-cc9e0943.png",
+            "versions": [
+                {
+                    "blob": "533bae41091a7dbf1f9e49b8ad6726ed5f17c235",
+                    "commit": "610e24870804a35eb2ee49f654e3a6c3ac538c10",
+                    "date": "2026-10-06T21:07:03Z",
+                    "sourceSha": "f659ab89",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples-catalog/ee.schimke.m3catalog.glimmersamples.VoiceInputIndicatorSamplePreviewsKt.VoiceInputIndicatorSampleUsagePreview": {
+            "path": "renders/samples-catalog/VoiceInputIndicatorSampleUsagePreview-1ff482ac.png",
+            "versions": [
+                {
+                    "blob": "2c785cd0f72e5c4087c659ece7472ae5b8444bc7",
+                    "commit": "610e24870804a35eb2ee49f654e3a6c3ac538c10",
+                    "date": "2026-10-06T21:07:03Z",
+                    "sourceSha": "f659ab89",
                     "commits": 1
                 }
             ],
