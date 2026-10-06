@@ -207,6 +207,14 @@
     "sha256": "99a739f46768eb760cf984b0bd31b4dcca508a75a77b44dad771f3c283bc395e",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/Cards.kt"
   },
+  "catalog/ee.schimke.m3catalog.glimmer.CardsKt.CardNoImageSticker": {
+    "captureLabel": "",
+    "functionName": "CardNoImageSticker",
+    "module": "catalog",
+    "renderBasename": "CardNoImageSticker-1cd0c7cb.png",
+    "sha256": "de4674286757987e62e13a2de73c05d958d191571a38c6046ff2b2122184f2ce",
+    "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/Cards.kt"
+  },
   "catalog/ee.schimke.m3catalog.glimmer.CardsKt.CardSticker": {
     "captureLabel": "",
     "functionName": "CardSticker",
@@ -591,12 +599,12 @@
     "sha256": "9aaa179386a36f1396dcf255884c618415bd127dffc7b4b8f58b0e4ad46940c2",
     "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/ButtonSamples.kt"
   },
-  "samples-catalog/androidx.xr.glimmer.samples.CardSamplesKt.ActionCardWithTitleAndLeadingIconAndHeaderPreview": {
+  "samples-catalog/androidx.xr.glimmer.samples.CardSamplesKt.ActionCardWithTitleAndLeadingIconPreview": {
     "captureLabel": "",
-    "functionName": "ActionCardWithTitleAndLeadingIconAndHeaderPreview",
+    "functionName": "ActionCardWithTitleAndLeadingIconPreview",
     "module": "samples-catalog",
-    "renderBasename": "ActionCardWithTitleAndLeadingIconAndHeaderPreview-326b77d9.png",
-    "sha256": "02a26756441663ad45d82225c6833a29ae1b9fad693c90bca339b7aa6a3232f7",
+    "renderBasename": "ActionCardWithTitleAndLeadingIconPreview-1e5bc691.png",
+    "sha256": "abe2be94675bf844d64896cad3115df75e05a036144e0769678ff7d9408d56f9",
     "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/CardSamples.kt"
   },
   "samples-catalog/androidx.xr.glimmer.samples.CardSamplesKt.ActionCardWithTitlePreview": {
@@ -604,7 +612,7 @@
     "functionName": "ActionCardWithTitlePreview",
     "module": "samples-catalog",
     "renderBasename": "ActionCardWithTitlePreview-9cd5470d.png",
-    "sha256": "6e6c335126f3314ff2ca16a126493dc100fae90e242c24db42617330a867c273",
+    "sha256": "46394652ec6a84d954c7d18252ddb3fcc78e482ebddfc6a8eca722a60d11deae",
     "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/CardSamples.kt"
   },
   "samples-catalog/androidx.xr.glimmer.samples.CardSamplesKt.CardPreview": {
@@ -621,22 +629,6 @@
     "module": "samples-catalog",
     "renderBasename": "CardWithLongTextPreview-e1230935.png",
     "sha256": "6f82c9c1fbf2cd76d3d0cc838764f352ce564e0a338ca810020ac1392b921a08",
-    "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/CardSamples.kt"
-  },
-  "samples-catalog/androidx.xr.glimmer.samples.CardSamplesKt.CardWithTitleAndHeaderPreview": {
-    "captureLabel": "",
-    "functionName": "CardWithTitleAndHeaderPreview",
-    "module": "samples-catalog",
-    "renderBasename": "CardWithTitleAndHeaderPreview-af06a79a.png",
-    "sha256": "022b8b1d065e36f75e631950585410533b046ca7f3f846204a79d754c128bda2",
-    "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/CardSamples.kt"
-  },
-  "samples-catalog/androidx.xr.glimmer.samples.CardSamplesKt.CardWithTitleAndLeadingIconAndHeaderPreview": {
-    "captureLabel": "",
-    "functionName": "CardWithTitleAndLeadingIconAndHeaderPreview",
-    "module": "samples-catalog",
-    "renderBasename": "CardWithTitleAndLeadingIconAndHeaderPreview-e0d9f546.png",
-    "sha256": "50fd289b43933cc9577eb27b48f13e3ab90ad9a7b35ee2890adad94361575d57",
     "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/CardSamples.kt"
   },
   "samples-catalog/androidx.xr.glimmer.samples.CardSamplesKt.CardWithTitleAndSubtitleAndLeadingIconAndTrailingIconLongTextPreview": {
@@ -669,6 +661,38 @@
     "module": "samples-catalog",
     "renderBasename": "CardWithTrailingIconPreview-f6ba1370.png",
     "sha256": "b723949647cce42d032b365aa147a4bf5d8b6240308a2c8df6dd5732eab298f4",
+    "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/CardSamples.kt"
+  },
+  "samples-catalog/androidx.xr.glimmer.samples.CardSamplesKt.ImageCardPreview": {
+    "captureLabel": "",
+    "functionName": "ImageCardPreview",
+    "module": "samples-catalog",
+    "renderBasename": "ImageCardPreview-c56eca98.png",
+    "sha256": "3291f89c88813d5cd687ce24bb0d69b949a0c90f19130716f0748b3c526f6662",
+    "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/CardSamples.kt"
+  },
+  "samples-catalog/androidx.xr.glimmer.samples.CardSamplesKt.ImageCardWithTitleAndSubtitleAndLeadingIconPreview": {
+    "captureLabel": "",
+    "functionName": "ImageCardWithTitleAndSubtitleAndLeadingIconPreview",
+    "module": "samples-catalog",
+    "renderBasename": "ImageCardWithTitleAndSubtitleAndLeadingIconPreview-c8e19722.png",
+    "sha256": "6e32a95042557752c58528b3a797f4f2d034eb8d73fd792ccf2682af94fa3d02",
+    "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/CardSamples.kt"
+  },
+  "samples-catalog/androidx.xr.glimmer.samples.CardSamplesKt.LeadingImageCardPreview": {
+    "captureLabel": "",
+    "functionName": "LeadingImageCardPreview",
+    "module": "samples-catalog",
+    "renderBasename": "LeadingImageCardPreview-12431856.png",
+    "sha256": "2a396f65b15f331837ab82099047f53c27c617b2e24a69f0ee82e2095294ab40",
+    "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/CardSamples.kt"
+  },
+  "samples-catalog/androidx.xr.glimmer.samples.CardSamplesKt.TrailingImageCardPreview": {
+    "captureLabel": "",
+    "functionName": "TrailingImageCardPreview",
+    "module": "samples-catalog",
+    "renderBasename": "TrailingImageCardPreview-bca4eb9f.png",
+    "sha256": "d72e7e77265ed09a100ddcf5d1b475f174f9c7f6dc6fee65cd0e4661e28065ba",
     "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/CardSamples.kt"
   },
   "samples-catalog/androidx.xr.glimmer.samples.ColorsSamplesKt.ColorsPreview": {
@@ -718,6 +742,22 @@
     "renderBasename": "IconButtonPreview-f6f6af5b.png",
     "sha256": "e1a92ce2960998af68cd7b0ff5774e69bed4ca1a6e7be45c2929190454b93906",
     "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/IconButtonSamples.kt"
+  },
+  "samples-catalog/androidx.xr.glimmer.samples.IconMarkerSamplesKt.IconMarkerPreview": {
+    "captureLabel": "",
+    "functionName": "IconMarkerPreview",
+    "module": "samples-catalog",
+    "renderBasename": "IconMarkerPreview-62510f91.png",
+    "sha256": "7c47d944a009df10cb84214dd9db4ddb71b5cdfacf28d97e609b632b391a9589",
+    "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/IconMarkerSamples.kt"
+  },
+  "samples-catalog/androidx.xr.glimmer.samples.IconMarkerSamplesKt.IconMarkerWithCustomIconSamplePreview": {
+    "captureLabel": "",
+    "functionName": "IconMarkerWithCustomIconSamplePreview",
+    "module": "samples-catalog",
+    "renderBasename": "IconMarkerWithCustomIconSamplePreview-2f377aab.png",
+    "sha256": "77d9858aa145a611d8d87e9fdd3b34ee1f9322054eaa7a4103f5844f302d9af8",
+    "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/IconMarkerSamples.kt"
   },
   "samples-catalog/androidx.xr.glimmer.samples.IconSamplesKt.IconPreview": {
     "captureLabel": "",
