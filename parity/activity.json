@@ -1,11 +1,35 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-06T21:38:19.180Z",
+  "generatedAt": "2026-10-07T22:15:37.031Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/glimmer-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "9c07995395e369b46b1ca64232be4f53b48faa07",
+        "subject": "chore(deps): update compose-preview to v2.35.0 (#20)",
+        "at": "2026-10-07T22:00:10Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "4bc3218577a86551318b94b20f9320c75e8a8b0b",
+        "subject": "ci: add the Conventional Commit title check (#31)",
+        "at": "2026-10-07T21:53:37+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "cf30cfabfc25684e3bfda492df560dea10409af4",
+        "subject": "chore: merge Renovate PRs with GitHub auto-merge (#30)",
+        "at": "2026-10-07T21:30:36+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "451b21c54fee8a25c0f7bb908576232b1c0b1838",
         "subject": "feat: draw the kit's last three list Bottom cells (#29)",
