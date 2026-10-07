@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-07T22:15:37.031Z",
+  "generatedAt": "2026-10-07T22:42:13.044Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/glimmer-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "666b64dedcd7d6cf5a464bb673a2b2c05188e9ba",
+        "subject": "fix(deps): let the daemon BOM lead the plugin, as in wear-m3-catalog (#32)",
+        "at": "2026-10-07T23:17:51+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "9c07995395e369b46b1ca64232be4f53b48faa07",
         "subject": "chore(deps): update compose-preview to v2.35.0 (#20)",
