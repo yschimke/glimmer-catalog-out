@@ -231,23 +231,23 @@
           {
             "kind": "visual",
             "severity": "info",
-            "message": "default: reference and candidate differ slightly in size (130×43 vs 130×48); compared over their overlap",
+            "message": "default: reference and candidate differ slightly in size (141×46 vs 141×48); compared over their overlap",
             "detail": {
               "key": "default",
               "dw": "0",
-              "dh": "-5",
-              "borderPixels": "650",
-              "contentPixels": "774"
+              "dh": "-2",
+              "borderPixels": "282",
+              "contentPixels": "616"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "default: 22.8% of pixels differ from reference",
+            "message": "default: 13.3% of pixels differ from reference",
             "detail": {
               "key": "default",
-              "score": "0.228205",
-              "diffPixels": "1424"
+              "score": "0.132683",
+              "diffPixels": "898"
             }
           },
           {
@@ -297,23 +297,23 @@
           {
             "kind": "visual",
             "severity": "info",
-            "message": "pressed: reference and candidate differ slightly in size (130×43 vs 130×48); compared over their overlap",
+            "message": "pressed: reference and candidate differ slightly in size (141×46 vs 141×48); compared over their overlap",
             "detail": {
               "key": "pressed",
               "dw": "0",
-              "dh": "-5",
-              "borderPixels": "650",
-              "contentPixels": "2855"
+              "dh": "-2",
+              "borderPixels": "282",
+              "contentPixels": "2815"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "pressed: 56.2% of pixels differ from reference",
+            "message": "pressed: 45.8% of pixels differ from reference",
             "detail": {
               "key": "pressed",
-              "score": "0.561699",
-              "diffPixels": "3505"
+              "score": "0.457595",
+              "diffPixels": "3097"
             }
           },
           {
@@ -341,34 +341,23 @@
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "Large-disabled: reference 130×57 vs candidate 130×72; compared over their 130×57 overlap, 20.8% of the frame uncovered",
+            "message": "Large-disabled: reference 141×62 vs candidate 141×72; compared over their 141×62 overlap, 13.9% of the frame uncovered",
             "detail": {
               "key": "Large-disabled",
               "dw": "0",
-              "dh": "-15",
-              "borderPixels": "1950",
-              "contentPixels": "1560"
+              "dh": "-10",
+              "borderPixels": "1410",
+              "contentPixels": "1666"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "Large-disabled: 1.9% of aligned pixels are opaque in the reference but transparent in the candidate",
+            "message": "Large-disabled: 30.3% of pixels differ from reference",
             "detail": {
               "key": "Large-disabled",
-              "alphaLossRatio": "0.018758",
-              "alphaLossPixels": "139",
-              "alphaComparedPixels": "7410"
-            }
-          },
-          {
-            "kind": "visual",
-            "severity": "warn",
-            "message": "Large-disabled: 37.5% of pixels differ from reference",
-            "detail": {
-              "key": "Large-disabled",
-              "score": "0.375",
-              "diffPixels": "3510"
+              "score": "0.302994",
+              "diffPixels": "3076"
             }
           },
           {
@@ -648,23 +637,23 @@
           {
             "kind": "visual",
             "severity": "info",
-            "message": "default: reference and candidate differ slightly in size (130×43 vs 130×48); compared over their overlap",
+            "message": "default: reference and candidate differ slightly in size (141×46 vs 141×48); compared over their overlap",
             "detail": {
               "key": "default",
               "dw": "0",
-              "dh": "-5",
-              "borderPixels": "650",
-              "contentPixels": "774"
+              "dh": "-2",
+              "borderPixels": "282",
+              "contentPixels": "616"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "default: 22.8% of pixels differ from reference",
+            "message": "default: 13.3% of pixels differ from reference",
             "detail": {
               "key": "default",
-              "score": "0.228205",
-              "diffPixels": "1424"
+              "score": "0.132683",
+              "diffPixels": "898"
             }
           },
           {
@@ -714,23 +703,23 @@
           {
             "kind": "visual",
             "severity": "info",
-            "message": "pressed: reference and candidate differ slightly in size (130×43 vs 130×48); compared over their overlap",
+            "message": "pressed: reference and candidate differ slightly in size (141×46 vs 141×48); compared over their overlap",
             "detail": {
               "key": "pressed",
               "dw": "0",
-              "dh": "-5",
-              "borderPixels": "650",
-              "contentPixels": "2855"
+              "dh": "-2",
+              "borderPixels": "282",
+              "contentPixels": "2815"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "pressed: 56.2% of pixels differ from reference",
+            "message": "pressed: 45.8% of pixels differ from reference",
             "detail": {
               "key": "pressed",
-              "score": "0.561699",
-              "diffPixels": "3505"
+              "score": "0.457595",
+              "diffPixels": "3097"
             }
           },
           {
@@ -758,34 +747,23 @@
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "Large-disabled: reference 130×57 vs candidate 130×72; compared over their 130×57 overlap, 20.8% of the frame uncovered",
+            "message": "Large-disabled: reference 141×62 vs candidate 141×72; compared over their 141×62 overlap, 13.9% of the frame uncovered",
             "detail": {
               "key": "Large-disabled",
               "dw": "0",
-              "dh": "-15",
-              "borderPixels": "1950",
-              "contentPixels": "1560"
+              "dh": "-10",
+              "borderPixels": "1410",
+              "contentPixels": "1666"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "Large-disabled: 1.9% of aligned pixels are opaque in the reference but transparent in the candidate",
+            "message": "Large-disabled: 30.3% of pixels differ from reference",
             "detail": {
               "key": "Large-disabled",
-              "alphaLossRatio": "0.018758",
-              "alphaLossPixels": "139",
-              "alphaComparedPixels": "7410"
-            }
-          },
-          {
-            "kind": "visual",
-            "severity": "warn",
-            "message": "Large-disabled: 37.5% of pixels differ from reference",
-            "detail": {
-              "key": "Large-disabled",
-              "score": "0.375",
-              "diffPixels": "3510"
+              "score": "0.302994",
+              "diffPixels": "3076"
             }
           },
           {
@@ -1095,23 +1073,23 @@
           {
             "kind": "visual",
             "severity": "info",
-            "message": "default: reference and candidate differ slightly in size (130×43 vs 130×48); compared over their overlap",
+            "message": "default: reference and candidate differ slightly in size (141×46 vs 141×48); compared over their overlap",
             "detail": {
               "key": "default",
               "dw": "0",
-              "dh": "-5",
-              "borderPixels": "650",
-              "contentPixels": "774"
+              "dh": "-2",
+              "borderPixels": "282",
+              "contentPixels": "616"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "default: 22.8% of pixels differ from reference",
+            "message": "default: 13.3% of pixels differ from reference",
             "detail": {
               "key": "default",
-              "score": "0.228205",
-              "diffPixels": "1424"
+              "score": "0.132683",
+              "diffPixels": "898"
             }
           },
           {
@@ -1161,23 +1139,23 @@
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "cell-state-focused-size-large-toggle-true-40000113-4112: reference 130×57 vs candidate 130×72; compared over their 130×57 overlap, 20.8% of the frame uncovered",
+            "message": "cell-state-focused-size-large-toggle-true-40000113-4112: reference 141×62 vs candidate 141×72; compared over their 141×62 overlap, 13.9% of the frame uncovered",
             "detail": {
               "key": "cell-state-focused-size-large-toggle-true-40000113-4112",
               "dw": "0",
-              "dh": "-15",
-              "borderPixels": "1950",
-              "contentPixels": "2099"
+              "dh": "-10",
+              "borderPixels": "1410",
+              "contentPixels": "2513"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "cell-state-focused-size-large-toggle-true-40000113-4112: 43.3% of pixels differ from reference",
+            "message": "cell-state-focused-size-large-toggle-true-40000113-4112: 38.6% of pixels differ from reference",
             "detail": {
               "key": "cell-state-focused-size-large-toggle-true-40000113-4112",
-              "score": "0.432585",
-              "diffPixels": "4049"
+              "score": "0.386426",
+              "diffPixels": "3923"
             }
           },
           {
@@ -1227,23 +1205,23 @@
           {
             "kind": "visual",
             "severity": "info",
-            "message": "disabled: reference and candidate differ slightly in size (130×43 vs 130×48); compared over their overlap",
+            "message": "disabled: reference and candidate differ slightly in size (141×46 vs 141×48); compared over their overlap",
             "detail": {
               "key": "disabled",
               "dw": "0",
-              "dh": "-5",
-              "borderPixels": "650",
-              "contentPixels": "663"
+              "dh": "-2",
+              "borderPixels": "282",
+              "contentPixels": "522"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "disabled: 21.0% of pixels differ from reference",
+            "message": "disabled: 11.9% of pixels differ from reference",
             "detail": {
               "key": "disabled",
-              "score": "0.210417",
-              "diffPixels": "1313"
+              "score": "0.118794",
+              "diffPixels": "804"
             }
           },
           {
@@ -1315,34 +1293,23 @@
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "Large-disabled: reference 130×57 vs candidate 130×72; compared over their 130×57 overlap, 20.8% of the frame uncovered",
+            "message": "Large-disabled: reference 141×62 vs candidate 141×72; compared over their 141×62 overlap, 13.9% of the frame uncovered",
             "detail": {
               "key": "Large-disabled",
               "dw": "0",
-              "dh": "-15",
-              "borderPixels": "1950",
-              "contentPixels": "1560"
+              "dh": "-10",
+              "borderPixels": "1410",
+              "contentPixels": "1666"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "Large-disabled: 1.9% of aligned pixels are opaque in the reference but transparent in the candidate",
+            "message": "Large-disabled: 30.3% of pixels differ from reference",
             "detail": {
               "key": "Large-disabled",
-              "alphaLossRatio": "0.018758",
-              "alphaLossPixels": "139",
-              "alphaComparedPixels": "7410"
-            }
-          },
-          {
-            "kind": "visual",
-            "severity": "warn",
-            "message": "Large-disabled: 37.5% of pixels differ from reference",
-            "detail": {
-              "key": "Large-disabled",
-              "score": "0.375",
-              "diffPixels": "3510"
+              "score": "0.302994",
+              "diffPixels": "3076"
             }
           },
           {
@@ -1674,23 +1641,23 @@
           {
             "kind": "visual",
             "severity": "info",
-            "message": "default: reference and candidate differ slightly in size (130×43 vs 130×48); compared over their overlap",
+            "message": "default: reference and candidate differ slightly in size (141×46 vs 141×48); compared over their overlap",
             "detail": {
               "key": "default",
               "dw": "0",
-              "dh": "-5",
-              "borderPixels": "650",
-              "contentPixels": "774"
+              "dh": "-2",
+              "borderPixels": "282",
+              "contentPixels": "616"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "default: 22.8% of pixels differ from reference",
+            "message": "default: 13.3% of pixels differ from reference",
             "detail": {
               "key": "default",
-              "score": "0.228205",
-              "diffPixels": "1424"
+              "score": "0.132683",
+              "diffPixels": "898"
             }
           },
           {
@@ -1740,23 +1707,23 @@
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "cell-state-focused-size-large-toggle-true-40000113-4112: reference 130×57 vs candidate 130×72; compared over their 130×57 overlap, 20.8% of the frame uncovered",
+            "message": "cell-state-focused-size-large-toggle-true-40000113-4112: reference 141×62 vs candidate 141×72; compared over their 141×62 overlap, 13.9% of the frame uncovered",
             "detail": {
               "key": "cell-state-focused-size-large-toggle-true-40000113-4112",
               "dw": "0",
-              "dh": "-15",
-              "borderPixels": "1950",
-              "contentPixels": "2099"
+              "dh": "-10",
+              "borderPixels": "1410",
+              "contentPixels": "2513"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "cell-state-focused-size-large-toggle-true-40000113-4112: 43.3% of pixels differ from reference",
+            "message": "cell-state-focused-size-large-toggle-true-40000113-4112: 38.6% of pixels differ from reference",
             "detail": {
               "key": "cell-state-focused-size-large-toggle-true-40000113-4112",
-              "score": "0.432585",
-              "diffPixels": "4049"
+              "score": "0.386426",
+              "diffPixels": "3923"
             }
           },
           {
@@ -1806,23 +1773,23 @@
           {
             "kind": "visual",
             "severity": "info",
-            "message": "disabled: reference and candidate differ slightly in size (130×43 vs 130×48); compared over their overlap",
+            "message": "disabled: reference and candidate differ slightly in size (141×46 vs 141×48); compared over their overlap",
             "detail": {
               "key": "disabled",
               "dw": "0",
-              "dh": "-5",
-              "borderPixels": "650",
-              "contentPixels": "663"
+              "dh": "-2",
+              "borderPixels": "282",
+              "contentPixels": "522"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "disabled: 21.0% of pixels differ from reference",
+            "message": "disabled: 11.9% of pixels differ from reference",
             "detail": {
               "key": "disabled",
-              "score": "0.210417",
-              "diffPixels": "1313"
+              "score": "0.118794",
+              "diffPixels": "804"
             }
           },
           {
@@ -1894,34 +1861,23 @@
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "Large-disabled: reference 130×57 vs candidate 130×72; compared over their 130×57 overlap, 20.8% of the frame uncovered",
+            "message": "Large-disabled: reference 141×62 vs candidate 141×72; compared over their 141×62 overlap, 13.9% of the frame uncovered",
             "detail": {
               "key": "Large-disabled",
               "dw": "0",
-              "dh": "-15",
-              "borderPixels": "1950",
-              "contentPixels": "1560"
+              "dh": "-10",
+              "borderPixels": "1410",
+              "contentPixels": "1666"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "Large-disabled: 1.9% of aligned pixels are opaque in the reference but transparent in the candidate",
+            "message": "Large-disabled: 30.3% of pixels differ from reference",
             "detail": {
               "key": "Large-disabled",
-              "alphaLossRatio": "0.018758",
-              "alphaLossPixels": "139",
-              "alphaComparedPixels": "7410"
-            }
-          },
-          {
-            "kind": "visual",
-            "severity": "warn",
-            "message": "Large-disabled: 37.5% of pixels differ from reference",
-            "detail": {
-              "key": "Large-disabled",
-              "score": "0.375",
-              "diffPixels": "3510"
+              "score": "0.302994",
+              "diffPixels": "3076"
             }
           },
           {
@@ -2235,17 +2191,17 @@
               "dw": "0",
               "dh": "37",
               "borderPixels": "15540",
-              "contentPixels": "120348"
+              "contentPixels": "120512"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "default: 78.5% of pixels differ from reference",
+            "message": "default: 78.6% of pixels differ from reference",
             "detail": {
               "key": "default",
-              "score": "0.785298",
-              "diffPixels": "135888"
+              "score": "0.786246",
+              "diffPixels": "136052"
             }
           }
         ]
@@ -2493,17 +2449,17 @@
               "dw": "0",
               "dh": "37",
               "borderPixels": "15540",
-              "contentPixels": "120348"
+              "contentPixels": "120512"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "default: 78.5% of pixels differ from reference",
+            "message": "default: 78.6% of pixels differ from reference",
             "detail": {
               "key": "default",
-              "score": "0.785298",
-              "diffPixels": "135888"
+              "score": "0.786246",
+              "diffPixels": "136052"
             }
           }
         ]
@@ -4043,17 +3999,17 @@
               "dw": "0",
               "dh": "4",
               "borderPixels": "1680",
-              "contentPixels": "2549"
+              "contentPixels": "2666"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "supporting-label: 11.4% of pixels differ from reference",
+            "message": "supporting-label: 11.8% of pixels differ from reference",
             "detail": {
               "key": "supporting-label",
-              "score": "0.114421",
-              "diffPixels": "4229"
+              "score": "0.117587",
+              "diffPixels": "4346"
             }
           },
           {
@@ -4251,17 +4207,17 @@
               "dw": "0",
               "dh": "4",
               "borderPixels": "1680",
-              "contentPixels": "2549"
+              "contentPixels": "2666"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "supporting-label: 11.4% of pixels differ from reference",
+            "message": "supporting-label: 11.8% of pixels differ from reference",
             "detail": {
               "key": "supporting-label",
-              "score": "0.114421",
-              "diffPixels": "4229"
+              "score": "0.117587",
+              "diffPixels": "4346"
             }
           },
           {
