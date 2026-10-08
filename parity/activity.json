@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-07T22:42:13.044Z",
+  "generatedAt": "2026-10-08T10:37:40.408Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/glimmer-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "7b404bfa905f3f3c016c2d4f73a32baf185dcf06",
+        "subject": "feat(ui-builder): glasses seed templates, a configurable icon, and a canvas that draws text (#34)",
+        "at": "2026-10-08T11:30:42+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "666b64dedcd7d6cf5a464bb673a2b2c05188e9ba",
         "subject": "fix(deps): let the daemon BOM lead the plugin, as in wear-m3-catalog (#32)",
