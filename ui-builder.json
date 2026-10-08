@@ -97,7 +97,11 @@
         },
         "code": null,
         "composeSourceExport": null,
-        "templates": [],
+        "templates": [
+            "ui-builder/designs/glasses-card.json",
+            "ui-builder/designs/glasses-list.json",
+            "ui-builder/designs/glasses-prompt.json"
+        ],
         "colorTokens": {
             "roles": [
                 "background",
@@ -241,7 +245,27 @@
                 "variantProperty": null,
                 "variants": {},
                 "excluded": null,
-                "propertyCapabilities": null,
+                "propertyCapabilities": [
+                    {
+                        "name": "iconKey",
+                        "jsonType": "string",
+                        "required": true,
+                        "notes": "A Material icon key from the builder's icon catalog (`filled/info`, `rounded/callEnd`), drawn by the renderer runtime through googleMaterialIconImageVector. Glimmer's Icon takes an ImageVector, which no design can hold as data, so the key stands in for it exactly as m3-catalog's Icon does."
+                    },
+                    {
+                        "name": "contentDescription",
+                        "jsonType": [
+                            "string",
+                            "null"
+                        ],
+                        "required": false
+                    },
+                    {
+                        "name": "sizeDp",
+                        "jsonType": "number",
+                        "required": false
+                    }
+                ],
                 "slotCapabilities": null,
                 "modifierCapabilities": null
             },
