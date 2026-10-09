@@ -281,7 +281,7 @@
               "dw": "0",
               "dh": "-2",
               "borderPixels": "282",
-              "contentPixels": "3984"
+              "contentPixels": "3983"
             }
           },
           {
@@ -290,8 +290,8 @@
             "message": "focused: 63.0% of pixels differ from reference",
             "detail": {
               "key": "focused",
-              "score": "0.630319",
-              "diffPixels": "4266"
+              "score": "0.630171",
+              "diffPixels": "4265"
             }
           },
           {
@@ -369,7 +369,7 @@
               "dw": "0",
               "dh": "-10",
               "borderPixels": "1410",
-              "contentPixels": "6098"
+              "contentPixels": "6099"
             }
           },
           {
@@ -378,8 +378,8 @@
             "message": "Large-focused: 74.0% of pixels differ from reference",
             "detail": {
               "key": "Large-focused",
-              "score": "0.739559",
-              "diffPixels": "7508"
+              "score": "0.739657",
+              "diffPixels": "7509"
             }
           },
           {
@@ -687,7 +687,7 @@
               "dw": "0",
               "dh": "-2",
               "borderPixels": "282",
-              "contentPixels": "3984"
+              "contentPixels": "3983"
             }
           },
           {
@@ -696,8 +696,8 @@
             "message": "focused: 63.0% of pixels differ from reference",
             "detail": {
               "key": "focused",
-              "score": "0.630319",
-              "diffPixels": "4266"
+              "score": "0.630171",
+              "diffPixels": "4265"
             }
           },
           {
@@ -775,7 +775,7 @@
               "dw": "0",
               "dh": "-10",
               "borderPixels": "1410",
-              "contentPixels": "6098"
+              "contentPixels": "6099"
             }
           },
           {
@@ -784,8 +784,8 @@
             "message": "Large-focused: 74.0% of pixels differ from reference",
             "detail": {
               "key": "Large-focused",
-              "score": "0.739559",
-              "diffPixels": "7508"
+              "score": "0.739657",
+              "diffPixels": "7509"
             }
           },
           {
@@ -1167,7 +1167,7 @@
               "dw": "0",
               "dh": "-2",
               "borderPixels": "282",
-              "contentPixels": "1983"
+              "contentPixels": "1985"
             }
           },
           {
@@ -1176,8 +1176,8 @@
             "message": "cell-state-pressed-size-default-toggle-true-40000113-4102: 33.5% of pixels differ from reference",
             "detail": {
               "key": "cell-state-pressed-size-default-toggle-true-40000113-4102",
-              "score": "0.334663",
-              "diffPixels": "2265"
+              "score": "0.334959",
+              "diffPixels": "2267"
             }
           },
           {
@@ -1233,7 +1233,7 @@
               "dw": "0",
               "dh": "-2",
               "borderPixels": "282",
-              "contentPixels": "4452"
+              "contentPixels": "4451"
             }
           },
           {
@@ -1242,8 +1242,8 @@
             "message": "focused: 69.9% of pixels differ from reference",
             "detail": {
               "key": "focused",
-              "score": "0.699468",
-              "diffPixels": "4734"
+              "score": "0.69932",
+              "diffPixels": "4733"
             }
           },
           {
@@ -1255,17 +1255,17 @@
               "dw": "0",
               "dh": "-2",
               "borderPixels": "282",
-              "contentPixels": "3939"
+              "contentPixels": "3936"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "pressed: 62.4% of pixels differ from reference",
+            "message": "pressed: 62.3% of pixels differ from reference",
             "detail": {
               "key": "pressed",
-              "score": "0.62367",
-              "diffPixels": "4221"
+              "score": "0.623227",
+              "diffPixels": "4218"
             }
           },
           {
@@ -1735,7 +1735,7 @@
               "dw": "0",
               "dh": "-2",
               "borderPixels": "282",
-              "contentPixels": "1983"
+              "contentPixels": "1985"
             }
           },
           {
@@ -1744,8 +1744,8 @@
             "message": "cell-state-pressed-size-default-toggle-true-40000113-4102: 33.5% of pixels differ from reference",
             "detail": {
               "key": "cell-state-pressed-size-default-toggle-true-40000113-4102",
-              "score": "0.334663",
-              "diffPixels": "2265"
+              "score": "0.334959",
+              "diffPixels": "2267"
             }
           },
           {
@@ -1801,7 +1801,7 @@
               "dw": "0",
               "dh": "-2",
               "borderPixels": "282",
-              "contentPixels": "4452"
+              "contentPixels": "4451"
             }
           },
           {
@@ -1810,8 +1810,8 @@
             "message": "focused: 69.9% of pixels differ from reference",
             "detail": {
               "key": "focused",
-              "score": "0.699468",
-              "diffPixels": "4734"
+              "score": "0.69932",
+              "diffPixels": "4733"
             }
           },
           {
@@ -1823,17 +1823,17 @@
               "dw": "0",
               "dh": "-2",
               "borderPixels": "282",
-              "contentPixels": "3939"
+              "contentPixels": "3936"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "pressed: 62.4% of pixels differ from reference",
+            "message": "pressed: 62.3% of pixels differ from reference",
             "detail": {
               "key": "pressed",
-              "score": "0.62367",
-              "diffPixels": "4221"
+              "score": "0.623227",
+              "diffPixels": "4218"
             }
           },
           {
@@ -2191,7 +2191,7 @@
               "dw": "0",
               "dh": "37",
               "borderPixels": "15540",
-              "contentPixels": "120512"
+              "contentPixels": "120511"
             }
           },
           {
@@ -2200,8 +2200,8 @@
             "message": "default: 78.6% of pixels differ from reference",
             "detail": {
               "key": "default",
-              "score": "0.786246",
-              "diffPixels": "136052"
+              "score": "0.78624",
+              "diffPixels": "136051"
             }
           }
         ]
@@ -2449,7 +2449,7 @@
               "dw": "0",
               "dh": "37",
               "borderPixels": "15540",
-              "contentPixels": "120512"
+              "contentPixels": "120511"
             }
           },
           {
@@ -2458,8 +2458,8 @@
             "message": "default: 78.6% of pixels differ from reference",
             "detail": {
               "key": "default",
-              "score": "0.786246",
-              "diffPixels": "136052"
+              "score": "0.78624",
+              "diffPixels": "136051"
             }
           }
         ]
@@ -3999,7 +3999,7 @@
               "dw": "0",
               "dh": "4",
               "borderPixels": "1680",
-              "contentPixels": "2666"
+              "contentPixels": "2665"
             }
           },
           {
@@ -4008,8 +4008,8 @@
             "message": "supporting-label: 11.8% of pixels differ from reference",
             "detail": {
               "key": "supporting-label",
-              "score": "0.117587",
-              "diffPixels": "4346"
+              "score": "0.11756",
+              "diffPixels": "4345"
             }
           },
           {
@@ -4207,7 +4207,7 @@
               "dw": "0",
               "dh": "4",
               "borderPixels": "1680",
-              "contentPixels": "2666"
+              "contentPixels": "2665"
             }
           },
           {
@@ -4216,8 +4216,8 @@
             "message": "supporting-label: 11.8% of pixels differ from reference",
             "detail": {
               "key": "supporting-label",
-              "score": "0.117587",
-              "diffPixels": "4346"
+              "score": "0.11756",
+              "diffPixels": "4345"
             }
           },
           {
