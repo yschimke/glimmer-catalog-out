@@ -1,11 +1,27 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-08T10:37:40.408Z",
+  "generatedAt": "2026-10-09T23:03:40.066Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/glimmer-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "2e3ae06418ee7f697a5a15049f13a879a8c8f463",
+        "subject": "chore(deps): update compose-preview to v2.35.1 (#33)",
+        "at": "2026-10-09T22:56:37Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "300928d3cc9ea2cefc4ba2db994cba6bb6c08502",
+        "subject": "feat: publish AI glasses design guidelines for the UI builder's check (#36)",
+        "at": "2026-10-09T09:31:18+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "7b404bfa905f3f3c016c2d4f73a32baf185dcf06",
         "subject": "feat(ui-builder): glasses seed templates, a configurable icon, and a canvas that draws text (#34)",
