@@ -96,7 +96,10 @@
             "seedDevice": "spec:width=960dp,height=720dp,dpi=160"
         },
         "code": null,
-        "composeSourceExport": null,
+        "composeSourceExport": {
+            "adapter": "compose-material3",
+            "version": 1
+        },
         "templates": [
             "ui-builder/designs/glasses-card.json",
             "ui-builder/designs/glasses-list.json",
