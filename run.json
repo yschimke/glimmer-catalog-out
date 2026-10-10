@@ -1,10 +1,10 @@
 {
   "formatVersion": 1,
-  "sourceCommit": "8696582af1e49ebc4a639c8e9624ed4c0c0d0871",
+  "sourceCommit": "578d43aa622597667601f3f6970749ea2a4f3d09",
   "direction": "design-led",
   "status": "warn",
   "blocked": false,
-  "cacheKey": "d70e6ea90cdfe0219068ac23b14bc1bc08aa17f49bd3f8aaecabab77a7e9dd3a",
+  "cacheKey": "f1491dd7706836d6a8d312965b6ea2173cc7bac324eecc636f6e428c328eb1b3",
   "entries": [
     {
       "code": "catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/ButtonGroups.kt#ButtonGroupSticker",
