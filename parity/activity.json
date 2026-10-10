@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-10T10:14:54.945Z",
+  "generatedAt": "2026-10-10T15:31:12.420Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/glimmer-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "e5096ed42a3448819d12e323500f8d32bcd65c0c",
+        "subject": "fix(guidelines): cite the Glimmer agent skill on developer.android.com, not its kb:// copy, so the catalog republishes (#40)",
+        "at": "2026-10-10T16:09:38+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "f23a54653cb1dbeccb5abcf3c58b5ed24e08ac45",
         "subject": "feat(ui-builder): declare Compose source export through the record-driven adapter (#38)",
