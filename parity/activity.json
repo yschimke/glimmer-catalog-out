@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-10T15:31:12.420Z",
+  "generatedAt": "2026-10-10T16:37:37.439Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/glimmer-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "8696582af1e49ebc4a639c8e9624ed4c0c0d0871",
+        "subject": "fix(deps): compose-ai-tools 2.42.0, and design guidelines on the catalog publish and PRs (#41)",
+        "at": "2026-10-10T17:10:15+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "e5096ed42a3448819d12e323500f8d32bcd65c0c",
         "subject": "fix(guidelines): cite the Glimmer agent skill on developer.android.com, not its kb:// copy, so the catalog republishes (#40)",
