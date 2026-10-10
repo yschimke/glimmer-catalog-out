@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-09T23:14:09.406Z",
+  "generatedAt": "2026-10-10T10:14:54.945Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/glimmer-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "f23a54653cb1dbeccb5abcf3c58b5ed24e08ac45",
+        "subject": "feat(ui-builder): declare Compose source export through the record-driven adapter (#38)",
+        "at": "2026-10-10T11:08:25+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "e84d6f9bda3e964f5a7ffa84e5eeb1abc7ca4702",
         "subject": "ci: republish when only ui-builder.guidelines.json changes (#37)",
