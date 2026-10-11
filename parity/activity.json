@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-11T19:09:29.775Z",
+  "generatedAt": "2026-10-11T20:55:25.297Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/glimmer-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "a0fdfb8bcac246ea336184eb08ef13e68ff3cc41",
+        "subject": "chore(deps): update compose-preview to v2.50.0 (#45)",
+        "at": "2026-10-11T20:41:22Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "db0915376b85b7a926d138467677d7200522657b",
         "subject": "chore(deps): update compose-preview (#39)",
