@@ -873,26 +873,13 @@
                 "callable": "androidx.xr.glimmer.Card",
                 "name": "Card",
                 "origin": "LIBRARY",
-                "jvmName": null,
-                "descriptor": null,
+                "jvmName": "Card-QPuc2h0",
+                "descriptor": "(Landroidx/compose/ui/Modifier;Lkotlin/jvm/functions/Function2;Lkotlin/jvm/functions/Function2;Lkotlin/jvm/functions/Function2;Lkotlin/jvm/functions/Function2;Landroidx/compose/ui/graphics/Shape;JJLandroidx/compose/foundation/layout/PaddingValues;Landroidx/compose/foundation/interaction/MutableInteractionSource;Lkotlin/jvm/functions/Function2;Landroidx/compose/runtime/Composer;III)V",
                 "sourceFile": null,
                 "docs": "unavailable",
                 "receiver": null
             },
             "parameters": [
-                {
-                    "name": "onClick",
-                    "type": "() -> Unit",
-                    "typeFqn": "kotlin.Function0",
-                    "hasDefault": false,
-                    "composableSlot": false,
-                    "composableSlotReceiver": null,
-                    "nullable": false,
-                    "noArgConstructible": false,
-                    "noArgFactory": null,
-                    "scopeDslReceiver": null,
-                    "lambdaReturnTypeFqn": "kotlin.Unit"
-                },
                 {
                     "name": "modifier",
                     "type": "Modifier",
@@ -1147,9 +1134,11 @@
                 }
             ],
             "code": {
-                "call": null,
-                "imports": [],
-                "refusedReason": "overloads collided under this canonical id, so no single call site identifies one",
+                "call": "Card(content = {})",
+                "imports": [
+                    "androidx.xr.glimmer.Card"
+                ],
+                "refusedReason": null,
                 "requiredOptIns": [],
                 "androidxOptIns": []
             },
@@ -1157,7 +1146,7 @@
             "callableFromAnotherFile": true,
             "hasTypeParameters": false,
             "hasContextReceivers": false,
-            "overloadsCollided": true,
+            "overloadsCollided": false,
             "builder": null,
             "requiredOptIns": [],
             "androidxOptIns": []
@@ -2535,26 +2524,13 @@
                 "callable": "androidx.xr.glimmer.ListItem",
                 "name": "ListItem",
                 "origin": "LIBRARY",
-                "jvmName": null,
-                "descriptor": null,
+                "jvmName": "ListItem-1ix9Op4",
+                "descriptor": "(Landroidx/compose/ui/Modifier;Lkotlin/jvm/functions/Function2;Lkotlin/jvm/functions/Function2;Lkotlin/jvm/functions/Function2;Landroidx/compose/ui/graphics/Shape;JJLandroidx/compose/foundation/layout/PaddingValues;Landroidx/compose/foundation/interaction/MutableInteractionSource;Lkotlin/jvm/functions/Function2;Landroidx/compose/runtime/Composer;II)V",
                 "sourceFile": null,
                 "docs": "unavailable",
                 "receiver": null
             },
             "parameters": [
-                {
-                    "name": "onClick",
-                    "type": "() -> Unit",
-                    "typeFqn": "kotlin.Function0",
-                    "hasDefault": false,
-                    "composableSlot": false,
-                    "composableSlotReceiver": null,
-                    "nullable": false,
-                    "noArgConstructible": false,
-                    "noArgFactory": null,
-                    "scopeDslReceiver": null,
-                    "lambdaReturnTypeFqn": "kotlin.Unit"
-                },
                 {
                     "name": "modifier",
                     "type": "Modifier",
@@ -2761,9 +2737,11 @@
                 }
             ],
             "code": {
-                "call": null,
-                "imports": [],
-                "refusedReason": "overloads collided under this canonical id, so no single call site identifies one",
+                "call": "ListItem(content = {})",
+                "imports": [
+                    "androidx.xr.glimmer.ListItem"
+                ],
+                "refusedReason": null,
                 "requiredOptIns": [],
                 "androidxOptIns": []
             },
@@ -2771,7 +2749,7 @@
             "callableFromAnotherFile": true,
             "hasTypeParameters": false,
             "hasContextReceivers": false,
-            "overloadsCollided": true,
+            "overloadsCollided": false,
             "builder": null,
             "requiredOptIns": [],
             "androidxOptIns": []

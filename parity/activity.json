@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-11T07:20:41.287Z",
+  "generatedAt": "2026-10-11T19:03:26.691Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/glimmer-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "ab6ca364f800b44820fb59256ee0218dd3224811",
+        "subject": "fix(deps): update compose-ai-tools to v2.45.0, and cap the publish's guidelines at $0.25 (#44)",
+        "at": "2026-10-11T19:55:51+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "eb7910f9b7271548930ecd677e4ecd96702cd9f4",
         "subject": "docs: describe the declared Compose source export (#43)",
