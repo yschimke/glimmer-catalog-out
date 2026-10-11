@@ -3829,6 +3829,922 @@
         ]
       }
     ],
+    "ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnTwoLineSticker": [
+      {
+        "source": "figma",
+        "status": "warn",
+        "findings": [
+          {
+            "kind": "i18n",
+            "severity": "warn",
+            "message": "\"Weekly design check-in\" risks truncation when localized: ≈387dp expanded vs 254dp available.",
+            "detail": {
+              "label": "Weekly design check-in",
+              "availableWidth": "254",
+              "estimatedWidth": "242",
+              "expansionFactor": "1.6",
+              "estimatedExpandedWidth": "387"
+            },
+            "anchors": [
+              {
+                "side": "reference",
+                "bounds": {
+                  "x": 68,
+                  "y": 36,
+                  "width": 261,
+                  "height": 28
+                },
+                "label": "Weekly design check-in"
+              },
+              {
+                "side": "actual",
+                "bounds": {
+                  "x": 72,
+                  "y": 36,
+                  "width": 254,
+                  "height": 26
+                },
+                "label": "Weekly design check-in"
+              }
+            ]
+          },
+          {
+            "kind": "i18n",
+            "severity": "warn",
+            "message": "\"8 – 8:30 AM\" risks truncation when localized: ≈218dp expanded vs 119dp available.",
+            "detail": {
+              "label": "8 – 8:30 AM",
+              "availableWidth": "119",
+              "estimatedWidth": "121",
+              "expansionFactor": "1.8",
+              "estimatedExpandedWidth": "218"
+            },
+            "anchors": [
+              {
+                "side": "actual",
+                "bounds": {
+                  "x": 72,
+                  "y": 62,
+                  "width": 119,
+                  "height": 26
+                },
+                "label": "8 – 8:30 AM"
+              }
+            ]
+          },
+          {
+            "kind": "i18n",
+            "severity": "warn",
+            "message": "\"One-to-one\" risks truncation when localized: ≈220dp expanded vs 125dp available.",
+            "detail": {
+              "label": "One-to-one",
+              "availableWidth": "125",
+              "estimatedWidth": "110",
+              "expansionFactor": "2",
+              "estimatedExpandedWidth": "220"
+            },
+            "anchors": [
+              {
+                "side": "actual",
+                "bounds": {
+                  "x": 72,
+                  "y": 140,
+                  "width": 125,
+                  "height": 26
+                },
+                "label": "One-to-one"
+              }
+            ]
+          },
+          {
+            "kind": "i18n",
+            "severity": "warn",
+            "message": "\"9 – 9:30 AM\" risks truncation when localized: ≈218dp expanded vs 119dp available.",
+            "detail": {
+              "label": "9 – 9:30 AM",
+              "availableWidth": "119",
+              "estimatedWidth": "121",
+              "expansionFactor": "1.8",
+              "estimatedExpandedWidth": "218"
+            },
+            "anchors": [
+              {
+                "side": "actual",
+                "bounds": {
+                  "x": 72,
+                  "y": 166,
+                  "width": 119,
+                  "height": 26
+                },
+                "label": "9 – 9:30 AM"
+              }
+            ]
+          },
+          {
+            "kind": "i18n",
+            "severity": "warn",
+            "message": "\"Lunch\" risks truncation when localized: ≈110dp expanded vs 66dp available.",
+            "detail": {
+              "label": "Lunch",
+              "availableWidth": "66",
+              "estimatedWidth": "55",
+              "expansionFactor": "2",
+              "estimatedExpandedWidth": "110"
+            },
+            "anchors": [
+              {
+                "side": "actual",
+                "bounds": {
+                  "x": 72,
+                  "y": 244,
+                  "width": 66,
+                  "height": 26
+                },
+                "label": "Lunch"
+              }
+            ]
+          },
+          {
+            "kind": "i18n",
+            "severity": "warn",
+            "message": "\"12 – 1 PM\" risks truncation when localized: ≈198dp expanded vs 91dp available.",
+            "detail": {
+              "label": "12 – 1 PM",
+              "availableWidth": "91",
+              "estimatedWidth": "99",
+              "expansionFactor": "2",
+              "estimatedExpandedWidth": "198"
+            },
+            "anchors": [
+              {
+                "side": "actual",
+                "bounds": {
+                  "x": 72,
+                  "y": 270,
+                  "width": 91,
+                  "height": 26
+                },
+                "label": "12 – 1 PM"
+              }
+            ]
+          },
+          {
+            "kind": "token",
+            "severity": "info",
+            "message": "colors.label has no Material-role mapping; unverified (spec #FFFFFF)",
+            "detail": {
+              "token": "colors.label",
+              "expected": "#FFFFFF",
+              "unmapped": "true"
+            },
+            "anchors": [
+              {
+                "side": "reference",
+                "bounds": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 420,
+                  "height": 364
+                }
+              },
+              {
+                "side": "actual",
+                "bounds": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 420,
+                  "height": 364
+                }
+              }
+            ]
+          },
+          {
+            "kind": "token",
+            "severity": "info",
+            "message": "typography.label has no Material-role mapping; unverified (spec {\"fontFamily\":\"Material Symbols Outlined\",\"fontSize\":40,\"fontWeight\":600,\"lineHeight\":48,\"letterSpacing\":0})",
+            "detail": {
+              "token": "typography.label",
+              "expected": "{\"fontFamily\":\"Material Symbols Outlined\",\"fontSize\":40,\"fontWeight\":600,\"lineHeight\":48,\"letterSpacing\":0}",
+              "unmapped": "true"
+            },
+            "anchors": [
+              {
+                "side": "reference",
+                "bounds": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 420,
+                  "height": 364
+                }
+              },
+              {
+                "side": "actual",
+                "bounds": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 420,
+                  "height": 364
+                }
+              }
+            ]
+          },
+          {
+            "kind": "pairing",
+            "severity": "info",
+            "message": "reference renders with Show System Bar=true — component property defaults the variant name does not state",
+            "detail": {
+              "properties": "[{\"name\":\"Show System Bar\",\"type\":\"boolean\",\"value\":\"true\"}]"
+            }
+          },
+          {
+            "kind": "layout",
+            "severity": "warn",
+            "message": "layout \"send\": offset (0, 8), size Δ(-8, -8) vs candidate",
+            "detail": {
+              "label": "send",
+              "dx": "0",
+              "dy": "8",
+              "dw": "-8",
+              "dh": "-8"
+            },
+            "anchors": [
+              {
+                "side": "reference",
+                "bounds": {
+                  "x": 16,
+                  "y": 44,
+                  "width": 40,
+                  "height": 40
+                },
+                "label": "send"
+              },
+              {
+                "side": "actual",
+                "bounds": {
+                  "x": 16,
+                  "y": 36,
+                  "width": 48,
+                  "height": 48
+                },
+                "label": "send"
+              }
+            ]
+          },
+          {
+            "kind": "layout",
+            "severity": "warn",
+            "message": "layout \"send\": offset (0, 12), size Δ(-8, -8) vs candidate",
+            "detail": {
+              "label": "send",
+              "dx": "0",
+              "dy": "12",
+              "dw": "-8",
+              "dh": "-8"
+            },
+            "anchors": [
+              {
+                "side": "reference",
+                "bounds": {
+                  "x": 16,
+                  "y": 44,
+                  "width": 40,
+                  "height": 40
+                },
+                "label": "send"
+              },
+              {
+                "side": "actual",
+                "bounds": {
+                  "x": 16,
+                  "y": 36,
+                  "width": 48,
+                  "height": 48
+                },
+                "label": "send"
+              }
+            ]
+          },
+          {
+            "kind": "layout",
+            "severity": "warn",
+            "message": "layout \"send\": offset (0, 16), size Δ(-8, -8) vs candidate",
+            "detail": {
+              "label": "send",
+              "dx": "0",
+              "dy": "16",
+              "dw": "-8",
+              "dh": "-8"
+            },
+            "anchors": [
+              {
+                "side": "reference",
+                "bounds": {
+                  "x": 16,
+                  "y": 44,
+                  "width": 40,
+                  "height": 40
+                },
+                "label": "send"
+              },
+              {
+                "side": "actual",
+                "bounds": {
+                  "x": 16,
+                  "y": 36,
+                  "width": 48,
+                  "height": 48
+                },
+                "label": "send"
+              }
+            ]
+          },
+          {
+            "kind": "visual",
+            "severity": "warn",
+            "message": "default: 11.1% of aligned pixels are opaque in the reference but transparent in the candidate",
+            "detail": {
+              "key": "default",
+              "alphaLossRatio": "0.11095",
+              "alphaLossPixels": "16962",
+              "alphaComparedPixels": "152880"
+            }
+          },
+          {
+            "kind": "visual",
+            "severity": "warn",
+            "message": "default: 32.0% of pixels differ from reference",
+            "detail": {
+              "key": "default",
+              "score": "0.320153",
+              "diffPixels": "48945"
+            }
+          },
+          {
+            "kind": "visual",
+            "severity": "warn",
+            "message": "cell-list-index-bottom-title-false-4116-5267: 24.7% of aligned pixels are opaque in the reference but transparent in the candidate",
+            "detail": {
+              "key": "cell-list-index-bottom-title-false-4116-5267",
+              "alphaLossRatio": "0.246939",
+              "alphaLossPixels": "37752",
+              "alphaComparedPixels": "152880"
+            }
+          },
+          {
+            "kind": "visual",
+            "severity": "warn",
+            "message": "cell-list-index-bottom-title-false-4116-5267: 61.4% of pixels differ from reference",
+            "detail": {
+              "key": "cell-list-index-bottom-title-false-4116-5267",
+              "score": "0.613717",
+              "diffPixels": "93825"
+            }
+          },
+          {
+            "kind": "visual",
+            "severity": "warn",
+            "message": "cell-list-index-bottom-title-true-40000116-2522: 17.7% of aligned pixels are opaque in the reference but transparent in the candidate",
+            "detail": {
+              "key": "cell-list-index-bottom-title-true-40000116-2522",
+              "alphaLossRatio": "0.176629",
+              "alphaLossPixels": "27003",
+              "alphaComparedPixels": "152880"
+            }
+          },
+          {
+            "kind": "visual",
+            "severity": "warn",
+            "message": "cell-list-index-bottom-title-true-40000116-2522: 41.5% of pixels differ from reference",
+            "detail": {
+              "key": "cell-list-index-bottom-title-true-40000116-2522",
+              "score": "0.415483",
+              "diffPixels": "63519"
+            }
+          },
+          {
+            "kind": "visual",
+            "severity": "warn",
+            "message": "cell-list-index-mid-title-false-4116-5259: 17.4% of aligned pixels are opaque in the reference but transparent in the candidate",
+            "detail": {
+              "key": "cell-list-index-mid-title-false-4116-5259",
+              "alphaLossRatio": "0.174228",
+              "alphaLossPixels": "26636",
+              "alphaComparedPixels": "152880"
+            }
+          },
+          {
+            "kind": "visual",
+            "severity": "warn",
+            "message": "cell-list-index-mid-title-false-4116-5259: 52.6% of pixels differ from reference",
+            "detail": {
+              "key": "cell-list-index-mid-title-false-4116-5259",
+              "score": "0.526138",
+              "diffPixels": "80436"
+            }
+          },
+          {
+            "kind": "visual",
+            "severity": "warn",
+            "message": "cell-list-index-mid-title-true-40000116-2458: 27.4% of aligned pixels are opaque in the reference but transparent in the candidate",
+            "detail": {
+              "key": "cell-list-index-mid-title-true-40000116-2458",
+              "alphaLossRatio": "0.27411",
+              "alphaLossPixels": "41906",
+              "alphaComparedPixels": "152880"
+            }
+          },
+          {
+            "kind": "visual",
+            "severity": "warn",
+            "message": "cell-list-index-mid-title-true-40000116-2458: 59.3% of pixels differ from reference",
+            "detail": {
+              "key": "cell-list-index-mid-title-true-40000116-2458",
+              "score": "0.593492",
+              "diffPixels": "90733"
+            }
+          },
+          {
+            "kind": "visual",
+            "severity": "warn",
+            "message": "cell-list-index-top-title-true-40000116-2394: 12.6% of aligned pixels are opaque in the reference but transparent in the candidate",
+            "detail": {
+              "key": "cell-list-index-top-title-true-40000116-2394",
+              "alphaLossRatio": "0.125798",
+              "alphaLossPixels": "19232",
+              "alphaComparedPixels": "152880"
+            }
+          },
+          {
+            "kind": "visual",
+            "severity": "warn",
+            "message": "cell-list-index-top-title-true-40000116-2394: 33.0% of pixels differ from reference",
+            "detail": {
+              "key": "cell-list-index-top-title-true-40000116-2394",
+              "score": "0.329559",
+              "diffPixels": "50383"
+            }
+          }
+        ]
+      }
+    ],
+    "catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/LazyLists.kt#GlimmerLazyColumnTwoLineSticker": [
+      {
+        "source": "figma",
+        "status": "warn",
+        "findings": [
+          {
+            "kind": "i18n",
+            "severity": "warn",
+            "message": "\"Weekly design check-in\" risks truncation when localized: ≈387dp expanded vs 254dp available.",
+            "detail": {
+              "label": "Weekly design check-in",
+              "availableWidth": "254",
+              "estimatedWidth": "242",
+              "expansionFactor": "1.6",
+              "estimatedExpandedWidth": "387"
+            },
+            "anchors": [
+              {
+                "side": "reference",
+                "bounds": {
+                  "x": 68,
+                  "y": 36,
+                  "width": 261,
+                  "height": 28
+                },
+                "label": "Weekly design check-in"
+              },
+              {
+                "side": "actual",
+                "bounds": {
+                  "x": 72,
+                  "y": 36,
+                  "width": 254,
+                  "height": 26
+                },
+                "label": "Weekly design check-in"
+              }
+            ]
+          },
+          {
+            "kind": "i18n",
+            "severity": "warn",
+            "message": "\"8 – 8:30 AM\" risks truncation when localized: ≈218dp expanded vs 119dp available.",
+            "detail": {
+              "label": "8 – 8:30 AM",
+              "availableWidth": "119",
+              "estimatedWidth": "121",
+              "expansionFactor": "1.8",
+              "estimatedExpandedWidth": "218"
+            },
+            "anchors": [
+              {
+                "side": "actual",
+                "bounds": {
+                  "x": 72,
+                  "y": 62,
+                  "width": 119,
+                  "height": 26
+                },
+                "label": "8 – 8:30 AM"
+              }
+            ]
+          },
+          {
+            "kind": "i18n",
+            "severity": "warn",
+            "message": "\"One-to-one\" risks truncation when localized: ≈220dp expanded vs 125dp available.",
+            "detail": {
+              "label": "One-to-one",
+              "availableWidth": "125",
+              "estimatedWidth": "110",
+              "expansionFactor": "2",
+              "estimatedExpandedWidth": "220"
+            },
+            "anchors": [
+              {
+                "side": "actual",
+                "bounds": {
+                  "x": 72,
+                  "y": 140,
+                  "width": 125,
+                  "height": 26
+                },
+                "label": "One-to-one"
+              }
+            ]
+          },
+          {
+            "kind": "i18n",
+            "severity": "warn",
+            "message": "\"9 – 9:30 AM\" risks truncation when localized: ≈218dp expanded vs 119dp available.",
+            "detail": {
+              "label": "9 – 9:30 AM",
+              "availableWidth": "119",
+              "estimatedWidth": "121",
+              "expansionFactor": "1.8",
+              "estimatedExpandedWidth": "218"
+            },
+            "anchors": [
+              {
+                "side": "actual",
+                "bounds": {
+                  "x": 72,
+                  "y": 166,
+                  "width": 119,
+                  "height": 26
+                },
+                "label": "9 – 9:30 AM"
+              }
+            ]
+          },
+          {
+            "kind": "i18n",
+            "severity": "warn",
+            "message": "\"Lunch\" risks truncation when localized: ≈110dp expanded vs 66dp available.",
+            "detail": {
+              "label": "Lunch",
+              "availableWidth": "66",
+              "estimatedWidth": "55",
+              "expansionFactor": "2",
+              "estimatedExpandedWidth": "110"
+            },
+            "anchors": [
+              {
+                "side": "actual",
+                "bounds": {
+                  "x": 72,
+                  "y": 244,
+                  "width": 66,
+                  "height": 26
+                },
+                "label": "Lunch"
+              }
+            ]
+          },
+          {
+            "kind": "i18n",
+            "severity": "warn",
+            "message": "\"12 – 1 PM\" risks truncation when localized: ≈198dp expanded vs 91dp available.",
+            "detail": {
+              "label": "12 – 1 PM",
+              "availableWidth": "91",
+              "estimatedWidth": "99",
+              "expansionFactor": "2",
+              "estimatedExpandedWidth": "198"
+            },
+            "anchors": [
+              {
+                "side": "actual",
+                "bounds": {
+                  "x": 72,
+                  "y": 270,
+                  "width": 91,
+                  "height": 26
+                },
+                "label": "12 – 1 PM"
+              }
+            ]
+          },
+          {
+            "kind": "token",
+            "severity": "info",
+            "message": "colors.label has no Material-role mapping; unverified (spec #FFFFFF)",
+            "detail": {
+              "token": "colors.label",
+              "expected": "#FFFFFF",
+              "unmapped": "true"
+            },
+            "anchors": [
+              {
+                "side": "reference",
+                "bounds": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 420,
+                  "height": 364
+                }
+              },
+              {
+                "side": "actual",
+                "bounds": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 420,
+                  "height": 364
+                }
+              }
+            ]
+          },
+          {
+            "kind": "token",
+            "severity": "info",
+            "message": "typography.label has no Material-role mapping; unverified (spec {\"fontFamily\":\"Material Symbols Outlined\",\"fontSize\":40,\"fontWeight\":600,\"lineHeight\":48,\"letterSpacing\":0})",
+            "detail": {
+              "token": "typography.label",
+              "expected": "{\"fontFamily\":\"Material Symbols Outlined\",\"fontSize\":40,\"fontWeight\":600,\"lineHeight\":48,\"letterSpacing\":0}",
+              "unmapped": "true"
+            },
+            "anchors": [
+              {
+                "side": "reference",
+                "bounds": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 420,
+                  "height": 364
+                }
+              },
+              {
+                "side": "actual",
+                "bounds": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 420,
+                  "height": 364
+                }
+              }
+            ]
+          },
+          {
+            "kind": "pairing",
+            "severity": "info",
+            "message": "reference renders with Show System Bar=true — component property defaults the variant name does not state",
+            "detail": {
+              "properties": "[{\"name\":\"Show System Bar\",\"type\":\"boolean\",\"value\":\"true\"}]"
+            }
+          },
+          {
+            "kind": "layout",
+            "severity": "warn",
+            "message": "layout \"send\": offset (0, 8), size Δ(-8, -8) vs candidate",
+            "detail": {
+              "label": "send",
+              "dx": "0",
+              "dy": "8",
+              "dw": "-8",
+              "dh": "-8"
+            },
+            "anchors": [
+              {
+                "side": "reference",
+                "bounds": {
+                  "x": 16,
+                  "y": 44,
+                  "width": 40,
+                  "height": 40
+                },
+                "label": "send"
+              },
+              {
+                "side": "actual",
+                "bounds": {
+                  "x": 16,
+                  "y": 36,
+                  "width": 48,
+                  "height": 48
+                },
+                "label": "send"
+              }
+            ]
+          },
+          {
+            "kind": "layout",
+            "severity": "warn",
+            "message": "layout \"send\": offset (0, 12), size Δ(-8, -8) vs candidate",
+            "detail": {
+              "label": "send",
+              "dx": "0",
+              "dy": "12",
+              "dw": "-8",
+              "dh": "-8"
+            },
+            "anchors": [
+              {
+                "side": "reference",
+                "bounds": {
+                  "x": 16,
+                  "y": 44,
+                  "width": 40,
+                  "height": 40
+                },
+                "label": "send"
+              },
+              {
+                "side": "actual",
+                "bounds": {
+                  "x": 16,
+                  "y": 36,
+                  "width": 48,
+                  "height": 48
+                },
+                "label": "send"
+              }
+            ]
+          },
+          {
+            "kind": "layout",
+            "severity": "warn",
+            "message": "layout \"send\": offset (0, 16), size Δ(-8, -8) vs candidate",
+            "detail": {
+              "label": "send",
+              "dx": "0",
+              "dy": "16",
+              "dw": "-8",
+              "dh": "-8"
+            },
+            "anchors": [
+              {
+                "side": "reference",
+                "bounds": {
+                  "x": 16,
+                  "y": 44,
+                  "width": 40,
+                  "height": 40
+                },
+                "label": "send"
+              },
+              {
+                "side": "actual",
+                "bounds": {
+                  "x": 16,
+                  "y": 36,
+                  "width": 48,
+                  "height": 48
+                },
+                "label": "send"
+              }
+            ]
+          },
+          {
+            "kind": "visual",
+            "severity": "warn",
+            "message": "default: 11.1% of aligned pixels are opaque in the reference but transparent in the candidate",
+            "detail": {
+              "key": "default",
+              "alphaLossRatio": "0.11095",
+              "alphaLossPixels": "16962",
+              "alphaComparedPixels": "152880"
+            }
+          },
+          {
+            "kind": "visual",
+            "severity": "warn",
+            "message": "default: 32.0% of pixels differ from reference",
+            "detail": {
+              "key": "default",
+              "score": "0.320153",
+              "diffPixels": "48945"
+            }
+          },
+          {
+            "kind": "visual",
+            "severity": "warn",
+            "message": "cell-list-index-bottom-title-false-4116-5267: 24.7% of aligned pixels are opaque in the reference but transparent in the candidate",
+            "detail": {
+              "key": "cell-list-index-bottom-title-false-4116-5267",
+              "alphaLossRatio": "0.246939",
+              "alphaLossPixels": "37752",
+              "alphaComparedPixels": "152880"
+            }
+          },
+          {
+            "kind": "visual",
+            "severity": "warn",
+            "message": "cell-list-index-bottom-title-false-4116-5267: 61.4% of pixels differ from reference",
+            "detail": {
+              "key": "cell-list-index-bottom-title-false-4116-5267",
+              "score": "0.613717",
+              "diffPixels": "93825"
+            }
+          },
+          {
+            "kind": "visual",
+            "severity": "warn",
+            "message": "cell-list-index-bottom-title-true-40000116-2522: 17.7% of aligned pixels are opaque in the reference but transparent in the candidate",
+            "detail": {
+              "key": "cell-list-index-bottom-title-true-40000116-2522",
+              "alphaLossRatio": "0.176629",
+              "alphaLossPixels": "27003",
+              "alphaComparedPixels": "152880"
+            }
+          },
+          {
+            "kind": "visual",
+            "severity": "warn",
+            "message": "cell-list-index-bottom-title-true-40000116-2522: 41.5% of pixels differ from reference",
+            "detail": {
+              "key": "cell-list-index-bottom-title-true-40000116-2522",
+              "score": "0.415483",
+              "diffPixels": "63519"
+            }
+          },
+          {
+            "kind": "visual",
+            "severity": "warn",
+            "message": "cell-list-index-mid-title-false-4116-5259: 17.4% of aligned pixels are opaque in the reference but transparent in the candidate",
+            "detail": {
+              "key": "cell-list-index-mid-title-false-4116-5259",
+              "alphaLossRatio": "0.174228",
+              "alphaLossPixels": "26636",
+              "alphaComparedPixels": "152880"
+            }
+          },
+          {
+            "kind": "visual",
+            "severity": "warn",
+            "message": "cell-list-index-mid-title-false-4116-5259: 52.6% of pixels differ from reference",
+            "detail": {
+              "key": "cell-list-index-mid-title-false-4116-5259",
+              "score": "0.526138",
+              "diffPixels": "80436"
+            }
+          },
+          {
+            "kind": "visual",
+            "severity": "warn",
+            "message": "cell-list-index-mid-title-true-40000116-2458: 27.4% of aligned pixels are opaque in the reference but transparent in the candidate",
+            "detail": {
+              "key": "cell-list-index-mid-title-true-40000116-2458",
+              "alphaLossRatio": "0.27411",
+              "alphaLossPixels": "41906",
+              "alphaComparedPixels": "152880"
+            }
+          },
+          {
+            "kind": "visual",
+            "severity": "warn",
+            "message": "cell-list-index-mid-title-true-40000116-2458: 59.3% of pixels differ from reference",
+            "detail": {
+              "key": "cell-list-index-mid-title-true-40000116-2458",
+              "score": "0.593492",
+              "diffPixels": "90733"
+            }
+          },
+          {
+            "kind": "visual",
+            "severity": "warn",
+            "message": "cell-list-index-top-title-true-40000116-2394: 12.6% of aligned pixels are opaque in the reference but transparent in the candidate",
+            "detail": {
+              "key": "cell-list-index-top-title-true-40000116-2394",
+              "alphaLossRatio": "0.125798",
+              "alphaLossPixels": "19232",
+              "alphaComparedPixels": "152880"
+            }
+          },
+          {
+            "kind": "visual",
+            "severity": "warn",
+            "message": "cell-list-index-top-title-true-40000116-2394: 33.0% of pixels differ from reference",
+            "detail": {
+              "key": "cell-list-index-top-title-true-40000116-2394",
+              "score": "0.329559",
+              "diffPixels": "50383"
+            }
+          }
+        ]
+      }
+    ],
     "ee.schimke.m3catalog.glimmer.ListsKt.ListItemSticker": [
       {
         "source": "figma",
@@ -4240,6 +5156,548 @@
               "key": "supporting-label-pressed",
               "score": "0.653734",
               "diffPixels": "24162"
+            }
+          }
+        ]
+      }
+    ],
+    "ee.schimke.m3catalog.glimmer.StacksKt.VerticalStackSticker": [
+      {
+        "source": "figma",
+        "status": "warn",
+        "findings": [
+          {
+            "kind": "i18n",
+            "severity": "warn",
+            "message": "\"Body\" risks truncation when localized: ≈88dp expanded vs 51dp available.",
+            "detail": {
+              "label": "Body",
+              "availableWidth": "51",
+              "estimatedWidth": "44",
+              "expansionFactor": "2",
+              "estimatedExpandedWidth": "88"
+            },
+            "anchors": [
+              {
+                "side": "actual",
+                "bounds": {
+                  "x": 31,
+                  "y": 90,
+                  "width": 51,
+                  "height": 25
+                },
+                "label": "Body"
+              }
+            ]
+          },
+          {
+            "kind": "i18n",
+            "severity": "warn",
+            "message": "\"Title\" risks truncation when localized: ≈132dp expanded vs 54dp available.",
+            "detail": {
+              "label": "Title",
+              "availableWidth": "54",
+              "estimatedWidth": "66",
+              "expansionFactor": "2",
+              "estimatedExpandedWidth": "132"
+            },
+            "anchors": [
+              {
+                "side": "reference",
+                "bounds": {
+                  "x": 20,
+                  "y": 20,
+                  "width": 380,
+                  "height": 32
+                },
+                "label": "Title"
+              },
+              {
+                "side": "actual",
+                "bounds": {
+                  "x": 20,
+                  "y": 23,
+                  "width": 54,
+                  "height": 32
+                },
+                "label": "Title"
+              }
+            ]
+          },
+          {
+            "kind": "i18n",
+            "severity": "warn",
+            "message": "\"Subtitle\" risks truncation when localized: ≈158dp expanded vs 77dp available.",
+            "detail": {
+              "label": "Subtitle",
+              "availableWidth": "77",
+              "estimatedWidth": "79",
+              "expansionFactor": "2",
+              "estimatedExpandedWidth": "158"
+            },
+            "anchors": [
+              {
+                "side": "reference",
+                "bounds": {
+                  "x": 20,
+                  "y": 55,
+                  "width": 380,
+                  "height": 28
+                },
+                "label": "Subtitle"
+              },
+              {
+                "side": "actual",
+                "bounds": {
+                  "x": 20,
+                  "y": 58,
+                  "width": 77,
+                  "height": 23
+                },
+                "label": "Subtitle"
+              }
+            ]
+          },
+          {
+            "kind": "i18n",
+            "severity": "warn",
+            "message": "\"Avocado, beet greens, mustard, kale and fava\" risks truncation when localized: ≈678dp expanded vs 380dp available.",
+            "detail": {
+              "label": "Avocado, beet greens, mustard, kale and fava",
+              "availableWidth": "380",
+              "estimatedWidth": "484",
+              "expansionFactor": "1.4",
+              "estimatedExpandedWidth": "678"
+            },
+            "anchors": [
+              {
+                "side": "actual",
+                "bounds": {
+                  "x": 20,
+                  "y": 84,
+                  "width": 380,
+                  "height": 54
+                },
+                "label": "Avocado, beet greens, mustard, kale and fava"
+              }
+            ]
+          },
+          {
+            "kind": "token",
+            "severity": "info",
+            "message": "colors.label has no Material-role mapping; unverified (spec #FFFFFF)",
+            "detail": {
+              "token": "colors.label",
+              "expected": "#FFFFFF",
+              "unmapped": "true"
+            },
+            "anchors": [
+              {
+                "side": "reference",
+                "bounds": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 420,
+                  "height": 178
+                }
+              },
+              {
+                "side": "actual",
+                "bounds": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 420,
+                  "height": 178
+                }
+              }
+            ]
+          },
+          {
+            "kind": "token",
+            "severity": "info",
+            "message": "typography.label has no Material-role mapping; unverified (spec {\"fontFamily\":\"Google Sans Flex\",\"fontSize\":18,\"fontWeight\":725,\"lineHeight\":28,\"letterSpacing\":0})",
+            "detail": {
+              "token": "typography.label",
+              "expected": "{\"fontFamily\":\"Google Sans Flex\",\"fontSize\":18,\"fontWeight\":725,\"lineHeight\":28,\"letterSpacing\":0}",
+              "unmapped": "true"
+            },
+            "anchors": [
+              {
+                "side": "reference",
+                "bounds": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 420,
+                  "height": 178
+                }
+              },
+              {
+                "side": "actual",
+                "bounds": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 420,
+                  "height": 178
+                }
+              }
+            ]
+          },
+          {
+            "kind": "semantic",
+            "severity": "warn",
+            "message": "candidate exposes no accessibility roles",
+            "detail": {
+              "node": "tree",
+              "field": "role"
+            }
+          },
+          {
+            "kind": "layout",
+            "severity": "warn",
+            "message": "layout \"Subtitle\": offset (0, -3), size Δ(303, 5) vs candidate",
+            "detail": {
+              "label": "Subtitle",
+              "dx": "0",
+              "dy": "-3",
+              "dw": "303",
+              "dh": "5"
+            },
+            "anchors": [
+              {
+                "side": "reference",
+                "bounds": {
+                  "x": 20,
+                  "y": 55,
+                  "width": 380,
+                  "height": 28
+                },
+                "label": "Subtitle"
+              },
+              {
+                "side": "actual",
+                "bounds": {
+                  "x": 20,
+                  "y": 58,
+                  "width": 77,
+                  "height": 23
+                },
+                "label": "Subtitle"
+              }
+            ]
+          },
+          {
+            "kind": "visual",
+            "severity": "warn",
+            "message": "default: reference 420×212 vs candidate 420×178; compared over their 420×178 overlap, 16.0% of the frame uncovered",
+            "detail": {
+              "key": "default",
+              "dw": "0",
+              "dh": "34",
+              "borderPixels": "14280",
+              "contentPixels": "66778"
+            }
+          },
+          {
+            "kind": "visual",
+            "severity": "warn",
+            "message": "default: 91.0% of pixels differ from reference",
+            "detail": {
+              "key": "default",
+              "score": "0.910355",
+              "diffPixels": "81058"
+            }
+          },
+          {
+            "kind": "visual",
+            "severity": "warn",
+            "message": "cell-type-home-40000042-4081: reference 160×44 vs candidate 160×56; compared over their 160×44 overlap, 21.4% of the frame uncovered",
+            "detail": {
+              "key": "cell-type-home-40000042-4081",
+              "dw": "0",
+              "dh": "-12",
+              "borderPixels": "1920",
+              "contentPixels": "5250"
+            }
+          },
+          {
+            "kind": "visual",
+            "severity": "warn",
+            "message": "cell-type-home-40000042-4081: 80.0% of pixels differ from reference",
+            "detail": {
+              "key": "cell-type-home-40000042-4081",
+              "score": "0.800223",
+              "diffPixels": "7170"
+            }
+          }
+        ]
+      }
+    ],
+    "catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/Stacks.kt#VerticalStackSticker": [
+      {
+        "source": "figma",
+        "status": "warn",
+        "findings": [
+          {
+            "kind": "i18n",
+            "severity": "warn",
+            "message": "\"Body\" risks truncation when localized: ≈88dp expanded vs 51dp available.",
+            "detail": {
+              "label": "Body",
+              "availableWidth": "51",
+              "estimatedWidth": "44",
+              "expansionFactor": "2",
+              "estimatedExpandedWidth": "88"
+            },
+            "anchors": [
+              {
+                "side": "actual",
+                "bounds": {
+                  "x": 31,
+                  "y": 90,
+                  "width": 51,
+                  "height": 25
+                },
+                "label": "Body"
+              }
+            ]
+          },
+          {
+            "kind": "i18n",
+            "severity": "warn",
+            "message": "\"Title\" risks truncation when localized: ≈132dp expanded vs 54dp available.",
+            "detail": {
+              "label": "Title",
+              "availableWidth": "54",
+              "estimatedWidth": "66",
+              "expansionFactor": "2",
+              "estimatedExpandedWidth": "132"
+            },
+            "anchors": [
+              {
+                "side": "reference",
+                "bounds": {
+                  "x": 20,
+                  "y": 20,
+                  "width": 380,
+                  "height": 32
+                },
+                "label": "Title"
+              },
+              {
+                "side": "actual",
+                "bounds": {
+                  "x": 20,
+                  "y": 23,
+                  "width": 54,
+                  "height": 32
+                },
+                "label": "Title"
+              }
+            ]
+          },
+          {
+            "kind": "i18n",
+            "severity": "warn",
+            "message": "\"Subtitle\" risks truncation when localized: ≈158dp expanded vs 77dp available.",
+            "detail": {
+              "label": "Subtitle",
+              "availableWidth": "77",
+              "estimatedWidth": "79",
+              "expansionFactor": "2",
+              "estimatedExpandedWidth": "158"
+            },
+            "anchors": [
+              {
+                "side": "reference",
+                "bounds": {
+                  "x": 20,
+                  "y": 55,
+                  "width": 380,
+                  "height": 28
+                },
+                "label": "Subtitle"
+              },
+              {
+                "side": "actual",
+                "bounds": {
+                  "x": 20,
+                  "y": 58,
+                  "width": 77,
+                  "height": 23
+                },
+                "label": "Subtitle"
+              }
+            ]
+          },
+          {
+            "kind": "i18n",
+            "severity": "warn",
+            "message": "\"Avocado, beet greens, mustard, kale and fava\" risks truncation when localized: ≈678dp expanded vs 380dp available.",
+            "detail": {
+              "label": "Avocado, beet greens, mustard, kale and fava",
+              "availableWidth": "380",
+              "estimatedWidth": "484",
+              "expansionFactor": "1.4",
+              "estimatedExpandedWidth": "678"
+            },
+            "anchors": [
+              {
+                "side": "actual",
+                "bounds": {
+                  "x": 20,
+                  "y": 84,
+                  "width": 380,
+                  "height": 54
+                },
+                "label": "Avocado, beet greens, mustard, kale and fava"
+              }
+            ]
+          },
+          {
+            "kind": "token",
+            "severity": "info",
+            "message": "colors.label has no Material-role mapping; unverified (spec #FFFFFF)",
+            "detail": {
+              "token": "colors.label",
+              "expected": "#FFFFFF",
+              "unmapped": "true"
+            },
+            "anchors": [
+              {
+                "side": "reference",
+                "bounds": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 420,
+                  "height": 178
+                }
+              },
+              {
+                "side": "actual",
+                "bounds": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 420,
+                  "height": 178
+                }
+              }
+            ]
+          },
+          {
+            "kind": "token",
+            "severity": "info",
+            "message": "typography.label has no Material-role mapping; unverified (spec {\"fontFamily\":\"Google Sans Flex\",\"fontSize\":18,\"fontWeight\":725,\"lineHeight\":28,\"letterSpacing\":0})",
+            "detail": {
+              "token": "typography.label",
+              "expected": "{\"fontFamily\":\"Google Sans Flex\",\"fontSize\":18,\"fontWeight\":725,\"lineHeight\":28,\"letterSpacing\":0}",
+              "unmapped": "true"
+            },
+            "anchors": [
+              {
+                "side": "reference",
+                "bounds": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 420,
+                  "height": 178
+                }
+              },
+              {
+                "side": "actual",
+                "bounds": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 420,
+                  "height": 178
+                }
+              }
+            ]
+          },
+          {
+            "kind": "semantic",
+            "severity": "warn",
+            "message": "candidate exposes no accessibility roles",
+            "detail": {
+              "node": "tree",
+              "field": "role"
+            }
+          },
+          {
+            "kind": "layout",
+            "severity": "warn",
+            "message": "layout \"Subtitle\": offset (0, -3), size Δ(303, 5) vs candidate",
+            "detail": {
+              "label": "Subtitle",
+              "dx": "0",
+              "dy": "-3",
+              "dw": "303",
+              "dh": "5"
+            },
+            "anchors": [
+              {
+                "side": "reference",
+                "bounds": {
+                  "x": 20,
+                  "y": 55,
+                  "width": 380,
+                  "height": 28
+                },
+                "label": "Subtitle"
+              },
+              {
+                "side": "actual",
+                "bounds": {
+                  "x": 20,
+                  "y": 58,
+                  "width": 77,
+                  "height": 23
+                },
+                "label": "Subtitle"
+              }
+            ]
+          },
+          {
+            "kind": "visual",
+            "severity": "warn",
+            "message": "default: reference 420×212 vs candidate 420×178; compared over their 420×178 overlap, 16.0% of the frame uncovered",
+            "detail": {
+              "key": "default",
+              "dw": "0",
+              "dh": "34",
+              "borderPixels": "14280",
+              "contentPixels": "66778"
+            }
+          },
+          {
+            "kind": "visual",
+            "severity": "warn",
+            "message": "default: 91.0% of pixels differ from reference",
+            "detail": {
+              "key": "default",
+              "score": "0.910355",
+              "diffPixels": "81058"
+            }
+          },
+          {
+            "kind": "visual",
+            "severity": "warn",
+            "message": "cell-type-home-40000042-4081: reference 160×44 vs candidate 160×56; compared over their 160×44 overlap, 21.4% of the frame uncovered",
+            "detail": {
+              "key": "cell-type-home-40000042-4081",
+              "dw": "0",
+              "dh": "-12",
+              "borderPixels": "1920",
+              "contentPixels": "5250"
+            }
+          },
+          {
+            "kind": "visual",
+            "severity": "warn",
+            "message": "cell-type-home-40000042-4081: 80.0% of pixels differ from reference",
+            "detail": {
+              "key": "cell-type-home-40000042-4081",
+              "score": "0.800223",
+              "diffPixels": "7170"
             }
           }
         ]
