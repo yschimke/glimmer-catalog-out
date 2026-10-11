@@ -139,7 +139,8 @@
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
                 "insertContent": null,
-                "shelfRole": null
+                "shelfRole": null,
+                "exportProjection": null
             },
             "glimmer/button": {
                 "record": "catalog/androidx.xr.glimmer.ButtonKt.Button",
@@ -160,7 +161,8 @@
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
                 "insertContent": null,
-                "shelfRole": null
+                "shelfRole": null,
+                "exportProjection": null
             },
             "glimmer/action-card": {
                 "record": "catalog/androidx.xr.glimmer.CardKt.ActionCard",
@@ -181,7 +183,8 @@
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
                 "insertContent": null,
-                "shelfRole": null
+                "shelfRole": null,
+                "exportProjection": null
             },
             "glimmer/card": {
                 "record": "catalog/androidx.xr.glimmer.CardKt.Card",
@@ -202,7 +205,8 @@
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
                 "insertContent": null,
-                "shelfRole": null
+                "shelfRole": null,
+                "exportProjection": null
             },
             "glimmer/image-card": {
                 "record": "catalog/androidx.xr.glimmer.CardKt.ImageCard",
@@ -223,7 +227,8 @@
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
                 "insertContent": null,
-                "shelfRole": null
+                "shelfRole": null,
+                "exportProjection": null
             },
             "glimmer/icon-button": {
                 "record": "catalog/androidx.xr.glimmer.IconButtonKt.IconButton",
@@ -244,7 +249,8 @@
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
                 "insertContent": null,
-                "shelfRole": null
+                "shelfRole": null,
+                "exportProjection": null
             },
             "glimmer/icon": {
                 "record": "catalog/androidx.xr.glimmer.IconKt.Icon",
@@ -285,7 +291,8 @@
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
                 "insertContent": null,
-                "shelfRole": null
+                "shelfRole": null,
+                "exportProjection": null
             },
             "glimmer/icon-toggle-button": {
                 "record": "catalog/androidx.xr.glimmer.IconToggleButtonKt.IconToggleButton",
@@ -308,7 +315,8 @@
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
                 "insertContent": null,
-                "shelfRole": null
+                "shelfRole": null,
+                "exportProjection": null
             },
             "glimmer/list-item": {
                 "record": "catalog/androidx.xr.glimmer.ListItemKt.ListItem",
@@ -329,7 +337,8 @@
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
                 "insertContent": null,
-                "shelfRole": null
+                "shelfRole": null,
+                "exportProjection": null
             },
             "glimmer/text": {
                 "record": "catalog/androidx.xr.glimmer.TextKt.Text",
@@ -350,7 +359,8 @@
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
                 "insertContent": null,
-                "shelfRole": null
+                "shelfRole": null,
+                "exportProjection": null
             },
             "glimmer/title-chip": {
                 "record": "catalog/androidx.xr.glimmer.TitleChipKt.TitleChip",
@@ -371,7 +381,8 @@
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
                 "insertContent": null,
-                "shelfRole": null
+                "shelfRole": null,
+                "exportProjection": null
             },
             "glimmer/toggle-button": {
                 "record": "catalog/androidx.xr.glimmer.ToggleButtonKt.ToggleButton",
@@ -394,7 +405,8 @@
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
                 "insertContent": null,
-                "shelfRole": null
+                "shelfRole": null,
+                "exportProjection": null
             },
             "glimmer/contained-voice-input-indicator": {
                 "record": "catalog/androidx.xr.glimmer.VoiceInputIndicatorKt.ContainedVoiceInputIndicator",
@@ -415,7 +427,8 @@
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
                 "insertContent": null,
-                "shelfRole": null
+                "shelfRole": null,
+                "exportProjection": null
             },
             "glimmer/voice-input-indicator": {
                 "record": "catalog/androidx.xr.glimmer.VoiceInputIndicatorKt.VoiceInputIndicator",
@@ -436,7 +449,8 @@
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
                 "insertContent": null,
-                "shelfRole": null
+                "shelfRole": null,
+                "exportProjection": null
             },
             "glimmer/glimmer-lazy-column": {
                 "record": "catalog/androidx.xr.glimmer.list.GlimmerLazyListKt.GlimmerLazyColumn",
@@ -457,7 +471,8 @@
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
                 "insertContent": null,
-                "shelfRole": null
+                "shelfRole": null,
+                "exportProjection": null
             },
             "glimmer/vertical-stack": {
                 "record": "catalog/androidx.xr.glimmer.stack.StackKt.VerticalStack",
@@ -478,7 +493,8 @@
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
                 "insertContent": null,
-                "shelfRole": null
+                "shelfRole": null,
+                "exportProjection": null
             },
             "glimmer/sticker": {
                 "record": "catalog/ee.schimke.m3catalog.glimmer.GlimmerCatalogKt.Sticker",
@@ -499,7 +515,8 @@
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
                 "insertContent": null,
-                "shelfRole": null
+                "shelfRole": null,
+                "exportProjection": null
             }
         },
         "designTokens": null
