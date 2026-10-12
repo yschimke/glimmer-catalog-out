@@ -1,6 +1,6 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-12T05:27:54.500Z",
+  "generatedAt": "2026-10-12T15:18:43.866Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/glimmer-catalog",
@@ -296,11 +296,6 @@
         "id": "2399364574015562050",
         "at": "2026-09-15T07:52:24Z",
         "author": "Figma"
-      },
-      {
-        "id": "2398263417944731998",
-        "at": "2026-09-12T10:00:18Z",
-        "author": "Yuri Schimke"
       }
     ],
     "comments": []
