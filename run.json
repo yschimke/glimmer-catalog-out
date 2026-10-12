@@ -4,7 +4,7 @@
   "direction": "design-led",
   "status": "warn",
   "blocked": false,
-  "cacheKey": "57d5fba0e23b0afb4d2d73b4ecadf1374c05735f4e66a5d5a53f912802e5f70d",
+  "cacheKey": "0c367841fb81a7602512c9e930956994c61cea78c03b33580ccfb57ad79bd3ac",
   "entries": [
     {
       "code": "catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/ButtonGroups.kt#ButtonGroupSticker",
