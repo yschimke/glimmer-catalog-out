@@ -1,11 +1,27 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-11T20:55:25.297Z",
+  "generatedAt": "2026-10-12T03:12:48.226Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/glimmer-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "caf5ba9686732b3f9e9d3fad99ce0940266707f5",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-daemon-bom to v3.15.3 (#48)",
+        "at": "2026-10-12T02:28:25Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "7a736d840cf4c20320f85661500aef2ef43c2f33",
+        "subject": "chore(deps): update github-actions (#46)",
+        "at": "2026-10-12T02:25:36Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "a0fdfb8bcac246ea336184eb08ef13e68ff3cc41",
         "subject": "chore(deps): update compose-preview to v2.50.0 (#45)",
