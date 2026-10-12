@@ -1,11 +1,35 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-12T03:12:48.226Z",
+  "generatedAt": "2026-10-12T03:30:09.808Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/glimmer-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "60db20edf692dabfb3fa9482fce6941000809581",
+        "subject": "fix(deps): update dependency androidx.annotation:annotation to v1.11.0 (#53)",
+        "at": "2026-10-12T02:30:52Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "f85f6311059a3a292d2eb646c93e944114d8e63b",
+        "subject": "chore(deps): update gradle to v9.8.1 (#52)",
+        "at": "2026-10-12T02:29:39Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "74e42ef266cf8a44824b5c120168a303a369cb86",
+        "subject": "fix(deps): update kotlin to v2.4.21 (#50)",
+        "at": "2026-10-12T02:28:57Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "caf5ba9686732b3f9e9d3fad99ce0940266707f5",
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-daemon-bom to v3.15.3 (#48)",
