@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-12T03:30:09.808Z",
+  "generatedAt": "2026-10-12T05:22:36.282Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/glimmer-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "302a20482213a77be41c1a1529a23311b5659a8c",
+        "subject": "chore(deps): update compose-preview to v2.51.0 (#51)",
+        "at": "2026-10-12T05:15:44Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "60db20edf692dabfb3fa9482fce6941000809581",
         "subject": "fix(deps): update dependency androidx.annotation:annotation to v1.11.0 (#53)",
