@@ -7,7 +7,7 @@
     "ref": "main",
     "module": ":catalog"
   },
-  "generatedAt": "2026-10-12T15:17:57.674Z",
+  "generatedAt": "2026-10-16T20:54:37.040Z",
   "mappings": [
     {
       "componentId": "ButtonGroup",
@@ -35,7 +35,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "figma/buttongroup.svg"
     },
     {
       "componentId": "Button",
@@ -44,7 +45,8 @@
       "source": "https://github.com/yschimke/glimmer-catalog/blob/main/catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/Buttons.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "ButtonSticker"
+      "previewName": "ButtonSticker",
+      "figmaSvg": "figma/button.svg"
     },
     {
       "componentId": "ToggleButton",
@@ -53,7 +55,8 @@
       "source": "https://github.com/yschimke/glimmer-catalog/blob/main/catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/Buttons.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "ToggleButtonSticker"
+      "previewName": "ToggleButtonSticker",
+      "figmaSvg": "figma/togglebutton.svg"
     },
     {
       "componentId": "ImageCard",
@@ -62,7 +65,8 @@
       "source": "https://github.com/yschimke/glimmer-catalog/blob/main/catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/Cards.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "CardSticker"
+      "previewName": "CardSticker",
+      "figmaSvg": "figma/imagecard.svg"
     },
     {
       "componentId": "TitleChip",
@@ -90,7 +94,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "figma/titlechip.svg"
     },
     {
       "componentId": "IconButton",
@@ -99,7 +104,8 @@
       "source": "https://github.com/yschimke/glimmer-catalog/blob/main/catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/IconButtons.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "IconButtonSticker"
+      "previewName": "IconButtonSticker",
+      "figmaSvg": "figma/iconbutton.svg"
     },
     {
       "componentId": "IconToggleButton",
@@ -108,7 +114,8 @@
       "source": "https://github.com/yschimke/glimmer-catalog/blob/main/catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/IconButtons.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "IconToggleButtonSticker"
+      "previewName": "IconToggleButtonSticker",
+      "figmaSvg": "figma/icontogglebutton.svg"
     },
     {
       "componentId": "GlimmerLazyColumn",
@@ -136,7 +143,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "figma/glimmerlazycolumn.svg"
     },
     {
       "componentId": "GlimmerLazyColumn/TwoLine",
@@ -164,7 +172,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "figma/glimmerlazycolumn-twoline.svg"
     },
     {
       "componentId": "ListItem",
@@ -173,7 +182,8 @@
       "source": "https://github.com/yschimke/glimmer-catalog/blob/main/catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/Lists.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "ListItemSticker"
+      "previewName": "ListItemSticker",
+      "figmaSvg": "figma/listitem.svg"
     },
     {
       "componentId": "VerticalStack",
@@ -201,7 +211,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "figma/verticalstack.svg"
     },
     {
       "componentId": "VoiceInputIndicator",
@@ -210,7 +221,8 @@
       "source": "https://github.com/yschimke/glimmer-catalog/blob/main/catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/VoiceInput.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "VoiceInputIndicatorSticker"
+      "previewName": "VoiceInputIndicatorSticker",
+      "figmaSvg": "figma/voiceinputindicator.svg"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-12T15:18:43.866Z",
+  "generatedAt": "2026-10-16T20:55:33.912Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/glimmer-catalog",
@@ -287,18 +287,6 @@
         ]
       }
     ]
-  },
-  "figma": {
-    "fileKey": "HKfLClZDLRyMhf4IQQLna8",
-    "fileName": "Jetpack Compose Glimmer UI (Community)",
-    "versions": [
-      {
-        "id": "2399364574015562050",
-        "at": "2026-09-15T07:52:24Z",
-        "author": "Figma"
-      }
-    ],
-    "comments": []
   },
   "gaps": [
     {
