@@ -237,17 +237,17 @@
               "dw": "0",
               "dh": "-2",
               "borderPixels": "282",
-              "contentPixels": "616"
+              "contentPixels": "681"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "default: 13.3% of pixels differ from reference",
+            "message": "default: 14.2% of pixels differ from reference",
             "detail": {
               "key": "default",
-              "score": "0.132683",
-              "diffPixels": "898"
+              "score": "0.142287",
+              "diffPixels": "963"
             }
           },
           {
@@ -259,17 +259,17 @@
               "dw": "0",
               "dh": "-2",
               "borderPixels": "282",
-              "contentPixels": "522"
+              "contentPixels": "553"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "disabled: 11.9% of pixels differ from reference",
+            "message": "disabled: 12.3% of pixels differ from reference",
             "detail": {
               "key": "disabled",
-              "score": "0.118794",
-              "diffPixels": "804"
+              "score": "0.123375",
+              "diffPixels": "835"
             }
           },
           {
@@ -281,17 +281,17 @@
               "dw": "0",
               "dh": "-2",
               "borderPixels": "282",
-              "contentPixels": "3983"
+              "contentPixels": "4132"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "focused: 63.0% of pixels differ from reference",
+            "message": "focused: 65.2% of pixels differ from reference",
             "detail": {
               "key": "focused",
-              "score": "0.630171",
-              "diffPixels": "4265"
+              "score": "0.652187",
+              "diffPixels": "4414"
             }
           },
           {
@@ -303,17 +303,17 @@
               "dw": "0",
               "dh": "-2",
               "borderPixels": "282",
-              "contentPixels": "2815"
+              "contentPixels": "3080"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "pressed: 45.8% of pixels differ from reference",
+            "message": "pressed: 49.7% of pixels differ from reference",
             "detail": {
               "key": "pressed",
-              "score": "0.457595",
-              "diffPixels": "3097"
+              "score": "0.496749",
+              "diffPixels": "3362"
             }
           },
           {
@@ -325,17 +325,17 @@
               "dw": "0",
               "dh": "-10",
               "borderPixels": "1410",
-              "contentPixels": "1429"
+              "contentPixels": "1519"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "default/Large: 28.0% of pixels differ from reference",
+            "message": "default/Large: 28.9% of pixels differ from reference",
             "detail": {
               "key": "default/Large",
-              "score": "0.279649",
-              "diffPixels": "2839"
+              "score": "0.288515",
+              "diffPixels": "2929"
             }
           },
           {
@@ -347,17 +347,17 @@
               "dw": "0",
               "dh": "-10",
               "borderPixels": "1410",
-              "contentPixels": "1666"
+              "contentPixels": "1655"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "Large-disabled: 30.3% of pixels differ from reference",
+            "message": "Large-disabled: 30.2% of pixels differ from reference",
             "detail": {
               "key": "Large-disabled",
-              "score": "0.302994",
-              "diffPixels": "3076"
+              "score": "0.301911",
+              "diffPixels": "3065"
             }
           },
           {
@@ -369,17 +369,17 @@
               "dw": "0",
               "dh": "-10",
               "borderPixels": "1410",
-              "contentPixels": "6099"
+              "contentPixels": "6079"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "Large-focused: 74.0% of pixels differ from reference",
+            "message": "Large-focused: 73.8% of pixels differ from reference",
             "detail": {
               "key": "Large-focused",
-              "score": "0.739657",
-              "diffPixels": "7509"
+              "score": "0.737687",
+              "diffPixels": "7489"
             }
           },
           {
@@ -391,17 +391,17 @@
               "dw": "0",
               "dh": "-10",
               "borderPixels": "1410",
-              "contentPixels": "5442"
+              "contentPixels": "5554"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "Large-pressed: 67.5% of pixels differ from reference",
+            "message": "Large-pressed: 68.6% of pixels differ from reference",
             "detail": {
               "key": "Large-pressed",
-              "score": "0.674941",
-              "diffPixels": "6852"
+              "score": "0.685973",
+              "diffPixels": "6964"
             }
           }
         ]
@@ -643,17 +643,17 @@
               "dw": "0",
               "dh": "-2",
               "borderPixels": "282",
-              "contentPixels": "616"
+              "contentPixels": "681"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "default: 13.3% of pixels differ from reference",
+            "message": "default: 14.2% of pixels differ from reference",
             "detail": {
               "key": "default",
-              "score": "0.132683",
-              "diffPixels": "898"
+              "score": "0.142287",
+              "diffPixels": "963"
             }
           },
           {
@@ -665,17 +665,17 @@
               "dw": "0",
               "dh": "-2",
               "borderPixels": "282",
-              "contentPixels": "522"
+              "contentPixels": "553"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "disabled: 11.9% of pixels differ from reference",
+            "message": "disabled: 12.3% of pixels differ from reference",
             "detail": {
               "key": "disabled",
-              "score": "0.118794",
-              "diffPixels": "804"
+              "score": "0.123375",
+              "diffPixels": "835"
             }
           },
           {
@@ -687,17 +687,17 @@
               "dw": "0",
               "dh": "-2",
               "borderPixels": "282",
-              "contentPixels": "3983"
+              "contentPixels": "4132"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "focused: 63.0% of pixels differ from reference",
+            "message": "focused: 65.2% of pixels differ from reference",
             "detail": {
               "key": "focused",
-              "score": "0.630171",
-              "diffPixels": "4265"
+              "score": "0.652187",
+              "diffPixels": "4414"
             }
           },
           {
@@ -709,17 +709,17 @@
               "dw": "0",
               "dh": "-2",
               "borderPixels": "282",
-              "contentPixels": "2815"
+              "contentPixels": "3080"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "pressed: 45.8% of pixels differ from reference",
+            "message": "pressed: 49.7% of pixels differ from reference",
             "detail": {
               "key": "pressed",
-              "score": "0.457595",
-              "diffPixels": "3097"
+              "score": "0.496749",
+              "diffPixels": "3362"
             }
           },
           {
@@ -731,17 +731,17 @@
               "dw": "0",
               "dh": "-10",
               "borderPixels": "1410",
-              "contentPixels": "1429"
+              "contentPixels": "1519"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "default/Large: 28.0% of pixels differ from reference",
+            "message": "default/Large: 28.9% of pixels differ from reference",
             "detail": {
               "key": "default/Large",
-              "score": "0.279649",
-              "diffPixels": "2839"
+              "score": "0.288515",
+              "diffPixels": "2929"
             }
           },
           {
@@ -753,17 +753,17 @@
               "dw": "0",
               "dh": "-10",
               "borderPixels": "1410",
-              "contentPixels": "1666"
+              "contentPixels": "1655"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "Large-disabled: 30.3% of pixels differ from reference",
+            "message": "Large-disabled: 30.2% of pixels differ from reference",
             "detail": {
               "key": "Large-disabled",
-              "score": "0.302994",
-              "diffPixels": "3076"
+              "score": "0.301911",
+              "diffPixels": "3065"
             }
           },
           {
@@ -775,17 +775,17 @@
               "dw": "0",
               "dh": "-10",
               "borderPixels": "1410",
-              "contentPixels": "6099"
+              "contentPixels": "6079"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "Large-focused: 74.0% of pixels differ from reference",
+            "message": "Large-focused: 73.8% of pixels differ from reference",
             "detail": {
               "key": "Large-focused",
-              "score": "0.739657",
-              "diffPixels": "7509"
+              "score": "0.737687",
+              "diffPixels": "7489"
             }
           },
           {
@@ -797,17 +797,17 @@
               "dw": "0",
               "dh": "-10",
               "borderPixels": "1410",
-              "contentPixels": "5442"
+              "contentPixels": "5554"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "Large-pressed: 67.5% of pixels differ from reference",
+            "message": "Large-pressed: 68.6% of pixels differ from reference",
             "detail": {
               "key": "Large-pressed",
-              "score": "0.674941",
-              "diffPixels": "6852"
+              "score": "0.685973",
+              "diffPixels": "6964"
             }
           }
         ]
@@ -1079,17 +1079,17 @@
               "dw": "0",
               "dh": "-2",
               "borderPixels": "282",
-              "contentPixels": "616"
+              "contentPixels": "681"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "default: 13.3% of pixels differ from reference",
+            "message": "default: 14.2% of pixels differ from reference",
             "detail": {
               "key": "default",
-              "score": "0.132683",
-              "diffPixels": "898"
+              "score": "0.142287",
+              "diffPixels": "963"
             }
           },
           {
@@ -1101,17 +1101,17 @@
               "dw": "0",
               "dh": "-10",
               "borderPixels": "1410",
-              "contentPixels": "1823"
+              "contentPixels": "2043"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "cell-state-enabled-size-large-toggle-true-40000113-4082: 31.8% of pixels differ from reference",
+            "message": "cell-state-enabled-size-large-toggle-true-40000113-4082: 34.0% of pixels differ from reference",
             "detail": {
               "key": "cell-state-enabled-size-large-toggle-true-40000113-4082",
-              "score": "0.318459",
-              "diffPixels": "3233"
+              "score": "0.34013",
+              "diffPixels": "3453"
             }
           },
           {
@@ -1123,17 +1123,17 @@
               "dw": "0",
               "dh": "-2",
               "borderPixels": "282",
-              "contentPixels": "1566"
+              "contentPixels": "4676"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "cell-state-focused-size-default-toggle-true-40000113-4092: 27.3% of pixels differ from reference",
+            "message": "cell-state-focused-size-default-toggle-true-40000113-4092: 73.3% of pixels differ from reference",
             "detail": {
               "key": "cell-state-focused-size-default-toggle-true-40000113-4092",
-              "score": "0.27305",
-              "diffPixels": "1848"
+              "score": "0.732565",
+              "diffPixels": "4958"
             }
           },
           {
@@ -1145,17 +1145,17 @@
               "dw": "0",
               "dh": "-10",
               "borderPixels": "1410",
-              "contentPixels": "2513"
+              "contentPixels": "7124"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "cell-state-focused-size-large-toggle-true-40000113-4112: 38.6% of pixels differ from reference",
+            "message": "cell-state-focused-size-large-toggle-true-40000113-4112: 84.1% of pixels differ from reference",
             "detail": {
               "key": "cell-state-focused-size-large-toggle-true-40000113-4112",
-              "score": "0.386426",
-              "diffPixels": "3923"
+              "score": "0.840623",
+              "diffPixels": "8534"
             }
           },
           {
@@ -1167,17 +1167,17 @@
               "dw": "0",
               "dh": "-2",
               "borderPixels": "282",
-              "contentPixels": "1985"
+              "contentPixels": "3069"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "cell-state-pressed-size-default-toggle-true-40000113-4102: 33.5% of pixels differ from reference",
+            "message": "cell-state-pressed-size-default-toggle-true-40000113-4102: 49.5% of pixels differ from reference",
             "detail": {
               "key": "cell-state-pressed-size-default-toggle-true-40000113-4102",
-              "score": "0.334959",
-              "diffPixels": "2267"
+              "score": "0.495124",
+              "diffPixels": "3351"
             }
           },
           {
@@ -1189,17 +1189,17 @@
               "dw": "0",
               "dh": "-10",
               "borderPixels": "1410",
-              "contentPixels": "2756"
+              "contentPixels": "3956"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "cell-state-pressed-size-large-toggle-true-40000113-4122: 41.0% of pixels differ from reference",
+            "message": "cell-state-pressed-size-large-toggle-true-40000113-4122: 52.9% of pixels differ from reference",
             "detail": {
               "key": "cell-state-pressed-size-large-toggle-true-40000113-4122",
-              "score": "0.410362",
-              "diffPixels": "4166"
+              "score": "0.528566",
+              "diffPixels": "5366"
             }
           },
           {
@@ -1211,17 +1211,17 @@
               "dw": "0",
               "dh": "-2",
               "borderPixels": "282",
-              "contentPixels": "522"
+              "contentPixels": "553"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "disabled: 11.9% of pixels differ from reference",
+            "message": "disabled: 12.3% of pixels differ from reference",
             "detail": {
               "key": "disabled",
-              "score": "0.118794",
-              "diffPixels": "804"
+              "score": "0.123375",
+              "diffPixels": "835"
             }
           },
           {
@@ -1233,17 +1233,17 @@
               "dw": "0",
               "dh": "-2",
               "borderPixels": "282",
-              "contentPixels": "4451"
+              "contentPixels": "4487"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "focused: 69.9% of pixels differ from reference",
+            "message": "focused: 70.5% of pixels differ from reference",
             "detail": {
               "key": "focused",
-              "score": "0.69932",
-              "diffPixels": "4733"
+              "score": "0.704639",
+              "diffPixels": "4769"
             }
           },
           {
@@ -1255,17 +1255,17 @@
               "dw": "0",
               "dh": "-2",
               "borderPixels": "282",
-              "contentPixels": "3936"
+              "contentPixels": "4106"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "pressed: 62.3% of pixels differ from reference",
+            "message": "pressed: 64.8% of pixels differ from reference",
             "detail": {
               "key": "pressed",
-              "score": "0.623227",
-              "diffPixels": "4218"
+              "score": "0.648345",
+              "diffPixels": "4388"
             }
           },
           {
@@ -1277,17 +1277,17 @@
               "dw": "0",
               "dh": "-10",
               "borderPixels": "1410",
-              "contentPixels": "1429"
+              "contentPixels": "1519"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "default/Large: 28.0% of pixels differ from reference",
+            "message": "default/Large: 28.9% of pixels differ from reference",
             "detail": {
               "key": "default/Large",
-              "score": "0.279649",
-              "diffPixels": "2839"
+              "score": "0.288515",
+              "diffPixels": "2929"
             }
           },
           {
@@ -1299,17 +1299,17 @@
               "dw": "0",
               "dh": "-10",
               "borderPixels": "1410",
-              "contentPixels": "1666"
+              "contentPixels": "1655"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "Large-disabled: 30.3% of pixels differ from reference",
+            "message": "Large-disabled: 30.2% of pixels differ from reference",
             "detail": {
               "key": "Large-disabled",
-              "score": "0.302994",
-              "diffPixels": "3076"
+              "score": "0.301911",
+              "diffPixels": "3065"
             }
           },
           {
@@ -1321,17 +1321,17 @@
               "dw": "0",
               "dh": "-10",
               "borderPixels": "1410",
-              "contentPixels": "6089"
+              "contentPixels": "6070"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "Large-focused: 73.9% of pixels differ from reference",
+            "message": "Large-focused: 73.7% of pixels differ from reference",
             "detail": {
               "key": "Large-focused",
-              "score": "0.738672",
-              "diffPixels": "7499"
+              "score": "0.736801",
+              "diffPixels": "7480"
             }
           },
           {
@@ -1343,17 +1343,17 @@
               "dw": "0",
               "dh": "-10",
               "borderPixels": "1410",
-              "contentPixels": "5399"
+              "contentPixels": "5519"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "Large-pressed: 67.1% of pixels differ from reference",
+            "message": "Large-pressed: 68.3% of pixels differ from reference",
             "detail": {
               "key": "Large-pressed",
-              "score": "0.670705",
-              "diffPixels": "6809"
+              "score": "0.682526",
+              "diffPixels": "6929"
             }
           },
           {
@@ -1365,17 +1365,17 @@
               "dw": "0",
               "dh": "-2",
               "borderPixels": "282",
-              "contentPixels": "1509"
+              "contentPixels": "1942"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "checked: 26.5% of pixels differ from reference",
+            "message": "checked: 32.9% of pixels differ from reference",
             "detail": {
               "key": "checked",
-              "score": "0.264628",
-              "diffPixels": "1791"
+              "score": "0.328605",
+              "diffPixels": "2224"
             }
           }
         ]
@@ -1647,17 +1647,17 @@
               "dw": "0",
               "dh": "-2",
               "borderPixels": "282",
-              "contentPixels": "616"
+              "contentPixels": "681"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "default: 13.3% of pixels differ from reference",
+            "message": "default: 14.2% of pixels differ from reference",
             "detail": {
               "key": "default",
-              "score": "0.132683",
-              "diffPixels": "898"
+              "score": "0.142287",
+              "diffPixels": "963"
             }
           },
           {
@@ -1669,17 +1669,17 @@
               "dw": "0",
               "dh": "-10",
               "borderPixels": "1410",
-              "contentPixels": "1823"
+              "contentPixels": "2043"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "cell-state-enabled-size-large-toggle-true-40000113-4082: 31.8% of pixels differ from reference",
+            "message": "cell-state-enabled-size-large-toggle-true-40000113-4082: 34.0% of pixels differ from reference",
             "detail": {
               "key": "cell-state-enabled-size-large-toggle-true-40000113-4082",
-              "score": "0.318459",
-              "diffPixels": "3233"
+              "score": "0.34013",
+              "diffPixels": "3453"
             }
           },
           {
@@ -1691,17 +1691,17 @@
               "dw": "0",
               "dh": "-2",
               "borderPixels": "282",
-              "contentPixels": "1566"
+              "contentPixels": "4676"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "cell-state-focused-size-default-toggle-true-40000113-4092: 27.3% of pixels differ from reference",
+            "message": "cell-state-focused-size-default-toggle-true-40000113-4092: 73.3% of pixels differ from reference",
             "detail": {
               "key": "cell-state-focused-size-default-toggle-true-40000113-4092",
-              "score": "0.27305",
-              "diffPixels": "1848"
+              "score": "0.732565",
+              "diffPixels": "4958"
             }
           },
           {
@@ -1713,17 +1713,17 @@
               "dw": "0",
               "dh": "-10",
               "borderPixels": "1410",
-              "contentPixels": "2513"
+              "contentPixels": "7124"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "cell-state-focused-size-large-toggle-true-40000113-4112: 38.6% of pixels differ from reference",
+            "message": "cell-state-focused-size-large-toggle-true-40000113-4112: 84.1% of pixels differ from reference",
             "detail": {
               "key": "cell-state-focused-size-large-toggle-true-40000113-4112",
-              "score": "0.386426",
-              "diffPixels": "3923"
+              "score": "0.840623",
+              "diffPixels": "8534"
             }
           },
           {
@@ -1735,17 +1735,17 @@
               "dw": "0",
               "dh": "-2",
               "borderPixels": "282",
-              "contentPixels": "1985"
+              "contentPixels": "3069"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "cell-state-pressed-size-default-toggle-true-40000113-4102: 33.5% of pixels differ from reference",
+            "message": "cell-state-pressed-size-default-toggle-true-40000113-4102: 49.5% of pixels differ from reference",
             "detail": {
               "key": "cell-state-pressed-size-default-toggle-true-40000113-4102",
-              "score": "0.334959",
-              "diffPixels": "2267"
+              "score": "0.495124",
+              "diffPixels": "3351"
             }
           },
           {
@@ -1757,17 +1757,17 @@
               "dw": "0",
               "dh": "-10",
               "borderPixels": "1410",
-              "contentPixels": "2756"
+              "contentPixels": "3956"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "cell-state-pressed-size-large-toggle-true-40000113-4122: 41.0% of pixels differ from reference",
+            "message": "cell-state-pressed-size-large-toggle-true-40000113-4122: 52.9% of pixels differ from reference",
             "detail": {
               "key": "cell-state-pressed-size-large-toggle-true-40000113-4122",
-              "score": "0.410362",
-              "diffPixels": "4166"
+              "score": "0.528566",
+              "diffPixels": "5366"
             }
           },
           {
@@ -1779,17 +1779,17 @@
               "dw": "0",
               "dh": "-2",
               "borderPixels": "282",
-              "contentPixels": "522"
+              "contentPixels": "553"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "disabled: 11.9% of pixels differ from reference",
+            "message": "disabled: 12.3% of pixels differ from reference",
             "detail": {
               "key": "disabled",
-              "score": "0.118794",
-              "diffPixels": "804"
+              "score": "0.123375",
+              "diffPixels": "835"
             }
           },
           {
@@ -1801,17 +1801,17 @@
               "dw": "0",
               "dh": "-2",
               "borderPixels": "282",
-              "contentPixels": "4451"
+              "contentPixels": "4487"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "focused: 69.9% of pixels differ from reference",
+            "message": "focused: 70.5% of pixels differ from reference",
             "detail": {
               "key": "focused",
-              "score": "0.69932",
-              "diffPixels": "4733"
+              "score": "0.704639",
+              "diffPixels": "4769"
             }
           },
           {
@@ -1823,17 +1823,17 @@
               "dw": "0",
               "dh": "-2",
               "borderPixels": "282",
-              "contentPixels": "3936"
+              "contentPixels": "4106"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "pressed: 62.3% of pixels differ from reference",
+            "message": "pressed: 64.8% of pixels differ from reference",
             "detail": {
               "key": "pressed",
-              "score": "0.623227",
-              "diffPixels": "4218"
+              "score": "0.648345",
+              "diffPixels": "4388"
             }
           },
           {
@@ -1845,17 +1845,17 @@
               "dw": "0",
               "dh": "-10",
               "borderPixels": "1410",
-              "contentPixels": "1429"
+              "contentPixels": "1519"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "default/Large: 28.0% of pixels differ from reference",
+            "message": "default/Large: 28.9% of pixels differ from reference",
             "detail": {
               "key": "default/Large",
-              "score": "0.279649",
-              "diffPixels": "2839"
+              "score": "0.288515",
+              "diffPixels": "2929"
             }
           },
           {
@@ -1867,17 +1867,17 @@
               "dw": "0",
               "dh": "-10",
               "borderPixels": "1410",
-              "contentPixels": "1666"
+              "contentPixels": "1655"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "Large-disabled: 30.3% of pixels differ from reference",
+            "message": "Large-disabled: 30.2% of pixels differ from reference",
             "detail": {
               "key": "Large-disabled",
-              "score": "0.302994",
-              "diffPixels": "3076"
+              "score": "0.301911",
+              "diffPixels": "3065"
             }
           },
           {
@@ -1889,17 +1889,17 @@
               "dw": "0",
               "dh": "-10",
               "borderPixels": "1410",
-              "contentPixels": "6089"
+              "contentPixels": "6070"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "Large-focused: 73.9% of pixels differ from reference",
+            "message": "Large-focused: 73.7% of pixels differ from reference",
             "detail": {
               "key": "Large-focused",
-              "score": "0.738672",
-              "diffPixels": "7499"
+              "score": "0.736801",
+              "diffPixels": "7480"
             }
           },
           {
@@ -1911,17 +1911,17 @@
               "dw": "0",
               "dh": "-10",
               "borderPixels": "1410",
-              "contentPixels": "5399"
+              "contentPixels": "5519"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "Large-pressed: 67.1% of pixels differ from reference",
+            "message": "Large-pressed: 68.3% of pixels differ from reference",
             "detail": {
               "key": "Large-pressed",
-              "score": "0.670705",
-              "diffPixels": "6809"
+              "score": "0.682526",
+              "diffPixels": "6929"
             }
           },
           {
@@ -1933,17 +1933,17 @@
               "dw": "0",
               "dh": "-2",
               "borderPixels": "282",
-              "contentPixels": "1509"
+              "contentPixels": "1942"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "checked: 26.5% of pixels differ from reference",
+            "message": "checked: 32.9% of pixels differ from reference",
             "detail": {
               "key": "checked",
-              "score": "0.264628",
-              "diffPixels": "1791"
+              "score": "0.328605",
+              "diffPixels": "2224"
             }
           }
         ]
@@ -2191,17 +2191,17 @@
               "dw": "0",
               "dh": "37",
               "borderPixels": "15540",
-              "contentPixels": "120511"
+              "contentPixels": "121537"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "default: 78.6% of pixels differ from reference",
+            "message": "default: 79.2% of pixels differ from reference",
             "detail": {
               "key": "default",
-              "score": "0.78624",
-              "diffPixels": "136051"
+              "score": "0.792169",
+              "diffPixels": "137077"
             }
           }
         ]
@@ -2449,17 +2449,17 @@
               "dw": "0",
               "dh": "37",
               "borderPixels": "15540",
-              "contentPixels": "120511"
+              "contentPixels": "121537"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "default: 78.6% of pixels differ from reference",
+            "message": "default: 79.2% of pixels differ from reference",
             "detail": {
               "key": "default",
-              "score": "0.78624",
-              "diffPixels": "136051"
+              "score": "0.792169",
+              "diffPixels": "137077"
             }
           }
         ]
@@ -2615,17 +2615,17 @@
               "dw": "0",
               "dh": "1",
               "borderPixels": "150",
-              "contentPixels": "1545"
+              "contentPixels": "1761"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "default: 25.1% of pixels differ from reference",
+            "message": "default: 28.3% of pixels differ from reference",
             "detail": {
               "key": "default",
-              "score": "0.251111",
-              "diffPixels": "1695"
+              "score": "0.283111",
+              "diffPixels": "1911"
             }
           }
         ]
@@ -2781,17 +2781,17 @@
               "dw": "0",
               "dh": "1",
               "borderPixels": "150",
-              "contentPixels": "1545"
+              "contentPixels": "1761"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "default: 25.1% of pixels differ from reference",
+            "message": "default: 28.3% of pixels differ from reference",
             "detail": {
               "key": "default",
-              "score": "0.251111",
-              "diffPixels": "1695"
+              "score": "0.283111",
+              "diffPixels": "1911"
             }
           }
         ]
@@ -2985,41 +2985,41 @@
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "default: 25.5% of pixels differ from reference",
+            "message": "default: 28.3% of pixels differ from reference",
             "detail": {
               "key": "default",
-              "score": "0.254774",
-              "diffPixels": "587"
+              "score": "0.282552",
+              "diffPixels": "651"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "disabled: 57.7% of pixels differ from reference",
+            "message": "disabled: 53.6% of pixels differ from reference",
             "detail": {
               "key": "disabled",
-              "score": "0.576823",
-              "diffPixels": "1329"
+              "score": "0.536024",
+              "diffPixels": "1235"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "focused: 39.6% of pixels differ from reference",
+            "message": "focused: 41.1% of pixels differ from reference",
             "detail": {
               "key": "focused",
-              "score": "0.396267",
-              "diffPixels": "913"
+              "score": "0.41059",
+              "diffPixels": "946"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "pressed: 57.9% of pixels differ from reference",
+            "message": "pressed: 58.6% of pixels differ from reference",
             "detail": {
               "key": "pressed",
-              "score": "0.578993",
-              "diffPixels": "1334"
+              "score": "0.585938",
+              "diffPixels": "1350"
             }
           }
         ]
@@ -3213,41 +3213,41 @@
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "default: 25.5% of pixels differ from reference",
+            "message": "default: 28.3% of pixels differ from reference",
             "detail": {
               "key": "default",
-              "score": "0.254774",
-              "diffPixels": "587"
+              "score": "0.282552",
+              "diffPixels": "651"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "disabled: 57.7% of pixels differ from reference",
+            "message": "disabled: 53.6% of pixels differ from reference",
             "detail": {
               "key": "disabled",
-              "score": "0.576823",
-              "diffPixels": "1329"
+              "score": "0.536024",
+              "diffPixels": "1235"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "focused: 39.6% of pixels differ from reference",
+            "message": "focused: 41.1% of pixels differ from reference",
             "detail": {
               "key": "focused",
-              "score": "0.396267",
-              "diffPixels": "913"
+              "score": "0.41059",
+              "diffPixels": "946"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "pressed: 57.9% of pixels differ from reference",
+            "message": "pressed: 58.6% of pixels differ from reference",
             "detail": {
               "key": "pressed",
-              "score": "0.578993",
-              "diffPixels": "1334"
+              "score": "0.585938",
+              "diffPixels": "1350"
             }
           }
         ]
@@ -3471,71 +3471,71 @@
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "default: 25.5% of pixels differ from reference",
+            "message": "default: 28.3% of pixels differ from reference",
             "detail": {
               "key": "default",
-              "score": "0.254774",
-              "diffPixels": "587"
+              "score": "0.282552",
+              "diffPixels": "651"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "cell-toggle-true-state-focused-40000113-4188: 14.0% of pixels differ from reference",
+            "message": "cell-toggle-true-state-focused-40000113-4188: 51.2% of pixels differ from reference",
             "detail": {
               "key": "cell-toggle-true-state-focused-40000113-4188",
-              "score": "0.140191",
-              "diffPixels": "323"
+              "score": "0.511719",
+              "diffPixels": "1179"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "cell-toggle-true-state-pressed-40000113-4195: 41.3% of pixels differ from reference",
+            "message": "cell-toggle-true-state-pressed-40000113-4195: 44.9% of pixels differ from reference",
             "detail": {
               "key": "cell-toggle-true-state-pressed-40000113-4195",
-              "score": "0.413194",
-              "diffPixels": "952"
+              "score": "0.448785",
+              "diffPixels": "1034"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "disabled: 57.7% of pixels differ from reference",
+            "message": "disabled: 53.6% of pixels differ from reference",
             "detail": {
               "key": "disabled",
-              "score": "0.576823",
-              "diffPixels": "1329"
+              "score": "0.536024",
+              "diffPixels": "1235"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "focused: 45.9% of pixels differ from reference",
+            "message": "focused: 47.0% of pixels differ from reference",
             "detail": {
               "key": "focused",
-              "score": "0.458767",
-              "diffPixels": "1057"
+              "score": "0.470052",
+              "diffPixels": "1083"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "pressed: 52.8% of pixels differ from reference",
+            "message": "pressed: 53.5% of pixels differ from reference",
             "detail": {
               "key": "pressed",
-              "score": "0.527778",
-              "diffPixels": "1216"
+              "score": "0.534722",
+              "diffPixels": "1232"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "checked: 27.3% of pixels differ from reference",
+            "message": "checked: 32.6% of pixels differ from reference",
             "detail": {
               "key": "checked",
-              "score": "0.273003",
-              "diffPixels": "629"
+              "score": "0.326389",
+              "diffPixels": "752"
             }
           }
         ]
@@ -3759,71 +3759,71 @@
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "default: 25.5% of pixels differ from reference",
+            "message": "default: 28.3% of pixels differ from reference",
             "detail": {
               "key": "default",
-              "score": "0.254774",
-              "diffPixels": "587"
+              "score": "0.282552",
+              "diffPixels": "651"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "cell-toggle-true-state-focused-40000113-4188: 14.0% of pixels differ from reference",
+            "message": "cell-toggle-true-state-focused-40000113-4188: 51.2% of pixels differ from reference",
             "detail": {
               "key": "cell-toggle-true-state-focused-40000113-4188",
-              "score": "0.140191",
-              "diffPixels": "323"
+              "score": "0.511719",
+              "diffPixels": "1179"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "cell-toggle-true-state-pressed-40000113-4195: 41.3% of pixels differ from reference",
+            "message": "cell-toggle-true-state-pressed-40000113-4195: 44.9% of pixels differ from reference",
             "detail": {
               "key": "cell-toggle-true-state-pressed-40000113-4195",
-              "score": "0.413194",
-              "diffPixels": "952"
+              "score": "0.448785",
+              "diffPixels": "1034"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "disabled: 57.7% of pixels differ from reference",
+            "message": "disabled: 53.6% of pixels differ from reference",
             "detail": {
               "key": "disabled",
-              "score": "0.576823",
-              "diffPixels": "1329"
+              "score": "0.536024",
+              "diffPixels": "1235"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "focused: 45.9% of pixels differ from reference",
+            "message": "focused: 47.0% of pixels differ from reference",
             "detail": {
               "key": "focused",
-              "score": "0.458767",
-              "diffPixels": "1057"
+              "score": "0.470052",
+              "diffPixels": "1083"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "pressed: 52.8% of pixels differ from reference",
+            "message": "pressed: 53.5% of pixels differ from reference",
             "detail": {
               "key": "pressed",
-              "score": "0.527778",
-              "diffPixels": "1216"
+              "score": "0.534722",
+              "diffPixels": "1232"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "checked: 27.3% of pixels differ from reference",
+            "message": "checked: 32.6% of pixels differ from reference",
             "detail": {
               "key": "checked",
-              "score": "0.273003",
-              "diffPixels": "629"
+              "score": "0.326389",
+              "diffPixels": "752"
             }
           }
         ]
@@ -4172,11 +4172,11 @@
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "default: 32.0% of pixels differ from reference",
+            "message": "default: 32.6% of pixels differ from reference",
             "detail": {
               "key": "default",
-              "score": "0.320153",
-              "diffPixels": "48945"
+              "score": "0.32585",
+              "diffPixels": "49816"
             }
           },
           {
@@ -4193,11 +4193,11 @@
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "cell-list-index-bottom-title-false-4116-5267: 61.4% of pixels differ from reference",
+            "message": "cell-list-index-bottom-title-false-4116-5267: 64.2% of pixels differ from reference",
             "detail": {
               "key": "cell-list-index-bottom-title-false-4116-5267",
-              "score": "0.613717",
-              "diffPixels": "93825"
+              "score": "0.641745",
+              "diffPixels": "98110"
             }
           },
           {
@@ -4214,11 +4214,11 @@
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "cell-list-index-bottom-title-true-40000116-2522: 41.5% of pixels differ from reference",
+            "message": "cell-list-index-bottom-title-true-40000116-2522: 48.7% of pixels differ from reference",
             "detail": {
               "key": "cell-list-index-bottom-title-true-40000116-2522",
-              "score": "0.415483",
-              "diffPixels": "63519"
+              "score": "0.487049",
+              "diffPixels": "74460"
             }
           },
           {
@@ -4235,11 +4235,11 @@
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "cell-list-index-mid-title-false-4116-5259: 52.6% of pixels differ from reference",
+            "message": "cell-list-index-mid-title-false-4116-5259: 58.4% of pixels differ from reference",
             "detail": {
               "key": "cell-list-index-mid-title-false-4116-5259",
-              "score": "0.526138",
-              "diffPixels": "80436"
+              "score": "0.584269",
+              "diffPixels": "89323"
             }
           },
           {
@@ -4256,11 +4256,11 @@
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "cell-list-index-mid-title-true-40000116-2458: 59.3% of pixels differ from reference",
+            "message": "cell-list-index-mid-title-true-40000116-2458: 64.0% of pixels differ from reference",
             "detail": {
               "key": "cell-list-index-mid-title-true-40000116-2458",
-              "score": "0.593492",
-              "diffPixels": "90733"
+              "score": "0.640149",
+              "diffPixels": "97866"
             }
           },
           {
@@ -4277,11 +4277,11 @@
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "cell-list-index-top-title-true-40000116-2394: 33.0% of pixels differ from reference",
+            "message": "cell-list-index-top-title-true-40000116-2394: 34.0% of pixels differ from reference",
             "detail": {
               "key": "cell-list-index-top-title-true-40000116-2394",
-              "score": "0.329559",
-              "diffPixels": "50383"
+              "score": "0.339783",
+              "diffPixels": "51946"
             }
           }
         ]
@@ -4630,11 +4630,11 @@
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "default: 32.0% of pixels differ from reference",
+            "message": "default: 32.6% of pixels differ from reference",
             "detail": {
               "key": "default",
-              "score": "0.320153",
-              "diffPixels": "48945"
+              "score": "0.32585",
+              "diffPixels": "49816"
             }
           },
           {
@@ -4651,11 +4651,11 @@
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "cell-list-index-bottom-title-false-4116-5267: 61.4% of pixels differ from reference",
+            "message": "cell-list-index-bottom-title-false-4116-5267: 64.2% of pixels differ from reference",
             "detail": {
               "key": "cell-list-index-bottom-title-false-4116-5267",
-              "score": "0.613717",
-              "diffPixels": "93825"
+              "score": "0.641745",
+              "diffPixels": "98110"
             }
           },
           {
@@ -4672,11 +4672,11 @@
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "cell-list-index-bottom-title-true-40000116-2522: 41.5% of pixels differ from reference",
+            "message": "cell-list-index-bottom-title-true-40000116-2522: 48.7% of pixels differ from reference",
             "detail": {
               "key": "cell-list-index-bottom-title-true-40000116-2522",
-              "score": "0.415483",
-              "diffPixels": "63519"
+              "score": "0.487049",
+              "diffPixels": "74460"
             }
           },
           {
@@ -4693,11 +4693,11 @@
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "cell-list-index-mid-title-false-4116-5259: 52.6% of pixels differ from reference",
+            "message": "cell-list-index-mid-title-false-4116-5259: 58.4% of pixels differ from reference",
             "detail": {
               "key": "cell-list-index-mid-title-false-4116-5259",
-              "score": "0.526138",
-              "diffPixels": "80436"
+              "score": "0.584269",
+              "diffPixels": "89323"
             }
           },
           {
@@ -4714,11 +4714,11 @@
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "cell-list-index-mid-title-true-40000116-2458: 59.3% of pixels differ from reference",
+            "message": "cell-list-index-mid-title-true-40000116-2458: 64.0% of pixels differ from reference",
             "detail": {
               "key": "cell-list-index-mid-title-true-40000116-2458",
-              "score": "0.593492",
-              "diffPixels": "90733"
+              "score": "0.640149",
+              "diffPixels": "97866"
             }
           },
           {
@@ -4735,11 +4735,11 @@
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "cell-list-index-top-title-true-40000116-2394: 33.0% of pixels differ from reference",
+            "message": "cell-list-index-top-title-true-40000116-2394: 34.0% of pixels differ from reference",
             "detail": {
               "key": "cell-list-index-top-title-true-40000116-2394",
-              "score": "0.329559",
-              "diffPixels": "50383"
+              "score": "0.339783",
+              "diffPixels": "51946"
             }
           }
         ]
@@ -4889,21 +4889,21 @@
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "default: 4.7% of pixels differ from reference",
+            "message": "default: 6.7% of pixels differ from reference",
             "detail": {
               "key": "default",
-              "score": "0.046548",
-              "diffPixels": "1564"
+              "score": "0.066964",
+              "diffPixels": "2250"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "pressed: 57.3% of pixels differ from reference",
+            "message": "pressed: 58.6% of pixels differ from reference",
             "detail": {
               "key": "pressed",
-              "score": "0.572619",
-              "diffPixels": "19240"
+              "score": "0.586042",
+              "diffPixels": "19691"
             }
           },
           {
@@ -4915,17 +4915,17 @@
               "dw": "0",
               "dh": "4",
               "borderPixels": "1680",
-              "contentPixels": "2665"
+              "contentPixels": "3318"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "supporting-label: 11.8% of pixels differ from reference",
+            "message": "supporting-label: 13.5% of pixels differ from reference",
             "detail": {
               "key": "supporting-label",
-              "score": "0.11756",
-              "diffPixels": "4345"
+              "score": "0.135227",
+              "diffPixels": "4998"
             }
           },
           {
@@ -4937,17 +4937,17 @@
               "dw": "0",
               "dh": "4",
               "borderPixels": "1680",
-              "contentPixels": "22482"
+              "contentPixels": "23115"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "supporting-label-pressed: 65.4% of pixels differ from reference",
+            "message": "supporting-label-pressed: 67.1% of pixels differ from reference",
             "detail": {
               "key": "supporting-label-pressed",
-              "score": "0.653734",
-              "diffPixels": "24162"
+              "score": "0.67086",
+              "diffPixels": "24795"
             }
           }
         ]
@@ -5097,21 +5097,21 @@
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "default: 4.7% of pixels differ from reference",
+            "message": "default: 6.7% of pixels differ from reference",
             "detail": {
               "key": "default",
-              "score": "0.046548",
-              "diffPixels": "1564"
+              "score": "0.066964",
+              "diffPixels": "2250"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "pressed: 57.3% of pixels differ from reference",
+            "message": "pressed: 58.6% of pixels differ from reference",
             "detail": {
               "key": "pressed",
-              "score": "0.572619",
-              "diffPixels": "19240"
+              "score": "0.586042",
+              "diffPixels": "19691"
             }
           },
           {
@@ -5123,17 +5123,17 @@
               "dw": "0",
               "dh": "4",
               "borderPixels": "1680",
-              "contentPixels": "2665"
+              "contentPixels": "3318"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "supporting-label: 11.8% of pixels differ from reference",
+            "message": "supporting-label: 13.5% of pixels differ from reference",
             "detail": {
               "key": "supporting-label",
-              "score": "0.11756",
-              "diffPixels": "4345"
+              "score": "0.135227",
+              "diffPixels": "4998"
             }
           },
           {
@@ -5145,17 +5145,17 @@
               "dw": "0",
               "dh": "4",
               "borderPixels": "1680",
-              "contentPixels": "22482"
+              "contentPixels": "23115"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "supporting-label-pressed: 65.4% of pixels differ from reference",
+            "message": "supporting-label-pressed: 67.1% of pixels differ from reference",
             "detail": {
               "key": "supporting-label-pressed",
-              "score": "0.653734",
-              "diffPixels": "24162"
+              "score": "0.67086",
+              "diffPixels": "24795"
             }
           }
         ]
@@ -5394,17 +5394,17 @@
               "dw": "0",
               "dh": "34",
               "borderPixels": "14280",
-              "contentPixels": "66778"
+              "contentPixels": "66627"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "default: 91.0% of pixels differ from reference",
+            "message": "default: 90.9% of pixels differ from reference",
             "detail": {
               "key": "default",
-              "score": "0.910355",
-              "diffPixels": "81058"
+              "score": "0.908659",
+              "diffPixels": "80907"
             }
           },
           {
@@ -5416,17 +5416,17 @@
               "dw": "0",
               "dh": "-12",
               "borderPixels": "1920",
-              "contentPixels": "5250"
+              "contentPixels": "5055"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "cell-type-home-40000042-4081: 80.0% of pixels differ from reference",
+            "message": "cell-type-home-40000042-4081: 77.8% of pixels differ from reference",
             "detail": {
               "key": "cell-type-home-40000042-4081",
-              "score": "0.800223",
-              "diffPixels": "7170"
+              "score": "0.77846",
+              "diffPixels": "6975"
             }
           }
         ]
@@ -5665,17 +5665,17 @@
               "dw": "0",
               "dh": "34",
               "borderPixels": "14280",
-              "contentPixels": "66778"
+              "contentPixels": "66627"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "default: 91.0% of pixels differ from reference",
+            "message": "default: 90.9% of pixels differ from reference",
             "detail": {
               "key": "default",
-              "score": "0.910355",
-              "diffPixels": "81058"
+              "score": "0.908659",
+              "diffPixels": "80907"
             }
           },
           {
@@ -5687,17 +5687,17 @@
               "dw": "0",
               "dh": "-12",
               "borderPixels": "1920",
-              "contentPixels": "5250"
+              "contentPixels": "5055"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "cell-type-home-40000042-4081: 80.0% of pixels differ from reference",
+            "message": "cell-type-home-40000042-4081: 77.8% of pixels differ from reference",
             "detail": {
               "key": "cell-type-home-40000042-4081",
-              "score": "0.800223",
-              "diffPixels": "7170"
+              "score": "0.77846",
+              "diffPixels": "6975"
             }
           }
         ]
@@ -5770,11 +5770,11 @@
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "default: 16.4% of pixels differ from reference",
+            "message": "default: 17.6% of pixels differ from reference",
             "detail": {
               "key": "default",
-              "score": "0.164063",
-              "diffPixels": "168"
+              "score": "0.175781",
+              "diffPixels": "180"
             }
           },
           {
@@ -5801,11 +5801,11 @@
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "Quiet: 6.3% of pixels differ from reference",
+            "message": "Quiet: 4.7% of pixels differ from reference",
             "detail": {
               "key": "Quiet",
-              "score": "0.063477",
-              "diffPixels": "65"
+              "score": "0.046875",
+              "diffPixels": "48"
             }
           },
           {
@@ -5899,11 +5899,11 @@
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "default: 16.4% of pixels differ from reference",
+            "message": "default: 17.6% of pixels differ from reference",
             "detail": {
               "key": "default",
-              "score": "0.164063",
-              "diffPixels": "168"
+              "score": "0.175781",
+              "diffPixels": "180"
             }
           },
           {
@@ -5930,11 +5930,11 @@
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "Quiet: 6.3% of pixels differ from reference",
+            "message": "Quiet: 4.7% of pixels differ from reference",
             "detail": {
               "key": "Quiet",
-              "score": "0.063477",
-              "diffPixels": "65"
+              "score": "0.046875",
+              "diffPixels": "48"
             }
           },
           {
