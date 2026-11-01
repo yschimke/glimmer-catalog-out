@@ -4,7 +4,7 @@
     "functionName": "ButtonGroupSticker",
     "module": "catalog",
     "renderBasename": "ButtonGroupSticker-bf99a803.png",
-    "sha256": "a464297e475299b30871ab24c00068b3bcafea0d88893a3348390af199ee5af0",
+    "sha256": "45cc9b169173c5ecef195914c493a43de24ff82752997d1c1538ba0f063538ee",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/ButtonGroups.kt"
   },
   "catalog/ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker_VARIANT_cell-type-button-set-length-1-focus-start-40000116-6528": {
@@ -12,7 +12,7 @@
     "functionName": "ButtonGroupSticker",
     "module": "catalog",
     "renderBasename": "ButtonGroupSticker_VARIANT_cell_type_button_set_length_1_focus_start_40000116_65-a478f594.png",
-    "sha256": "f5da2dc69e7c4a312a78d946c993ef10424dfa41b741ec01f875ad8d67b88f0e",
+    "sha256": "536a907b674491c0e5b2725a6fd9007bd66135c8c52c27e2345de261e9cd9d0a",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/ButtonGroups.kt"
   },
   "catalog/ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker_VARIANT_cell-type-button-set-length-2-focus-end-40000116-6521": {
@@ -20,7 +20,7 @@
     "functionName": "ButtonGroupSticker",
     "module": "catalog",
     "renderBasename": "ButtonGroupSticker_VARIANT_cell_type_button_set_length_2_focus_end_40000116_6521-90a1e8dd.png",
-    "sha256": "f5213271a1eb3e0bdc396443a7dc16d7735972c1f1093b9716a32daef1e6fc60",
+    "sha256": "1dbf56135a4b007c4886f272e3e3dc1a08a155a9043b2654268c5c8cae009ad3",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/ButtonGroups.kt"
   },
   "catalog/ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker_VARIANT_cell-type-button-set-length-2-focus-start-40000116-6513": {
@@ -28,7 +28,7 @@
     "functionName": "ButtonGroupSticker",
     "module": "catalog",
     "renderBasename": "ButtonGroupSticker_VARIANT_cell_type_button_set_length_2_focus_start_40000116_65-e868196d.png",
-    "sha256": "cfaca90adc4076ef23245614a6ac888bcd254fb5f472f95e2e0cefdc14fb2a80",
+    "sha256": "2794c7ddf8a08bb0719fc1246057e5f257c347c6a82c5f04ff7cd53366cdd4bb",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/ButtonGroups.kt"
   },
   "catalog/ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker_VARIANT_cell-type-button-set-length-3-focus-end-40000116-6508": {
@@ -36,7 +36,7 @@
     "functionName": "ButtonGroupSticker",
     "module": "catalog",
     "renderBasename": "ButtonGroupSticker_VARIANT_cell_type_button_set_length_3_focus_end_40000116_6508-c140a631.png",
-    "sha256": "e0e5ba29f452fcc7af24a86bc2de32fa78935b97eca361f9224ca82be3f45e7a",
+    "sha256": "46f1a78d927a12c999717e7b114487b0508db9d4f5dc4109622bb5f1cd2eeb4e",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/ButtonGroups.kt"
   },
   "catalog/ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker_VARIANT_cell-type-button-set-length-3-focus-middle-40000116-6502": {
@@ -44,7 +44,7 @@
     "functionName": "ButtonGroupSticker",
     "module": "catalog",
     "renderBasename": "ButtonGroupSticker_VARIANT_cell_type_button_set_length_3_focus_middle_40000116_6-b6f790d9.png",
-    "sha256": "594cc855e683502e71049c359036127dfddfb9f909f1716ce06e8dd66f25e386",
+    "sha256": "5dacc8ce772c6104307594b04f047f3d99d09d529e57bf77f906c98c8c734ca0",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/ButtonGroups.kt"
   },
   "catalog/ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker_VARIANT_cell-type-toggle-set-length-2-focus-end-40000116-6543": {
@@ -76,7 +76,7 @@
     "functionName": "ButtonGroupSticker",
     "module": "catalog",
     "renderBasename": "ButtonGroupSticker_VARIANT_focused-08b1ecf4.png",
-    "sha256": "2510e30f5b85c4fe2334bffdeba3f2448b4556f9704a74dd1c85896475b9e8b2",
+    "sha256": "c631a950825597df494a1384135988cf1f20b1202cab3ed0994b9e6e48764235",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/ButtonGroups.kt"
   },
   "catalog/ee.schimke.m3catalog.glimmer.ButtonsKt.ButtonLabelOnlySticker": {
@@ -84,7 +84,7 @@
     "functionName": "ButtonLabelOnlySticker",
     "module": "catalog",
     "renderBasename": "ButtonLabelOnlySticker-4f8682e8.png",
-    "sha256": "29a8e957c966fc0dd4d489923eadf8391f69df607499ad121c03381a4839c802",
+    "sha256": "22b7982e283d582dab0a5794f42a7c3da9b0d05b9504bb7efc6024b995071ebd",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/Buttons.kt"
   },
   "catalog/ee.schimke.m3catalog.glimmer.ButtonsKt.ButtonLargeSticker": {
@@ -92,7 +92,7 @@
     "functionName": "ButtonLargeSticker",
     "module": "catalog",
     "renderBasename": "ButtonLargeSticker-ee303491.png",
-    "sha256": "1d12ba5bbae8c0ae152141807692c8ff283b1231d965c2daeadd61f3e2e8a697",
+    "sha256": "02efa8b8231bfffdfff043f563ec693b3fb248dd5e64c527ee7d13751209a5a4",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/Buttons.kt"
   },
   "catalog/ee.schimke.m3catalog.glimmer.ButtonsKt.ButtonLargeSticker_VARIANT_disabled": {
@@ -100,7 +100,7 @@
     "functionName": "ButtonLargeSticker",
     "module": "catalog",
     "renderBasename": "ButtonLargeSticker_VARIANT_disabled-25abd94f.png",
-    "sha256": "64db7864b060067bb32fe2ec69dbe8989a44188746cc908d9fda57b2f0bb7491",
+    "sha256": "31f8be866467d71655438a6df42f0ce687d8f26ef4c8c8ce8fc664f3e1b229eb",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/Buttons.kt"
   },
   "catalog/ee.schimke.m3catalog.glimmer.ButtonsKt.ButtonLargeSticker_VARIANT_focused": {
@@ -108,7 +108,7 @@
     "functionName": "ButtonLargeSticker",
     "module": "catalog",
     "renderBasename": "ButtonLargeSticker_VARIANT_focused-7847392e.png",
-    "sha256": "2440dc13475d418cd3b286759c9e0b0fc55151eec1b46906ffdbafcbffbaf509",
+    "sha256": "3c0580b529cdd823c98e98958ce0548d444a70b921c4c985b967d784da8a8fe2",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/Buttons.kt"
   },
   "catalog/ee.schimke.m3catalog.glimmer.ButtonsKt.ButtonLargeSticker_VARIANT_pressed": {
@@ -116,7 +116,7 @@
     "functionName": "ButtonLargeSticker",
     "module": "catalog",
     "renderBasename": "ButtonLargeSticker_VARIANT_pressed-872dda55.png",
-    "sha256": "e445a204b38d3dcaab7271dfc0f03e0bba193c11007310f6aeee446ad46fd3f5",
+    "sha256": "96c951827700941fc124180429bb639985012a6e139d393c8faeed348d620649",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/Buttons.kt"
   },
   "catalog/ee.schimke.m3catalog.glimmer.ButtonsKt.ButtonSticker": {
@@ -124,7 +124,7 @@
     "functionName": "ButtonSticker",
     "module": "catalog",
     "renderBasename": "ButtonSticker-aa90fbc4.png",
-    "sha256": "2b6f41193d7b8b884f88430899f2ab445b259477815efc96ddf2247bca807a34",
+    "sha256": "b8944ac94527e6cd63bbb96a1c7d039ff97a34aed3d56071efe0de9ffcdb81ff",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/Buttons.kt"
   },
   "catalog/ee.schimke.m3catalog.glimmer.ButtonsKt.ButtonSticker_VARIANT_disabled": {
@@ -132,7 +132,7 @@
     "functionName": "ButtonSticker",
     "module": "catalog",
     "renderBasename": "ButtonSticker_VARIANT_disabled-ee8ef5b7.png",
-    "sha256": "a1d157d392f69171ab6bd14dd2979d1199b80e4103261fe99363a44eb5cec259",
+    "sha256": "45d50f1496c813683b2cc7c008c238a6ed67ec9e749f18caa6133ba302267d4e",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/Buttons.kt"
   },
   "catalog/ee.schimke.m3catalog.glimmer.ButtonsKt.ButtonSticker_VARIANT_focused": {
@@ -140,7 +140,7 @@
     "functionName": "ButtonSticker",
     "module": "catalog",
     "renderBasename": "ButtonSticker_VARIANT_focused-18c4aaf7.png",
-    "sha256": "6df7f143f4f2faeab86585b6c9379db36b296b0ca5a0372a65bb2a60fb31bd4a",
+    "sha256": "4315a4d0678244cc5f007e4cf1d2f4c2c0cc97a6352deaa47996cba4fc03c2b0",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/Buttons.kt"
   },
   "catalog/ee.schimke.m3catalog.glimmer.ButtonsKt.ButtonSticker_VARIANT_pressed": {
@@ -148,7 +148,7 @@
     "functionName": "ButtonSticker",
     "module": "catalog",
     "renderBasename": "ButtonSticker_VARIANT_pressed-d3900768.png",
-    "sha256": "6a3aae68ee45d5c618bedfdb74a32ce8b7674269f33680fede6b373549c0d65e",
+    "sha256": "6444ecf2924c1820f0fcc293c6e5802ec7943bf01dc3781c6c5696eccc911824",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/Buttons.kt"
   },
   "catalog/ee.schimke.m3catalog.glimmer.ButtonsKt.ButtonTrailingIconSticker": {
@@ -156,7 +156,7 @@
     "functionName": "ButtonTrailingIconSticker",
     "module": "catalog",
     "renderBasename": "ButtonTrailingIconSticker-defee072.png",
-    "sha256": "0e615f6ed107a2e5adb8e76da83454bcb178217fdb431ea834dc9565e221c660",
+    "sha256": "405af5ea17d7c7c268bc71a0b115dccfb6623f982de3ddcb5a5e11a41f38efa6",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/Buttons.kt"
   },
   "catalog/ee.schimke.m3catalog.glimmer.ButtonsKt.ToggleButtonCheckedSticker": {
@@ -164,7 +164,7 @@
     "functionName": "ToggleButtonCheckedSticker",
     "module": "catalog",
     "renderBasename": "ToggleButtonCheckedSticker-2c7b111d.png",
-    "sha256": "3e6b63edd4900b274e0ac69156923d789b5a2b0e49cdfab90857b1de68e4e405",
+    "sha256": "42bd0ecdfead23b68a599197fbd00889c787d0da4340d496499cf2994af23e6b",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/Buttons.kt"
   },
   "catalog/ee.schimke.m3catalog.glimmer.ButtonsKt.ToggleButtonLargeSticker": {
@@ -172,7 +172,7 @@
     "functionName": "ToggleButtonLargeSticker",
     "module": "catalog",
     "renderBasename": "ToggleButtonLargeSticker-a667dcf7.png",
-    "sha256": "1d12ba5bbae8c0ae152141807692c8ff283b1231d965c2daeadd61f3e2e8a697",
+    "sha256": "02efa8b8231bfffdfff043f563ec693b3fb248dd5e64c527ee7d13751209a5a4",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/Buttons.kt"
   },
   "catalog/ee.schimke.m3catalog.glimmer.ButtonsKt.ToggleButtonLargeSticker_VARIANT_disabled": {
@@ -180,7 +180,7 @@
     "functionName": "ToggleButtonLargeSticker",
     "module": "catalog",
     "renderBasename": "ToggleButtonLargeSticker_VARIANT_disabled-dbd88db5.png",
-    "sha256": "64db7864b060067bb32fe2ec69dbe8989a44188746cc908d9fda57b2f0bb7491",
+    "sha256": "31f8be866467d71655438a6df42f0ce687d8f26ef4c8c8ce8fc664f3e1b229eb",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/Buttons.kt"
   },
   "catalog/ee.schimke.m3catalog.glimmer.ButtonsKt.ToggleButtonLargeSticker_VARIANT_focused": {
@@ -188,7 +188,7 @@
     "functionName": "ToggleButtonLargeSticker",
     "module": "catalog",
     "renderBasename": "ToggleButtonLargeSticker_VARIANT_focused-aa1634f7.png",
-    "sha256": "e0a03a6964f2a3cf83242ea1c01682d7c49f02c44f6e4f93c50088de496d123c",
+    "sha256": "909c657aeb9def15f90ea845868bf54f64a44a859144f86c77c5d65efa0d3061",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/Buttons.kt"
   },
   "catalog/ee.schimke.m3catalog.glimmer.ButtonsKt.ToggleButtonLargeSticker_VARIANT_pressed": {
@@ -196,7 +196,7 @@
     "functionName": "ToggleButtonLargeSticker",
     "module": "catalog",
     "renderBasename": "ToggleButtonLargeSticker_VARIANT_pressed-457fe065.png",
-    "sha256": "ad05b4db508bc8e140993c3e4f287cd6aea1e582f10adfa75069ce7a610e624a",
+    "sha256": "9ef0436459cb888fcf786b3082e943280e9351c04dc1046e0df4edce49b077dc",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/Buttons.kt"
   },
   "catalog/ee.schimke.m3catalog.glimmer.ButtonsKt.ToggleButtonSticker": {
@@ -204,7 +204,7 @@
     "functionName": "ToggleButtonSticker",
     "module": "catalog",
     "renderBasename": "ToggleButtonSticker-8516b2e2.png",
-    "sha256": "2b6f41193d7b8b884f88430899f2ab445b259477815efc96ddf2247bca807a34",
+    "sha256": "b8944ac94527e6cd63bbb96a1c7d039ff97a34aed3d56071efe0de9ffcdb81ff",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/Buttons.kt"
   },
   "catalog/ee.schimke.m3catalog.glimmer.ButtonsKt.ToggleButtonSticker_VARIANT_cell-state-enabled-size-large-toggle-true-40000113-4082": {
@@ -212,7 +212,7 @@
     "functionName": "ToggleButtonSticker",
     "module": "catalog",
     "renderBasename": "ToggleButtonSticker_VARIANT_cell_state_enabled_size_large_toggle_true_40000113_4-630c5151.png",
-    "sha256": "25b1e08b03cefee90291ae2fd2b850a128645e19fb85dcf1ad892d4a0a5b18aa",
+    "sha256": "0f77167c695e237f738dd85e994667a50604701c0ebb2151dc1c0809780db21f",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/Buttons.kt"
   },
   "catalog/ee.schimke.m3catalog.glimmer.ButtonsKt.ToggleButtonSticker_VARIANT_cell-state-focused-size-default-toggle-true-40000113-4092": {
@@ -220,7 +220,7 @@
     "functionName": "ToggleButtonSticker",
     "module": "catalog",
     "renderBasename": "ToggleButtonSticker_VARIANT_cell_state_focused_size_default_toggle_true_40000113-0f025f59.png",
-    "sha256": "bd33efeb1e376e3393e2226343e147f825c2852661a52b6c91489e52f7ddf6ce",
+    "sha256": "fcee3832e903bd9d6985dd8482c9d78b81a7b3b67c3bbf4a7e7a7da9009f1f7d",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/Buttons.kt"
   },
   "catalog/ee.schimke.m3catalog.glimmer.ButtonsKt.ToggleButtonSticker_VARIANT_cell-state-focused-size-large-toggle-true-40000113-4112": {
@@ -228,7 +228,7 @@
     "functionName": "ToggleButtonSticker",
     "module": "catalog",
     "renderBasename": "ToggleButtonSticker_VARIANT_cell_state_focused_size_large_toggle_true_40000113_4-76923d65.png",
-    "sha256": "6b2c8ce3189e0b6ba457e62406ea7751621f0cef0501c050285ee8a6720c8871",
+    "sha256": "17eefcbf4a82098b0623edc977e6801a8cc2fccfddcc5a962acd9520869ddc9d",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/Buttons.kt"
   },
   "catalog/ee.schimke.m3catalog.glimmer.ButtonsKt.ToggleButtonSticker_VARIANT_cell-state-pressed-size-default-toggle-true-40000113-4102": {
@@ -236,7 +236,7 @@
     "functionName": "ToggleButtonSticker",
     "module": "catalog",
     "renderBasename": "ToggleButtonSticker_VARIANT_cell_state_pressed_size_default_toggle_true_40000113-113fe0dc.png",
-    "sha256": "f4e4a62e6a6735ccfbc2f02a21277b75c9d6e46b8f2ef478e8e87a30e050062b",
+    "sha256": "1075c71d2213b8d952dfadb63d2b5ca910b387257176724b6683053a697975e1",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/Buttons.kt"
   },
   "catalog/ee.schimke.m3catalog.glimmer.ButtonsKt.ToggleButtonSticker_VARIANT_cell-state-pressed-size-large-toggle-true-40000113-4122": {
@@ -244,7 +244,7 @@
     "functionName": "ToggleButtonSticker",
     "module": "catalog",
     "renderBasename": "ToggleButtonSticker_VARIANT_cell_state_pressed_size_large_toggle_true_40000113_4-89e93abb.png",
-    "sha256": "329247bd1de55e358e53c33b6a57c1e61ef9247f02b5c3276418d09fe311bbc1",
+    "sha256": "98046094ed9bde6f613e8fe4b468aaa753d63dd0f6261c7f47a507f6d51d2a12",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/Buttons.kt"
   },
   "catalog/ee.schimke.m3catalog.glimmer.ButtonsKt.ToggleButtonSticker_VARIANT_disabled": {
@@ -252,7 +252,7 @@
     "functionName": "ToggleButtonSticker",
     "module": "catalog",
     "renderBasename": "ToggleButtonSticker_VARIANT_disabled-9d21aadd.png",
-    "sha256": "a1d157d392f69171ab6bd14dd2979d1199b80e4103261fe99363a44eb5cec259",
+    "sha256": "45d50f1496c813683b2cc7c008c238a6ed67ec9e749f18caa6133ba302267d4e",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/Buttons.kt"
   },
   "catalog/ee.schimke.m3catalog.glimmer.ButtonsKt.ToggleButtonSticker_VARIANT_focused": {
@@ -260,7 +260,7 @@
     "functionName": "ToggleButtonSticker",
     "module": "catalog",
     "renderBasename": "ToggleButtonSticker_VARIANT_focused-db3ba777.png",
-    "sha256": "e17b03e94c8d071b69342898e6deaf14d6e004e7944ecf8ed56219352d29b821",
+    "sha256": "d3f9a5430f7d3da78a5257e2b4b2ecafb1eb50361d842cfbf3677a0cab729d7b",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/Buttons.kt"
   },
   "catalog/ee.schimke.m3catalog.glimmer.ButtonsKt.ToggleButtonSticker_VARIANT_pressed": {
@@ -268,7 +268,7 @@
     "functionName": "ToggleButtonSticker",
     "module": "catalog",
     "renderBasename": "ToggleButtonSticker_VARIANT_pressed-5013866e.png",
-    "sha256": "8e4d8368bdd1e850ec6f5c23d3213dbfe997cbfbb2921c7a62fbefcce6c2e1cc",
+    "sha256": "55357040680105ffd08de9670adac41d049720be7ec887c2ba45c345f89d3aaa",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/Buttons.kt"
   },
   "catalog/ee.schimke.m3catalog.glimmer.CardsKt.CardActionSticker": {
@@ -276,7 +276,7 @@
     "functionName": "CardActionSticker",
     "module": "catalog",
     "renderBasename": "CardActionSticker-5ed326d0.png",
-    "sha256": "99a739f46768eb760cf984b0bd31b4dcca508a75a77b44dad771f3c283bc395e",
+    "sha256": "8e06df0e7e093cb312fde098c93fcc6849ff50de74f20c13adffb8a9b7913cf2",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/Cards.kt"
   },
   "catalog/ee.schimke.m3catalog.glimmer.CardsKt.CardNoImageSticker": {
@@ -284,7 +284,7 @@
     "functionName": "CardNoImageSticker",
     "module": "catalog",
     "renderBasename": "CardNoImageSticker-1cd0c7cb.png",
-    "sha256": "de4674286757987e62e13a2de73c05d958d191571a38c6046ff2b2122184f2ce",
+    "sha256": "8e2c44a031685d537d6e4d07e30170eb48eeb5f047413363dc88b37162ebe9f2",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/Cards.kt"
   },
   "catalog/ee.schimke.m3catalog.glimmer.CardsKt.CardSticker": {
@@ -292,7 +292,7 @@
     "functionName": "CardSticker",
     "module": "catalog",
     "renderBasename": "CardSticker-3affd0ad.png",
-    "sha256": "fe1c7ef6505961365058e308d20c8533627e8788920595e1ce535b899c297467",
+    "sha256": "783b5a394cce6e717ec237885665a73a90ce1ff50f516805676e31a1d8ac7228",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/Cards.kt"
   },
   "catalog/ee.schimke.m3catalog.glimmer.CardsKt.CardTextOnlySticker": {
@@ -300,7 +300,7 @@
     "functionName": "CardTextOnlySticker",
     "module": "catalog",
     "renderBasename": "CardTextOnlySticker-ad0ac56a.png",
-    "sha256": "eac4b2cfb4f31ddfccb860d796ce1ea69b9fec9ab31ebe9201a552c2d4c3b2f8",
+    "sha256": "39fad66777b752a860c6a38a578ba29993a2db35f41eb6e24987a28ccb481b04",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/Cards.kt"
   },
   "catalog/ee.schimke.m3catalog.glimmer.CardsKt.CardTrailingIconSticker": {
@@ -308,7 +308,7 @@
     "functionName": "CardTrailingIconSticker",
     "module": "catalog",
     "renderBasename": "CardTrailingIconSticker-26b4ed90.png",
-    "sha256": "e822ea4821f5db239fb8d8112e4fa619d745b630179211072c81dd770cee45d9",
+    "sha256": "b746629e99cf39fd57b10baaecc212c0bb9cf56a2068276eae51768633def173",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/Cards.kt"
   },
   "catalog/ee.schimke.m3catalog.glimmer.CardsKt.TitleChipLabelOnlySticker": {
@@ -316,7 +316,7 @@
     "functionName": "TitleChipLabelOnlySticker",
     "module": "catalog",
     "renderBasename": "TitleChipLabelOnlySticker-ff638355.png",
-    "sha256": "919933c781b77c9eeaf4c960cb05ad50a88e24dabc288c9742bc40f8c99b7de8",
+    "sha256": "e0bec6f5dbbf6ba4cfa1d074e072a3e40b5412930b3904ac8d8220ae2544c75a",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/Cards.kt"
   },
   "catalog/ee.schimke.m3catalog.glimmer.CardsKt.TitleChipSticker": {
@@ -324,7 +324,7 @@
     "functionName": "TitleChipSticker",
     "module": "catalog",
     "renderBasename": "TitleChipSticker-f11a7b32.png",
-    "sha256": "9dd361758c223b87914fcbf57d158b51bc9a3bba08504705b187a7270bf2821c",
+    "sha256": "7869f555e0e5af0e463df14775cc218065196bd73c3f87c9447262db83e26d06",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/Cards.kt"
   },
   "catalog/ee.schimke.m3catalog.glimmer.GlimmerEnvironmentsKt.ButtonOnBusyEnvironment": {
@@ -332,7 +332,7 @@
     "functionName": "ButtonOnBusyEnvironment",
     "module": "catalog",
     "renderBasename": "ButtonOnBusyEnvironment-eb427f8b.png",
-    "sha256": "697a1a256e1d05a513d5c8e1cefaff79b3ab8663bdaf03fd3af945dfeb92ea84",
+    "sha256": "21bc487cdc41c15f3d7959235227cba697cd79262324573fe2d74628030ff14d",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/GlimmerEnvironments.kt"
   },
   "catalog/ee.schimke.m3catalog.glimmer.GlimmerEnvironmentsKt.ButtonOnDarkEnvironment": {
@@ -340,7 +340,7 @@
     "functionName": "ButtonOnDarkEnvironment",
     "module": "catalog",
     "renderBasename": "ButtonOnDarkEnvironment-4134d282.png",
-    "sha256": "3593d4076514552f828c654dd29657d2a33a37b42bd4357b72bb831c49fa3e1f",
+    "sha256": "3cde65d5e90a77cf8b3901276ef813e25c8d9ecefcec18bd8b787a50853970dd",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/GlimmerEnvironments.kt"
   },
   "catalog/ee.schimke.m3catalog.glimmer.GlimmerEnvironmentsKt.ButtonOnLightEnvironment": {
@@ -348,7 +348,7 @@
     "functionName": "ButtonOnLightEnvironment",
     "module": "catalog",
     "renderBasename": "ButtonOnLightEnvironment-cbadeeb0.png",
-    "sha256": "e051c3cb6a9c08ed838370e71bc5abbd51af21afa9e4827699b220b42019bbdb",
+    "sha256": "abebcdd6dc17ef84f52163d6de8229cddfdd248e826edb879da2c5d226e2985f",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/GlimmerEnvironments.kt"
   },
   "catalog/ee.schimke.m3catalog.glimmer.GlimmerEnvironmentsKt.ButtonOnVeniceCanalCatsEnvironment": {
@@ -356,7 +356,7 @@
     "functionName": "ButtonOnVeniceCanalCatsEnvironment",
     "module": "catalog",
     "renderBasename": "ButtonOnVeniceCanalCatsEnvironment-bee890b2.png",
-    "sha256": "52b2b10b29cbe38b783cf181e5831e564b9328edd4753f4f9f360a0e8994c3c4",
+    "sha256": "165e03d3d368b2cfda600733ec1fc6699163c86bcc59f8f8046da4c731ea845f",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/GlimmerEnvironments.kt"
   },
   "catalog/ee.schimke.m3catalog.glimmer.GlimmerEnvironmentsKt.CardOnBusyEnvironment": {
@@ -364,7 +364,7 @@
     "functionName": "CardOnBusyEnvironment",
     "module": "catalog",
     "renderBasename": "CardOnBusyEnvironment-f9b236a6.png",
-    "sha256": "fd992736a0ec84c76ce5cb16655dc893b5b9c3e3a8e94f11558bd4ab42003a71",
+    "sha256": "6916390d711de36a397e5319fc557bb5621041f5aae9d0d3b19cc417f6b7c9ad",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/GlimmerEnvironments.kt"
   },
   "catalog/ee.schimke.m3catalog.glimmer.GlimmerEnvironmentsKt.CardOnDarkEnvironment": {
@@ -372,7 +372,7 @@
     "functionName": "CardOnDarkEnvironment",
     "module": "catalog",
     "renderBasename": "CardOnDarkEnvironment-e52561ff.png",
-    "sha256": "7099a8d101a651021e6b14d5c9ca6507e1c38ff04c2c5888a866b21333c56a83",
+    "sha256": "cc17c57d03af17897be47670a41c7a7fd095217291867fffd7a9e20afeafb7d1",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/GlimmerEnvironments.kt"
   },
   "catalog/ee.schimke.m3catalog.glimmer.GlimmerEnvironmentsKt.CardOnLightEnvironment": {
@@ -380,7 +380,7 @@
     "functionName": "CardOnLightEnvironment",
     "module": "catalog",
     "renderBasename": "CardOnLightEnvironment-8780cdc9.png",
-    "sha256": "ed5bd6e30df4e0a2d1993dc244ae34f10e1d9f9c534728440b4dfb1e78b96c07",
+    "sha256": "88caef5054b8310093662a7184cce519c88abbf5239aa29900edefb67c3a1a18",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/GlimmerEnvironments.kt"
   },
   "catalog/ee.schimke.m3catalog.glimmer.GlimmerEnvironmentsKt.CardOnVeniceCanalCatsEnvironment": {
@@ -388,7 +388,7 @@
     "functionName": "CardOnVeniceCanalCatsEnvironment",
     "module": "catalog",
     "renderBasename": "CardOnVeniceCanalCatsEnvironment-f3154d5d.png",
-    "sha256": "6e2f523de6410603d1ab6de82085f90914550c1d95faf60337797ecb659a65e6",
+    "sha256": "b733a95928921dbb1db205999288d715cca85670320fbe202dae7e9c40b8ddc0",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/GlimmerEnvironments.kt"
   },
   "catalog/ee.schimke.m3catalog.glimmer.IconButtonsKt.IconButtonSticker": {
@@ -484,7 +484,7 @@
     "functionName": "GlimmerLazyColumnSticker",
     "module": "catalog",
     "renderBasename": "GlimmerLazyColumnSticker-da12ecd1.png",
-    "sha256": "1aefc41c3053c5927e2884a8a07c6c1d0474e5d58bdb89a6433ceb8bcbd7e914",
+    "sha256": "a248b997edaaff49b843cab158f72330abf457e42823f7376cce81a4ef85d34d",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/LazyLists.kt"
   },
   "catalog/ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnSticker_VARIANT_cell-list-index-bottom-title-false-40000115-2000": {
@@ -492,7 +492,7 @@
     "functionName": "GlimmerLazyColumnSticker",
     "module": "catalog",
     "renderBasename": "GlimmerLazyColumnSticker_VARIANT_cell_list_index_bottom_title_false_40000115_200-1df92295.png",
-    "sha256": "6972813ce7b7587c24a49affca2d7b9e7dce88c5d569b355cb8a4912c647f2a1",
+    "sha256": "082a68c1e7372e64ce345f2f56c927cdadbdc43d5504abde5b7251bfdac6f368",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/LazyLists.kt"
   },
   "catalog/ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnSticker_VARIANT_cell-list-index-mid-title-false-4116-5221": {
@@ -500,7 +500,7 @@
     "functionName": "GlimmerLazyColumnSticker",
     "module": "catalog",
     "renderBasename": "GlimmerLazyColumnSticker_VARIANT_cell_list_index_mid_title_false_4116_5221-23f074df.png",
-    "sha256": "e4cb1bef9573cc969bfe813bfcbb9ec7b0782fca13e7e2574b75cf4b84d09e36",
+    "sha256": "083dab8a660b41fa70d36db0829015481800def058a74a3ff66ee0e6e0cf536e",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/LazyLists.kt"
   },
   "catalog/ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnSticker_VARIANT_focused": {
@@ -508,7 +508,7 @@
     "functionName": "GlimmerLazyColumnSticker",
     "module": "catalog",
     "renderBasename": "GlimmerLazyColumnSticker_VARIANT_focused-3f051728.png",
-    "sha256": "2d277064a8caefbeaf9cf06d4c9fcea4dd5fa70c3b8d3f5d5bb8b82519e58993",
+    "sha256": "d3baa9a692c4871b66f446109fa1d14aa0195ae9bce51045494d6f74532b8b03",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/LazyLists.kt"
   },
   "catalog/ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnTwoLineSticker": {
@@ -516,7 +516,7 @@
     "functionName": "GlimmerLazyColumnTwoLineSticker",
     "module": "catalog",
     "renderBasename": "GlimmerLazyColumnTwoLineSticker-a194e85d.png",
-    "sha256": "a2d804dd2395cf771b48447730320c6d02de06d0e1c9acf813d7508679b7185e",
+    "sha256": "25cd9d7d528e480bc42a5176e989d77332cc83a3fe1b1274337f92f0ad265362",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/LazyLists.kt"
   },
   "catalog/ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnTwoLineSticker_VARIANT_cell-list-index-bottom-title-false-4116-5267": {
@@ -524,7 +524,7 @@
     "functionName": "GlimmerLazyColumnTwoLineSticker",
     "module": "catalog",
     "renderBasename": "GlimmerLazyColumnTwoLineSticker_VARIANT_cell_list_index_bottom_title_false_4116-0eda9f52.png",
-    "sha256": "8980da35278bbef9585c806549bc2203392b543673a8b5a1133a7a154590f63d",
+    "sha256": "66a87791a213b828e0de10c28e092b6f0dc76587471da2025dfa8f9d42a36c32",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/LazyLists.kt"
   },
   "catalog/ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnTwoLineSticker_VARIANT_cell-list-index-bottom-title-true-40000116-2522": {
@@ -532,7 +532,7 @@
     "functionName": "GlimmerLazyColumnTwoLineSticker",
     "module": "catalog",
     "renderBasename": "GlimmerLazyColumnTwoLineSticker_VARIANT_cell_list_index_bottom_title_true_400001-00dcecbb.png",
-    "sha256": "6a01b06a8d4bba7fcb09bfce779b0086c2a3cab7566a2f138ee869fe18d8357a",
+    "sha256": "f78268e5a6d57d5a12c12f8feebe674e096210484a83787b9765bf2964a6602b",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/LazyLists.kt"
   },
   "catalog/ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnTwoLineSticker_VARIANT_cell-list-index-mid-title-false-4116-5259": {
@@ -540,7 +540,7 @@
     "functionName": "GlimmerLazyColumnTwoLineSticker",
     "module": "catalog",
     "renderBasename": "GlimmerLazyColumnTwoLineSticker_VARIANT_cell_list_index_mid_title_false_4116_525-0e8565ee.png",
-    "sha256": "4770c603d7e8565a5c085eba82bd0bc41ababc5161f0a398e2b6b7c477a9ef4f",
+    "sha256": "627eea7643bb6fb067dafb0594fc0a272437f33667c2408cf9cb56bf8ad46e9e",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/LazyLists.kt"
   },
   "catalog/ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnTwoLineSticker_VARIANT_cell-list-index-mid-title-true-40000116-2458": {
@@ -548,7 +548,7 @@
     "functionName": "GlimmerLazyColumnTwoLineSticker",
     "module": "catalog",
     "renderBasename": "GlimmerLazyColumnTwoLineSticker_VARIANT_cell_list_index_mid_title_true_40000116-846ecf7c.png",
-    "sha256": "387722421e308a88e66034a7a7526ff03f9cce955a2a9d255d6b21d8db0d4569",
+    "sha256": "2640e593154235cc369a07a6fc1c4fb62883d4e80d81684a0e47abc53014454f",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/LazyLists.kt"
   },
   "catalog/ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnTwoLineSticker_VARIANT_cell-list-index-top-title-true-40000116-2394": {
@@ -556,7 +556,7 @@
     "functionName": "GlimmerLazyColumnTwoLineSticker",
     "module": "catalog",
     "renderBasename": "GlimmerLazyColumnTwoLineSticker_VARIANT_cell_list_index_top_title_true_40000116-0f827e23.png",
-    "sha256": "c5db3fdf4a97140ade075297263d1da0ffd4f271f8084bb15ee13207f4d21295",
+    "sha256": "2189d7c3df5682dffc100c34183d671af6fd47a5ea87ca9ca24bcb40687f56d1",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/LazyLists.kt"
   },
   "catalog/ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnWithTitleSticker": {
@@ -564,7 +564,7 @@
     "functionName": "GlimmerLazyColumnWithTitleSticker",
     "module": "catalog",
     "renderBasename": "GlimmerLazyColumnWithTitleSticker-1b5a5d39.png",
-    "sha256": "f38e19b236df5d5d650253ec5fdf4cf8c94a8d10da86b1d6df093f032c0fdf5b",
+    "sha256": "f5682a456dceae5e17653393ded789aacd6fa3942c55e04bd74c770759f8c6da",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/LazyLists.kt"
   },
   "catalog/ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnWithTitleSticker_VARIANT_cell-list-index-bottom-title-true-4116-5230": {
@@ -572,7 +572,7 @@
     "functionName": "GlimmerLazyColumnWithTitleSticker",
     "module": "catalog",
     "renderBasename": "GlimmerLazyColumnWithTitleSticker_VARIANT_cell_list_index_bottom_title_true_4116-1b9582c1.png",
-    "sha256": "fd3702555b6f35a4431d861d3491745a327fc4a968bc7a50ce4b7c50216e0c6b",
+    "sha256": "427d66ad8521b6550408cb8d3f19d8d1499bbf369a926203b0c4cc7d5ae05860",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/LazyLists.kt"
   },
   "catalog/ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnWithTitleSticker_VARIANT_cell-list-index-mid-title-true-40000115-1924": {
@@ -580,7 +580,7 @@
     "functionName": "GlimmerLazyColumnWithTitleSticker",
     "module": "catalog",
     "renderBasename": "GlimmerLazyColumnWithTitleSticker_VARIANT_cell_list_index_mid_title_true_4000011-fb549618.png",
-    "sha256": "2e57e616d9af7ad99ce4d005af3ad5ae30405160b81db528e019643db1b76590",
+    "sha256": "8725971b88eb5a48f6802431c412ca623d8d6e9fcbb037fe016fde1dfb94b67b",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/LazyLists.kt"
   },
   "catalog/ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnWithTitleSticker_VARIANT_focused": {
@@ -588,7 +588,7 @@
     "functionName": "GlimmerLazyColumnWithTitleSticker",
     "module": "catalog",
     "renderBasename": "GlimmerLazyColumnWithTitleSticker_VARIANT_focused-0a448f9f.png",
-    "sha256": "57577ec2b07b752223bff416a55649f88e96bfe0ee93cb62d70ed1b5f54fda03",
+    "sha256": "182f3f27d6106c95be444f01c7eace04fc22b9d2841121e9267f4fa10522a1d0",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/LazyLists.kt"
   },
   "catalog/ee.schimke.m3catalog.glimmer.ListsKt.ListItemSticker": {
@@ -596,7 +596,7 @@
     "functionName": "ListItemSticker",
     "module": "catalog",
     "renderBasename": "ListItemSticker-15c90274.png",
-    "sha256": "223b936a88baba887c5fbffec7f55233b39af69f86e8fd75cde739e9023310d9",
+    "sha256": "167941f33284506847555b058efa7c8e7d995c28ce33e8405f592f994d9513d6",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/Lists.kt"
   },
   "catalog/ee.schimke.m3catalog.glimmer.ListsKt.ListItemSticker_VARIANT_focused": {
@@ -604,7 +604,7 @@
     "functionName": "ListItemSticker",
     "module": "catalog",
     "renderBasename": "ListItemSticker_VARIANT_focused-5d48c7c6.png",
-    "sha256": "1421e4428785731c0ceb2062d8cfe980ea0410f03e15bce9609257b234712f06",
+    "sha256": "e0b16e7b6a314c0cf81ce05067777e4b6370d67080903aafb4c4e818f753019d",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/Lists.kt"
   },
   "catalog/ee.schimke.m3catalog.glimmer.ListsKt.ListItemSticker_VARIANT_pressed": {
@@ -612,7 +612,7 @@
     "functionName": "ListItemSticker",
     "module": "catalog",
     "renderBasename": "ListItemSticker_VARIANT_pressed-ff2f20b8.png",
-    "sha256": "391931ccd3b0faf8095b22531ed4c59fe9235e2e55db8e986e33dd365e9f7d1a",
+    "sha256": "6cb6f9aac9abfa710314d9f3cd6298b9d4cf018b242c7fe8a9e1de88c41ab0e6",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/Lists.kt"
   },
   "catalog/ee.schimke.m3catalog.glimmer.ListsKt.ListItemSupportingIconSticker": {
@@ -620,7 +620,7 @@
     "functionName": "ListItemSupportingIconSticker",
     "module": "catalog",
     "renderBasename": "ListItemSupportingIconSticker-5400b5bf.png",
-    "sha256": "0f59c6de71081222604158b34f4f9255e1fde085acb6532f258938a940289dc5",
+    "sha256": "b421de6c6ae8dd90d662b5ddb60bc99c636c017c1364427344aac838c4b1574f",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/Lists.kt"
   },
   "catalog/ee.schimke.m3catalog.glimmer.ListsKt.ListItemSupportingSticker": {
@@ -628,7 +628,7 @@
     "functionName": "ListItemSupportingSticker",
     "module": "catalog",
     "renderBasename": "ListItemSupportingSticker-99483a7b.png",
-    "sha256": "38bddda48bbe2cee32887e97b37b51860a6511fe093d414949c55c33d3140d94",
+    "sha256": "199148dc928a43065689877f1e093c20e6fe87c427f06682bfdf1d316a4f9f13",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/Lists.kt"
   },
   "catalog/ee.schimke.m3catalog.glimmer.ListsKt.ListItemSupportingSticker_VARIANT_focused": {
@@ -636,7 +636,7 @@
     "functionName": "ListItemSupportingSticker",
     "module": "catalog",
     "renderBasename": "ListItemSupportingSticker_VARIANT_focused-ebd865da.png",
-    "sha256": "ccb5db1c4f57456045c87a8bff6314efc83aff31981fa506e1ae13974e17b429",
+    "sha256": "84c10a90266d677d24192efe601fc863679d59f0e5812ec8648bf6256ea777a9",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/Lists.kt"
   },
   "catalog/ee.schimke.m3catalog.glimmer.ListsKt.ListItemSupportingSticker_VARIANT_pressed": {
@@ -644,7 +644,7 @@
     "functionName": "ListItemSupportingSticker",
     "module": "catalog",
     "renderBasename": "ListItemSupportingSticker_VARIANT_pressed-052543b0.png",
-    "sha256": "2e1b8664c1eee61386930eee0dee454c5a7498c26b78263a71a91e2ef2c66a75",
+    "sha256": "a59e5cdfcb3f3e9881aa3654c19960df4294ce9a5056f91939d1f0ca8dbb26a4",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/Lists.kt"
   },
   "catalog/ee.schimke.m3catalog.glimmer.StacksKt.VerticalStackSticker": {
@@ -652,7 +652,7 @@
     "functionName": "VerticalStackSticker",
     "module": "catalog",
     "renderBasename": "VerticalStackSticker-27776b26.png",
-    "sha256": "35d22a5ed709c89251e4f411d424082877b6b9c38bc7d8299fd0f561840395d5",
+    "sha256": "71cbf0ce93b4a37f6989421de9297d11dc15f4903d4f7ef388e491502f10de23",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/Stacks.kt"
   },
   "catalog/ee.schimke.m3catalog.glimmer.StacksKt.VerticalStackSticker_VARIANT_cell-type-home-40000042-4081": {
@@ -660,7 +660,7 @@
     "functionName": "VerticalStackSticker",
     "module": "catalog",
     "renderBasename": "VerticalStackSticker_VARIANT_cell_type_home_40000042_4081-5f2dfd07.png",
-    "sha256": "2ab85a1ce2c981ae028b5521b155dc459bce9b77b6b72229a68c70699bda4021",
+    "sha256": "63b9fcd78859cc48e7b50b24b2b07821ab2fa72b1126607d59ce14abfe8a0866",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/Stacks.kt"
   },
   "catalog/ee.schimke.m3catalog.glimmer.VoiceInputKt.ContainedVoiceInputIndicatorSticker": {
@@ -700,7 +700,7 @@
     "functionName": "ButtonGroupPreview",
     "module": "samples-catalog",
     "renderBasename": "ButtonGroupPreview-bbb9b20c.png",
-    "sha256": "a59a63647bfe0647fd5b3e8e939ecc6797c9eabf48f6356eb207e3d7dd47f953",
+    "sha256": "ffae3805862a8f8c7a6226ec7842b55c97e920ab32ae1d34f9af66116fbb2004",
     "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/ButtonGroupSamples.kt"
   },
   "samples-catalog/androidx.xr.glimmer.samples.ButtonSamplesKt.ButtonPreview": {
@@ -708,7 +708,7 @@
     "functionName": "ButtonPreview",
     "module": "samples-catalog",
     "renderBasename": "ButtonPreview-3ee18e3d.png",
-    "sha256": "3796a7762df79eb6042e4b97a4b38efe2e7d06fe7291319087d0304371cac919",
+    "sha256": "e6932e7a4049760cbea939e391f5958ff2d9391a1dce65bafd187043f031abbc",
     "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/ButtonSamples.kt"
   },
   "samples-catalog/androidx.xr.glimmer.samples.ButtonSamplesKt.ButtonWithLeadingAndTrailingIconPreview": {
@@ -716,7 +716,7 @@
     "functionName": "ButtonWithLeadingAndTrailingIconPreview",
     "module": "samples-catalog",
     "renderBasename": "ButtonWithLeadingAndTrailingIconPreview-cf35b563.png",
-    "sha256": "e0c57433cee4b026fb1c580f9b387d5e3d62f6dbef721bf98b244d7e56abea75",
+    "sha256": "92cbdd881dddda54b9605eff9f5e430601c7668a8f42c4e3d42fb84af4aab918",
     "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/ButtonSamples.kt"
   },
   "samples-catalog/androidx.xr.glimmer.samples.ButtonSamplesKt.ButtonWithLeadingIconPreview": {
@@ -724,7 +724,7 @@
     "functionName": "ButtonWithLeadingIconPreview",
     "module": "samples-catalog",
     "renderBasename": "ButtonWithLeadingIconPreview-e59844af.png",
-    "sha256": "4950911050d0699530b34c8c546a2aba67527ec3ccb663a4db61f8e3408ef39a",
+    "sha256": "298ffb1e92633d867d8190fad39d96fcfa5f491a10fa27c0d39acf2b9626429f",
     "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/ButtonSamples.kt"
   },
   "samples-catalog/androidx.xr.glimmer.samples.ButtonSamplesKt.ButtonWithTrailingIconPreview": {
@@ -732,7 +732,7 @@
     "functionName": "ButtonWithTrailingIconPreview",
     "module": "samples-catalog",
     "renderBasename": "ButtonWithTrailingIconPreview-465e3d47.png",
-    "sha256": "d4d3463eec4b94d0f77a2ff5e0772d10b74dee601b8b0c4ca04a9312f6989adc",
+    "sha256": "f9f4ba91d480ab43e2b18e83a294339c5f0e042c4ca7ce3df014d1386636b0c0",
     "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/ButtonSamples.kt"
   },
   "samples-catalog/androidx.xr.glimmer.samples.ButtonSamplesKt.LargeButtonPreview": {
@@ -740,7 +740,7 @@
     "functionName": "LargeButtonPreview",
     "module": "samples-catalog",
     "renderBasename": "LargeButtonPreview-3c67acf2.png",
-    "sha256": "2672c86cfe1c7cb0bce2a1845a6ec2f7f6645e832444ddb96c9b21ec4010c741",
+    "sha256": "bf92e60c723986934abc7b2d68ad1a3ee9b0297b9c698c27c9dd4991dfa5780a",
     "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/ButtonSamples.kt"
   },
   "samples-catalog/androidx.xr.glimmer.samples.ButtonSamplesKt.LargeButtonWithLeadingAndTrailingIconPreview": {
@@ -748,7 +748,7 @@
     "functionName": "LargeButtonWithLeadingAndTrailingIconPreview",
     "module": "samples-catalog",
     "renderBasename": "LargeButtonWithLeadingAndTrailingIconPreview-26c2b155.png",
-    "sha256": "41d73bc42adccbfc3ff443e114145ef3748ef069eb60f8e332a2e42af3b01486",
+    "sha256": "2e43f8ee8e8e63f71b942b977debb10cfbf52e7bc37da003e883cf6432222be5",
     "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/ButtonSamples.kt"
   },
   "samples-catalog/androidx.xr.glimmer.samples.ButtonSamplesKt.LargeButtonWithLeadingIconPreview": {
@@ -756,7 +756,7 @@
     "functionName": "LargeButtonWithLeadingIconPreview",
     "module": "samples-catalog",
     "renderBasename": "LargeButtonWithLeadingIconPreview-80753f9f.png",
-    "sha256": "755a3c250eccae10cc400ccfc3162687d84a3a872c9a8fa51d0a051fc08350ba",
+    "sha256": "a37327b160d36829120f139110091fab7a74e91f406ad01c18f08dd0da1227cc",
     "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/ButtonSamples.kt"
   },
   "samples-catalog/androidx.xr.glimmer.samples.ButtonSamplesKt.LargeButtonWithTrailingIconPreview": {
@@ -764,7 +764,7 @@
     "functionName": "LargeButtonWithTrailingIconPreview",
     "module": "samples-catalog",
     "renderBasename": "LargeButtonWithTrailingIconPreview-9771d421.png",
-    "sha256": "9aaa179386a36f1396dcf255884c618415bd127dffc7b4b8f58b0e4ad46940c2",
+    "sha256": "2266710dba13c6bcf2032dd8926ee1b354effcc09d4fe866fc31bb7631b9db73",
     "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/ButtonSamples.kt"
   },
   "samples-catalog/androidx.xr.glimmer.samples.CardSamplesKt.ActionCardWithTitleAndLeadingIconPreview": {
@@ -772,7 +772,7 @@
     "functionName": "ActionCardWithTitleAndLeadingIconPreview",
     "module": "samples-catalog",
     "renderBasename": "ActionCardWithTitleAndLeadingIconPreview-1e5bc691.png",
-    "sha256": "abe2be94675bf844d64896cad3115df75e05a036144e0769678ff7d9408d56f9",
+    "sha256": "b3a269cb6cae787c886a24d34078647cc3a7aca50e76894aed6127d82b6b8eca",
     "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/CardSamples.kt"
   },
   "samples-catalog/androidx.xr.glimmer.samples.CardSamplesKt.ActionCardWithTitlePreview": {
@@ -780,7 +780,7 @@
     "functionName": "ActionCardWithTitlePreview",
     "module": "samples-catalog",
     "renderBasename": "ActionCardWithTitlePreview-9cd5470d.png",
-    "sha256": "46394652ec6a84d954c7d18252ddb3fcc78e482ebddfc6a8eca722a60d11deae",
+    "sha256": "63620c3030fb9e039b5237de0583274d141cbcccdaed68c32be197960d01ba1f",
     "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/CardSamples.kt"
   },
   "samples-catalog/androidx.xr.glimmer.samples.CardSamplesKt.CardPreview": {
@@ -788,7 +788,7 @@
     "functionName": "CardPreview",
     "module": "samples-catalog",
     "renderBasename": "CardPreview-12f972aa.png",
-    "sha256": "6ec88dcc577687397aade0a04b960e32287ec2ddd0400947cd5a3af70d8f0dba",
+    "sha256": "46b86a28cefade5cba226e1a59e9f053554e551fc5103012f00b988a0e2a50fe",
     "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/CardSamples.kt"
   },
   "samples-catalog/androidx.xr.glimmer.samples.CardSamplesKt.CardWithLongTextPreview": {
@@ -796,7 +796,7 @@
     "functionName": "CardWithLongTextPreview",
     "module": "samples-catalog",
     "renderBasename": "CardWithLongTextPreview-e1230935.png",
-    "sha256": "6f82c9c1fbf2cd76d3d0cc838764f352ce564e0a338ca810020ac1392b921a08",
+    "sha256": "0d87ebcff470dba16840d8ccf5a332f648aebf90b20983763d62d15e1099cfa7",
     "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/CardSamples.kt"
   },
   "samples-catalog/androidx.xr.glimmer.samples.CardSamplesKt.CardWithTitleAndSubtitleAndLeadingIconAndTrailingIconLongTextPreview": {
@@ -804,7 +804,7 @@
     "functionName": "CardWithTitleAndSubtitleAndLeadingIconAndTrailingIconLongTextPreview",
     "module": "samples-catalog",
     "renderBasename": "CardWithTitleAndSubtitleAndLeadingIconAndTrailingIconLongTextPreview-84902bda.png",
-    "sha256": "8ac247bf8aaf05d7348c388987f9c3edab222285449b7d9a7e2ce52258ec4264",
+    "sha256": "01b0a29f189c8155382d0dc71eaf35d22e0074a4cf3618b9b5c35b13c3d45931",
     "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/CardSamples.kt"
   },
   "samples-catalog/androidx.xr.glimmer.samples.CardSamplesKt.CardWithTitleAndSubtitleAndLeadingIconLongTextPreview": {
@@ -812,7 +812,7 @@
     "functionName": "CardWithTitleAndSubtitleAndLeadingIconLongTextPreview",
     "module": "samples-catalog",
     "renderBasename": "CardWithTitleAndSubtitleAndLeadingIconLongTextPreview-96f301cd.png",
-    "sha256": "d0c5a06b1e97d9f4e013d89a0f919ed9851a8b470865d739735855c2beb67150",
+    "sha256": "dc0134fad57403eb9e33448902abad0555f449ce0f18fd1f292e5ca72dc841e8",
     "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/CardSamples.kt"
   },
   "samples-catalog/androidx.xr.glimmer.samples.CardSamplesKt.CardWithTitleAndSubtitleAndLeadingIconPreview": {
@@ -820,7 +820,7 @@
     "functionName": "CardWithTitleAndSubtitleAndLeadingIconPreview",
     "module": "samples-catalog",
     "renderBasename": "CardWithTitleAndSubtitleAndLeadingIconPreview-c17caa72.png",
-    "sha256": "7f3b8284369d8f85687aaf63eaf195a4f02724dce0be33f6edfa9b90a1dc214f",
+    "sha256": "8850cccff147977deffa969636000071a0a52f3fa93bf65489cb37a331224c8e",
     "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/CardSamples.kt"
   },
   "samples-catalog/androidx.xr.glimmer.samples.CardSamplesKt.CardWithTrailingIconPreview": {
@@ -828,7 +828,7 @@
     "functionName": "CardWithTrailingIconPreview",
     "module": "samples-catalog",
     "renderBasename": "CardWithTrailingIconPreview-f6ba1370.png",
-    "sha256": "b723949647cce42d032b365aa147a4bf5d8b6240308a2c8df6dd5732eab298f4",
+    "sha256": "4e78d235ae1ac326f058cecda1ef48021672145e65c51f234a713f0b725a14f5",
     "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/CardSamples.kt"
   },
   "samples-catalog/androidx.xr.glimmer.samples.CardSamplesKt.ImageCardPreview": {
@@ -836,7 +836,7 @@
     "functionName": "ImageCardPreview",
     "module": "samples-catalog",
     "renderBasename": "ImageCardPreview-c56eca98.png",
-    "sha256": "3291f89c88813d5cd687ce24bb0d69b949a0c90f19130716f0748b3c526f6662",
+    "sha256": "0800ec256b143da6d481689f430ba3aafb51ad312aa5c80da20d9666c2239cb3",
     "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/CardSamples.kt"
   },
   "samples-catalog/androidx.xr.glimmer.samples.CardSamplesKt.ImageCardWithTitleAndSubtitleAndLeadingIconPreview": {
@@ -844,7 +844,7 @@
     "functionName": "ImageCardWithTitleAndSubtitleAndLeadingIconPreview",
     "module": "samples-catalog",
     "renderBasename": "ImageCardWithTitleAndSubtitleAndLeadingIconPreview-c8e19722.png",
-    "sha256": "6e32a95042557752c58528b3a797f4f2d034eb8d73fd792ccf2682af94fa3d02",
+    "sha256": "52a8992c455a6cd41c8388bb5ec4ab0929d288d503f60f8f809bb02c40ec7a26",
     "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/CardSamples.kt"
   },
   "samples-catalog/androidx.xr.glimmer.samples.CardSamplesKt.LeadingImageCardPreview": {
@@ -852,7 +852,7 @@
     "functionName": "LeadingImageCardPreview",
     "module": "samples-catalog",
     "renderBasename": "LeadingImageCardPreview-12431856.png",
-    "sha256": "2a396f65b15f331837ab82099047f53c27c617b2e24a69f0ee82e2095294ab40",
+    "sha256": "a5e56eebe86564ea314bdb832cda4b2441d24138c2d961b12b402c0c947aa918",
     "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/CardSamples.kt"
   },
   "samples-catalog/androidx.xr.glimmer.samples.CardSamplesKt.TrailingImageCardPreview": {
@@ -860,7 +860,7 @@
     "functionName": "TrailingImageCardPreview",
     "module": "samples-catalog",
     "renderBasename": "TrailingImageCardPreview-bca4eb9f.png",
-    "sha256": "d72e7e77265ed09a100ddcf5d1b475f174f9c7f6dc6fee65cd0e4661e28065ba",
+    "sha256": "de768c7880a4bddb5220d47b6d9d86af1e1a44f977970e27200cbfe90e933e87",
     "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/CardSamples.kt"
   },
   "samples-catalog/androidx.xr.glimmer.samples.ColorsSamplesKt.ColorsPreview": {
@@ -868,7 +868,7 @@
     "functionName": "ColorsPreview",
     "module": "samples-catalog",
     "renderBasename": "ColorsPreview-f3346277.png",
-    "sha256": "706da4124756c7cae7b265ec73b73744e341204880bc076c33640115f8cdcdfa",
+    "sha256": "f854a9c8159f66b4558b3f636cb6e7556a5649171e385fd750ce169588551425",
     "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/ColorsSamples.kt"
   },
   "samples-catalog/androidx.xr.glimmer.samples.DepthEffectLevelsSampleKt.DepthEffectPreview": {
@@ -876,7 +876,7 @@
     "functionName": "DepthEffectPreview",
     "module": "samples-catalog",
     "renderBasename": "DepthEffectPreview-2f3cbdb0.png",
-    "sha256": "7a3fd510745336ef2564ab93202a15d18cd7df68e8fb21f02d826084bdf2a1d4",
+    "sha256": "d6586e27a33c765575839c6b194d5bef2afd24f49cecce3241f419730a22630c",
     "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/DepthEffectLevelsSample.kt"
   },
   "samples-catalog/androidx.xr.glimmer.samples.GlimmerLazyListSamplesKt.GlimmerLazyColumnPreview": {
@@ -884,7 +884,7 @@
     "functionName": "GlimmerLazyColumnPreview",
     "module": "samples-catalog",
     "renderBasename": "GlimmerLazyColumnPreview-a8c4ab1b.png",
-    "sha256": "dfc8f73aabde4c7a2a53fc63aa5a2bf637f82dbc8de4a5e862a7f74bf9e75bb8",
+    "sha256": "f93fab5e8ed9fb4c72f7f439084ee69da28df0f45e4396563d816f7df9c6d187",
     "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/GlimmerLazyListSamples.kt"
   },
   "samples-catalog/androidx.xr.glimmer.samples.GlimmerLazyListSamplesKt.GlimmerLazyColumnWithTitleChipPreview": {
@@ -892,7 +892,7 @@
     "functionName": "GlimmerLazyColumnWithTitleChipPreview",
     "module": "samples-catalog",
     "renderBasename": "GlimmerLazyColumnWithTitleChipPreview-342208c9.png",
-    "sha256": "f1810799f91761929cb1e185d795896b2db4afa9ab28d852ad122e8c0bacc500",
+    "sha256": "6bfd9fcc47fee6fc75434b70060c930265761ab83298931bd2e0f64675936e12",
     "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/GlimmerLazyListSamples.kt"
   },
   "samples-catalog/androidx.xr.glimmer.samples.GlimmerPagerSamplesKt.GlimmerHorizontalPagerSamplePreview": {
@@ -900,7 +900,7 @@
     "functionName": "GlimmerHorizontalPagerSamplePreview",
     "module": "samples-catalog",
     "renderBasename": "GlimmerHorizontalPagerSamplePreview-5eeb5626.png",
-    "sha256": "dddcd5ca1ab9a1a24753b239f652d0a0c63a5f484f3548bb06680320b7190658",
+    "sha256": "1ce5790e96066f048fae976f1921fdd69e3692899e722ef2f0d9acfa4a04aa62",
     "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/GlimmerPagerSamples.kt"
   },
   "samples-catalog/androidx.xr.glimmer.samples.IconButtonSamplesKt.IconButtonPreview": {
@@ -948,7 +948,7 @@
     "functionName": "OnIndirectPointerGestureSampleUsagePreview",
     "module": "samples-catalog",
     "renderBasename": "OnIndirectPointerGestureSampleUsagePreview-f25774ed.png",
-    "sha256": "3aeee15cd6a838c53411130143cab848e660bb437d8f03e788beff4258280d65",
+    "sha256": "e1ec97f618a521a8fe6b1e020644311fd70d7d0c25eefb459e87b8f12c95ae63",
     "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/IndirectPointerGestureSamples.kt"
   },
   "samples-catalog/androidx.xr.glimmer.samples.ListItemSamplesKt.ClickableListItemPreview": {
@@ -956,7 +956,7 @@
     "functionName": "ClickableListItemPreview",
     "module": "samples-catalog",
     "renderBasename": "ClickableListItemPreview-4aaa77d1.png",
-    "sha256": "d366b9c89ff4650ffad10d40c5d6289eed03714d6000bc74e75164c502ed6a1b",
+    "sha256": "fbaa509fca97feac724f411b7bfb15964fe5cc4d57e2f685518acdfae7d731b6",
     "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/ListItemSamples.kt"
   },
   "samples-catalog/androidx.xr.glimmer.samples.ListItemSamplesKt.ClickableListItemWithSupportingLabelAndLeadingIconPreview": {
@@ -964,7 +964,7 @@
     "functionName": "ClickableListItemWithSupportingLabelAndLeadingIconPreview",
     "module": "samples-catalog",
     "renderBasename": "ClickableListItemWithSupportingLabelAndLeadingIconPreview-c43c979b.png",
-    "sha256": "0342a02e1713330a4d17f0a3475d673f0a006460a07535c88f649e72c754ca61",
+    "sha256": "c357847ce642616b3cb493226feb18d4ac00262061211811ed80ac8077850791",
     "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/ListItemSamples.kt"
   },
   "samples-catalog/androidx.xr.glimmer.samples.ListItemSamplesKt.ClickableListItemWithSupportingLabelPreview": {
@@ -972,7 +972,7 @@
     "functionName": "ClickableListItemWithSupportingLabelPreview",
     "module": "samples-catalog",
     "renderBasename": "ClickableListItemWithSupportingLabelPreview-0dd955aa.png",
-    "sha256": "2d733685c5fbd64daa8be5a9da1cfc23a6585c0d19b7a9e9d1b3c234ee9481e7",
+    "sha256": "f25b9a61173b46c64d3a1c9d5dff9b26758e420ec46aa85fa60c141d2fa595da",
     "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/ListItemSamples.kt"
   },
   "samples-catalog/androidx.xr.glimmer.samples.ListItemSamplesKt.ListItemPreview": {
@@ -980,7 +980,7 @@
     "functionName": "ListItemPreview",
     "module": "samples-catalog",
     "renderBasename": "ListItemPreview-3548b2e3.png",
-    "sha256": "d366b9c89ff4650ffad10d40c5d6289eed03714d6000bc74e75164c502ed6a1b",
+    "sha256": "fbaa509fca97feac724f411b7bfb15964fe5cc4d57e2f685518acdfae7d731b6",
     "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/ListItemSamples.kt"
   },
   "samples-catalog/androidx.xr.glimmer.samples.ListItemSamplesKt.ListItemWithLeadingIconLongTextPreview": {
@@ -988,7 +988,7 @@
     "functionName": "ListItemWithLeadingIconLongTextPreview",
     "module": "samples-catalog",
     "renderBasename": "ListItemWithLeadingIconLongTextPreview-e37ba70e.png",
-    "sha256": "541295cb295fc9056fbd91f84bd26bb66bb04a9ea26b8298e4a813861869f575",
+    "sha256": "9dda5c43ac15f95a3d658d8b8d92b13cd4e0c5370d63a106bb43a407982ec567",
     "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/ListItemSamples.kt"
   },
   "samples-catalog/androidx.xr.glimmer.samples.ListItemSamplesKt.ListItemWithSupportingLabelAndIconsPreview": {
@@ -996,7 +996,7 @@
     "functionName": "ListItemWithSupportingLabelAndIconsPreview",
     "module": "samples-catalog",
     "renderBasename": "ListItemWithSupportingLabelAndIconsPreview-aafe7072.png",
-    "sha256": "0d7730883cb8551733f4cc8dd797befd09e7ce465eded15dd6aca85a336cfd74",
+    "sha256": "9df4131de19cdbee1b3efd5b8fbb3fffad7618005e1a75f711ef148c1bb9c850",
     "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/ListItemSamples.kt"
   },
   "samples-catalog/androidx.xr.glimmer.samples.ListItemSamplesKt.ListItemWithSupportingLabelAndLeadingIconLongTextPreview": {
@@ -1004,7 +1004,7 @@
     "functionName": "ListItemWithSupportingLabelAndLeadingIconLongTextPreview",
     "module": "samples-catalog",
     "renderBasename": "ListItemWithSupportingLabelAndLeadingIconLongTextPreview-f11481f3.png",
-    "sha256": "c021a2ad183bc05f3c430ca6c3b6bb44bf30371c1dae150b3f5a9e8fec855157",
+    "sha256": "d74e5f47934816e247947025cd79cd7be909e0d2a6ab34840b6cfe51513a2504",
     "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/ListItemSamples.kt"
   },
   "samples-catalog/androidx.xr.glimmer.samples.ListItemSamplesKt.ListItemWithSupportingLabelAndLeadingIconPreview": {
@@ -1012,7 +1012,7 @@
     "functionName": "ListItemWithSupportingLabelAndLeadingIconPreview",
     "module": "samples-catalog",
     "renderBasename": "ListItemWithSupportingLabelAndLeadingIconPreview-fffd7d73.png",
-    "sha256": "0342a02e1713330a4d17f0a3475d673f0a006460a07535c88f649e72c754ca61",
+    "sha256": "c357847ce642616b3cb493226feb18d4ac00262061211811ed80ac8077850791",
     "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/ListItemSamples.kt"
   },
   "samples-catalog/androidx.xr.glimmer.samples.ListItemSamplesKt.ListItemWithSupportingLabelPreview": {
@@ -1020,7 +1020,7 @@
     "functionName": "ListItemWithSupportingLabelPreview",
     "module": "samples-catalog",
     "renderBasename": "ListItemWithSupportingLabelPreview-3a87ce75.png",
-    "sha256": "2d733685c5fbd64daa8be5a9da1cfc23a6585c0d19b7a9e9d1b3c234ee9481e7",
+    "sha256": "f25b9a61173b46c64d3a1c9d5dff9b26758e420ec46aa85fa60c141d2fa595da",
     "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/ListItemSamples.kt"
   },
   "samples-catalog/androidx.xr.glimmer.samples.ShapesSamplesKt.ShapesPreview": {
@@ -1028,7 +1028,7 @@
     "functionName": "ShapesPreview",
     "module": "samples-catalog",
     "renderBasename": "ShapesPreview-08fa94f4.png",
-    "sha256": "f3a22881d18cfb3efe69b0f235bb1210352440a3d042e7021fda24c3a70a2941",
+    "sha256": "4dbdbd1ff59f66a3c3b6e25d3965e8019e6436c30c11d3b55eaa51f8824acb3f",
     "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/ShapesSamples.kt"
   },
   "samples-catalog/androidx.xr.glimmer.samples.StackSamplesKt.VerticalStackPreview": {
@@ -1036,7 +1036,7 @@
     "functionName": "VerticalStackPreview",
     "module": "samples-catalog",
     "renderBasename": "VerticalStackPreview-a3b48273.png",
-    "sha256": "b62650b66cb0f760d32d78b9df68da97836598299b19d45309a5a64a3cdcfcfe",
+    "sha256": "c76fdefe872aff97d20dc93e5e310eede14ac0d9745d81e44578cc55a8b30f6d",
     "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/StackSamples.kt"
   },
   "samples-catalog/androidx.xr.glimmer.samples.SurfaceSamplesKt.ClickableSurfacePreview": {
@@ -1044,7 +1044,7 @@
     "functionName": "ClickableSurfacePreview",
     "module": "samples-catalog",
     "renderBasename": "ClickableSurfacePreview-5291a088.png",
-    "sha256": "6119b71d83564252b2862f04fed9eb0ae88192ab5613f175f0fc1d3bf4505906",
+    "sha256": "1245ce7edd3eed41ae5759cfe42368e708d1dd30875fd43bb49ceb2d88c2bcaa",
     "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/SurfaceSamples.kt"
   },
   "samples-catalog/androidx.xr.glimmer.samples.SurfaceSamplesKt.FocusableSurfacePreview": {
@@ -1052,7 +1052,7 @@
     "functionName": "FocusableSurfacePreview",
     "module": "samples-catalog",
     "renderBasename": "FocusableSurfacePreview-3cf99938.png",
-    "sha256": "fdd98ac0005b2bb637851247fdf4cd34f2da27b0d1da10fd80ec36be374ab86c",
+    "sha256": "dbb6d02787056382855e0aa1f85bbfabc47aeac3c41821ba002b2ed08df58fa9",
     "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/SurfaceSamples.kt"
   },
   "samples-catalog/androidx.xr.glimmer.samples.SurfaceSamplesKt.SurfacePreview": {
@@ -1060,7 +1060,7 @@
     "functionName": "SurfacePreview",
     "module": "samples-catalog",
     "renderBasename": "SurfacePreview-67c9e9a1.png",
-    "sha256": "dd40f8903d5fcd79c69ba7f3631e795e53e3e3cd55052bb048fd86f0ed81774a",
+    "sha256": "6290e5af2c2678439f73225075a2b33b660d0b0d94311340e633373b5e5f87c4",
     "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/SurfaceSamples.kt"
   },
   "samples-catalog/androidx.xr.glimmer.samples.TitleChipSamplesKt.TitleChipPreview": {
@@ -1068,7 +1068,7 @@
     "functionName": "TitleChipPreview",
     "module": "samples-catalog",
     "renderBasename": "TitleChipPreview-0d1aae4a.png",
-    "sha256": "fb46346e232b6c738ffbdc0b425a0ce6db865f96e5f95ab7a7c9bc5fddeb26a9",
+    "sha256": "932da605efec759f206dd603861d7d1c68405074e5a6a19f7214ad84341be23c",
     "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/TitleChipSamples.kt"
   },
   "samples-catalog/androidx.xr.glimmer.samples.TitleChipSamplesKt.TitleChipWithCardPreview": {
@@ -1076,7 +1076,7 @@
     "functionName": "TitleChipWithCardPreview",
     "module": "samples-catalog",
     "renderBasename": "TitleChipWithCardPreview-dbe8376a.png",
-    "sha256": "78d092e4e722f2b4dcdff0b083642b1b8d462fb52a351e9609a06b6882229446",
+    "sha256": "74f51a3dde6080e686bb80ebf45c03a08c6f4b56c901cd58304c0f85a16c0cae",
     "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/TitleChipSamples.kt"
   },
   "samples-catalog/androidx.xr.glimmer.samples.TitleChipSamplesKt.TitleChipWithLeadingIconPreview": {
@@ -1084,7 +1084,7 @@
     "functionName": "TitleChipWithLeadingIconPreview",
     "module": "samples-catalog",
     "renderBasename": "TitleChipWithLeadingIconPreview-8d383128.png",
-    "sha256": "7b23434d94bea56a120cf62420893df7cd636c0f5c589866b5f2d37838876a72",
+    "sha256": "2783d5f8a3eca414c5490b788f0c8fcb70cf3386d3fdaeb6e200a22d9a67f940",
     "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/TitleChipSamples.kt"
   },
   "samples-catalog/androidx.xr.glimmer.samples.ToggleButtonSamplesKt.LargeToggleButtonPreview": {
@@ -1092,7 +1092,7 @@
     "functionName": "LargeToggleButtonPreview",
     "module": "samples-catalog",
     "renderBasename": "LargeToggleButtonPreview-6ba93c24.png",
-    "sha256": "b87249dd9e4ad5bf5152297196e28724be795c2359a29a44a89f6625c8548d7a",
+    "sha256": "e1466093a834495f27e2b13d1e47ff4bf6ff7b74f12a036a2a7f82c65d313565",
     "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/ToggleButtonSamples.kt"
   },
   "samples-catalog/androidx.xr.glimmer.samples.ToggleButtonSamplesKt.ToggleButtonPreview": {
@@ -1100,7 +1100,7 @@
     "functionName": "ToggleButtonPreview",
     "module": "samples-catalog",
     "renderBasename": "ToggleButtonPreview-99ede45b.png",
-    "sha256": "5bb6f44449898735f3cdcf02664c934d3dc6f6077a953800b1707f192a870471",
+    "sha256": "df5702991d040ff76bbedbe1dccbe82dac6cf3f4f92f2a42994f1bc763dac5f0",
     "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/ToggleButtonSamples.kt"
   },
   "samples-catalog/androidx.xr.glimmer.samples.ToggleButtonSamplesKt.ToggleButtonWithLeadingIconPreview": {
@@ -1108,7 +1108,7 @@
     "functionName": "ToggleButtonWithLeadingIconPreview",
     "module": "samples-catalog",
     "renderBasename": "ToggleButtonWithLeadingIconPreview-91243e06.png",
-    "sha256": "ade3c80ba2afdadbf34cf8d3116d90a8d1f5bec6b1bd6e45a4b4bc89306af3c8",
+    "sha256": "546633839732c6f95576d0353a6ff6d33dae5cf5178aff3b2264c29958243b37",
     "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/ToggleButtonSamples.kt"
   },
   "samples-catalog/androidx.xr.glimmer.samples.ToggleButtonSamplesKt.ToggleButtonWithTrailingIconPreview": {
@@ -1116,7 +1116,7 @@
     "functionName": "ToggleButtonWithTrailingIconPreview",
     "module": "samples-catalog",
     "renderBasename": "ToggleButtonWithTrailingIconPreview-4f98ae8e.png",
-    "sha256": "8138517f5a2bff3417f797384b4fab5121bbb905662b17cd0d7b4420847cc839",
+    "sha256": "1d34faa3aa60a1796aaff4da5e0b6a85f7004b728c9514d4e5d8aa1cdef8e34f",
     "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/ToggleButtonSamples.kt"
   },
   "samples-catalog/androidx.xr.glimmer.samples.TypographySamplesKt.TypographyDefaultPreview": {
@@ -1124,7 +1124,7 @@
     "functionName": "TypographyDefaultPreview",
     "module": "samples-catalog",
     "renderBasename": "TypographyDefaultPreview-06be4c88.png",
-    "sha256": "3f09019090b8c03dc9f90f7fcce593434be98566610be1ef84952036eafc78c2",
+    "sha256": "27b9d614be9f4c477c0c5c4169af1f9b3dea91a1c966e517ac7759aea554bbfb",
     "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/TypographySamples.kt"
   },
   "samples-catalog/ee.schimke.m3catalog.glimmersamples.AlertDialogSamplePreviewsKt.AlertDialogConfirmOnlySamplePreview": {
@@ -1132,7 +1132,7 @@
     "functionName": "AlertDialogConfirmOnlySamplePreview",
     "module": "samples-catalog",
     "renderBasename": "AlertDialogConfirmOnlySamplePreview-49cb0056.png",
-    "sha256": "fa7cb5926475cc81d034fa86fdfddac44cc404240475418f47d349f89f3806d2",
+    "sha256": "ebb12d0ec02a416922be45135ba64e5b4bc57fb74daecba3d29f77e9b1da5505",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmersamples/AlertDialogSamplePreviews.kt"
   },
   "samples-catalog/ee.schimke.m3catalog.glimmersamples.AlertDialogSamplePreviewsKt.AlertDialogSamplePreview": {
@@ -1140,7 +1140,7 @@
     "functionName": "AlertDialogSamplePreview",
     "module": "samples-catalog",
     "renderBasename": "AlertDialogSamplePreview-b16eb86e.png",
-    "sha256": "c0bcdd7436a7e7e42901e0c745c41718df10b4f8d3c01027be2a5a00766e3bf8",
+    "sha256": "3de982af6c0f34a90ad89288443f5d5284d0460f88f8abbe2cd690824d7b052d",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmersamples/AlertDialogSamplePreviews.kt"
   },
   "samples-catalog/ee.schimke.m3catalog.glimmersamples.ButtonGroupSamplePreviewsKt.ButtonGroupControlCurrentItemSamplePreview": {
@@ -1148,7 +1148,7 @@
     "functionName": "ButtonGroupControlCurrentItemSamplePreview",
     "module": "samples-catalog",
     "renderBasename": "ButtonGroupControlCurrentItemSamplePreview-dbbc4546.png",
-    "sha256": "6c83138526c8b0ab1caee42b78c9588d70d698d53d16311a564fd26223143adc",
+    "sha256": "0b756fae2485ef427a51f0a0946c75de2a4e4663930f1fd2d720220c308ebfe5",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmersamples/ButtonGroupSamplePreviews.kt"
   },
   "samples-catalog/ee.schimke.m3catalog.glimmersamples.CardSamplePreviewsKt.ClickableCardSamplePreview": {
@@ -1156,7 +1156,7 @@
     "functionName": "ClickableCardSamplePreview",
     "module": "samples-catalog",
     "renderBasename": "ClickableCardSamplePreview-fadc9bca.png",
-    "sha256": "6ec88dcc577687397aade0a04b960e32287ec2ddd0400947cd5a3af70d8f0dba",
+    "sha256": "46b86a28cefade5cba226e1a59e9f053554e551fc5103012f00b988a0e2a50fe",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmersamples/CardSamplePreviews.kt"
   },
   "samples-catalog/ee.schimke.m3catalog.glimmersamples.CardSamplePreviewsKt.ClickableCardWithTitleAndSubtitleAndLeadingIconSamplePreview": {
@@ -1164,7 +1164,7 @@
     "functionName": "ClickableCardWithTitleAndSubtitleAndLeadingIconSamplePreview",
     "module": "samples-catalog",
     "renderBasename": "ClickableCardWithTitleAndSubtitleAndLeadingIconSamplePreview-72889075.png",
-    "sha256": "7f3b8284369d8f85687aaf63eaf195a4f02724dce0be33f6edfa9b90a1dc214f",
+    "sha256": "8850cccff147977deffa969636000071a0a52f3fa93bf65489cb37a331224c8e",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmersamples/CardSamplePreviews.kt"
   },
   "samples-catalog/ee.schimke.m3catalog.glimmersamples.CardSamplePreviewsKt.ClickableCardWithTrailingIconSamplePreview": {
@@ -1172,7 +1172,7 @@
     "functionName": "ClickableCardWithTrailingIconSamplePreview",
     "module": "samples-catalog",
     "renderBasename": "ClickableCardWithTrailingIconSamplePreview-05abf64d.png",
-    "sha256": "b723949647cce42d032b365aa147a4bf5d8b6240308a2c8df6dd5732eab298f4",
+    "sha256": "4e78d235ae1ac326f058cecda1ef48021672145e65c51f234a713f0b725a14f5",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmersamples/CardSamplePreviews.kt"
   },
   "samples-catalog/ee.schimke.m3catalog.glimmersamples.CardSamplePreviewsKt.ClickableImageCardSamplePreview": {
@@ -1180,7 +1180,7 @@
     "functionName": "ClickableImageCardSamplePreview",
     "module": "samples-catalog",
     "renderBasename": "ClickableImageCardSamplePreview-a187dd4c.png",
-    "sha256": "3291f89c88813d5cd687ce24bb0d69b949a0c90f19130716f0748b3c526f6662",
+    "sha256": "0800ec256b143da6d481689f430ba3aafb51ad312aa5c80da20d9666c2239cb3",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmersamples/CardSamplePreviews.kt"
   },
   "samples-catalog/ee.schimke.m3catalog.glimmersamples.CardSamplePreviewsKt.ClickableImageCardWithTitleAndSubtitleAndLeadingIconSamplePreview": {
@@ -1188,7 +1188,7 @@
     "functionName": "ClickableImageCardWithTitleAndSubtitleAndLeadingIconSamplePreview",
     "module": "samples-catalog",
     "renderBasename": "ClickableImageCardWithTitleAndSubtitleAndLeadingIconSamplePreview-7c695182.png",
-    "sha256": "6e32a95042557752c58528b3a797f4f2d034eb8d73fd792ccf2682af94fa3d02",
+    "sha256": "52a8992c455a6cd41c8388bb5ec4ab0929d288d503f60f8f809bb02c40ec7a26",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmersamples/CardSamplePreviews.kt"
   },
   "samples-catalog/ee.schimke.m3catalog.glimmersamples.GlimmerPagerSamplePreviewsKt.GlimmerPagerStateAnimateScrollToPageSamplePreview": {
@@ -1196,7 +1196,7 @@
     "functionName": "GlimmerPagerStateAnimateScrollToPageSamplePreview",
     "module": "samples-catalog",
     "renderBasename": "GlimmerPagerStateAnimateScrollToPageSamplePreview-4a421202.png",
-    "sha256": "af27668ad894134d71f462c038a08aa8c991acdcbf27e98a091514e6ec6ca93e",
+    "sha256": "87f750eb3d670df9da40fa8e7ede2dd9003dc4bd6931962c092bbf4384c8d3af",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmersamples/GlimmerPagerSamplePreviews.kt"
   },
   "samples-catalog/ee.schimke.m3catalog.glimmersamples.GlimmerPagerSamplePreviewsKt.GlimmerPagerStateCustomAnimateScrollToPageSamplePreview": {
@@ -1204,7 +1204,7 @@
     "functionName": "GlimmerPagerStateCustomAnimateScrollToPageSamplePreview",
     "module": "samples-catalog",
     "renderBasename": "GlimmerPagerStateCustomAnimateScrollToPageSamplePreview-510f4944.png",
-    "sha256": "af27668ad894134d71f462c038a08aa8c991acdcbf27e98a091514e6ec6ca93e",
+    "sha256": "87f750eb3d670df9da40fa8e7ede2dd9003dc4bd6931962c092bbf4384c8d3af",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmersamples/GlimmerPagerSamplePreviews.kt"
   },
   "samples-catalog/ee.schimke.m3catalog.glimmersamples.GlimmerPagerSamplePreviewsKt.GlimmerPagerStateScrollToPageSamplePreview": {
@@ -1212,7 +1212,7 @@
     "functionName": "GlimmerPagerStateScrollToPageSamplePreview",
     "module": "samples-catalog",
     "renderBasename": "GlimmerPagerStateScrollToPageSamplePreview-692dcd29.png",
-    "sha256": "af27668ad894134d71f462c038a08aa8c991acdcbf27e98a091514e6ec6ca93e",
+    "sha256": "87f750eb3d670df9da40fa8e7ede2dd9003dc4bd6931962c092bbf4384c8d3af",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmersamples/GlimmerPagerSamplePreviews.kt"
   },
   "samples-catalog/ee.schimke.m3catalog.glimmersamples.StackSamplePreviewsKt.VerticalStackWithMultipleShapesSamplePreview": {
@@ -1220,7 +1220,7 @@
     "functionName": "VerticalStackWithMultipleShapesSamplePreview",
     "module": "samples-catalog",
     "renderBasename": "VerticalStackWithMultipleShapesSamplePreview-ce9932bb.png",
-    "sha256": "a5c9e33f07530f3c4c75fab4b95611e1ef764df45f830ab34a29fe7d2d325a14",
+    "sha256": "243025a3327a5362b0d65250a6f51a78d7fcf029892b6c6d3b2974fd1a3d464b",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmersamples/StackSamplePreviews.kt"
   },
   "samples-catalog/ee.schimke.m3catalog.glimmersamples.SurfaceSamplePreviewsKt.CustomFocusedColorSurfaceSamplePreview": {
@@ -1228,7 +1228,7 @@
     "functionName": "CustomFocusedColorSurfaceSamplePreview",
     "module": "samples-catalog",
     "renderBasename": "CustomFocusedColorSurfaceSamplePreview-cc9e0943.png",
-    "sha256": "7e3dd71fba481867b0090a3cef3ca31e2350f9a3a9e3867615e1c639173e1206",
+    "sha256": "01910f3b8fc76be04ccef58eda2c602bc2fc73445fab550a42f6906a76fa794d",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmersamples/SurfaceSamplePreviews.kt"
   },
   "samples-catalog/ee.schimke.m3catalog.glimmersamples.VoiceInputIndicatorSamplePreviewsKt.VoiceInputIndicatorSampleUsagePreview": {
