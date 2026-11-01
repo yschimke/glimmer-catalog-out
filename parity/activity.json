@@ -1,11 +1,27 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-26T06:49:05.637Z",
+  "generatedAt": "2026-11-01T08:30:56.405Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/glimmer-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "fb55b864d9b5e1e6c4a8107dea0e41102f284844",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-daemon-bom to v3.27.0 (#65)",
+        "at": "2026-11-01T08:23:53Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "6107893d88f6066fac4437e0b8cd978f851c4c3f",
+        "subject": "chore(deps): update github-actions (#61)",
+        "at": "2026-11-01T08:22:10Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "ab7a2ebf80bf2f460ff9e5999d2444c63c2ebc96",
         "subject": "chore(deps): update compose-preview (#58)",
@@ -338,78 +354,6 @@
         "sha": "9f837dd6123fe458d9ee00772e8639b6737ce202",
         "subject": "fix: lead the front door with the two-line list instead of a lone button (#14)",
         "at": "2026-10-02T10:19:28+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "cfb16f1073ca8bca5c7fac76e0d21af3b608ae9c",
-        "subject": "fix: drop the Glimmer text-assertion scope now the driver pin carries #5643 (#13)",
-        "at": "2026-10-01T05:53:31+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "6a2a0f5ea81b2b9c035e26b97846df9982bda668",
-        "subject": "fix: scope the Glimmer text assertions so the pinned driver passes them (#12)",
-        "at": "2026-09-30T18:36:29+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "164661a5031a45e9548627bac6705cd6fda337ce",
-        "subject": "feat: declare render assertions for the catalog render (#11)",
-        "at": "2026-09-30T18:25:07+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "6c889e7a3b87634be0a6e88b34117eae0d1441c5",
-        "subject": "feat: render Glimmer components in UI Builder",
-        "at": "2026-09-26T17:43:35+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "e0bbd19cfb2eb8e79dede36a1c001a8585f71d6e",
-        "subject": "fix(ci): bootstrap Glimmer discovery support",
-        "at": "2026-09-26T17:20:57+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "b4b449cd93097e25bb8708c2e2852634a161b1bf",
-        "subject": "feat: update CMP fork to Glimmer alpha20",
-        "at": "2026-09-26T14:43:49+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "f0d3687045521b6fdeabc1e942efdc0b514c0244",
-        "subject": "fix(ci): quote Android SDK commands",
-        "at": "2026-09-26T14:36:43+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "1dff9f731ce41353b4b7a4d95cbfe497622e3293",
-        "subject": "fix(ci): complete initial repository gates",
-        "at": "2026-09-26T14:34:43+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "c9370b8c968a383c1d36f7434cef121f54774042",
-        "subject": "feat: establish the Glimmer catalog",
-        "at": "2026-09-26T14:30:45+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
