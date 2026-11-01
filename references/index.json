@@ -21,11 +21,6 @@
           "componentId": "ButtonGroup"
         },
         "uri": "figma:HKfLClZDLRyMhf4IQQLna8/40000116:6497"
-      },
-      "match": {
-        "percent": 94.26,
-        "changedPercent": 61.03,
-        "scoreVersion": 3
       }
     },
     {
@@ -51,12 +46,6 @@
           "componentId": "ButtonGroup"
         },
         "uri": "figma:HKfLClZDLRyMhf4IQQLna8/40000116:6528"
-      },
-      "match": {
-        "percent": 40.74,
-        "changedPercent": 98.42,
-        "scoreVersion": 3,
-        "geometry": 63.8
       }
     },
     {
@@ -82,12 +71,6 @@
           "componentId": "ButtonGroup"
         },
         "uri": "figma:HKfLClZDLRyMhf4IQQLna8/40000116:6521"
-      },
-      "match": {
-        "percent": 65.87,
-        "changedPercent": 84.37,
-        "scoreVersion": 3,
-        "geometry": 31.9
       }
     },
     {
@@ -113,12 +96,6 @@
           "componentId": "ButtonGroup"
         },
         "uri": "figma:HKfLClZDLRyMhf4IQQLna8/40000116:6513"
-      },
-      "match": {
-        "percent": 73.45,
-        "changedPercent": 79.89,
-        "scoreVersion": 3,
-        "geometry": 27.1
       }
     },
     {
@@ -144,11 +121,6 @@
           "componentId": "ButtonGroup"
         },
         "uri": "figma:HKfLClZDLRyMhf4IQQLna8/40000116:6508"
-      },
-      "match": {
-        "percent": 94.11,
-        "changedPercent": 62.09,
-        "scoreVersion": 3
       }
     },
     {
@@ -174,11 +146,6 @@
           "componentId": "ButtonGroup"
         },
         "uri": "figma:HKfLClZDLRyMhf4IQQLna8/40000116:6502"
-      },
-      "match": {
-        "percent": 90.45,
-        "changedPercent": 67.81,
-        "scoreVersion": 3
       }
     },
     {
@@ -210,11 +177,6 @@
           "componentId": "ButtonGroup"
         },
         "uri": "figma:HKfLClZDLRyMhf4IQQLna8/40000116:6543"
-      },
-      "match": {
-        "percent": 93.7,
-        "changedPercent": 54.53,
-        "scoreVersion": 3
       }
     },
     {
@@ -246,11 +208,6 @@
           "componentId": "ButtonGroup"
         },
         "uri": "figma:HKfLClZDLRyMhf4IQQLna8/40000116:6539"
-      },
-      "match": {
-        "percent": 93.8,
-        "changedPercent": 54.63,
-        "scoreVersion": 3
       }
     },
     {
@@ -282,11 +239,6 @@
           "componentId": "ButtonGroup"
         },
         "uri": "figma:HKfLClZDLRyMhf4IQQLna8/40000116:6535"
-      },
-      "match": {
-        "percent": 93.39,
-        "changedPercent": 52.1,
-        "scoreVersion": 3
       }
     },
     {
@@ -315,11 +267,6 @@
           "componentId": "Button"
         },
         "uri": "figma:HKfLClZDLRyMhf4IQQLna8/40:660"
-      },
-      "match": {
-        "percent": 91.95,
-        "changedPercent": 45.76,
-        "scoreVersion": 3
       }
     },
     {
@@ -351,11 +298,6 @@
           "componentId": "Button"
         },
         "uri": "figma:HKfLClZDLRyMhf4IQQLna8/40000113:3523"
-      },
-      "match": {
-        "percent": 90.48,
-        "changedPercent": 37.6,
-        "scoreVersion": 3
       }
     },
     {
@@ -387,11 +329,6 @@
           "componentId": "Button"
         },
         "uri": "figma:HKfLClZDLRyMhf4IQQLna8/40000113:3330"
-      },
-      "match": {
-        "percent": 92,
-        "changedPercent": 90.43,
-        "scoreVersion": 3
       }
     },
     {
@@ -423,11 +360,6 @@
           "componentId": "Button"
         },
         "uri": "figma:HKfLClZDLRyMhf4IQQLna8/40000113:3339"
-      },
-      "match": {
-        "percent": 85.82,
-        "changedPercent": 85.3,
-        "scoreVersion": 3
       }
     },
     {
@@ -459,12 +391,6 @@
           "componentId": "Button"
         },
         "uri": "figma:HKfLClZDLRyMhf4IQQLna8/40000113:3576"
-      },
-      "match": {
-        "percent": 92.26,
-        "changedPercent": 35.11,
-        "scoreVersion": 3,
-        "geometry": 11.1
       }
     },
     {
@@ -493,11 +419,6 @@
           "componentId": "ToggleButton"
         },
         "uri": "figma:HKfLClZDLRyMhf4IQQLna8/40000113:3991"
-      },
-      "match": {
-        "percent": 91.95,
-        "changedPercent": 45.76,
-        "scoreVersion": 3
       }
     },
     {
@@ -529,12 +450,6 @@
           "componentId": "ToggleButton"
         },
         "uri": "figma:HKfLClZDLRyMhf4IQQLna8/40000113:4082"
-      },
-      "match": {
-        "percent": 79.03,
-        "changedPercent": 96.78,
-        "scoreVersion": 3,
-        "geometry": 11.1
       }
     },
     {
@@ -566,11 +481,6 @@
           "componentId": "ToggleButton"
         },
         "uri": "figma:HKfLClZDLRyMhf4IQQLna8/40000113:4092"
-      },
-      "match": {
-        "percent": 87.25,
-        "changedPercent": 95.63,
-        "scoreVersion": 3
       }
     },
     {
@@ -602,12 +512,6 @@
           "componentId": "ToggleButton"
         },
         "uri": "figma:HKfLClZDLRyMhf4IQQLna8/40000113:4112"
-      },
-      "match": {
-        "percent": 78.33,
-        "changedPercent": 96.97,
-        "scoreVersion": 3,
-        "geometry": 11.1
       }
     },
     {
@@ -639,11 +543,6 @@
           "componentId": "ToggleButton"
         },
         "uri": "figma:HKfLClZDLRyMhf4IQQLna8/40000113:4102"
-      },
-      "match": {
-        "percent": 87.88,
-        "changedPercent": 95.77,
-        "scoreVersion": 3
       }
     },
     {
@@ -675,12 +574,6 @@
           "componentId": "ToggleButton"
         },
         "uri": "figma:HKfLClZDLRyMhf4IQQLna8/40000113:4122"
-      },
-      "match": {
-        "percent": 74.27,
-        "changedPercent": 97.16,
-        "scoreVersion": 3,
-        "geometry": 11.1
       }
     },
     {
@@ -712,11 +605,6 @@
           "componentId": "ToggleButton"
         },
         "uri": "figma:HKfLClZDLRyMhf4IQQLna8/40000113:4003"
-      },
-      "match": {
-        "percent": 90.48,
-        "changedPercent": 37.6,
-        "scoreVersion": 3
       }
     },
     {
@@ -748,11 +636,6 @@
           "componentId": "ToggleButton"
         },
         "uri": "figma:HKfLClZDLRyMhf4IQQLna8/40000113:3997"
-      },
-      "match": {
-        "percent": 86.58,
-        "changedPercent": 92.7,
-        "scoreVersion": 3
       }
     },
     {
@@ -784,11 +667,6 @@
           "componentId": "ToggleButton"
         },
         "uri": "figma:HKfLClZDLRyMhf4IQQLna8/40000113:4062"
-      },
-      "match": {
-        "percent": 88.35,
-        "changedPercent": 88.18,
-        "scoreVersion": 3
       }
     },
     {
@@ -820,12 +698,6 @@
           "componentId": "ToggleButton"
         },
         "uri": "figma:HKfLClZDLRyMhf4IQQLna8/40000113:3973"
-      },
-      "match": {
-        "percent": 92.26,
-        "changedPercent": 35.11,
-        "scoreVersion": 3,
-        "geometry": 11.1
       }
     },
     {
@@ -857,11 +729,6 @@
           "componentId": "ToggleButton"
         },
         "uri": "figma:HKfLClZDLRyMhf4IQQLna8/40000113:4138"
-      },
-      "match": {
-        "percent": 88.8,
-        "changedPercent": 94.84,
-        "scoreVersion": 3
       }
     },
     {
@@ -890,12 +757,6 @@
           "componentId": "ImageCard"
         },
         "uri": "figma:HKfLClZDLRyMhf4IQQLna8/416:2700"
-      },
-      "match": {
-        "percent": 44.32,
-        "changedPercent": 80.33,
-        "scoreVersion": 3,
-        "geometry": 7.6
       }
     },
     {
@@ -924,11 +785,6 @@
           "componentId": "TitleChip"
         },
         "uri": "figma:HKfLClZDLRyMhf4IQQLna8/5315:4722"
-      },
-      "match": {
-        "percent": 86.37,
-        "changedPercent": 59.77,
-        "scoreVersion": 3
       }
     },
     {
@@ -951,11 +807,6 @@
           "componentId": "IconButton"
         },
         "uri": "figma:HKfLClZDLRyMhf4IQQLna8/5315:4651"
-      },
-      "match": {
-        "percent": 93.88,
-        "changedPercent": 51.39,
-        "scoreVersion": 3
       }
     },
     {
@@ -981,11 +832,6 @@
           "componentId": "IconButton"
         },
         "uri": "figma:HKfLClZDLRyMhf4IQQLna8/5315:4660"
-      },
-      "match": {
-        "percent": 54.35,
-        "changedPercent": 78.47,
-        "scoreVersion": 3
       }
     },
     {
@@ -1011,11 +857,6 @@
           "componentId": "IconButton"
         },
         "uri": "figma:HKfLClZDLRyMhf4IQQLna8/5315:4654"
-      },
-      "match": {
-        "percent": 97.34,
-        "changedPercent": 74.96,
-        "scoreVersion": 3
       }
     },
     {
@@ -1041,11 +882,6 @@
           "componentId": "IconButton"
         },
         "uri": "figma:HKfLClZDLRyMhf4IQQLna8/5315:4657"
-      },
-      "match": {
-        "percent": 87.81,
-        "changedPercent": 75.3,
-        "scoreVersion": 3
       }
     },
     {
@@ -1068,11 +904,6 @@
           "componentId": "IconToggleButton"
         },
         "uri": "figma:HKfLClZDLRyMhf4IQQLna8/40000113:4150"
-      },
-      "match": {
-        "percent": 93.88,
-        "changedPercent": 51.39,
-        "scoreVersion": 3
       }
     },
     {
@@ -1098,11 +929,6 @@
           "componentId": "IconToggleButton"
         },
         "uri": "figma:HKfLClZDLRyMhf4IQQLna8/40000113:4188"
-      },
-      "match": {
-        "percent": 95.17,
-        "changedPercent": 87.72,
-        "scoreVersion": 3
       }
     },
     {
@@ -1128,11 +954,6 @@
           "componentId": "IconToggleButton"
         },
         "uri": "figma:HKfLClZDLRyMhf4IQQLna8/40000113:4195"
-      },
-      "match": {
-        "percent": 93.41,
-        "changedPercent": 87.72,
-        "scoreVersion": 3
       }
     },
     {
@@ -1158,11 +979,6 @@
           "componentId": "IconToggleButton"
         },
         "uri": "figma:HKfLClZDLRyMhf4IQQLna8/40000113:4158"
-      },
-      "match": {
-        "percent": 54.35,
-        "changedPercent": 78.47,
-        "scoreVersion": 3
       }
     },
     {
@@ -1188,11 +1004,6 @@
           "componentId": "IconToggleButton"
         },
         "uri": "figma:HKfLClZDLRyMhf4IQQLna8/40000113:4152"
-      },
-      "match": {
-        "percent": 91.93,
-        "changedPercent": 77.39,
-        "scoreVersion": 3
       }
     },
     {
@@ -1218,11 +1029,6 @@
           "componentId": "IconToggleButton"
         },
         "uri": "figma:HKfLClZDLRyMhf4IQQLna8/40000113:4155"
-      },
-      "match": {
-        "percent": 90.55,
-        "changedPercent": 72.31,
-        "scoreVersion": 3
       }
     },
     {
@@ -1248,11 +1054,6 @@
           "componentId": "IconToggleButton"
         },
         "uri": "figma:HKfLClZDLRyMhf4IQQLna8/40000113:4181"
-      },
-      "match": {
-        "percent": 95.35,
-        "changedPercent": 83.98,
-        "scoreVersion": 3
       }
     },
     {
@@ -1275,12 +1076,6 @@
           "componentId": "GlimmerLazyColumn"
         },
         "uri": "figma:HKfLClZDLRyMhf4IQQLna8/4116:5212"
-      },
-      "match": {
-        "percent": 59.33,
-        "changedPercent": 59.68,
-        "scoreVersion": 3,
-        "geometry": 4.9
       }
     },
     {
@@ -1306,12 +1101,6 @@
           "componentId": "GlimmerLazyColumn"
         },
         "uri": "figma:HKfLClZDLRyMhf4IQQLna8/40000115:2000"
-      },
-      "match": {
-        "percent": 60.89,
-        "changedPercent": 58.19,
-        "scoreVersion": 3,
-        "geometry": 4.7
       }
     },
     {
@@ -1337,11 +1126,6 @@
           "componentId": "GlimmerLazyColumn"
         },
         "uri": "figma:HKfLClZDLRyMhf4IQQLna8/4116:5221"
-      },
-      "match": {
-        "percent": 61.71,
-        "changedPercent": 64.61,
-        "scoreVersion": 3
       }
     },
     {
@@ -1364,12 +1148,6 @@
           "componentId": "GlimmerLazyColumn/TwoLine"
         },
         "uri": "figma:HKfLClZDLRyMhf4IQQLna8/4116:5251"
-      },
-      "match": {
-        "percent": 67.16,
-        "changedPercent": 52.75,
-        "scoreVersion": 3,
-        "geometry": 18.4
       }
     },
     {
@@ -1395,12 +1173,6 @@
           "componentId": "GlimmerLazyColumn/TwoLine"
         },
         "uri": "figma:HKfLClZDLRyMhf4IQQLna8/4116:5267"
-      },
-      "match": {
-        "percent": 68.76,
-        "changedPercent": 68.03,
-        "scoreVersion": 3,
-        "geometry": 18.4
       }
     },
     {
@@ -1426,12 +1198,6 @@
           "componentId": "GlimmerLazyColumn/TwoLine"
         },
         "uri": "figma:HKfLClZDLRyMhf4IQQLna8/40000116:2522"
-      },
-      "match": {
-        "percent": 49.26,
-        "changedPercent": 73.67,
-        "scoreVersion": 3,
-        "geometry": 4.7
       }
     },
     {
@@ -1457,12 +1223,6 @@
           "componentId": "GlimmerLazyColumn/TwoLine"
         },
         "uri": "figma:HKfLClZDLRyMhf4IQQLna8/4116:5259"
-      },
-      "match": {
-        "percent": 73.57,
-        "changedPercent": 68.37,
-        "scoreVersion": 3,
-        "geometry": 18.4
       }
     },
     {
@@ -1488,12 +1248,6 @@
           "componentId": "GlimmerLazyColumn/TwoLine"
         },
         "uri": "figma:HKfLClZDLRyMhf4IQQLna8/40000116:2458"
-      },
-      "match": {
-        "percent": 46.69,
-        "changedPercent": 79.87,
-        "scoreVersion": 3,
-        "geometry": 2.5
       }
     },
     {
@@ -1519,11 +1273,6 @@
           "componentId": "GlimmerLazyColumn/TwoLine"
         },
         "uri": "figma:HKfLClZDLRyMhf4IQQLna8/40000116:2394"
-      },
-      "match": {
-        "percent": 65.68,
-        "changedPercent": 49.53,
-        "scoreVersion": 3
       }
     },
     {
@@ -1546,11 +1295,6 @@
           "componentId": "ListItem"
         },
         "uri": "figma:HKfLClZDLRyMhf4IQQLna8/384:4195"
-      },
-      "match": {
-        "percent": 96.95,
-        "changedPercent": 18.54,
-        "scoreVersion": 3
       }
     },
     {
@@ -1576,11 +1320,6 @@
           "componentId": "ListItem"
         },
         "uri": "figma:HKfLClZDLRyMhf4IQQLna8/384:4186"
-      },
-      "match": {
-        "percent": 87.13,
-        "changedPercent": 83.16,
-        "scoreVersion": 3
       }
     },
     {
@@ -1612,12 +1351,6 @@
           "componentId": "ListItem"
         },
         "uri": "figma:HKfLClZDLRyMhf4IQQLna8/384:4191"
-      },
-      "match": {
-        "percent": 87.62,
-        "changedPercent": 22.1,
-        "scoreVersion": 3,
-        "geometry": 3.3
       }
     },
     {
@@ -1646,12 +1379,6 @@
           "componentId": "VerticalStack"
         },
         "uri": "figma:HKfLClZDLRyMhf4IQQLna8/40000042:4078"
-      },
-      "match": {
-        "percent": 67.29,
-        "changedPercent": 99.77,
-        "scoreVersion": 3,
-        "geometry": 10.4
       }
     },
     {
@@ -1683,12 +1410,6 @@
           "componentId": "VerticalStack"
         },
         "uri": "figma:HKfLClZDLRyMhf4IQQLna8/40000042:4081"
-      },
-      "match": {
-        "percent": 50.75,
-        "changedPercent": 88.43,
-        "scoreVersion": 3,
-        "geometry": 40.6
       }
     },
     {
@@ -1711,12 +1432,6 @@
           "componentId": "VoiceInputIndicator"
         },
         "uri": "figma:HKfLClZDLRyMhf4IQQLna8/40000116:9346"
-      },
-      "match": {
-        "percent": 96.64,
-        "changedPercent": 57.69,
-        "scoreVersion": 3,
-        "geometry": 66.7
       }
     },
     {
@@ -1742,11 +1457,6 @@
           "componentId": "VoiceInputIndicator"
         },
         "uri": "figma:HKfLClZDLRyMhf4IQQLna8/40000116:9342"
-      },
-      "match": {
-        "percent": 86.72,
-        "changedPercent": 83.59,
-        "scoreVersion": 3
       }
     },
     {
@@ -1772,12 +1482,6 @@
           "componentId": "VoiceInputIndicator"
         },
         "uri": "figma:HKfLClZDLRyMhf4IQQLna8/40000116:9350"
-      },
-      "match": {
-        "percent": 97.07,
-        "changedPercent": 63.46,
-        "scoreVersion": 3,
-        "geometry": 20
       }
     },
     {
@@ -1803,11 +1507,6 @@
           "componentId": "VoiceInputIndicator"
         },
         "uri": "figma:HKfLClZDLRyMhf4IQQLna8/40000116:9338"
-      },
-      "match": {
-        "percent": 72.57,
-        "changedPercent": 83.59,
-        "scoreVersion": 3
       }
     }
   ]
