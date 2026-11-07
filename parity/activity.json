@@ -1,11 +1,27 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-02T06:34:42.353Z",
+  "generatedAt": "2026-11-07T04:09:19.288Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/glimmer-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "a4095a1b8304639a1bd82f41b81d16a048c0a66a",
+        "subject": "chore(deps): update gradle to v9.9.0 (#69)",
+        "at": "2026-11-07T04:02:02Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "a0f7cc5c4d82710310ba25ed12f68bc0390d9a23",
+        "subject": "chore(deps): update github-actions (#68)",
+        "at": "2026-11-07T03:58:34Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "59c0c55e3ef4a22c370b91404b6d16ec007c0001",
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-daemon-bom to v3.27.2 (#66)",
@@ -234,118 +250,6 @@
         "sha": "7b404bfa905f3f3c016c2d4f73a32baf185dcf06",
         "subject": "feat(ui-builder): glasses seed templates, a configurable icon, and a canvas that draws text (#34)",
         "at": "2026-10-08T11:30:42+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "666b64dedcd7d6cf5a464bb673a2b2c05188e9ba",
-        "subject": "fix(deps): let the daemon BOM lead the plugin, as in wear-m3-catalog (#32)",
-        "at": "2026-10-07T23:17:51+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "9c07995395e369b46b1ca64232be4f53b48faa07",
-        "subject": "chore(deps): update compose-preview to v2.35.0 (#20)",
-        "at": "2026-10-07T22:00:10Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "4bc3218577a86551318b94b20f9320c75e8a8b0b",
-        "subject": "ci: add the Conventional Commit title check (#31)",
-        "at": "2026-10-07T21:53:37+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "cf30cfabfc25684e3bfda492df560dea10409af4",
-        "subject": "chore: merge Renovate PRs with GitHub auto-merge (#30)",
-        "at": "2026-10-07T21:30:36+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "451b21c54fee8a25c0f7bb908576232b1c0b1838",
-        "subject": "feat: draw the kit's last three list Bottom cells (#29)",
-        "at": "2026-10-06T22:31:06+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "f659ab89dc7a636e036a7f89d9fa7c64d3e0f5fc",
-        "subject": "feat: render every sample upstream leaves unpreviewed (#28)",
-        "at": "2026-10-06T22:04:16+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "3a8746129de5ccd5ae3ae17132238dcc88da04bb",
-        "subject": "feat: pair the focused base cells with their focused renders (#27)",
-        "at": "2026-10-06T21:39:30+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "b08897d84a7dd94bddbf0a731b726ac4a152b4d9",
-        "subject": "feat: draw the kit's Stack Type=Home cell (#26)",
-        "at": "2026-10-06T20:32:11+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "74893f56070cdbf2e3d44a393de71c8d46fa723a",
-        "subject": "feat: draw the kit's focus-position cells for Button group and lists (#25)",
-        "at": "2026-10-06T20:21:57+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "1ede734edb9959a83763d044e55036e07568c94b",
-        "subject": "fix(ci): run the catalog validators from the locked export driver (#24)",
-        "at": "2026-10-06T18:59:10+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "7e51ee65663aec63751a6714fc4241fd83b2ba3a",
-        "subject": "feat: update Glimmer to alpha20 and re-pin its samples (#23)",
-        "at": "2026-10-06T18:34:45+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "0e1dd894e155fb300b3427d11e7ebd7edbb1e640",
-        "subject": "fix(deps): compose-preview plugin 2.32.4 and daemon 3.13.1 (#19)",
-        "at": "2026-10-03T11:05:20+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "9412c17e3f2f35e1d2c55b1c6c75d61bef2e7f4e",
-        "subject": "build(deps): resolve compose-preview runtime modules through the daemon BOM (#18)",
-        "at": "2026-10-03T08:54:48+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "a6ba77095ac20b111d6d1b64e319e966eab9120c",
-        "subject": "fix(deps): compose-preview 2.32.2 and preview runtime 3.13.0 (#17)",
-        "at": "2026-10-03T08:02:38+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
