@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-10T01:22:09.456Z",
+  "generatedAt": "2026-11-10T23:13:40.519Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/glimmer-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "d3d59e9ad5ed82b5830bd84b7a422d1c6bafb295",
+        "subject": "chore(deps): update gradle to v9.9.1 (#72)",
+        "at": "2026-11-10T23:05:50Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "045bf36936a8f3ce3e3bd1af2d612e6a0dbbb7ce",
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-daemon-bom to v3.27.4 (#71)",
@@ -171,38 +179,6 @@
         "subject": "chore(deps): update github-actions (#46)",
         "at": "2026-10-12T02:25:36Z",
         "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "a0fdfb8bcac246ea336184eb08ef13e68ff3cc41",
-        "subject": "chore(deps): update compose-preview to v2.50.0 (#45)",
-        "at": "2026-10-11T20:41:22Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "db0915376b85b7a926d138467677d7200522657b",
-        "subject": "chore(deps): update compose-preview (#39)",
-        "at": "2026-10-11T18:58:31Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "ab6ca364f800b44820fb59256ee0218dd3224811",
-        "subject": "fix(deps): update compose-ai-tools to v2.45.0, and cap the publish's guidelines at $0.25 (#44)",
-        "at": "2026-10-11T19:55:51+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "eb7910f9b7271548930ecd677e4ecd96702cd9f4",
-        "subject": "docs: describe the declared Compose source export (#43)",
-        "at": "2026-10-11T08:07:16+01:00",
-        "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
       }
