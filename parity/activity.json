@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-13T14:04:20.823Z",
+  "generatedAt": "2026-11-13T20:42:12.064Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/glimmer-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "82ab98217509a062142255296f40e8cc77e6c7ce",
+        "subject": "fix(deps): update dependency org.robolectric:robolectric to v4.18 (#75)",
+        "at": "2026-11-13T20:35:20Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "5df6024e2088926994282c6e3685f405b04b94b7",
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-daemon-bom to v3.27.7 (#74)",
