@@ -7,7 +7,7 @@
     "ref": "main",
     "module": ":samples-catalog"
   },
-  "generatedAt": "2026-11-16T06:38:21.288Z",
+  "generatedAt": "2026-11-19T23:21:05.098Z",
   "mappings": [
     {
       "componentId": "AlertDialog/AlertDialogSample",
@@ -130,6 +130,20 @@
       "figmaSvg": "https://preview.coo.ee/glimmer-samples/render/button-largebuttonwithleadingandtrailingiconsample__ideal__default.svg"
     },
     {
+      "componentId": "Button/CustomFocusedColorButtonSample",
+      "figmaLayerName": "Button/CustomFocusedColorButtonSample",
+      "componentName": "CustomFocusedColorButtonSample",
+      "source": "https://github.com/yschimke/glimmer-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/xr/glimmer/samples/ButtonSamples.kt",
+      "label": "Compose",
+      "confidence": "HIGH",
+      "previewName": "CustomFocusedColorButtonPreview",
+      "codeSnippet": "CustomFocusedColorButtonSample()",
+      "imports": [
+        "import androidx.xr.glimmer.samples.CustomFocusedColorButtonSample"
+      ],
+      "figmaSvg": "https://preview.coo.ee/glimmer-samples/render/button-customfocusedcolorbuttonsample__ideal__default.svg"
+    },
+    {
       "componentId": "ButtonGroup/ButtonGroupSample",
       "figmaLayerName": "ButtonGroup/ButtonGroupSample",
       "componentName": "ButtonGroupSample",
@@ -240,6 +254,20 @@
         "import androidx.xr.glimmer.samples.CardWithTitleAndSubtitleAndLeadingIconAndTrailingIconLongText"
       ],
       "figmaSvg": "https://preview.coo.ee/glimmer-samples/render/card-cardwithtitleandsubtitleandleadingiconandtrailingiconlongtext__ideal__default.svg"
+    },
+    {
+      "componentId": "Card/NonFocusableCardWithButtonGroupSample",
+      "figmaLayerName": "Card/NonFocusableCardWithButtonGroupSample",
+      "componentName": "NonFocusableCardWithButtonGroupSample",
+      "source": "https://github.com/yschimke/glimmer-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/xr/glimmer/samples/CardSamples.kt",
+      "label": "Compose",
+      "confidence": "HIGH",
+      "previewName": "NonFocusableCardWithButtonGroupPreview",
+      "codeSnippet": "NonFocusableCardWithButtonGroupSample()",
+      "imports": [
+        "import androidx.xr.glimmer.samples.NonFocusableCardWithButtonGroupSample"
+      ],
+      "figmaSvg": "https://preview.coo.ee/glimmer-samples/render/card-nonfocusablecardwithbuttongroupsample__ideal__default.svg"
     },
     {
       "componentId": "Card/ActionCardWithTitleSample",
@@ -578,6 +606,20 @@
       "figmaSvg": "https://preview.coo.ee/glimmer-samples/render/icontogglebutton-icontogglebuttonsample__ideal__default.svg"
     },
     {
+      "componentId": "IconToggleButton/CustomColorsIconToggleButtonSample",
+      "figmaLayerName": "IconToggleButton/CustomColorsIconToggleButtonSample",
+      "componentName": "CustomColorsIconToggleButtonSample",
+      "source": "https://github.com/yschimke/glimmer-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/xr/glimmer/samples/IconToggleButtonSamples.kt",
+      "label": "Compose",
+      "confidence": "HIGH",
+      "previewName": "CustomColorsIconToggleButtonPreview",
+      "codeSnippet": "CustomColorsIconToggleButtonSample()",
+      "imports": [
+        "import androidx.xr.glimmer.samples.CustomColorsIconToggleButtonSample"
+      ],
+      "figmaSvg": "https://preview.coo.ee/glimmer-samples/render/icontogglebutton-customcolorsicontogglebuttonsample__ideal__default.svg"
+    },
+    {
       "componentId": "IndirectPointerGesture/OnIndirectPointerGestureSampleUsage",
       "figmaLayerName": "IndirectPointerGesture/OnIndirectPointerGestureSampleUsage",
       "componentName": "OnIndirectPointerGestureSampleUsage",
@@ -900,6 +942,20 @@
         "import androidx.xr.glimmer.samples.ToggleButtonWithTrailingIconSample"
       ],
       "figmaSvg": "https://preview.coo.ee/glimmer-samples/render/togglebutton-togglebuttonwithtrailingiconsample__ideal__default.svg"
+    },
+    {
+      "componentId": "ToggleButton/CustomColorsToggleButtonSample",
+      "figmaLayerName": "ToggleButton/CustomColorsToggleButtonSample",
+      "componentName": "CustomColorsToggleButtonSample",
+      "source": "https://github.com/yschimke/glimmer-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/xr/glimmer/samples/ToggleButtonSamples.kt",
+      "label": "Compose",
+      "confidence": "HIGH",
+      "previewName": "CustomColorsToggleButtonPreview",
+      "codeSnippet": "CustomColorsToggleButtonSample()",
+      "imports": [
+        "import androidx.xr.glimmer.samples.CustomColorsToggleButtonSample"
+      ],
+      "figmaSvg": "https://preview.coo.ee/glimmer-samples/render/togglebutton-customcolorstogglebuttonsample__ideal__default.svg"
     },
     {
       "componentId": "Typography/TypographyDefaultUsage",

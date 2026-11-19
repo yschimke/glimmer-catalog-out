@@ -63,10 +63,10 @@
       "redlines": [
         {
           "bounds": {
-            "x": 0,
-            "y": 0,
-            "width": 960,
-            "height": 152
+            "x": 12,
+            "y": 12,
+            "width": 936,
+            "height": 128
           },
           "padding": {
             "start": 12,
@@ -172,10 +172,10 @@
       "redlines": [
         {
           "bounds": {
-            "x": 0,
-            "y": 0,
-            "width": 960,
-            "height": 152
+            "x": 12,
+            "y": 12,
+            "width": 936,
+            "height": 128
           },
           "padding": {
             "start": 12,
@@ -285,7 +285,7 @@
       "wireframe": "wireframes/button-buttonsample.svg",
       "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/ButtonSamples.kt",
       "sourceModule": ":samples-catalog",
-      "bodyLine": 124,
+      "bodyLine": 138,
       "sourceDirectory": "samples-catalog",
       "sourceFunction": "ButtonPreview",
       "related": [
@@ -355,7 +355,7 @@
       "wireframe": "wireframes/button-buttonwithleadingiconsample.svg",
       "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/ButtonSamples.kt",
       "sourceModule": ":samples-catalog",
-      "bodyLine": 130,
+      "bodyLine": 144,
       "sourceDirectory": "samples-catalog",
       "sourceFunction": "ButtonWithLeadingIconPreview",
       "related": [
@@ -425,7 +425,7 @@
       "wireframe": "wireframes/button-buttonwithtrailingiconsample.svg",
       "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/ButtonSamples.kt",
       "sourceModule": ":samples-catalog",
-      "bodyLine": 136,
+      "bodyLine": 150,
       "sourceDirectory": "samples-catalog",
       "sourceFunction": "ButtonWithTrailingIconPreview",
       "related": [
@@ -495,7 +495,7 @@
       "wireframe": "wireframes/button-buttonwithleadingandtrailingiconsample.svg",
       "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/ButtonSamples.kt",
       "sourceModule": ":samples-catalog",
-      "bodyLine": 142,
+      "bodyLine": 156,
       "sourceDirectory": "samples-catalog",
       "sourceFunction": "ButtonWithLeadingAndTrailingIconPreview",
       "related": [
@@ -565,7 +565,7 @@
       "wireframe": "wireframes/button-largebuttonsample.svg",
       "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/ButtonSamples.kt",
       "sourceModule": ":samples-catalog",
-      "bodyLine": 148,
+      "bodyLine": 162,
       "sourceDirectory": "samples-catalog",
       "sourceFunction": "LargeButtonPreview",
       "related": [
@@ -635,7 +635,7 @@
       "wireframe": "wireframes/button-largebuttonwithleadingiconsample.svg",
       "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/ButtonSamples.kt",
       "sourceModule": ":samples-catalog",
-      "bodyLine": 154,
+      "bodyLine": 168,
       "sourceDirectory": "samples-catalog",
       "sourceFunction": "LargeButtonWithLeadingIconPreview",
       "related": [
@@ -705,7 +705,7 @@
       "wireframe": "wireframes/button-largebuttonwithtrailingiconsample.svg",
       "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/ButtonSamples.kt",
       "sourceModule": ":samples-catalog",
-      "bodyLine": 160,
+      "bodyLine": 174,
       "sourceDirectory": "samples-catalog",
       "sourceFunction": "LargeButtonWithTrailingIconPreview",
       "related": [
@@ -775,9 +775,79 @@
       "wireframe": "wireframes/button-largebuttonwithleadingandtrailingiconsample.svg",
       "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/ButtonSamples.kt",
       "sourceModule": ":samples-catalog",
-      "bodyLine": 166,
+      "bodyLine": 180,
       "sourceDirectory": "samples-catalog",
       "sourceFunction": "LargeButtonWithLeadingAndTrailingIconPreview",
+      "related": [
+        {
+          "system": "glimmer-catalog",
+          "componentId": "Button"
+        }
+      ]
+    },
+    {
+      "componentId": "Button/CustomFocusedColorButtonSample",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/button-customfocusedcolorbuttonsample/ideal__default.png",
+          "state": "default",
+          "width": 306,
+          "height": 48,
+          "livePreview": "https://preview.coo.ee/glimmer-samples/p/button-customfocusedcolorbuttonsample__ideal__default",
+          "previewId": "androidx.xr.glimmer.samples.ButtonSamplesKt.CustomFocusedColorButtonPreview",
+          "density": 1,
+          "figmaSvg": "https://preview.coo.ee/glimmer-samples/render/button-customfocusedcolorbuttonsample__ideal__default.svg"
+        }
+      ],
+      "greenlines": [
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 0,
+              "y": 0,
+              "width": 306,
+              "height": 48
+            }
+          },
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 306,
+            "height": 48
+          }
+        }
+      ],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 306,
+            "height": 48
+          },
+          "role": "Button",
+          "padding": {
+            "start": 16,
+            "top": 8,
+            "end": 16,
+            "bottom": 8
+          },
+          "cornerRadius": 24
+        }
+      ],
+      "group": "Button",
+      "caption": "`CustomFocusedColorButtonSample` — the sample upstream's own `@Preview` renders.",
+      "wireframe": "wireframes/button-customfocusedcolorbuttonsample.svg",
+      "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/ButtonSamples.kt",
+      "sourceModule": ":samples-catalog",
+      "bodyLine": 186,
+      "sourceDirectory": "samples-catalog",
+      "sourceFunction": "CustomFocusedColorButtonPreview",
       "related": [
         {
           "system": "glimmer-catalog",
@@ -1171,7 +1241,7 @@
       "wireframe": "wireframes/card-cardsample.svg",
       "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/CardSamples.kt",
       "sourceModule": ":samples-catalog",
-      "bodyLine": 265,
+      "bodyLine": 286,
       "sourceDirectory": "samples-catalog",
       "sourceFunction": "CardPreview",
       "related": [
@@ -1219,7 +1289,7 @@
       "wireframe": "wireframes/card-cardwithtrailingiconsample.svg",
       "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/CardSamples.kt",
       "sourceModule": ":samples-catalog",
-      "bodyLine": 271,
+      "bodyLine": 292,
       "sourceDirectory": "samples-catalog",
       "sourceFunction": "CardWithTrailingIconPreview",
       "related": [
@@ -1267,7 +1337,7 @@
       "wireframe": "wireframes/card-cardwithtitleandsubtitleandleadingiconsample.svg",
       "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/CardSamples.kt",
       "sourceModule": ":samples-catalog",
-      "bodyLine": 277,
+      "bodyLine": 298,
       "sourceDirectory": "samples-catalog",
       "sourceFunction": "CardWithTitleAndSubtitleAndLeadingIconPreview",
       "related": [
@@ -1315,7 +1385,7 @@
       "wireframe": "wireframes/card-cardwithlongtext.svg",
       "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/CardSamples.kt",
       "sourceModule": ":samples-catalog",
-      "bodyLine": 283,
+      "bodyLine": 304,
       "sourceDirectory": "samples-catalog",
       "sourceFunction": "CardWithLongTextPreview",
       "related": [
@@ -1363,7 +1433,7 @@
       "wireframe": "wireframes/card-cardwithtitleandsubtitleandleadingiconlongtext.svg",
       "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/CardSamples.kt",
       "sourceModule": ":samples-catalog",
-      "bodyLine": 289,
+      "bodyLine": 310,
       "sourceDirectory": "samples-catalog",
       "sourceFunction": "CardWithTitleAndSubtitleAndLeadingIconLongTextPreview",
       "related": [
@@ -1411,9 +1481,180 @@
       "wireframe": "wireframes/card-cardwithtitleandsubtitleandleadingiconandtrailingiconlongtext.svg",
       "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/CardSamples.kt",
       "sourceModule": ":samples-catalog",
-      "bodyLine": 295,
+      "bodyLine": 316,
       "sourceDirectory": "samples-catalog",
       "sourceFunction": "CardWithTitleAndSubtitleAndLeadingIconAndTrailingIconLongTextPreview",
+      "related": [
+        {
+          "system": "glimmer-catalog",
+          "componentId": "ImageCard"
+        }
+      ]
+    },
+    {
+      "componentId": "Card/NonFocusableCardWithButtonGroupSample",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/card-nonfocusablecardwithbuttongroupsample/ideal__default.png",
+          "state": "default",
+          "width": 960,
+          "height": 144,
+          "livePreview": "https://preview.coo.ee/glimmer-samples/p/card-nonfocusablecardwithbuttongroupsample__ideal__default",
+          "previewId": "androidx.xr.glimmer.samples.CardSamplesKt.NonFocusableCardWithButtonGroupPreview",
+          "density": 1,
+          "figmaSvg": "https://preview.coo.ee/glimmer-samples/render/card-nonfocusablecardwithbuttongroupsample__ideal__default.svg"
+        }
+      ],
+      "greenlines": [
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 294,
+              "y": 96,
+              "width": 117,
+              "height": 48
+            }
+          },
+          "bounds": {
+            "x": 294,
+            "y": 96,
+            "width": 117,
+            "height": 48
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 419,
+              "y": 96,
+              "width": 120,
+              "height": 48
+            }
+          },
+          "bounds": {
+            "x": 419,
+            "y": 96,
+            "width": 120,
+            "height": 48
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 547,
+              "y": 96,
+              "width": 120,
+              "height": 48
+            }
+          },
+          "bounds": {
+            "x": 547,
+            "y": 96,
+            "width": 120,
+            "height": 48
+          }
+        }
+      ],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 12,
+            "y": 12,
+            "width": 936,
+            "height": 56
+          },
+          "padding": {
+            "start": 12,
+            "top": 12,
+            "end": 12,
+            "bottom": 12
+          },
+          "cornerRadius": 36
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 96,
+            "width": 960,
+            "height": 48
+          },
+          "padding": {
+            "start": 44,
+            "top": 0,
+            "end": 44,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 294,
+            "y": 96,
+            "width": 117,
+            "height": 48
+          },
+          "role": "Button",
+          "padding": {
+            "start": 16,
+            "top": 8,
+            "end": 16,
+            "bottom": 8
+          },
+          "cornerRadius": 24
+        },
+        {
+          "bounds": {
+            "x": 419,
+            "y": 96,
+            "width": 120,
+            "height": 48
+          },
+          "role": "Button",
+          "padding": {
+            "start": 16,
+            "top": 8,
+            "end": 16,
+            "bottom": 8
+          },
+          "cornerRadius": 24
+        },
+        {
+          "bounds": {
+            "x": 547,
+            "y": 96,
+            "width": 120,
+            "height": 48
+          },
+          "role": "Button",
+          "padding": {
+            "start": 16,
+            "top": 8,
+            "end": 16,
+            "bottom": 8
+          },
+          "cornerRadius": 24
+        }
+      ],
+      "group": "Card",
+      "caption": "`NonFocusableCardWithButtonGroupSample` — the sample upstream's own `@Preview` renders.",
+      "wireframe": "wireframes/card-nonfocusablecardwithbuttongroupsample.svg",
+      "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/CardSamples.kt",
+      "sourceModule": ":samples-catalog",
+      "bodyLine": 322,
+      "sourceDirectory": "samples-catalog",
+      "sourceFunction": "NonFocusableCardWithButtonGroupPreview",
       "related": [
         {
           "system": "glimmer-catalog",
@@ -1496,7 +1737,7 @@
       "wireframe": "wireframes/card-actioncardwithtitlesample.svg",
       "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/CardSamples.kt",
       "sourceModule": ":samples-catalog",
-      "bodyLine": 301,
+      "bodyLine": 328,
       "sourceDirectory": "samples-catalog",
       "sourceFunction": "ActionCardWithTitlePreview",
       "related": [
@@ -1581,7 +1822,7 @@
       "wireframe": "wireframes/card-actioncardwithtitleandleadingicon.svg",
       "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/CardSamples.kt",
       "sourceModule": ":samples-catalog",
-      "bodyLine": 307,
+      "bodyLine": 334,
       "sourceDirectory": "samples-catalog",
       "sourceFunction": "ActionCardWithTitleAndLeadingIconPreview",
       "related": [
@@ -1638,7 +1879,7 @@
       "wireframe": "wireframes/card-imagecardsample.svg",
       "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/CardSamples.kt",
       "sourceModule": ":samples-catalog",
-      "bodyLine": 313,
+      "bodyLine": 340,
       "sourceDirectory": "samples-catalog",
       "sourceFunction": "ImageCardPreview",
       "related": [
@@ -1695,7 +1936,7 @@
       "wireframe": "wireframes/card-imagecardwithtitleandsubtitleandleadingiconsample.svg",
       "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/CardSamples.kt",
       "sourceModule": ":samples-catalog",
-      "bodyLine": 319,
+      "bodyLine": 346,
       "sourceDirectory": "samples-catalog",
       "sourceFunction": "ImageCardWithTitleAndSubtitleAndLeadingIconPreview",
       "related": [
@@ -1752,7 +1993,7 @@
       "wireframe": "wireframes/card-leadingimagecardsample.svg",
       "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/CardSamples.kt",
       "sourceModule": ":samples-catalog",
-      "bodyLine": 325,
+      "bodyLine": 352,
       "sourceDirectory": "samples-catalog",
       "sourceFunction": "LeadingImageCardPreview",
       "related": [
@@ -1809,7 +2050,7 @@
       "wireframe": "wireframes/card-trailingimagecardsample.svg",
       "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/CardSamples.kt",
       "sourceModule": ":samples-catalog",
-      "bodyLine": 331,
+      "bodyLine": 358,
       "sourceDirectory": "samples-catalog",
       "sourceFunction": "TrailingImageCardPreview",
       "related": [
@@ -3335,9 +3576,78 @@
       "wireframe": "wireframes/icontogglebutton-icontogglebuttonsample.svg",
       "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/IconToggleButtonSamples.kt",
       "sourceModule": ":samples-catalog",
-      "bodyLine": 44,
+      "bodyLine": 70,
       "sourceDirectory": "samples-catalog",
       "sourceFunction": "IconToggleButtonPreview",
+      "related": [
+        {
+          "system": "glimmer-catalog",
+          "componentId": "IconToggleButton"
+        }
+      ]
+    },
+    {
+      "componentId": "IconToggleButton/CustomColorsIconToggleButtonSample",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/icontogglebutton-customcolorsicontogglebuttonsample/ideal__default.png",
+          "state": "default",
+          "width": 48,
+          "height": 48,
+          "livePreview": "https://preview.coo.ee/glimmer-samples/p/icontogglebutton-customcolorsicontogglebuttonsample__ideal__default",
+          "previewId": "androidx.xr.glimmer.samples.IconToggleButtonSamplesKt.CustomColorsIconToggleButtonPreview",
+          "density": 1,
+          "figmaSvg": "https://preview.coo.ee/glimmer-samples/render/icontogglebutton-customcolorsicontogglebuttonsample__ideal__default.svg"
+        }
+      ],
+      "greenlines": [
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 0,
+              "y": 0,
+              "width": 48,
+              "height": 48
+            }
+          },
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 48,
+            "height": 48
+          }
+        }
+      ],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 48,
+            "height": 48
+          },
+          "role": "Checkbox",
+          "padding": {
+            "start": 8,
+            "top": 8,
+            "end": 8,
+            "bottom": 8
+          }
+        }
+      ],
+      "group": "IconToggleButton",
+      "caption": "`CustomColorsIconToggleButtonSample` — the sample upstream's own `@Preview` renders.",
+      "wireframe": "wireframes/icontogglebutton-customcolorsicontogglebuttonsample.svg",
+      "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/IconToggleButtonSamples.kt",
+      "sourceModule": ":samples-catalog",
+      "bodyLine": 76,
+      "sourceDirectory": "samples-catalog",
+      "sourceFunction": "CustomColorsIconToggleButtonPreview",
       "related": [
         {
           "system": "glimmer-catalog",
@@ -4540,7 +4850,7 @@
       "wireframe": "wireframes/togglebutton-togglebuttonsample.svg",
       "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/ToggleButtonSamples.kt",
       "sourceModule": ":samples-catalog",
-      "bodyLine": 88,
+      "bodyLine": 112,
       "sourceDirectory": "samples-catalog",
       "sourceFunction": "ToggleButtonPreview",
       "related": [
@@ -4609,7 +4919,7 @@
       "wireframe": "wireframes/togglebutton-largetogglebuttonsample.svg",
       "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/ToggleButtonSamples.kt",
       "sourceModule": ":samples-catalog",
-      "bodyLine": 94,
+      "bodyLine": 118,
       "sourceDirectory": "samples-catalog",
       "sourceFunction": "LargeToggleButtonPreview",
       "related": [
@@ -4678,7 +4988,7 @@
       "wireframe": "wireframes/togglebutton-togglebuttonwithleadingiconsample.svg",
       "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/ToggleButtonSamples.kt",
       "sourceModule": ":samples-catalog",
-      "bodyLine": 100,
+      "bodyLine": 124,
       "sourceDirectory": "samples-catalog",
       "sourceFunction": "ToggleButtonWithLeadingIconPreview",
       "related": [
@@ -4747,9 +5057,78 @@
       "wireframe": "wireframes/togglebutton-togglebuttonwithtrailingiconsample.svg",
       "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/ToggleButtonSamples.kt",
       "sourceModule": ":samples-catalog",
-      "bodyLine": 106,
+      "bodyLine": 130,
       "sourceDirectory": "samples-catalog",
       "sourceFunction": "ToggleButtonWithTrailingIconPreview",
+      "related": [
+        {
+          "system": "glimmer-catalog",
+          "componentId": "ToggleButton"
+        }
+      ]
+    },
+    {
+      "componentId": "ToggleButton/CustomColorsToggleButtonSample",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/togglebutton-customcolorstogglebuttonsample/ideal__default.png",
+          "state": "default",
+          "width": 140,
+          "height": 48,
+          "livePreview": "https://preview.coo.ee/glimmer-samples/p/togglebutton-customcolorstogglebuttonsample__ideal__default",
+          "previewId": "androidx.xr.glimmer.samples.ToggleButtonSamplesKt.CustomColorsToggleButtonPreview",
+          "density": 1,
+          "figmaSvg": "https://preview.coo.ee/glimmer-samples/render/togglebutton-customcolorstogglebuttonsample__ideal__default.svg"
+        }
+      ],
+      "greenlines": [
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 0,
+              "y": 0,
+              "width": 140,
+              "height": 48
+            }
+          },
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 140,
+            "height": 48
+          }
+        }
+      ],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 140,
+            "height": 48
+          },
+          "role": "Checkbox",
+          "padding": {
+            "start": 16,
+            "top": 8,
+            "end": 16,
+            "bottom": 8
+          }
+        }
+      ],
+      "group": "ToggleButton",
+      "caption": "`CustomColorsToggleButtonSample` — the sample upstream's own `@Preview` renders.",
+      "wireframe": "wireframes/togglebutton-customcolorstogglebuttonsample.svg",
+      "sourceFile": "src/main/kotlin/upstream/androidx/xr/glimmer/samples/ToggleButtonSamples.kt",
+      "sourceModule": ":samples-catalog",
+      "bodyLine": 136,
+      "sourceDirectory": "samples-catalog",
+      "sourceFunction": "CustomColorsToggleButtonPreview",
       "related": [
         {
           "system": "glimmer-catalog",
@@ -4819,7 +5198,7 @@
     "androidx.xr.glimmer:glimmer"
   ],
   "renderer": "compose-preview 2.68.6",
-  "generatedAt": "2026-11-16T06:38:14.451Z",
+  "generatedAt": "2026-11-19T23:20:57.545Z",
   "display": {
     "surface": "dark",
     "role": "samples"

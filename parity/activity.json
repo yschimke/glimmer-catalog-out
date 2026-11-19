@@ -1,11 +1,27 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-16T06:38:34.579Z",
+  "generatedAt": "2026-11-19T23:21:21.597Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/glimmer-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "6bd8ffca6c88f40589d3fa573add240e35711a9a",
+        "subject": "feat: update Glimmer to 1.0.0-alpha22 and refresh vendored samples (#78)",
+        "at": "2026-11-19T22:54:02Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "dc6bbb40f8b5ada3026831d32f98b11f2e305397",
+        "subject": "chore(deps): update gradle to v9.9.2 (#79)",
+        "at": "2026-11-19T22:49:25Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "0c7872c40a30dc41d9f4bcb19215653bb83e144f",
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-daemon-bom to v3.28.0 (#77)",
@@ -114,38 +130,6 @@
         "sha": "6107893d88f6066fac4437e0b8cd978f851c4c3f",
         "subject": "chore(deps): update github-actions (#61)",
         "at": "2026-11-01T08:22:10Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "ab7a2ebf80bf2f460ff9e5999d2444c63c2ebc96",
-        "subject": "chore(deps): update compose-preview (#58)",
-        "at": "2026-10-18T21:17:33Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "3d61af006a8e45bd30332dd33db9141b7a2b8f14",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-daemon-bom to v3.18.8 (#60)",
-        "at": "2026-10-18T17:54:36Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "65572481a4fc2991f17bd566ee12bf02cd4cab47",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-daemon-bom to v3.18.7 (#59)",
-        "at": "2026-10-18T10:14:14Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "72db6b8cd38ba59c1098520df9c83241d4006fcc",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-daemon-bom to v3.18.6 (#57)",
-        "at": "2026-10-17T20:41:48Z",
         "author": "renovate[bot]",
         "previewIds": [],
         "components": []

@@ -48,37 +48,37 @@ customising the live render are two ends of one workflow.
 
 | | |
 | --- | --- |
-| Components | **68** |
-| Rendered images (PNG) | **68** |
-| Editable wireframes (SVG) | **68** |
-| Editable design vectors (figma-svg) | **68** |
-| Components with a11y greenlines | **25** |
+| Components | **72** |
+| Rendered images (PNG) | **72** |
+| Editable wireframes (SVG) | **72** |
+| Editable design vectors (figma-svg) | **72** |
+| Components with a11y greenlines | **29** |
 | Library | `androidx.xr.glimmer:glimmer` |
 | Renderer | compose-preview 2.68.6 |
 | Schema | `design-parity-catalog/v1` |
-| Generated | 2026-11-16 |
+| Generated | 2026-11-19 |
 
 ## Components by group
 
 | Group | Count |
 | --- | ---: |
-| Card | 17 |
+| Card | 18 |
+| Button | 9 |
 | ListItem | 9 |
-| Button | 8 |
+| ToggleButton | 5 |
 | GlimmerPager | 4 |
 | Surface | 4 |
-| ToggleButton | 4 |
 | TitleChip | 3 |
 | AlertDialog | 2 |
 | ButtonGroup | 2 |
 | GlimmerLazyList | 2 |
 | IconMarker | 2 |
+| IconToggleButton | 2 |
 | Stack | 2 |
 | Colors | 1 |
 | DepthEffectLevels | 1 |
 | Icon | 1 |
 | IconButton | 1 |
-| IconToggleButton | 1 |
 | IndirectPointerGesture | 1 |
 | Shapes | 1 |
 | Typography | 1 |
