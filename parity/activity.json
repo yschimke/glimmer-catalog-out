@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-20T00:08:02.477Z",
+  "generatedAt": "2026-11-20T07:46:00.746Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/glimmer-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "b9661e1fcce155dd66b7163d7b7354002f85d7f0",
+        "subject": "chore(deps): update dependency com.ncorti.ktfmt.gradle to v0.28.0 (#67)",
+        "at": "2026-11-20T07:14:14Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "de4851e8ccf5345b849de0d6ddfab6f1e492fd45",
         "subject": "fix(deps): update compose multiplatform to v1.12.2 (#47)",
