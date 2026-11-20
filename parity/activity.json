@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-19T23:21:21.597Z",
+  "generatedAt": "2026-11-20T00:08:02.477Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/glimmer-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "de4851e8ccf5345b849de0d6ddfab6f1e492fd45",
+        "subject": "fix(deps): update compose multiplatform to v1.12.2 (#47)",
+        "at": "2026-11-19T23:55:34Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "6bd8ffca6c88f40589d3fa573add240e35711a9a",
         "subject": "feat: update Glimmer to 1.0.0-alpha22 and refresh vendored samples (#78)",
