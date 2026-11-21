@@ -1,11 +1,27 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-20T07:56:38.348Z",
+  "generatedAt": "2026-11-21T10:43:26.037Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/glimmer-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "a7ae979702f3e536b4a9e1d978bccaba5228f0e1",
+        "subject": "chore(deps): update dependency com.android.library to v9.5.0 (#64)",
+        "at": "2026-11-21T10:32:58Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "4bcf600fdd3bdb4653ea22fef0bbaef4d5cfe123",
+        "subject": "chore(deps): update dependency java-jdk to v21.0.13+100000002.0.lts (#81)",
+        "at": "2026-11-20T12:57:24Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "af88cec41c6ab1dd4df7e30dd425665476d5e1bd",
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-daemon-bom to v3.28.1 (#80)",
