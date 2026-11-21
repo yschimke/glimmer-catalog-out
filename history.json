@@ -1,7 +1,1312 @@
 {
     "formatVersion": "compose-preview-history/v1",
-    "generatedFrom": "f0ff9307fb4e82f0dda4fc6e3e5c3cdb64660391",
+    "generatedFrom": "862dcc181d9a9f35fcefd01f7f5d8ce0dca353b8",
     "previews": {
+        "catalog/ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker": {
+            "path": "renders/catalog/ButtonGroupSticker-bf99a803.png",
+            "versions": [
+                {
+                    "blob": "56f2c4046ee1e202bca2cf28a348005e45a24480",
+                    "commit": "862dcc181d9a9f35fcefd01f7f5d8ce0dca353b8",
+                    "date": "2026-11-21T13:09:36Z",
+                    "sourceSha": "3e00f5b0",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker_VARIANT_cell-type-button-set-length-1-focus-start-40000116-6528": {
+            "path": "renders/catalog/ButtonGroupSticker_VARIANT_cell_type_button_set_length_1_focus_start_40000116_65-a478f594.png",
+            "versions": [
+                {
+                    "blob": "df7acadff9ae409f29458a945dcb5d2f106b903a",
+                    "commit": "862dcc181d9a9f35fcefd01f7f5d8ce0dca353b8",
+                    "date": "2026-11-21T13:09:36Z",
+                    "sourceSha": "3e00f5b0",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker_VARIANT_cell-type-button-set-length-2-focus-end-40000116-6521": {
+            "path": "renders/catalog/ButtonGroupSticker_VARIANT_cell_type_button_set_length_2_focus_end_40000116_6521-90a1e8dd.png",
+            "versions": [
+                {
+                    "blob": "1516a370b91f0ebb8531ebf4d9d0b65e0670b78d",
+                    "commit": "862dcc181d9a9f35fcefd01f7f5d8ce0dca353b8",
+                    "date": "2026-11-21T13:09:36Z",
+                    "sourceSha": "3e00f5b0",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker_VARIANT_cell-type-button-set-length-2-focus-start-40000116-6513": {
+            "path": "renders/catalog/ButtonGroupSticker_VARIANT_cell_type_button_set_length_2_focus_start_40000116_65-e868196d.png",
+            "versions": [
+                {
+                    "blob": "8cdd9b2960365cc54eb7b536b799ac93f2e3f0bf",
+                    "commit": "862dcc181d9a9f35fcefd01f7f5d8ce0dca353b8",
+                    "date": "2026-11-21T13:09:36Z",
+                    "sourceSha": "3e00f5b0",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker_VARIANT_cell-type-button-set-length-3-focus-end-40000116-6508": {
+            "path": "renders/catalog/ButtonGroupSticker_VARIANT_cell_type_button_set_length_3_focus_end_40000116_6508-c140a631.png",
+            "versions": [
+                {
+                    "blob": "5b306c2ef1a2006d377ef51ab5d34f8c93af63f0",
+                    "commit": "862dcc181d9a9f35fcefd01f7f5d8ce0dca353b8",
+                    "date": "2026-11-21T13:09:36Z",
+                    "sourceSha": "3e00f5b0",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker_VARIANT_cell-type-button-set-length-3-focus-middle-40000116-6502": {
+            "path": "renders/catalog/ButtonGroupSticker_VARIANT_cell_type_button_set_length_3_focus_middle_40000116_6-b6f790d9.png",
+            "versions": [
+                {
+                    "blob": "d44d99ddffcfed03228ac8c402196440c57d0f90",
+                    "commit": "862dcc181d9a9f35fcefd01f7f5d8ce0dca353b8",
+                    "date": "2026-11-21T13:09:36Z",
+                    "sourceSha": "3e00f5b0",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker_VARIANT_cell-type-toggle-set-length-2-focus-end-40000116-6543": {
+            "path": "renders/catalog/ButtonGroupSticker_VARIANT_cell_type_toggle_set_length_2_focus_end_40000116_6543-2344418c.png",
+            "versions": [
+                {
+                    "blob": "a637118cf0e409b84175a56ac6651a44b89cd1bb",
+                    "commit": "862dcc181d9a9f35fcefd01f7f5d8ce0dca353b8",
+                    "date": "2026-11-21T13:09:36Z",
+                    "sourceSha": "3e00f5b0",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker_VARIANT_cell-type-toggle-set-length-2-focus-middle-40000116-6539": {
+            "path": "renders/catalog/ButtonGroupSticker_VARIANT_cell_type_toggle_set_length_2_focus_middle_40000116_6-88433e6a.png",
+            "versions": [
+                {
+                    "blob": "00fe54c5da6f15db2785ce5aed6d31a8e9374559",
+                    "commit": "862dcc181d9a9f35fcefd01f7f5d8ce0dca353b8",
+                    "date": "2026-11-21T13:09:36Z",
+                    "sourceSha": "3e00f5b0",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker_VARIANT_cell-type-toggle-set-length-2-focus-start-40000116-6535": {
+            "path": "renders/catalog/ButtonGroupSticker_VARIANT_cell_type_toggle_set_length_2_focus_start_40000116_65-2489e540.png",
+            "versions": [
+                {
+                    "blob": "aedbfd9f9b5eba7290b06bcc7852bbb907adaf75",
+                    "commit": "862dcc181d9a9f35fcefd01f7f5d8ce0dca353b8",
+                    "date": "2026-11-21T13:09:36Z",
+                    "sourceSha": "3e00f5b0",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker_VARIANT_focused": {
+            "path": "renders/catalog/ButtonGroupSticker_VARIANT_focused-08b1ecf4.png",
+            "versions": [
+                {
+                    "blob": "f4289c8634f56a1f3f47abf85a5a320857d9f811",
+                    "commit": "862dcc181d9a9f35fcefd01f7f5d8ce0dca353b8",
+                    "date": "2026-11-21T13:09:36Z",
+                    "sourceSha": "3e00f5b0",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.m3catalog.glimmer.ButtonsKt.ButtonLabelOnlySticker": {
+            "path": "renders/catalog/ButtonLabelOnlySticker-4f8682e8.png",
+            "versions": [
+                {
+                    "blob": "3e360663265e105628de2d25df1af3b0523104c0",
+                    "commit": "862dcc181d9a9f35fcefd01f7f5d8ce0dca353b8",
+                    "date": "2026-11-21T13:09:36Z",
+                    "sourceSha": "3e00f5b0",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.m3catalog.glimmer.ButtonsKt.ButtonLargeSticker": {
+            "path": "renders/catalog/ButtonLargeSticker-ee303491.png",
+            "versions": [
+                {
+                    "blob": "e292d5c97048d96dcf8a2a294b5d9b0ba96ec8a4",
+                    "commit": "862dcc181d9a9f35fcefd01f7f5d8ce0dca353b8",
+                    "date": "2026-11-21T13:09:36Z",
+                    "sourceSha": "3e00f5b0",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.m3catalog.glimmer.ButtonsKt.ButtonLargeSticker_VARIANT_disabled": {
+            "path": "renders/catalog/ButtonLargeSticker_VARIANT_disabled-25abd94f.png",
+            "versions": [
+                {
+                    "blob": "2bc21866063f7769d2d1383f7c2b9fc1fcdf9174",
+                    "commit": "862dcc181d9a9f35fcefd01f7f5d8ce0dca353b8",
+                    "date": "2026-11-21T13:09:36Z",
+                    "sourceSha": "3e00f5b0",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.m3catalog.glimmer.ButtonsKt.ButtonLargeSticker_VARIANT_focused": {
+            "path": "renders/catalog/ButtonLargeSticker_VARIANT_focused-7847392e.png",
+            "versions": [
+                {
+                    "blob": "1e0e832adfd8d8e415e523a5489a9c91a18ddae0",
+                    "commit": "862dcc181d9a9f35fcefd01f7f5d8ce0dca353b8",
+                    "date": "2026-11-21T13:09:36Z",
+                    "sourceSha": "3e00f5b0",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.m3catalog.glimmer.ButtonsKt.ButtonLargeSticker_VARIANT_pressed": {
+            "path": "renders/catalog/ButtonLargeSticker_VARIANT_pressed-872dda55.png",
+            "versions": [
+                {
+                    "blob": "2fa1c654a427154fc99c18021762c888cff49edc",
+                    "commit": "862dcc181d9a9f35fcefd01f7f5d8ce0dca353b8",
+                    "date": "2026-11-21T13:09:36Z",
+                    "sourceSha": "3e00f5b0",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.m3catalog.glimmer.ButtonsKt.ButtonSticker": {
+            "path": "renders/catalog/ButtonSticker-aa90fbc4.png",
+            "versions": [
+                {
+                    "blob": "2282eb7545516a17b4b7c739f4023afb3d5f4ebc",
+                    "commit": "862dcc181d9a9f35fcefd01f7f5d8ce0dca353b8",
+                    "date": "2026-11-21T13:09:36Z",
+                    "sourceSha": "3e00f5b0",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.m3catalog.glimmer.ButtonsKt.ButtonSticker_VARIANT_disabled": {
+            "path": "renders/catalog/ButtonSticker_VARIANT_disabled-ee8ef5b7.png",
+            "versions": [
+                {
+                    "blob": "efb68f8c65697727d6c36f40ce29f40d737fcfd5",
+                    "commit": "862dcc181d9a9f35fcefd01f7f5d8ce0dca353b8",
+                    "date": "2026-11-21T13:09:36Z",
+                    "sourceSha": "3e00f5b0",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.m3catalog.glimmer.ButtonsKt.ButtonSticker_VARIANT_focused": {
+            "path": "renders/catalog/ButtonSticker_VARIANT_focused-18c4aaf7.png",
+            "versions": [
+                {
+                    "blob": "aa6ec58168d670562c589592cccd52f8b4d403d4",
+                    "commit": "862dcc181d9a9f35fcefd01f7f5d8ce0dca353b8",
+                    "date": "2026-11-21T13:09:36Z",
+                    "sourceSha": "3e00f5b0",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.m3catalog.glimmer.ButtonsKt.ButtonSticker_VARIANT_pressed": {
+            "path": "renders/catalog/ButtonSticker_VARIANT_pressed-d3900768.png",
+            "versions": [
+                {
+                    "blob": "5c6867c71f5d388b1bd40d4adca55b552a66248d",
+                    "commit": "862dcc181d9a9f35fcefd01f7f5d8ce0dca353b8",
+                    "date": "2026-11-21T13:09:36Z",
+                    "sourceSha": "3e00f5b0",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.m3catalog.glimmer.ButtonsKt.ButtonTrailingIconSticker": {
+            "path": "renders/catalog/ButtonTrailingIconSticker-defee072.png",
+            "versions": [
+                {
+                    "blob": "2a857c745d959c7a9bc2784993b681dccb21c3de",
+                    "commit": "862dcc181d9a9f35fcefd01f7f5d8ce0dca353b8",
+                    "date": "2026-11-21T13:09:36Z",
+                    "sourceSha": "3e00f5b0",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.m3catalog.glimmer.ButtonsKt.ToggleButtonCheckedSticker": {
+            "path": "renders/catalog/ToggleButtonCheckedSticker-2c7b111d.png",
+            "versions": [
+                {
+                    "blob": "86bc05605f4fa9f98355070cde8c818f6d3c7665",
+                    "commit": "862dcc181d9a9f35fcefd01f7f5d8ce0dca353b8",
+                    "date": "2026-11-21T13:09:36Z",
+                    "sourceSha": "3e00f5b0",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.m3catalog.glimmer.ButtonsKt.ToggleButtonLargeSticker": {
+            "path": "renders/catalog/ToggleButtonLargeSticker-a667dcf7.png",
+            "versions": [
+                {
+                    "blob": "e292d5c97048d96dcf8a2a294b5d9b0ba96ec8a4",
+                    "commit": "862dcc181d9a9f35fcefd01f7f5d8ce0dca353b8",
+                    "date": "2026-11-21T13:09:36Z",
+                    "sourceSha": "3e00f5b0",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.m3catalog.glimmer.ButtonsKt.ToggleButtonLargeSticker_VARIANT_disabled": {
+            "path": "renders/catalog/ToggleButtonLargeSticker_VARIANT_disabled-dbd88db5.png",
+            "versions": [
+                {
+                    "blob": "2bc21866063f7769d2d1383f7c2b9fc1fcdf9174",
+                    "commit": "862dcc181d9a9f35fcefd01f7f5d8ce0dca353b8",
+                    "date": "2026-11-21T13:09:36Z",
+                    "sourceSha": "3e00f5b0",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.m3catalog.glimmer.ButtonsKt.ToggleButtonLargeSticker_VARIANT_focused": {
+            "path": "renders/catalog/ToggleButtonLargeSticker_VARIANT_focused-aa1634f7.png",
+            "versions": [
+                {
+                    "blob": "1e0e832adfd8d8e415e523a5489a9c91a18ddae0",
+                    "commit": "862dcc181d9a9f35fcefd01f7f5d8ce0dca353b8",
+                    "date": "2026-11-21T13:09:36Z",
+                    "sourceSha": "3e00f5b0",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.m3catalog.glimmer.ButtonsKt.ToggleButtonLargeSticker_VARIANT_pressed": {
+            "path": "renders/catalog/ToggleButtonLargeSticker_VARIANT_pressed-457fe065.png",
+            "versions": [
+                {
+                    "blob": "2fa1c654a427154fc99c18021762c888cff49edc",
+                    "commit": "862dcc181d9a9f35fcefd01f7f5d8ce0dca353b8",
+                    "date": "2026-11-21T13:09:36Z",
+                    "sourceSha": "3e00f5b0",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.m3catalog.glimmer.ButtonsKt.ToggleButtonSticker": {
+            "path": "renders/catalog/ToggleButtonSticker-8516b2e2.png",
+            "versions": [
+                {
+                    "blob": "2282eb7545516a17b4b7c739f4023afb3d5f4ebc",
+                    "commit": "862dcc181d9a9f35fcefd01f7f5d8ce0dca353b8",
+                    "date": "2026-11-21T13:09:36Z",
+                    "sourceSha": "3e00f5b0",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.m3catalog.glimmer.ButtonsKt.ToggleButtonSticker_VARIANT_cell-state-enabled-size-large-toggle-true-40000113-4082": {
+            "path": "renders/catalog/ToggleButtonSticker_VARIANT_cell_state_enabled_size_large_toggle_true_40000113_4-630c5151.png",
+            "versions": [
+                {
+                    "blob": "7152e85e09b27c82b280a7c1ac7bd951cc999283",
+                    "commit": "862dcc181d9a9f35fcefd01f7f5d8ce0dca353b8",
+                    "date": "2026-11-21T13:09:36Z",
+                    "sourceSha": "3e00f5b0",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.m3catalog.glimmer.ButtonsKt.ToggleButtonSticker_VARIANT_cell-state-focused-size-default-toggle-true-40000113-4092": {
+            "path": "renders/catalog/ToggleButtonSticker_VARIANT_cell_state_focused_size_default_toggle_true_40000113-0f025f59.png",
+            "versions": [
+                {
+                    "blob": "93aa60258a980196aa7722c94fb3b0fde34fefd8",
+                    "commit": "862dcc181d9a9f35fcefd01f7f5d8ce0dca353b8",
+                    "date": "2026-11-21T13:09:36Z",
+                    "sourceSha": "3e00f5b0",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.m3catalog.glimmer.ButtonsKt.ToggleButtonSticker_VARIANT_cell-state-focused-size-large-toggle-true-40000113-4112": {
+            "path": "renders/catalog/ToggleButtonSticker_VARIANT_cell_state_focused_size_large_toggle_true_40000113_4-76923d65.png",
+            "versions": [
+                {
+                    "blob": "198d0df9efab42af70da359a6cffa7a8a8198263",
+                    "commit": "862dcc181d9a9f35fcefd01f7f5d8ce0dca353b8",
+                    "date": "2026-11-21T13:09:36Z",
+                    "sourceSha": "3e00f5b0",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.m3catalog.glimmer.ButtonsKt.ToggleButtonSticker_VARIANT_cell-state-pressed-size-default-toggle-true-40000113-4102": {
+            "path": "renders/catalog/ToggleButtonSticker_VARIANT_cell_state_pressed_size_default_toggle_true_40000113-113fe0dc.png",
+            "versions": [
+                {
+                    "blob": "d3697bf15570d38c5ebea6dd6156a4e0da4d3cc6",
+                    "commit": "862dcc181d9a9f35fcefd01f7f5d8ce0dca353b8",
+                    "date": "2026-11-21T13:09:36Z",
+                    "sourceSha": "3e00f5b0",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.m3catalog.glimmer.ButtonsKt.ToggleButtonSticker_VARIANT_cell-state-pressed-size-large-toggle-true-40000113-4122": {
+            "path": "renders/catalog/ToggleButtonSticker_VARIANT_cell_state_pressed_size_large_toggle_true_40000113_4-89e93abb.png",
+            "versions": [
+                {
+                    "blob": "6ec5cf17c168ffe06ef2fa66f529a871fb234cee",
+                    "commit": "862dcc181d9a9f35fcefd01f7f5d8ce0dca353b8",
+                    "date": "2026-11-21T13:09:36Z",
+                    "sourceSha": "3e00f5b0",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.m3catalog.glimmer.ButtonsKt.ToggleButtonSticker_VARIANT_disabled": {
+            "path": "renders/catalog/ToggleButtonSticker_VARIANT_disabled-9d21aadd.png",
+            "versions": [
+                {
+                    "blob": "efb68f8c65697727d6c36f40ce29f40d737fcfd5",
+                    "commit": "862dcc181d9a9f35fcefd01f7f5d8ce0dca353b8",
+                    "date": "2026-11-21T13:09:36Z",
+                    "sourceSha": "3e00f5b0",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.m3catalog.glimmer.ButtonsKt.ToggleButtonSticker_VARIANT_focused": {
+            "path": "renders/catalog/ToggleButtonSticker_VARIANT_focused-db3ba777.png",
+            "versions": [
+                {
+                    "blob": "aa6ec58168d670562c589592cccd52f8b4d403d4",
+                    "commit": "862dcc181d9a9f35fcefd01f7f5d8ce0dca353b8",
+                    "date": "2026-11-21T13:09:36Z",
+                    "sourceSha": "3e00f5b0",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.m3catalog.glimmer.ButtonsKt.ToggleButtonSticker_VARIANT_pressed": {
+            "path": "renders/catalog/ToggleButtonSticker_VARIANT_pressed-5013866e.png",
+            "versions": [
+                {
+                    "blob": "5c6867c71f5d388b1bd40d4adca55b552a66248d",
+                    "commit": "862dcc181d9a9f35fcefd01f7f5d8ce0dca353b8",
+                    "date": "2026-11-21T13:09:36Z",
+                    "sourceSha": "3e00f5b0",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.m3catalog.glimmer.CardsKt.CardActionSticker": {
+            "path": "renders/catalog/CardActionSticker-5ed326d0.png",
+            "versions": [
+                {
+                    "blob": "40ff4ffc13d2b9ce1c74c9c3b6e983a4fc074f2d",
+                    "commit": "862dcc181d9a9f35fcefd01f7f5d8ce0dca353b8",
+                    "date": "2026-11-21T13:09:36Z",
+                    "sourceSha": "3e00f5b0",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.m3catalog.glimmer.CardsKt.CardNoImageSticker": {
+            "path": "renders/catalog/CardNoImageSticker-1cd0c7cb.png",
+            "versions": [
+                {
+                    "blob": "24c16c08e0f3722748e3e82537a7c398d6d0808d",
+                    "commit": "862dcc181d9a9f35fcefd01f7f5d8ce0dca353b8",
+                    "date": "2026-11-21T13:09:36Z",
+                    "sourceSha": "3e00f5b0",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.m3catalog.glimmer.CardsKt.CardSticker": {
+            "path": "renders/catalog/CardSticker-3affd0ad.png",
+            "versions": [
+                {
+                    "blob": "11e0134297b28a5f4d862bf8ce759be9c5f5e9b3",
+                    "commit": "862dcc181d9a9f35fcefd01f7f5d8ce0dca353b8",
+                    "date": "2026-11-21T13:09:36Z",
+                    "sourceSha": "3e00f5b0",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.m3catalog.glimmer.CardsKt.CardTextOnlySticker": {
+            "path": "renders/catalog/CardTextOnlySticker-ad0ac56a.png",
+            "versions": [
+                {
+                    "blob": "efbbe3cbc1d01b830db96cd3767c7948685f99f2",
+                    "commit": "862dcc181d9a9f35fcefd01f7f5d8ce0dca353b8",
+                    "date": "2026-11-21T13:09:36Z",
+                    "sourceSha": "3e00f5b0",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.m3catalog.glimmer.CardsKt.CardTrailingIconSticker": {
+            "path": "renders/catalog/CardTrailingIconSticker-26b4ed90.png",
+            "versions": [
+                {
+                    "blob": "edd4e5056b527d23df3abf8e63fe41e618377697",
+                    "commit": "862dcc181d9a9f35fcefd01f7f5d8ce0dca353b8",
+                    "date": "2026-11-21T13:09:36Z",
+                    "sourceSha": "3e00f5b0",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.m3catalog.glimmer.CardsKt.TitleChipLabelOnlySticker": {
+            "path": "renders/catalog/TitleChipLabelOnlySticker-ff638355.png",
+            "versions": [
+                {
+                    "blob": "22fd94b0a2befe1cf178294fee7ca08dde4a7da0",
+                    "commit": "862dcc181d9a9f35fcefd01f7f5d8ce0dca353b8",
+                    "date": "2026-11-21T13:09:36Z",
+                    "sourceSha": "3e00f5b0",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.m3catalog.glimmer.CardsKt.TitleChipSticker": {
+            "path": "renders/catalog/TitleChipSticker-f11a7b32.png",
+            "versions": [
+                {
+                    "blob": "dba958cc999d780386437919d4aa75878476dd0f",
+                    "commit": "862dcc181d9a9f35fcefd01f7f5d8ce0dca353b8",
+                    "date": "2026-11-21T13:09:36Z",
+                    "sourceSha": "3e00f5b0",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.m3catalog.glimmer.GlimmerEnvironmentsKt.ButtonOnBusyEnvironment": {
+            "path": "renders/catalog/ButtonOnBusyEnvironment-eb427f8b.png",
+            "versions": [
+                {
+                    "blob": "c84a24e6930e8b3b129f5919363ef01978b6ae91",
+                    "commit": "862dcc181d9a9f35fcefd01f7f5d8ce0dca353b8",
+                    "date": "2026-11-21T13:09:36Z",
+                    "sourceSha": "3e00f5b0",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.m3catalog.glimmer.GlimmerEnvironmentsKt.ButtonOnDarkEnvironment": {
+            "path": "renders/catalog/ButtonOnDarkEnvironment-4134d282.png",
+            "versions": [
+                {
+                    "blob": "f35156f598b6daf4400b74ccdb5291d21dd6905c",
+                    "commit": "862dcc181d9a9f35fcefd01f7f5d8ce0dca353b8",
+                    "date": "2026-11-21T13:09:36Z",
+                    "sourceSha": "3e00f5b0",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.m3catalog.glimmer.GlimmerEnvironmentsKt.ButtonOnLightEnvironment": {
+            "path": "renders/catalog/ButtonOnLightEnvironment-cbadeeb0.png",
+            "versions": [
+                {
+                    "blob": "c381418119e57c5758c1348616ed761f98ccc120",
+                    "commit": "862dcc181d9a9f35fcefd01f7f5d8ce0dca353b8",
+                    "date": "2026-11-21T13:09:36Z",
+                    "sourceSha": "3e00f5b0",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.m3catalog.glimmer.GlimmerEnvironmentsKt.ButtonOnVeniceCanalCatsEnvironment": {
+            "path": "renders/catalog/ButtonOnVeniceCanalCatsEnvironment-bee890b2.png",
+            "versions": [
+                {
+                    "blob": "163c9b6a443f95d52dade8c2bd24842fbcc67450",
+                    "commit": "862dcc181d9a9f35fcefd01f7f5d8ce0dca353b8",
+                    "date": "2026-11-21T13:09:36Z",
+                    "sourceSha": "3e00f5b0",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.m3catalog.glimmer.GlimmerEnvironmentsKt.CardOnBusyEnvironment": {
+            "path": "renders/catalog/CardOnBusyEnvironment-f9b236a6.png",
+            "versions": [
+                {
+                    "blob": "53f1b997673d1b447f0f3e939b054eb00094acb2",
+                    "commit": "862dcc181d9a9f35fcefd01f7f5d8ce0dca353b8",
+                    "date": "2026-11-21T13:09:36Z",
+                    "sourceSha": "3e00f5b0",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.m3catalog.glimmer.GlimmerEnvironmentsKt.CardOnDarkEnvironment": {
+            "path": "renders/catalog/CardOnDarkEnvironment-e52561ff.png",
+            "versions": [
+                {
+                    "blob": "a4f98f0ee78d1658553e365394b2e2c79a75df89",
+                    "commit": "862dcc181d9a9f35fcefd01f7f5d8ce0dca353b8",
+                    "date": "2026-11-21T13:09:36Z",
+                    "sourceSha": "3e00f5b0",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.m3catalog.glimmer.GlimmerEnvironmentsKt.CardOnLightEnvironment": {
+            "path": "renders/catalog/CardOnLightEnvironment-8780cdc9.png",
+            "versions": [
+                {
+                    "blob": "44296de1c11896eebf1692f10c0f8487749c0203",
+                    "commit": "862dcc181d9a9f35fcefd01f7f5d8ce0dca353b8",
+                    "date": "2026-11-21T13:09:36Z",
+                    "sourceSha": "3e00f5b0",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.m3catalog.glimmer.GlimmerEnvironmentsKt.CardOnVeniceCanalCatsEnvironment": {
+            "path": "renders/catalog/CardOnVeniceCanalCatsEnvironment-f3154d5d.png",
+            "versions": [
+                {
+                    "blob": "43ab5277982ef330aeab7dceba5b3507ce40111e",
+                    "commit": "862dcc181d9a9f35fcefd01f7f5d8ce0dca353b8",
+                    "date": "2026-11-21T13:09:36Z",
+                    "sourceSha": "3e00f5b0",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.m3catalog.glimmer.IconButtonsKt.IconButtonSticker": {
+            "path": "renders/catalog/IconButtonSticker-a5f3e57b.png",
+            "versions": [
+                {
+                    "blob": "2a4d4ae93e34f16394cb3e506a1acf23a9cf4de9",
+                    "commit": "862dcc181d9a9f35fcefd01f7f5d8ce0dca353b8",
+                    "date": "2026-11-21T13:09:36Z",
+                    "sourceSha": "3e00f5b0",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.m3catalog.glimmer.IconButtonsKt.IconButtonSticker_VARIANT_disabled": {
+            "path": "renders/catalog/IconButtonSticker_VARIANT_disabled-9cc6e48f.png",
+            "versions": [
+                {
+                    "blob": "7428ddfc36e4e18e11b33ea8367637bbb2aec8bd",
+                    "commit": "862dcc181d9a9f35fcefd01f7f5d8ce0dca353b8",
+                    "date": "2026-11-21T13:09:36Z",
+                    "sourceSha": "3e00f5b0",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.m3catalog.glimmer.IconButtonsKt.IconButtonSticker_VARIANT_focused": {
+            "path": "renders/catalog/IconButtonSticker_VARIANT_focused-2d383a0c.png",
+            "versions": [
+                {
+                    "blob": "9e5b77225c75cec7e61f01e9e28a87b73c91e702",
+                    "commit": "862dcc181d9a9f35fcefd01f7f5d8ce0dca353b8",
+                    "date": "2026-11-21T13:09:36Z",
+                    "sourceSha": "3e00f5b0",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.m3catalog.glimmer.IconButtonsKt.IconButtonSticker_VARIANT_pressed": {
+            "path": "renders/catalog/IconButtonSticker_VARIANT_pressed-bb08619f.png",
+            "versions": [
+                {
+                    "blob": "c5c8f19ada72a2fe971262c0dd8f325fc7be4f63",
+                    "commit": "862dcc181d9a9f35fcefd01f7f5d8ce0dca353b8",
+                    "date": "2026-11-21T13:09:36Z",
+                    "sourceSha": "3e00f5b0",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.m3catalog.glimmer.IconButtonsKt.IconToggleButtonCheckedSticker": {
+            "path": "renders/catalog/IconToggleButtonCheckedSticker-f8b4c53f.png",
+            "versions": [
+                {
+                    "blob": "7bb00f61ac15d43e621791fd48682f8211ef230c",
+                    "commit": "862dcc181d9a9f35fcefd01f7f5d8ce0dca353b8",
+                    "date": "2026-11-21T13:09:36Z",
+                    "sourceSha": "3e00f5b0",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.m3catalog.glimmer.IconButtonsKt.IconToggleButtonSticker": {
+            "path": "renders/catalog/IconToggleButtonSticker-c59c63cf.png",
+            "versions": [
+                {
+                    "blob": "2a4d4ae93e34f16394cb3e506a1acf23a9cf4de9",
+                    "commit": "862dcc181d9a9f35fcefd01f7f5d8ce0dca353b8",
+                    "date": "2026-11-21T13:09:36Z",
+                    "sourceSha": "3e00f5b0",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.m3catalog.glimmer.IconButtonsKt.IconToggleButtonSticker_VARIANT_cell-toggle-true-state-focused-40000113-4188": {
+            "path": "renders/catalog/IconToggleButtonSticker_VARIANT_cell_toggle_true_state_focused_40000113_4188-98ae2f8c.png",
+            "versions": [
+                {
+                    "blob": "f62218f33541d07e72c76b386da13a98edeb55a2",
+                    "commit": "862dcc181d9a9f35fcefd01f7f5d8ce0dca353b8",
+                    "date": "2026-11-21T13:09:36Z",
+                    "sourceSha": "3e00f5b0",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.m3catalog.glimmer.IconButtonsKt.IconToggleButtonSticker_VARIANT_cell-toggle-true-state-pressed-40000113-4195": {
+            "path": "renders/catalog/IconToggleButtonSticker_VARIANT_cell_toggle_true_state_pressed_40000113_4195-d6b6c8d3.png",
+            "versions": [
+                {
+                    "blob": "5633f3b3edd36cd43b3cc0b3edf4c68a8df88e5e",
+                    "commit": "862dcc181d9a9f35fcefd01f7f5d8ce0dca353b8",
+                    "date": "2026-11-21T13:09:36Z",
+                    "sourceSha": "3e00f5b0",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.m3catalog.glimmer.IconButtonsKt.IconToggleButtonSticker_VARIANT_disabled": {
+            "path": "renders/catalog/IconToggleButtonSticker_VARIANT_disabled-827c715a.png",
+            "versions": [
+                {
+                    "blob": "7428ddfc36e4e18e11b33ea8367637bbb2aec8bd",
+                    "commit": "862dcc181d9a9f35fcefd01f7f5d8ce0dca353b8",
+                    "date": "2026-11-21T13:09:36Z",
+                    "sourceSha": "3e00f5b0",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.m3catalog.glimmer.IconButtonsKt.IconToggleButtonSticker_VARIANT_focused": {
+            "path": "renders/catalog/IconToggleButtonSticker_VARIANT_focused-762cd963.png",
+            "versions": [
+                {
+                    "blob": "9e5b77225c75cec7e61f01e9e28a87b73c91e702",
+                    "commit": "862dcc181d9a9f35fcefd01f7f5d8ce0dca353b8",
+                    "date": "2026-11-21T13:09:36Z",
+                    "sourceSha": "3e00f5b0",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.m3catalog.glimmer.IconButtonsKt.IconToggleButtonSticker_VARIANT_pressed": {
+            "path": "renders/catalog/IconToggleButtonSticker_VARIANT_pressed-31d87b2c.png",
+            "versions": [
+                {
+                    "blob": "c5c8f19ada72a2fe971262c0dd8f325fc7be4f63",
+                    "commit": "862dcc181d9a9f35fcefd01f7f5d8ce0dca353b8",
+                    "date": "2026-11-21T13:09:36Z",
+                    "sourceSha": "3e00f5b0",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnSticker": {
+            "path": "renders/catalog/GlimmerLazyColumnSticker-da12ecd1.png",
+            "versions": [
+                {
+                    "blob": "5d5bf132537f57c3f627af47a7acdfe5ed4c1899",
+                    "commit": "862dcc181d9a9f35fcefd01f7f5d8ce0dca353b8",
+                    "date": "2026-11-21T13:09:36Z",
+                    "sourceSha": "3e00f5b0",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnSticker_VARIANT_cell-list-index-bottom-title-false-40000115-2000": {
+            "path": "renders/catalog/GlimmerLazyColumnSticker_VARIANT_cell_list_index_bottom_title_false_40000115_200-1df92295.png",
+            "versions": [
+                {
+                    "blob": "13399b0025a48bd221625ac973e3c6ee1eadcf6d",
+                    "commit": "862dcc181d9a9f35fcefd01f7f5d8ce0dca353b8",
+                    "date": "2026-11-21T13:09:36Z",
+                    "sourceSha": "3e00f5b0",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnSticker_VARIANT_cell-list-index-mid-title-false-4116-5221": {
+            "path": "renders/catalog/GlimmerLazyColumnSticker_VARIANT_cell_list_index_mid_title_false_4116_5221-23f074df.png",
+            "versions": [
+                {
+                    "blob": "39b424b9103901ada7e87bbfe9d148a026a1504b",
+                    "commit": "862dcc181d9a9f35fcefd01f7f5d8ce0dca353b8",
+                    "date": "2026-11-21T13:09:36Z",
+                    "sourceSha": "3e00f5b0",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnSticker_VARIANT_focused": {
+            "path": "renders/catalog/GlimmerLazyColumnSticker_VARIANT_focused-3f051728.png",
+            "versions": [
+                {
+                    "blob": "e65919677ab821e63b7389c991b3b4b6ea36e9a7",
+                    "commit": "862dcc181d9a9f35fcefd01f7f5d8ce0dca353b8",
+                    "date": "2026-11-21T13:09:36Z",
+                    "sourceSha": "3e00f5b0",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnTwoLineSticker": {
+            "path": "renders/catalog/GlimmerLazyColumnTwoLineSticker-a194e85d.png",
+            "versions": [
+                {
+                    "blob": "2016abd1d99c5d00546eddf6255c54e812229aad",
+                    "commit": "862dcc181d9a9f35fcefd01f7f5d8ce0dca353b8",
+                    "date": "2026-11-21T13:09:36Z",
+                    "sourceSha": "3e00f5b0",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnTwoLineSticker_VARIANT_cell-list-index-bottom-title-false-4116-5267": {
+            "path": "renders/catalog/GlimmerLazyColumnTwoLineSticker_VARIANT_cell_list_index_bottom_title_false_4116-0eda9f52.png",
+            "versions": [
+                {
+                    "blob": "d869b421f4fd9aa0044964a15cc980e372cb4ebf",
+                    "commit": "862dcc181d9a9f35fcefd01f7f5d8ce0dca353b8",
+                    "date": "2026-11-21T13:09:36Z",
+                    "sourceSha": "3e00f5b0",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnTwoLineSticker_VARIANT_cell-list-index-bottom-title-true-40000116-2522": {
+            "path": "renders/catalog/GlimmerLazyColumnTwoLineSticker_VARIANT_cell_list_index_bottom_title_true_400001-00dcecbb.png",
+            "versions": [
+                {
+                    "blob": "d66ef973e4bf40889c2ca8232c7dbbc23149b672",
+                    "commit": "862dcc181d9a9f35fcefd01f7f5d8ce0dca353b8",
+                    "date": "2026-11-21T13:09:36Z",
+                    "sourceSha": "3e00f5b0",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnTwoLineSticker_VARIANT_cell-list-index-mid-title-false-4116-5259": {
+            "path": "renders/catalog/GlimmerLazyColumnTwoLineSticker_VARIANT_cell_list_index_mid_title_false_4116_525-0e8565ee.png",
+            "versions": [
+                {
+                    "blob": "21a68b007adff821669ec7de34f46af95b33c701",
+                    "commit": "862dcc181d9a9f35fcefd01f7f5d8ce0dca353b8",
+                    "date": "2026-11-21T13:09:36Z",
+                    "sourceSha": "3e00f5b0",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnTwoLineSticker_VARIANT_cell-list-index-mid-title-true-40000116-2458": {
+            "path": "renders/catalog/GlimmerLazyColumnTwoLineSticker_VARIANT_cell_list_index_mid_title_true_40000116-846ecf7c.png",
+            "versions": [
+                {
+                    "blob": "8083c80c731d562530441e79d5590f5e23dd25e2",
+                    "commit": "862dcc181d9a9f35fcefd01f7f5d8ce0dca353b8",
+                    "date": "2026-11-21T13:09:36Z",
+                    "sourceSha": "3e00f5b0",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnTwoLineSticker_VARIANT_cell-list-index-top-title-true-40000116-2394": {
+            "path": "renders/catalog/GlimmerLazyColumnTwoLineSticker_VARIANT_cell_list_index_top_title_true_40000116-0f827e23.png",
+            "versions": [
+                {
+                    "blob": "567f25de17bf782737d480f38ca27109697853c5",
+                    "commit": "862dcc181d9a9f35fcefd01f7f5d8ce0dca353b8",
+                    "date": "2026-11-21T13:09:36Z",
+                    "sourceSha": "3e00f5b0",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnWithTitleSticker": {
+            "path": "renders/catalog/GlimmerLazyColumnWithTitleSticker-1b5a5d39.png",
+            "versions": [
+                {
+                    "blob": "327eb977b69a007b3fe6fe097722d5e4b50cc9c5",
+                    "commit": "862dcc181d9a9f35fcefd01f7f5d8ce0dca353b8",
+                    "date": "2026-11-21T13:09:36Z",
+                    "sourceSha": "3e00f5b0",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnWithTitleSticker_VARIANT_cell-list-index-bottom-title-true-4116-5230": {
+            "path": "renders/catalog/GlimmerLazyColumnWithTitleSticker_VARIANT_cell_list_index_bottom_title_true_4116-1b9582c1.png",
+            "versions": [
+                {
+                    "blob": "07eddd0d288190db2d0f55e0c1ad5b87dfc1cbea",
+                    "commit": "862dcc181d9a9f35fcefd01f7f5d8ce0dca353b8",
+                    "date": "2026-11-21T13:09:36Z",
+                    "sourceSha": "3e00f5b0",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnWithTitleSticker_VARIANT_cell-list-index-mid-title-true-40000115-1924": {
+            "path": "renders/catalog/GlimmerLazyColumnWithTitleSticker_VARIANT_cell_list_index_mid_title_true_4000011-fb549618.png",
+            "versions": [
+                {
+                    "blob": "131a5eb8bf3515b64ecc45fc6d53b4bcefbedd2b",
+                    "commit": "862dcc181d9a9f35fcefd01f7f5d8ce0dca353b8",
+                    "date": "2026-11-21T13:09:36Z",
+                    "sourceSha": "3e00f5b0",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnWithTitleSticker_VARIANT_focused": {
+            "path": "renders/catalog/GlimmerLazyColumnWithTitleSticker_VARIANT_focused-0a448f9f.png",
+            "versions": [
+                {
+                    "blob": "8e2bd1f00e9be38a338b658ae4bd04edf89d35d6",
+                    "commit": "862dcc181d9a9f35fcefd01f7f5d8ce0dca353b8",
+                    "date": "2026-11-21T13:09:36Z",
+                    "sourceSha": "3e00f5b0",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.m3catalog.glimmer.ListsKt.ListItemSticker": {
+            "path": "renders/catalog/ListItemSticker-15c90274.png",
+            "versions": [
+                {
+                    "blob": "d28305ee0cfa1120a82466ec8cb56e5b7878248e",
+                    "commit": "862dcc181d9a9f35fcefd01f7f5d8ce0dca353b8",
+                    "date": "2026-11-21T13:09:36Z",
+                    "sourceSha": "3e00f5b0",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.m3catalog.glimmer.ListsKt.ListItemSticker_VARIANT_focused": {
+            "path": "renders/catalog/ListItemSticker_VARIANT_focused-5d48c7c6.png",
+            "versions": [
+                {
+                    "blob": "791d483f2b8d48ce9b6d61d3910c18868970448e",
+                    "commit": "862dcc181d9a9f35fcefd01f7f5d8ce0dca353b8",
+                    "date": "2026-11-21T13:09:36Z",
+                    "sourceSha": "3e00f5b0",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.m3catalog.glimmer.ListsKt.ListItemSticker_VARIANT_pressed": {
+            "path": "renders/catalog/ListItemSticker_VARIANT_pressed-ff2f20b8.png",
+            "versions": [
+                {
+                    "blob": "3b004e771e700a977b0d4893d8724f0433e1d4dd",
+                    "commit": "862dcc181d9a9f35fcefd01f7f5d8ce0dca353b8",
+                    "date": "2026-11-21T13:09:36Z",
+                    "sourceSha": "3e00f5b0",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.m3catalog.glimmer.ListsKt.ListItemSupportingIconSticker": {
+            "path": "renders/catalog/ListItemSupportingIconSticker-5400b5bf.png",
+            "versions": [
+                {
+                    "blob": "c2d12990116144b4a1760681a84e1e42136be0f4",
+                    "commit": "862dcc181d9a9f35fcefd01f7f5d8ce0dca353b8",
+                    "date": "2026-11-21T13:09:36Z",
+                    "sourceSha": "3e00f5b0",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.m3catalog.glimmer.ListsKt.ListItemSupportingSticker": {
+            "path": "renders/catalog/ListItemSupportingSticker-99483a7b.png",
+            "versions": [
+                {
+                    "blob": "8073db70426fc0d6a98ba323685abec7e7272656",
+                    "commit": "862dcc181d9a9f35fcefd01f7f5d8ce0dca353b8",
+                    "date": "2026-11-21T13:09:36Z",
+                    "sourceSha": "3e00f5b0",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.m3catalog.glimmer.ListsKt.ListItemSupportingSticker_VARIANT_focused": {
+            "path": "renders/catalog/ListItemSupportingSticker_VARIANT_focused-ebd865da.png",
+            "versions": [
+                {
+                    "blob": "7738edb701f2b5f7c9017f5976f3bbcbd7cf7fcb",
+                    "commit": "862dcc181d9a9f35fcefd01f7f5d8ce0dca353b8",
+                    "date": "2026-11-21T13:09:36Z",
+                    "sourceSha": "3e00f5b0",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.m3catalog.glimmer.ListsKt.ListItemSupportingSticker_VARIANT_pressed": {
+            "path": "renders/catalog/ListItemSupportingSticker_VARIANT_pressed-052543b0.png",
+            "versions": [
+                {
+                    "blob": "854563dea7d643e424d1cf63ce7f7631823d19af",
+                    "commit": "862dcc181d9a9f35fcefd01f7f5d8ce0dca353b8",
+                    "date": "2026-11-21T13:09:36Z",
+                    "sourceSha": "3e00f5b0",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.m3catalog.glimmer.StacksKt.VerticalStackSticker": {
+            "path": "renders/catalog/VerticalStackSticker-27776b26.png",
+            "versions": [
+                {
+                    "blob": "f005ad2a7263d26ba09b58aff455fbcda86223fa",
+                    "commit": "862dcc181d9a9f35fcefd01f7f5d8ce0dca353b8",
+                    "date": "2026-11-21T13:09:36Z",
+                    "sourceSha": "3e00f5b0",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.m3catalog.glimmer.StacksKt.VerticalStackSticker_VARIANT_cell-type-home-40000042-4081": {
+            "path": "renders/catalog/VerticalStackSticker_VARIANT_cell_type_home_40000042_4081-5f2dfd07.png",
+            "versions": [
+                {
+                    "blob": "0f8f8c8dd29d730affe77194f164fc9f30936122",
+                    "commit": "862dcc181d9a9f35fcefd01f7f5d8ce0dca353b8",
+                    "date": "2026-11-21T13:09:36Z",
+                    "sourceSha": "3e00f5b0",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.m3catalog.glimmer.VoiceInputKt.ContainedVoiceInputIndicatorSticker": {
+            "path": "renders/catalog/ContainedVoiceInputIndicatorSticker-c6a24955.png",
+            "versions": [
+                {
+                    "blob": "2995aa4847cae93a350f97c60cdd4eb67920b221",
+                    "commit": "862dcc181d9a9f35fcefd01f7f5d8ce0dca353b8",
+                    "date": "2026-11-21T13:09:36Z",
+                    "sourceSha": "3e00f5b0",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.m3catalog.glimmer.VoiceInputKt.QuietVoiceInputIndicatorSticker": {
+            "path": "renders/catalog/QuietVoiceInputIndicatorSticker-d58200b1.png",
+            "versions": [
+                {
+                    "blob": "2c785cd0f72e5c4087c659ece7472ae5b8444bc7",
+                    "commit": "862dcc181d9a9f35fcefd01f7f5d8ce0dca353b8",
+                    "date": "2026-11-21T13:09:36Z",
+                    "sourceSha": "3e00f5b0",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.m3catalog.glimmer.VoiceInputKt.VoiceInputIndicatorSticker": {
+            "path": "renders/catalog/VoiceInputIndicatorSticker-00b6c266.png",
+            "versions": [
+                {
+                    "blob": "2c785cd0f72e5c4087c659ece7472ae5b8444bc7",
+                    "commit": "862dcc181d9a9f35fcefd01f7f5d8ce0dca353b8",
+                    "date": "2026-11-21T13:09:36Z",
+                    "sourceSha": "3e00f5b0",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.m3catalog.glimmer.VoiceInputKt.VoiceInputIndicatorSticker_VARIANT_cell-volume-quiet-contained-yes-40000116-9342": {
+            "path": "renders/catalog/VoiceInputIndicatorSticker_VARIANT_cell_volume_quiet_contained_yes_40000116_9342-e4a2fc08.png",
+            "versions": [
+                {
+                    "blob": "2995aa4847cae93a350f97c60cdd4eb67920b221",
+                    "commit": "862dcc181d9a9f35fcefd01f7f5d8ce0dca353b8",
+                    "date": "2026-11-21T13:09:36Z",
+                    "sourceSha": "3e00f5b0",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
         "samples-catalog/androidx.xr.glimmer.samples.ButtonGroupSamplesKt.ButtonGroupPreview": {
             "path": "renders/samples-catalog/ButtonGroupPreview-bbb9b20c.png",
             "versions": [
