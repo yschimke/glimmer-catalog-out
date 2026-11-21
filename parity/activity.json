@@ -1,7 +1,27 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-13T14:10:03.342Z",
+  "generatedAt": "2026-11-21T13:23:25.056Z",
   "windowDays": 30,
+  "code": {
+    "repo": "yschimke/glimmer-catalog",
+    "ref": "main",
+    "events": [
+      {
+        "sha": "b9661e1fcce155dd66b7163d7b7354002f85d7f0",
+        "subject": "chore(deps): update dependency com.ncorti.ktfmt.gradle to v0.28.0 (#67)",
+        "at": "2026-11-20T07:14:14Z",
+        "author": "renovate[bot]",
+        "previewIds": [
+          "imagecard__ideal__default",
+          "titlechip__ideal__default"
+        ],
+        "components": [
+          "ImageCard",
+          "TitleChip"
+        ]
+      }
+    ]
+  },
   "gaps": [
     {
       "kind": "dangling-mapping",

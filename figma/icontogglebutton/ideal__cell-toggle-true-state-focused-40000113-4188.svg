@@ -3,8 +3,8 @@
   <linearGradient id="gs-0" x1="0" y1="0" x2="1" y2="1">
     <stop offset="0" stop-color="#D9D9D9" stop-opacity="0.92"/>
     <stop offset="0.2" stop-color="#585C63" stop-opacity="0.6"/>
-    <stop offset="0.5" stop-color="#3A414C" stop-opacity="0.52"/>
-    <stop offset="0.8" stop-color="#838A97" stop-opacity="0.76"/>
+    <stop offset="0.5" stop-color="#3C4149" stop-opacity="0.52"/>
+    <stop offset="0.8" stop-color="#858A94" stop-opacity="0.76"/>
   </linearGradient>
 </defs>
 <defs>
@@ -15,7 +15,7 @@
 <g transform="translate(0, 0)">
   <g id="Root">
     <g id="ReusableComposeNode">
-      <rect x="1" y="1" width="46" height="46" rx="19" ry="19" fill="#88ACEB" stroke="url(#gs-0)" stroke-width="1.6"/>
+      <rect x="1" y="1" width="46" height="46" rx="19" ry="19" fill="#90B3EF" stroke="url(#gs-0)" stroke-width="1.6"/>
       <g id="ReusableComposeNode" data-material-icon="mic" data-material-icon-style="Rounded" data-material-icon-url="https://fonts.gstatic.com/s/i/materialiconsround/mic/v1/24px.svg">
         <g transform="translate(8 8) scale(1.33 1.33)">
           <use href="#material-icon-materialiconsround-mic" xlink:href="#material-icon-materialiconsround-mic"/>
