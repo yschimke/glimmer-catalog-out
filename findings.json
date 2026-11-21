@@ -1123,17 +1123,17 @@
               "dw": "0",
               "dh": "-2",
               "borderPixels": "282",
-              "contentPixels": "4676"
+              "contentPixels": "4168"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "cell-state-focused-size-default-toggle-true-40000113-4092: 73.3% of pixels differ from reference",
+            "message": "cell-state-focused-size-default-toggle-true-40000113-4092: 65.8% of pixels differ from reference",
             "detail": {
               "key": "cell-state-focused-size-default-toggle-true-40000113-4092",
-              "score": "0.732565",
-              "diffPixels": "4958"
+              "score": "0.657506",
+              "diffPixels": "4450"
             }
           },
           {
@@ -1145,17 +1145,17 @@
               "dw": "0",
               "dh": "-10",
               "borderPixels": "1410",
-              "contentPixels": "7124"
+              "contentPixels": "6524"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "cell-state-focused-size-large-toggle-true-40000113-4112: 84.1% of pixels differ from reference",
+            "message": "cell-state-focused-size-large-toggle-true-40000113-4112: 78.2% of pixels differ from reference",
             "detail": {
               "key": "cell-state-focused-size-large-toggle-true-40000113-4112",
-              "score": "0.840623",
-              "diffPixels": "8534"
+              "score": "0.781521",
+              "diffPixels": "7934"
             }
           },
           {
@@ -1167,17 +1167,17 @@
               "dw": "0",
               "dh": "-2",
               "borderPixels": "282",
-              "contentPixels": "3069"
+              "contentPixels": "4790"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "cell-state-pressed-size-default-toggle-true-40000113-4102: 49.5% of pixels differ from reference",
+            "message": "cell-state-pressed-size-default-toggle-true-40000113-4102: 74.9% of pixels differ from reference",
             "detail": {
               "key": "cell-state-pressed-size-default-toggle-true-40000113-4102",
-              "score": "0.495124",
-              "diffPixels": "3351"
+              "score": "0.749409",
+              "diffPixels": "5072"
             }
           },
           {
@@ -1189,17 +1189,17 @@
               "dw": "0",
               "dh": "-10",
               "borderPixels": "1410",
-              "contentPixels": "3956"
+              "contentPixels": "7086"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "cell-state-pressed-size-large-toggle-true-40000113-4122: 52.9% of pixels differ from reference",
+            "message": "cell-state-pressed-size-large-toggle-true-40000113-4122: 83.7% of pixels differ from reference",
             "detail": {
               "key": "cell-state-pressed-size-large-toggle-true-40000113-4122",
-              "score": "0.528566",
-              "diffPixels": "5366"
+              "score": "0.836879",
+              "diffPixels": "8496"
             }
           },
           {
@@ -1233,17 +1233,17 @@
               "dw": "0",
               "dh": "-2",
               "borderPixels": "282",
-              "contentPixels": "4487"
+              "contentPixels": "4132"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "focused: 70.5% of pixels differ from reference",
+            "message": "focused: 65.2% of pixels differ from reference",
             "detail": {
               "key": "focused",
-              "score": "0.704639",
-              "diffPixels": "4769"
+              "score": "0.652187",
+              "diffPixels": "4414"
             }
           },
           {
@@ -1255,17 +1255,17 @@
               "dw": "0",
               "dh": "-2",
               "borderPixels": "282",
-              "contentPixels": "4106"
+              "contentPixels": "3080"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "pressed: 64.8% of pixels differ from reference",
+            "message": "pressed: 49.7% of pixels differ from reference",
             "detail": {
               "key": "pressed",
-              "score": "0.648345",
-              "diffPixels": "4388"
+              "score": "0.496749",
+              "diffPixels": "3362"
             }
           },
           {
@@ -1321,17 +1321,17 @@
               "dw": "0",
               "dh": "-10",
               "borderPixels": "1410",
-              "contentPixels": "6070"
+              "contentPixels": "6079"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "Large-focused: 73.7% of pixels differ from reference",
+            "message": "Large-focused: 73.8% of pixels differ from reference",
             "detail": {
               "key": "Large-focused",
-              "score": "0.736801",
-              "diffPixels": "7480"
+              "score": "0.737687",
+              "diffPixels": "7489"
             }
           },
           {
@@ -1343,17 +1343,17 @@
               "dw": "0",
               "dh": "-10",
               "borderPixels": "1410",
-              "contentPixels": "5519"
+              "contentPixels": "5554"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "Large-pressed: 68.3% of pixels differ from reference",
+            "message": "Large-pressed: 68.6% of pixels differ from reference",
             "detail": {
               "key": "Large-pressed",
-              "score": "0.682526",
-              "diffPixels": "6929"
+              "score": "0.685973",
+              "diffPixels": "6964"
             }
           },
           {
@@ -1691,17 +1691,17 @@
               "dw": "0",
               "dh": "-2",
               "borderPixels": "282",
-              "contentPixels": "4676"
+              "contentPixels": "4168"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "cell-state-focused-size-default-toggle-true-40000113-4092: 73.3% of pixels differ from reference",
+            "message": "cell-state-focused-size-default-toggle-true-40000113-4092: 65.8% of pixels differ from reference",
             "detail": {
               "key": "cell-state-focused-size-default-toggle-true-40000113-4092",
-              "score": "0.732565",
-              "diffPixels": "4958"
+              "score": "0.657506",
+              "diffPixels": "4450"
             }
           },
           {
@@ -1713,17 +1713,17 @@
               "dw": "0",
               "dh": "-10",
               "borderPixels": "1410",
-              "contentPixels": "7124"
+              "contentPixels": "6524"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "cell-state-focused-size-large-toggle-true-40000113-4112: 84.1% of pixels differ from reference",
+            "message": "cell-state-focused-size-large-toggle-true-40000113-4112: 78.2% of pixels differ from reference",
             "detail": {
               "key": "cell-state-focused-size-large-toggle-true-40000113-4112",
-              "score": "0.840623",
-              "diffPixels": "8534"
+              "score": "0.781521",
+              "diffPixels": "7934"
             }
           },
           {
@@ -1735,17 +1735,17 @@
               "dw": "0",
               "dh": "-2",
               "borderPixels": "282",
-              "contentPixels": "3069"
+              "contentPixels": "4790"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "cell-state-pressed-size-default-toggle-true-40000113-4102: 49.5% of pixels differ from reference",
+            "message": "cell-state-pressed-size-default-toggle-true-40000113-4102: 74.9% of pixels differ from reference",
             "detail": {
               "key": "cell-state-pressed-size-default-toggle-true-40000113-4102",
-              "score": "0.495124",
-              "diffPixels": "3351"
+              "score": "0.749409",
+              "diffPixels": "5072"
             }
           },
           {
@@ -1757,17 +1757,17 @@
               "dw": "0",
               "dh": "-10",
               "borderPixels": "1410",
-              "contentPixels": "3956"
+              "contentPixels": "7086"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "cell-state-pressed-size-large-toggle-true-40000113-4122: 52.9% of pixels differ from reference",
+            "message": "cell-state-pressed-size-large-toggle-true-40000113-4122: 83.7% of pixels differ from reference",
             "detail": {
               "key": "cell-state-pressed-size-large-toggle-true-40000113-4122",
-              "score": "0.528566",
-              "diffPixels": "5366"
+              "score": "0.836879",
+              "diffPixels": "8496"
             }
           },
           {
@@ -1801,17 +1801,17 @@
               "dw": "0",
               "dh": "-2",
               "borderPixels": "282",
-              "contentPixels": "4487"
+              "contentPixels": "4132"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "focused: 70.5% of pixels differ from reference",
+            "message": "focused: 65.2% of pixels differ from reference",
             "detail": {
               "key": "focused",
-              "score": "0.704639",
-              "diffPixels": "4769"
+              "score": "0.652187",
+              "diffPixels": "4414"
             }
           },
           {
@@ -1823,17 +1823,17 @@
               "dw": "0",
               "dh": "-2",
               "borderPixels": "282",
-              "contentPixels": "4106"
+              "contentPixels": "3080"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "pressed: 64.8% of pixels differ from reference",
+            "message": "pressed: 49.7% of pixels differ from reference",
             "detail": {
               "key": "pressed",
-              "score": "0.648345",
-              "diffPixels": "4388"
+              "score": "0.496749",
+              "diffPixels": "3362"
             }
           },
           {
@@ -1889,17 +1889,17 @@
               "dw": "0",
               "dh": "-10",
               "borderPixels": "1410",
-              "contentPixels": "6070"
+              "contentPixels": "6079"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "Large-focused: 73.7% of pixels differ from reference",
+            "message": "Large-focused: 73.8% of pixels differ from reference",
             "detail": {
               "key": "Large-focused",
-              "score": "0.736801",
-              "diffPixels": "7480"
+              "score": "0.737687",
+              "diffPixels": "7489"
             }
           },
           {
@@ -1911,17 +1911,17 @@
               "dw": "0",
               "dh": "-10",
               "borderPixels": "1410",
-              "contentPixels": "5519"
+              "contentPixels": "5554"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "Large-pressed: 68.3% of pixels differ from reference",
+            "message": "Large-pressed: 68.6% of pixels differ from reference",
             "detail": {
               "key": "Large-pressed",
-              "score": "0.682526",
-              "diffPixels": "6929"
+              "score": "0.685973",
+              "diffPixels": "6964"
             }
           },
           {
@@ -3481,21 +3481,21 @@
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "cell-toggle-true-state-focused-40000113-4188: 51.2% of pixels differ from reference",
+            "message": "cell-toggle-true-state-focused-40000113-4188: 59.4% of pixels differ from reference",
             "detail": {
               "key": "cell-toggle-true-state-focused-40000113-4188",
-              "score": "0.511719",
-              "diffPixels": "1179"
+              "score": "0.59375",
+              "diffPixels": "1368"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "cell-toggle-true-state-pressed-40000113-4195: 44.9% of pixels differ from reference",
+            "message": "cell-toggle-true-state-pressed-40000113-4195: 80.0% of pixels differ from reference",
             "detail": {
               "key": "cell-toggle-true-state-pressed-40000113-4195",
-              "score": "0.448785",
-              "diffPixels": "1034"
+              "score": "0.800347",
+              "diffPixels": "1844"
             }
           },
           {
@@ -3511,21 +3511,21 @@
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "focused: 47.0% of pixels differ from reference",
+            "message": "focused: 41.1% of pixels differ from reference",
             "detail": {
               "key": "focused",
-              "score": "0.470052",
-              "diffPixels": "1083"
+              "score": "0.41059",
+              "diffPixels": "946"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "pressed: 53.5% of pixels differ from reference",
+            "message": "pressed: 58.6% of pixels differ from reference",
             "detail": {
               "key": "pressed",
-              "score": "0.534722",
-              "diffPixels": "1232"
+              "score": "0.585938",
+              "diffPixels": "1350"
             }
           },
           {
@@ -3769,21 +3769,21 @@
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "cell-toggle-true-state-focused-40000113-4188: 51.2% of pixels differ from reference",
+            "message": "cell-toggle-true-state-focused-40000113-4188: 59.4% of pixels differ from reference",
             "detail": {
               "key": "cell-toggle-true-state-focused-40000113-4188",
-              "score": "0.511719",
-              "diffPixels": "1179"
+              "score": "0.59375",
+              "diffPixels": "1368"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "cell-toggle-true-state-pressed-40000113-4195: 44.9% of pixels differ from reference",
+            "message": "cell-toggle-true-state-pressed-40000113-4195: 80.0% of pixels differ from reference",
             "detail": {
               "key": "cell-toggle-true-state-pressed-40000113-4195",
-              "score": "0.448785",
-              "diffPixels": "1034"
+              "score": "0.800347",
+              "diffPixels": "1844"
             }
           },
           {
@@ -3799,21 +3799,21 @@
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "focused: 47.0% of pixels differ from reference",
+            "message": "focused: 41.1% of pixels differ from reference",
             "detail": {
               "key": "focused",
-              "score": "0.470052",
-              "diffPixels": "1083"
+              "score": "0.41059",
+              "diffPixels": "946"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "pressed: 53.5% of pixels differ from reference",
+            "message": "pressed: 58.6% of pixels differ from reference",
             "detail": {
               "key": "pressed",
-              "score": "0.534722",
-              "diffPixels": "1232"
+              "score": "0.585938",
+              "diffPixels": "1350"
             }
           },
           {
