@@ -1,11 +1,27 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-23T06:35:13.442Z",
+  "generatedAt": "2026-11-24T16:05:36.706Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/glimmer-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "72dd9ed624a3590cd2484e30a75ea18fa0fe953d",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-daemon-bom to v3.29.1 (#86)",
+        "at": "2026-11-24T15:58:53Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "030f0ddbd79355614c350bb0a22ed525137406f5",
+        "subject": "chore(deps): update amannn/action-semantic-pull-request action to v6.1.4 (#85)",
+        "at": "2026-11-24T15:58:44Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "aeca03c5f1958ec13cd3c70fa5a718a9b0b8bc39",
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-daemon-bom to v3.29.0 (#84)",
