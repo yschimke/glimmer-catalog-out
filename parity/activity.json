@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-27T02:36:15.588Z",
+  "generatedAt": "2026-11-27T16:48:57.609Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/glimmer-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "7498fcd2702fd4e9a04581d9d590e0a0704abb05",
+        "subject": "chore(deps): update gradle to v9.9.3 (#89)",
+        "at": "2026-11-27T16:39:07Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "eba2966c76d1b7c3190fbe59e9dee26cdc386d60",
         "subject": "chore(deps): update dependency com.android.library to v9.5.3 (#88)",
