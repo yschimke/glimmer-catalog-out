@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-25T20:49:30.535Z",
+  "generatedAt": "2026-11-27T02:36:15.588Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/glimmer-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "eba2966c76d1b7c3190fbe59e9dee26cdc386d60",
+        "subject": "chore(deps): update dependency com.android.library to v9.5.3 (#88)",
+        "at": "2026-11-27T02:29:58Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "8e4955d0e16e1dbe880c969b76f4ef32154630c6",
         "subject": "fix(deps): update dependency org.robolectric:robolectric to v4.18.1 (#87)",
